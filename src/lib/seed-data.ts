@@ -6,9 +6,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Andorre",
     "langue_officielle": "Catalan",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Canillo",
     "quartier_arrondissement": "Canillo",
     "code_postal": "AD100",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -16,9 +18,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Andorre",
     "langue_officielle": "Catalan",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Encamp",
     "quartier_arrondissement": "Encamp",
     "code_postal": "AD200",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -26,9 +30,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Andorre",
     "langue_officielle": "Catalan",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "La Massana",
     "quartier_arrondissement": "La Massana",
     "code_postal": "AD400",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -36,9 +42,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Andorre",
     "langue_officielle": "Catalan",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Ordino",
     "quartier_arrondissement": "Ordino",
     "code_postal": "AD300",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -46,9 +54,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Andorre",
     "langue_officielle": "Catalan",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Sant Julià de Lòria",
     "quartier_arrondissement": "Sant Julià de Lòria",
     "code_postal": "AD600",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -56,9 +66,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Andorre",
     "langue_officielle": "Catalan",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Andorra la Vella",
     "quartier_arrondissement": "Andorra la Vella",
     "code_postal": "AD500",
+    "population": "20 430",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -66,9 +78,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Andorre",
     "langue_officielle": "Catalan",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Escaldes-Engordany",
     "quartier_arrondissement": "Escaldes-Engordany",
     "code_postal": "AD700",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -76,9 +90,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Albanie",
     "langue_officielle": "Albanais, Grec",
+    "monnaie_devise": "ALL - Lek",
     "ville": "Bashkia Berat",
     "quartier_arrondissement": "Qender Berat",
     "code_postal": "5001",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -86,9 +102,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Albanie",
     "langue_officielle": "Albanais, Grec",
+    "monnaie_devise": "ALL - Lek",
     "ville": "Bashkia Berat",
     "quartier_arrondissement": "Berati 1",
     "code_postal": "5002",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -96,9 +114,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Albanie",
     "langue_officielle": "Albanais, Grec",
+    "monnaie_devise": "ALL - Lek",
     "ville": "Bashkia Berat",
     "quartier_arrondissement": "Berati 2",
     "code_postal": "5003",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -106,9 +126,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Albanie",
     "langue_officielle": "Albanais, Grec",
+    "monnaie_devise": "ALL - Lek",
     "ville": "Bashkia Berat",
     "quartier_arrondissement": "Berati 4",
     "code_postal": "5004",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -116,9 +138,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Albanie",
     "langue_officielle": "Albanais, Grec",
+    "monnaie_devise": "ALL - Lek",
     "ville": "Bashkia Berat",
     "quartier_arrondissement": "Berati 5",
     "code_postal": "5005",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -126,9 +150,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Albanie",
     "langue_officielle": "Albanais, Grec",
+    "monnaie_devise": "ALL - Lek",
     "ville": "Bashkia Berat",
     "quartier_arrondissement": "Berati 6",
     "code_postal": "5006",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -136,9 +162,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Albanie",
     "langue_officielle": "Albanais, Grec",
+    "monnaie_devise": "ALL - Lek",
     "ville": "Bashkia Berat",
     "quartier_arrondissement": "Ura Vajgurore",
     "code_postal": "5007",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -146,9 +174,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Albanie",
     "langue_officielle": "Albanais, Grec",
+    "monnaie_devise": "ALL - Lek",
     "ville": "Bashkia Berat",
     "quartier_arrondissement": "Poshnje",
     "code_postal": "5008",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -156,9 +186,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Albanie",
     "langue_officielle": "Albanais, Grec",
+    "monnaie_devise": "ALL - Lek",
     "ville": "Bashkia Berat",
     "quartier_arrondissement": "Kutalli",
     "code_postal": "5009",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -166,9 +198,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Albanie",
     "langue_officielle": "Albanais, Grec",
+    "monnaie_devise": "ALL - Lek",
     "ville": "Bashkia Berat",
     "quartier_arrondissement": "Otllak",
     "code_postal": "5010",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -176,9 +210,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Autriche",
     "langue_officielle": "Allemand, Croate, Hongrois, Slovène",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Eisenstadt Stadt",
     "quartier_arrondissement": "Kleinhöflein im Burgenland",
     "code_postal": "7000",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -186,9 +222,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Autriche",
     "langue_officielle": "Allemand, Croate, Hongrois, Slovène",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Eisenstadt Stadt",
     "quartier_arrondissement": "Eisenstadt",
     "code_postal": "7000",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -196,9 +234,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Autriche",
     "langue_officielle": "Allemand, Croate, Hongrois, Slovène",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Eisenstadt Stadt",
     "quartier_arrondissement": "Sankt Georgen am Leithagebirge",
     "code_postal": "7000",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -206,9 +246,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Autriche",
     "langue_officielle": "Allemand, Croate, Hongrois, Slovène",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Eisenstadt Stadt",
     "quartier_arrondissement": "Eisenstadt",
     "code_postal": "7002",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -216,9 +258,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Autriche",
     "langue_officielle": "Allemand, Croate, Hongrois, Slovène",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Rust Stadt",
     "quartier_arrondissement": "Rust",
     "code_postal": "7071",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -226,9 +270,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Autriche",
     "langue_officielle": "Allemand, Croate, Hongrois, Slovène",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Eisenstadt-Umgebung",
     "quartier_arrondissement": "Loretto",
     "code_postal": "2443",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -236,9 +282,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Autriche",
     "langue_officielle": "Allemand, Croate, Hongrois, Slovène",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Eisenstadt-Umgebung",
     "quartier_arrondissement": "Stotzing",
     "code_postal": "2443",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -246,9 +294,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Autriche",
     "langue_officielle": "Allemand, Croate, Hongrois, Slovène",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Eisenstadt-Umgebung",
     "quartier_arrondissement": "Leithaprodersdorf",
     "code_postal": "2443",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -256,9 +306,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Autriche",
     "langue_officielle": "Allemand, Croate, Hongrois, Slovène",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Eisenstadt-Umgebung",
     "quartier_arrondissement": "Wimpassing an der Leitha",
     "code_postal": "2485",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -266,9 +318,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Autriche",
     "langue_officielle": "Allemand, Croate, Hongrois, Slovène",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Eisenstadt-Umgebung",
     "quartier_arrondissement": "Hornstein / Vorištan",
     "code_postal": "2491",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -276,9 +330,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Îles Åland",
     "langue_officielle": "Suédois",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Mariehamn",
     "quartier_arrondissement": "Mariehamn (Mariehamns stad)",
     "code_postal": "22100",
+    "population": "10 682",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -286,9 +342,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Îles Åland",
     "langue_officielle": "Suédois",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Mariehamn",
     "quartier_arrondissement": "Mariehamn (Mariehamns stad)",
     "code_postal": "22101",
+    "population": "10 682",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -296,9 +354,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Îles Åland",
     "langue_officielle": "Suédois",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Mariehamn",
     "quartier_arrondissement": "Mariehamn (Mariehamns stad)",
     "code_postal": "22110",
+    "population": "10 682",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -306,9 +366,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Îles Åland",
     "langue_officielle": "Suédois",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Mariehamn",
     "quartier_arrondissement": "Mariehamn (Mariehamns stad)",
     "code_postal": "22111",
+    "population": "10 682",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -316,9 +378,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Îles Åland",
     "langue_officielle": "Suédois",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Eckerö",
     "quartier_arrondissement": "Eckerö (Ålands landsbygd)",
     "code_postal": "22270",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -326,9 +390,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Îles Åland",
     "langue_officielle": "Suédois",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Finström",
     "quartier_arrondissement": "Emkarby",
     "code_postal": "22220",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -336,9 +402,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Îles Åland",
     "langue_officielle": "Suédois",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Finström",
     "quartier_arrondissement": "Pålsböle",
     "code_postal": "22310",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -346,9 +414,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Îles Åland",
     "langue_officielle": "Suédois",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Finström",
     "quartier_arrondissement": "Tjudö",
     "code_postal": "22330",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -356,9 +426,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Îles Åland",
     "langue_officielle": "Suédois",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Finström",
     "quartier_arrondissement": "Godby",
     "code_postal": "22410",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -366,9 +438,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Îles Åland",
     "langue_officielle": "Suédois",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Finström",
     "quartier_arrondissement": "Godby",
     "code_postal": "22411",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -376,9 +450,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Belgique",
     "langue_officielle": "Néerlandais, Français, Allemand",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Bruxelles (19 communes)",
     "quartier_arrondissement": "Bruxelles",
     "code_postal": "1000",
+    "population": "1 222 000",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -386,9 +462,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Belgique",
     "langue_officielle": "Néerlandais, Français, Allemand",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Bruxelles (19 communes)",
     "quartier_arrondissement": "Laeken",
     "code_postal": "1020",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -396,9 +474,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Belgique",
     "langue_officielle": "Néerlandais, Français, Allemand",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Bruxelles (19 communes)",
     "quartier_arrondissement": "Schaerbeek",
     "code_postal": "1030",
+    "population": "132 761",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -406,9 +486,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Belgique",
     "langue_officielle": "Néerlandais, Français, Allemand",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Bruxelles (19 communes)",
     "quartier_arrondissement": "Etterbeek",
     "code_postal": "1040",
+    "population": "48 344",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -416,9 +498,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Belgique",
     "langue_officielle": "Néerlandais, Français, Allemand",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Bruxelles (19 communes)",
     "quartier_arrondissement": "Ixelles",
     "code_postal": "1050",
+    "population": "86 671",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -426,9 +510,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Belgique",
     "langue_officielle": "Néerlandais, Français, Allemand",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Bruxelles (19 communes)",
     "quartier_arrondissement": "Saint-Gilles",
     "code_postal": "1060",
+    "population": "50 221",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -436,9 +522,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Belgique",
     "langue_officielle": "Néerlandais, Français, Allemand",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Bruxelles (19 communes)",
     "quartier_arrondissement": "Anderlecht",
     "code_postal": "1070",
+    "population": "160 553",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -446,9 +534,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Belgique",
     "langue_officielle": "Néerlandais, Français, Allemand",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Bruxelles (19 communes)",
     "quartier_arrondissement": "Molenbeek-Saint-Jean",
     "code_postal": "1080",
+    "population": "97 037",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -456,9 +546,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Belgique",
     "langue_officielle": "Néerlandais, Français, Allemand",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Bruxelles (19 communes)",
     "quartier_arrondissement": "Koekelberg",
     "code_postal": "1081",
+    "population": "21 984",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -466,9 +558,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Belgique",
     "langue_officielle": "Néerlandais, Français, Allemand",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Bruxelles (19 communes)",
     "quartier_arrondissement": "Berchem-Sainte-Agathe",
     "code_postal": "1082",
+    "population": "25 162",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -476,9 +570,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Bulgarie",
     "langue_officielle": "Bulgare, Turc, ROM",
+    "monnaie_devise": "BGN - Lev bulgare (лв)",
     "ville": "Айтос / Ajtos",
     "quartier_arrondissement": "Айтос / Ajtos (Бургас / Burgas)",
     "code_postal": "8500",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -486,9 +582,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Bulgarie",
     "langue_officielle": "Bulgare, Turc, ROM",
+    "monnaie_devise": "BGN - Lev bulgare (лв)",
     "ville": "Айтос / Ajtos",
     "quartier_arrondissement": "Зетьово / Zet'ovo",
     "code_postal": "8517",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -496,9 +594,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Bulgarie",
     "langue_officielle": "Bulgare, Turc, ROM",
+    "monnaie_devise": "BGN - Lev bulgare (лв)",
     "ville": "Айтос / Ajtos",
     "quartier_arrondissement": "Лясково / Ljaskovo",
     "code_postal": "8518",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -506,9 +606,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Bulgarie",
     "langue_officielle": "Bulgare, Turc, ROM",
+    "monnaie_devise": "BGN - Lev bulgare (лв)",
     "ville": "Айтос / Ajtos",
     "quartier_arrondissement": "Малка поляна / Malka poljana",
     "code_postal": "8519",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -516,9 +618,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Bulgarie",
     "langue_officielle": "Bulgare, Turc, ROM",
+    "monnaie_devise": "BGN - Lev bulgare (лв)",
     "ville": "Айтос / Ajtos",
     "quartier_arrondissement": "Съдиево / Sudievo",
     "code_postal": "8522",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -526,9 +630,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Bulgarie",
     "langue_officielle": "Bulgare, Turc, ROM",
+    "monnaie_devise": "BGN - Lev bulgare (лв)",
     "ville": "Айтос / Ajtos",
     "quartier_arrondissement": "Мъглен / Muglen",
     "code_postal": "8523",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -536,9 +642,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Bulgarie",
     "langue_officielle": "Bulgare, Turc, ROM",
+    "monnaie_devise": "BGN - Lev bulgare (лв)",
     "ville": "Айтос / Ajtos",
     "quartier_arrondissement": "Дрянковец / Drjankovec",
     "code_postal": "8524",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -546,9 +654,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Bulgarie",
     "langue_officielle": "Bulgare, Turc, ROM",
+    "monnaie_devise": "BGN - Lev bulgare (лв)",
     "ville": "Айтос / Ajtos",
     "quartier_arrondissement": "Пещерско / Peshhersko",
     "code_postal": "8525",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -556,9 +666,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Bulgarie",
     "langue_officielle": "Bulgare, Turc, ROM",
+    "monnaie_devise": "BGN - Lev bulgare (лв)",
     "ville": "Айтос / Ajtos",
     "quartier_arrondissement": "Черна могила / Cherna mogila",
     "code_postal": "8527",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -566,9 +678,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Bulgarie",
     "langue_officielle": "Bulgare, Turc, ROM",
+    "monnaie_devise": "BGN - Lev bulgare (лв)",
     "ville": "Айтос / Ajtos",
     "quartier_arrondissement": "Пирне / Pirne",
     "code_postal": "8528",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -576,9 +690,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Biélorussie",
     "langue_officielle": "BE, Russe",
+    "monnaie_devise": "BYN - Rouble biélorusse (Br)",
     "ville": "Jabinka",
     "quartier_arrondissement": "Жабинка",
     "code_postal": "225110",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -586,9 +702,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Biélorussie",
     "langue_officielle": "BE, Russe",
+    "monnaie_devise": "BYN - Rouble biélorusse (Br)",
     "ville": "Jabinka",
     "quartier_arrondissement": "Ленинский",
     "code_postal": "225111",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -596,9 +714,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Biélorussie",
     "langue_officielle": "BE, Russe",
+    "monnaie_devise": "BYN - Rouble biélorusse (Br)",
     "ville": "Jabinka",
     "quartier_arrondissement": "Чижевщина",
     "code_postal": "225112",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -606,9 +726,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Biélorussie",
     "langue_officielle": "BE, Russe",
+    "monnaie_devise": "BYN - Rouble biélorusse (Br)",
     "ville": "Jabinka",
     "quartier_arrondissement": "Озяты",
     "code_postal": "225114",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -616,9 +738,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Biélorussie",
     "langue_officielle": "BE, Russe",
+    "monnaie_devise": "BYN - Rouble biélorusse (Br)",
     "ville": "Jabinka",
     "quartier_arrondissement": "Федьковичи",
     "code_postal": "225115",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -626,9 +750,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Biélorussie",
     "langue_officielle": "BE, Russe",
+    "monnaie_devise": "BYN - Rouble biélorusse (Br)",
     "ville": "Jabinka",
     "quartier_arrondissement": "Ракитница",
     "code_postal": "225116",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -636,9 +762,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Biélorussie",
     "langue_officielle": "BE, Russe",
+    "monnaie_devise": "BYN - Rouble biélorusse (Br)",
     "ville": "Jabinka",
     "quartier_arrondissement": "Орепичи",
     "code_postal": "225117",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -646,9 +774,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Biélorussie",
     "langue_officielle": "BE, Russe",
+    "monnaie_devise": "BYN - Rouble biélorusse (Br)",
     "ville": "Jabinka",
     "quartier_arrondissement": "Старое Село",
     "code_postal": "225118",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -656,9 +786,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Biélorussie",
     "langue_officielle": "BE, Russe",
+    "monnaie_devise": "BYN - Rouble biélorusse (Br)",
     "ville": "Jabinka",
     "quartier_arrondissement": "Санаторий Буг",
     "code_postal": "225119",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -666,9 +798,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Biélorussie",
     "langue_officielle": "BE, Russe",
+    "monnaie_devise": "BYN - Rouble biélorusse (Br)",
     "ville": "Jabinka",
     "quartier_arrondissement": "Соколово",
     "code_postal": "225120",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -676,9 +810,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Suisse",
     "langue_officielle": "Allemand, Français, Italien, Romanche",
+    "monnaie_devise": "CHF - Franc suisse (CHF)",
     "ville": "Bezirk Aarau",
     "quartier_arrondissement": "Aarau",
     "code_postal": "5000",
+    "population": "21 503",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -686,9 +822,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Suisse",
     "langue_officielle": "Allemand, Français, Italien, Romanche",
+    "monnaie_devise": "CHF - Franc suisse (CHF)",
     "ville": "Bezirk Aarau",
     "quartier_arrondissement": "Aarau 1",
     "code_postal": "5001",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -696,9 +834,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Suisse",
     "langue_officielle": "Allemand, Français, Italien, Romanche",
+    "monnaie_devise": "CHF - Franc suisse (CHF)",
     "ville": "Bezirk Aarau",
     "quartier_arrondissement": "Aarau",
     "code_postal": "5004",
+    "population": "21 503",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -706,9 +846,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Suisse",
     "langue_officielle": "Allemand, Français, Italien, Romanche",
+    "monnaie_devise": "CHF - Franc suisse (CHF)",
     "ville": "Bezirk Aarau",
     "quartier_arrondissement": "Barmelweid",
     "code_postal": "5017",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -716,9 +858,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Suisse",
     "langue_officielle": "Allemand, Français, Italien, Romanche",
+    "monnaie_devise": "CHF - Franc suisse (CHF)",
     "ville": "Bezirk Aarau",
     "quartier_arrondissement": "Erlinsbach",
     "code_postal": "5018",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -726,9 +870,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Suisse",
     "langue_officielle": "Allemand, Français, Italien, Romanche",
+    "monnaie_devise": "CHF - Franc suisse (CHF)",
     "ville": "Bezirk Aarau",
     "quartier_arrondissement": "Rombach",
     "code_postal": "5022",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -736,9 +882,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Suisse",
     "langue_officielle": "Allemand, Français, Italien, Romanche",
+    "monnaie_devise": "CHF - Franc suisse (CHF)",
     "ville": "Bezirk Aarau",
     "quartier_arrondissement": "Biberstein",
     "code_postal": "5023",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -746,9 +894,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Suisse",
     "langue_officielle": "Allemand, Français, Italien, Romanche",
+    "monnaie_devise": "CHF - Franc suisse (CHF)",
     "ville": "Bezirk Aarau",
     "quartier_arrondissement": "Küttigen",
     "code_postal": "5024",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -756,9 +906,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Suisse",
     "langue_officielle": "Allemand, Français, Italien, Romanche",
+    "monnaie_devise": "CHF - Franc suisse (CHF)",
     "ville": "Bezirk Aarau",
     "quartier_arrondissement": "Asp",
     "code_postal": "5025",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -766,9 +918,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Suisse",
     "langue_officielle": "Allemand, Français, Italien, Romanche",
+    "monnaie_devise": "CHF - Franc suisse (CHF)",
     "ville": "Bezirk Aarau",
     "quartier_arrondissement": "Densbüren",
     "code_postal": "5026",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -776,9 +930,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Chypre",
     "langue_officielle": "Grec, Turc, Anglais",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Ammochostos",
     "quartier_arrondissement": "Paralimni",
     "code_postal": "5280",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -786,9 +942,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Chypre",
     "langue_officielle": "Grec, Turc, Anglais",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Ammochostos",
     "quartier_arrondissement": "Paralimni",
     "code_postal": "5281",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -796,9 +954,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Chypre",
     "langue_officielle": "Grec, Turc, Anglais",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Ammochostos",
     "quartier_arrondissement": "Paralimni",
     "code_postal": "5282",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -806,9 +966,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Chypre",
     "langue_officielle": "Grec, Turc, Anglais",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Ammochostos",
     "quartier_arrondissement": "Paralimni",
     "code_postal": "5283",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -816,9 +978,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Chypre",
     "langue_officielle": "Grec, Turc, Anglais",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Ammochostos",
     "quartier_arrondissement": "Paralimni",
     "code_postal": "5284",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -826,9 +990,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Chypre",
     "langue_officielle": "Grec, Turc, Anglais",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Ammochostos",
     "quartier_arrondissement": "Paralimni",
     "code_postal": "5285",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -836,9 +1002,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Chypre",
     "langue_officielle": "Grec, Turc, Anglais",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Ammochostos",
     "quartier_arrondissement": "Paralimni",
     "code_postal": "5286",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -846,9 +1014,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Chypre",
     "langue_officielle": "Grec, Turc, Anglais",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Ammochostos",
     "quartier_arrondissement": "Paralimni",
     "code_postal": "5288",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -856,9 +1026,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Chypre",
     "langue_officielle": "Grec, Turc, Anglais",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Ammochostos",
     "quartier_arrondissement": "Paralimni",
     "code_postal": "5289",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -866,9 +1038,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Chypre",
     "langue_officielle": "Grec, Turc, Anglais",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Ammochostos",
     "quartier_arrondissement": "Paralimni",
     "code_postal": "5290",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -876,9 +1050,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "République tchèque",
     "langue_officielle": "Tchèque, Slovaque",
+    "monnaie_devise": "CZK - Couronne tchèque (Kč)",
     "ville": "Hlavní město Praha",
     "quartier_arrondissement": "Malešice",
     "code_postal": "100 00",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -886,9 +1062,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "République tchèque",
     "langue_officielle": "Tchèque, Slovaque",
+    "monnaie_devise": "CZK - Couronne tchèque (Kč)",
     "ville": "Hlavní město Praha",
     "quartier_arrondissement": "Praha 10-Vinohrady",
     "code_postal": "100 00",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -896,9 +1074,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "République tchèque",
     "langue_officielle": "Tchèque, Slovaque",
+    "monnaie_devise": "CZK - Couronne tchèque (Kč)",
     "ville": "Hlavní město Praha",
     "quartier_arrondissement": "Strašnice",
     "code_postal": "100 00",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -906,9 +1086,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "République tchèque",
     "langue_officielle": "Tchèque, Slovaque",
+    "monnaie_devise": "CZK - Couronne tchèque (Kč)",
     "ville": "Hlavní město Praha",
     "quartier_arrondissement": "Praha 10-Žižkov",
     "code_postal": "100 00",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -916,9 +1098,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "République tchèque",
     "langue_officielle": "Tchèque, Slovaque",
+    "monnaie_devise": "CZK - Couronne tchèque (Kč)",
     "ville": "Hlavní město Praha",
     "quartier_arrondissement": "Praha 10-Malešice",
     "code_postal": "100 00",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -926,9 +1110,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "République tchèque",
     "langue_officielle": "Tchèque, Slovaque",
+    "monnaie_devise": "CZK - Couronne tchèque (Kč)",
     "ville": "Hlavní město Praha",
     "quartier_arrondissement": "Vinohrady",
     "code_postal": "100 00",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -936,9 +1122,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "République tchèque",
     "langue_officielle": "Tchèque, Slovaque",
+    "monnaie_devise": "CZK - Couronne tchèque (Kč)",
     "ville": "Hlavní město Praha",
     "quartier_arrondissement": "Praha 10-Vršovice",
     "code_postal": "100 00",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -946,9 +1134,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "République tchèque",
     "langue_officielle": "Tchèque, Slovaque",
+    "monnaie_devise": "CZK - Couronne tchèque (Kč)",
     "ville": "Hlavní město Praha",
     "quartier_arrondissement": "Žižkov",
     "code_postal": "100 00",
+    "population": "58 267",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -956,9 +1146,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "République tchèque",
     "langue_officielle": "Tchèque, Slovaque",
+    "monnaie_devise": "CZK - Couronne tchèque (Kč)",
     "ville": "Hlavní město Praha",
     "quartier_arrondissement": "Vršovice",
     "code_postal": "100 00",
+    "population": "36 836",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -966,9 +1158,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "République tchèque",
     "langue_officielle": "Tchèque, Slovaque",
+    "monnaie_devise": "CZK - Couronne tchèque (Kč)",
     "ville": "Hlavní město Praha",
     "quartier_arrondissement": "Praha 10-Strašnice",
     "code_postal": "100 00",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -976,9 +1170,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Allemagne",
     "langue_officielle": "Allemand",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Regierungsbezirk Stuttgart",
     "quartier_arrondissement": "Mercedes-Benz Vertrieb NFZ GmbH",
     "code_postal": "10875",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -986,9 +1182,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Allemagne",
     "langue_officielle": "Allemand",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Regierungsbezirk Stuttgart",
     "quartier_arrondissement": "Mercedes-Benz Vertrieb PKW GmbH",
     "code_postal": "10875",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -996,9 +1194,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Allemagne",
     "langue_officielle": "Allemand",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Regierungsbezirk Stuttgart",
     "quartier_arrondissement": "Daimler Vorsorge und Versicherungsdienst GmbH",
     "code_postal": "10875",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -1006,9 +1206,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Allemagne",
     "langue_officielle": "Allemand",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Regierungsbezirk Stuttgart",
     "quartier_arrondissement": "Mercedes-Benz. io GmbH",
     "code_postal": "10875",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -1016,9 +1218,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Allemagne",
     "langue_officielle": "Allemand",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Regierungsbezirk Stuttgart",
     "quartier_arrondissement": "LAB1886 GmbH",
     "code_postal": "10875",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -1026,9 +1230,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Allemagne",
     "langue_officielle": "Allemand",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Regierungsbezirk Stuttgart",
     "quartier_arrondissement": "Daimler Brand und IP Management GmbH & Co.KG",
     "code_postal": "10875",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -1036,9 +1242,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Allemagne",
     "langue_officielle": "Allemand",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Regierungsbezirk Stuttgart",
     "quartier_arrondissement": "Daimler Insurance Services GmbH",
     "code_postal": "10875",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -1046,9 +1254,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Allemagne",
     "langue_officielle": "Allemand",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Regierungsbezirk Stuttgart",
     "quartier_arrondissement": "Mercedes-Benz Versicherung AG",
     "code_postal": "10875",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -1056,9 +1266,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Allemagne",
     "langue_officielle": "Allemand",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Regierungsbezirk Stuttgart",
     "quartier_arrondissement": "Fünfte Vermögensverwaltungsgesellschaft Zeus mbH",
     "code_postal": "10875",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -1066,9 +1278,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Allemagne",
     "langue_officielle": "Allemand",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Regierungsbezirk Stuttgart",
     "quartier_arrondissement": "Versorgungswerk der Presse GmbH",
     "code_postal": "11512",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -1076,9 +1290,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Danemark",
     "langue_officielle": "Danois, Anglais, FO, Allemand",
+    "monnaie_devise": "DKK - Couronne danoise (kr)",
     "ville": "Copenhagen",
     "quartier_arrondissement": "København K",
     "code_postal": "1050",
+    "population": "1 153 615",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -1086,9 +1302,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Danemark",
     "langue_officielle": "Danois, Anglais, FO, Allemand",
+    "monnaie_devise": "DKK - Couronne danoise (kr)",
     "ville": "Copenhagen",
     "quartier_arrondissement": "København K",
     "code_postal": "1051",
+    "population": "1 153 615",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -1096,9 +1314,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Danemark",
     "langue_officielle": "Danois, Anglais, FO, Allemand",
+    "monnaie_devise": "DKK - Couronne danoise (kr)",
     "ville": "Copenhagen",
     "quartier_arrondissement": "København K",
     "code_postal": "1052",
+    "population": "1 153 615",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -1106,9 +1326,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Danemark",
     "langue_officielle": "Danois, Anglais, FO, Allemand",
+    "monnaie_devise": "DKK - Couronne danoise (kr)",
     "ville": "Copenhagen",
     "quartier_arrondissement": "København K",
     "code_postal": "1053",
+    "population": "1 153 615",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -1116,9 +1338,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Danemark",
     "langue_officielle": "Danois, Anglais, FO, Allemand",
+    "monnaie_devise": "DKK - Couronne danoise (kr)",
     "ville": "Copenhagen",
     "quartier_arrondissement": "København K",
     "code_postal": "1054",
+    "population": "1 153 615",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -1126,9 +1350,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Danemark",
     "langue_officielle": "Danois, Anglais, FO, Allemand",
+    "monnaie_devise": "DKK - Couronne danoise (kr)",
     "ville": "Copenhagen",
     "quartier_arrondissement": "København K",
     "code_postal": "1055",
+    "population": "1 153 615",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -1136,9 +1362,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Danemark",
     "langue_officielle": "Danois, Anglais, FO, Allemand",
+    "monnaie_devise": "DKK - Couronne danoise (kr)",
     "ville": "Copenhagen",
     "quartier_arrondissement": "København K",
     "code_postal": "1056",
+    "population": "1 153 615",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -1146,9 +1374,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Danemark",
     "langue_officielle": "Danois, Anglais, FO, Allemand",
+    "monnaie_devise": "DKK - Couronne danoise (kr)",
     "ville": "Copenhagen",
     "quartier_arrondissement": "København K",
     "code_postal": "1057",
+    "population": "1 153 615",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -1156,9 +1386,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Danemark",
     "langue_officielle": "Danois, Anglais, FO, Allemand",
+    "monnaie_devise": "DKK - Couronne danoise (kr)",
     "ville": "Copenhagen",
     "quartier_arrondissement": "København K",
     "code_postal": "1058",
+    "population": "1 153 615",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -1166,9 +1398,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Danemark",
     "langue_officielle": "Danois, Anglais, FO, Allemand",
+    "monnaie_devise": "DKK - Couronne danoise (kr)",
     "ville": "Copenhagen",
     "quartier_arrondissement": "København K",
     "code_postal": "1059",
+    "population": "1 153 615",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -1176,9 +1410,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Estonie",
     "langue_officielle": "Estonien, Russe",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Anija vald",
     "quartier_arrondissement": "Kehra",
     "code_postal": "74305",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -1186,9 +1422,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Estonie",
     "langue_officielle": "Estonien, Russe",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Anija vald",
     "quartier_arrondissement": "Kehra",
     "code_postal": "74306",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -1196,9 +1434,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Estonie",
     "langue_officielle": "Estonien, Russe",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Anija vald",
     "quartier_arrondissement": "Kehra",
     "code_postal": "74307",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -1206,9 +1446,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Estonie",
     "langue_officielle": "Estonien, Russe",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Anija vald",
     "quartier_arrondissement": "Kaunissaare",
     "code_postal": "74309",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -1216,9 +1458,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Estonie",
     "langue_officielle": "Estonien, Russe",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Anija vald",
     "quartier_arrondissement": "Lehtmetsa",
     "code_postal": "74310",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -1226,9 +1470,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Estonie",
     "langue_officielle": "Estonien, Russe",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Anija vald",
     "quartier_arrondissement": "Looküla",
     "code_postal": "74311",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -1236,9 +1482,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Estonie",
     "langue_officielle": "Estonien, Russe",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Anija vald",
     "quartier_arrondissement": "Salumetsa",
     "code_postal": "74312",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -1246,9 +1494,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Estonie",
     "langue_officielle": "Estonien, Russe",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Anija vald",
     "quartier_arrondissement": "Vikipalu",
     "code_postal": "74313",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -1256,9 +1506,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Estonie",
     "langue_officielle": "Estonien, Russe",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Anija vald",
     "quartier_arrondissement": "Paasiku",
     "code_postal": "74314",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -1266,9 +1518,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Estonie",
     "langue_officielle": "Estonien, Russe",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Anija vald",
     "quartier_arrondissement": "Kehra",
     "code_postal": "74315",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -1276,9 +1530,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Espagne",
     "langue_officielle": "Espagnol, Catalan, Galicien, Basque",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Almería",
     "quartier_arrondissement": "Almeria",
     "code_postal": "04001",
+    "population": "196 851",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -1286,9 +1542,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Espagne",
     "langue_officielle": "Espagnol, Catalan, Galicien, Basque",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Almería",
     "quartier_arrondissement": "Almeria",
     "code_postal": "04002",
+    "population": "196 851",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -1296,9 +1554,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Espagne",
     "langue_officielle": "Espagnol, Catalan, Galicien, Basque",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Almería",
     "quartier_arrondissement": "El Palmer",
     "code_postal": "04002",
+    "population": "196 851",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -1306,9 +1566,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Espagne",
     "langue_officielle": "Espagnol, Catalan, Galicien, Basque",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Almería",
     "quartier_arrondissement": "Almeria",
     "code_postal": "04003",
+    "population": "196 851",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -1316,9 +1578,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Espagne",
     "langue_officielle": "Espagnol, Catalan, Galicien, Basque",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Almería",
     "quartier_arrondissement": "Almeria",
     "code_postal": "04004",
+    "population": "196 851",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -1326,9 +1590,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Espagne",
     "langue_officielle": "Espagnol, Catalan, Galicien, Basque",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Almería",
     "quartier_arrondissement": "Almeria",
     "code_postal": "04005",
+    "population": "196 851",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -1336,9 +1602,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Espagne",
     "langue_officielle": "Espagnol, Catalan, Galicien, Basque",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Almería",
     "quartier_arrondissement": "Almeria",
     "code_postal": "04006",
+    "population": "196 851",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -1346,9 +1614,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Espagne",
     "langue_officielle": "Espagnol, Catalan, Galicien, Basque",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Almería",
     "quartier_arrondissement": "Almeria",
     "code_postal": "04007",
+    "population": "196 851",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -1356,9 +1626,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Espagne",
     "langue_officielle": "Espagnol, Catalan, Galicien, Basque",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Almería",
     "quartier_arrondissement": "Almeria",
     "code_postal": "04008",
+    "population": "196 851",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -1366,9 +1638,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Espagne",
     "langue_officielle": "Espagnol, Catalan, Galicien, Basque",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Almería",
     "quartier_arrondissement": "Almeria",
     "code_postal": "04009",
+    "population": "196 851",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -1376,9 +1650,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Finlande",
     "langue_officielle": "Finnois, Suédois, SMN",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Helsinki",
     "quartier_arrondissement": "Helsinki (Uusimaa)",
     "code_postal": "00100",
+    "population": "658 864",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -1386,9 +1662,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Finlande",
     "langue_officielle": "Finnois, Suédois, SMN",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Helsinki",
     "quartier_arrondissement": "Eduskunta",
     "code_postal": "00102",
+    "population": "658 864",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -1396,9 +1674,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Finlande",
     "langue_officielle": "Finnois, Suédois, SMN",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Helsinki",
     "quartier_arrondissement": "Helsinki (Uusimaa)",
     "code_postal": "00120",
+    "population": "658 864",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -1406,9 +1686,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Finlande",
     "langue_officielle": "Finnois, Suédois, SMN",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Helsinki",
     "quartier_arrondissement": "Helsinki (Uusimaa)",
     "code_postal": "00121",
+    "population": "658 864",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -1416,9 +1698,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Finlande",
     "langue_officielle": "Finnois, Suédois, SMN",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Helsinki",
     "quartier_arrondissement": "Helsinki (Uusimaa)",
     "code_postal": "00130",
+    "population": "658 864",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -1426,9 +1710,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Finlande",
     "langue_officielle": "Finnois, Suédois, SMN",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Helsinki",
     "quartier_arrondissement": "Helsinki (Uusimaa)",
     "code_postal": "00131",
+    "population": "658 864",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -1436,9 +1722,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Finlande",
     "langue_officielle": "Finnois, Suédois, SMN",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Helsinki",
     "quartier_arrondissement": "Helsinki (Uusimaa)",
     "code_postal": "00140",
+    "population": "658 864",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -1446,9 +1734,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Finlande",
     "langue_officielle": "Finnois, Suédois, SMN",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Helsinki",
     "quartier_arrondissement": "Helsinki (Uusimaa)",
     "code_postal": "00141",
+    "population": "658 864",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -1456,9 +1746,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Finlande",
     "langue_officielle": "Finnois, Suédois, SMN",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Helsinki",
     "quartier_arrondissement": "Helsinki (Uusimaa)",
     "code_postal": "00150",
+    "population": "658 864",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -1466,9 +1758,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Finlande",
     "langue_officielle": "Finnois, Suédois, SMN",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Helsinki",
     "quartier_arrondissement": "Helsinki (Uusimaa)",
     "code_postal": "00151",
+    "population": "658 864",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -1476,9 +1770,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Îles Féroé",
     "langue_officielle": "FO, Danois",
+    "monnaie_devise": "DKK - Couronne danoise (kr)",
     "ville": "Tórshavn",
     "quartier_arrondissement": "Tórshavn",
     "code_postal": "100",
+    "population": "13 200",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -1486,9 +1782,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Îles Féroé",
     "langue_officielle": "FO, Danois",
+    "monnaie_devise": "DKK - Couronne danoise (kr)",
     "ville": "Tórshavn",
     "quartier_arrondissement": "Tórshavn",
     "code_postal": "110",
+    "population": "13 200",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -1496,9 +1794,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Îles Féroé",
     "langue_officielle": "FO, Danois",
+    "monnaie_devise": "DKK - Couronne danoise (kr)",
     "ville": "Argir",
     "quartier_arrondissement": "Argir",
     "code_postal": "160",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -1506,9 +1806,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Îles Féroé",
     "langue_officielle": "FO, Danois",
+    "monnaie_devise": "DKK - Couronne danoise (kr)",
     "ville": "Argir",
     "quartier_arrondissement": "Argir",
     "code_postal": "165",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -1516,9 +1818,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Îles Féroé",
     "langue_officielle": "FO, Danois",
+    "monnaie_devise": "DKK - Couronne danoise (kr)",
     "ville": "Kirkjubøur",
     "quartier_arrondissement": "Kirkjubøur",
     "code_postal": "175",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -1526,9 +1830,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Îles Féroé",
     "langue_officielle": "FO, Danois",
+    "monnaie_devise": "DKK - Couronne danoise (kr)",
     "ville": "Velbastadur",
     "quartier_arrondissement": "Velbastadur",
     "code_postal": "176",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -1536,9 +1842,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Îles Féroé",
     "langue_officielle": "FO, Danois",
+    "monnaie_devise": "DKK - Couronne danoise (kr)",
     "ville": "Sydradalur, Streymoy",
     "quartier_arrondissement": "Sydradalur, Streymoy",
     "code_postal": "177",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -1546,9 +1854,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Îles Féroé",
     "langue_officielle": "FO, Danois",
+    "monnaie_devise": "DKK - Couronne danoise (kr)",
     "ville": "Nordradalur",
     "quartier_arrondissement": "Nordradalur",
     "code_postal": "178",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -1556,9 +1866,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Îles Féroé",
     "langue_officielle": "FO, Danois",
+    "monnaie_devise": "DKK - Couronne danoise (kr)",
     "ville": "Kaldbak",
     "quartier_arrondissement": "Kaldbak",
     "code_postal": "180",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -1566,9 +1878,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Îles Féroé",
     "langue_officielle": "FO, Danois",
+    "monnaie_devise": "DKK - Couronne danoise (kr)",
     "ville": "Kaldbaksbotnur",
     "quartier_arrondissement": "Kaldbaksbotnur",
     "code_postal": "185",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -1576,9 +1890,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "France",
     "langue_officielle": "Français",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Paris",
     "quartier_arrondissement": "Paris (Île-de-France)",
     "code_postal": "75000",
+    "population": "2 138 551",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -1586,9 +1902,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "France",
     "langue_officielle": "Français",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Paris",
     "quartier_arrondissement": "Paris (Île-de-France)",
     "code_postal": "75001",
+    "population": "2 138 551",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -1596,9 +1914,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "France",
     "langue_officielle": "Français",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Paris",
     "quartier_arrondissement": "Paris 01",
     "code_postal": "75001",
+    "population": "2 138 551",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -1606,9 +1926,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "France",
     "langue_officielle": "Français",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Paris",
     "quartier_arrondissement": "Paris (Île-de-France)",
     "code_postal": "75002",
+    "population": "2 138 551",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -1616,9 +1938,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "France",
     "langue_officielle": "Français",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Paris",
     "quartier_arrondissement": "Paris 02",
     "code_postal": "75002",
+    "population": "2 138 551",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -1626,9 +1950,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "France",
     "langue_officielle": "Français",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Paris",
     "quartier_arrondissement": "Paris 03",
     "code_postal": "75003",
+    "population": "2 138 551",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -1636,9 +1962,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "France",
     "langue_officielle": "Français",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Paris",
     "quartier_arrondissement": "Paris (Île-de-France)",
     "code_postal": "75003",
+    "population": "2 138 551",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -1646,9 +1974,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "France",
     "langue_officielle": "Français",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Paris",
     "quartier_arrondissement": "Paris (Île-de-France)",
     "code_postal": "75004",
+    "population": "2 138 551",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -1656,9 +1986,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "France",
     "langue_officielle": "Français",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Paris",
     "quartier_arrondissement": "Paris 04",
     "code_postal": "75004",
+    "population": "2 138 551",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -1666,9 +1998,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "France",
     "langue_officielle": "Français",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Paris",
     "quartier_arrondissement": "Paris 05",
     "code_postal": "75005",
+    "population": "2 138 551",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -1676,9 +2010,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Royaume-Uni",
     "langue_officielle": "Anglais",
+    "monnaie_devise": "GBP - Livre sterling (£)",
     "ville": "England",
     "quartier_arrondissement": "Worthing",
     "code_postal": "BN91",
+    "population": "113 866",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -1686,9 +2022,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Royaume-Uni",
     "langue_officielle": "Anglais",
+    "monnaie_devise": "GBP - Livre sterling (£)",
     "ville": "Greater Manchester",
     "quartier_arrondissement": "Manchester",
     "code_postal": "M9",
+    "population": "568 996",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -1696,9 +2034,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Royaume-Uni",
     "langue_officielle": "Anglais",
+    "monnaie_devise": "GBP - Livre sterling (£)",
     "ville": "Greater Manchester",
     "quartier_arrondissement": "Ringway",
     "code_postal": "M90",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -1706,9 +2046,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Royaume-Uni",
     "langue_officielle": "Anglais",
+    "monnaie_devise": "GBP - Livre sterling (£)",
     "ville": "South Yorkshire",
     "quartier_arrondissement": "Sheffield",
     "code_postal": "S5",
+    "population": "556 500",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -1716,9 +2058,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Royaume-Uni",
     "langue_officielle": "Anglais",
+    "monnaie_devise": "GBP - Livre sterling (£)",
     "ville": "West Midlands",
     "quartier_arrondissement": "Wolverhampton",
     "code_postal": "WV98",
+    "population": "263 700",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -1726,9 +2070,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Royaume-Uni",
     "langue_officielle": "Anglais",
+    "monnaie_devise": "GBP - Livre sterling (£)",
     "ville": "Shropshire",
     "quartier_arrondissement": "Telford",
     "code_postal": "WV99",
+    "population": "155 570",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -1736,9 +2082,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Royaume-Uni",
     "langue_officielle": "Anglais",
+    "monnaie_devise": "GBP - Livre sterling (£)",
     "ville": "East Riding of Yorkshire",
     "quartier_arrondissement": "Ousefleet",
     "code_postal": "DN14",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -1746,9 +2094,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Royaume-Uni",
     "langue_officielle": "Anglais",
+    "monnaie_devise": "GBP - Livre sterling (£)",
     "ville": "East Riding of Yorkshire",
     "quartier_arrondissement": "Faxfleet",
     "code_postal": "DN14",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -1756,9 +2106,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Royaume-Uni",
     "langue_officielle": "Anglais",
+    "monnaie_devise": "GBP - Livre sterling (£)",
     "ville": "East Riding of Yorkshire",
     "quartier_arrondissement": "Airmyn",
     "code_postal": "DN14",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -1766,9 +2118,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Royaume-Uni",
     "langue_officielle": "Anglais",
+    "monnaie_devise": "GBP - Livre sterling (£)",
     "ville": "East Riding of Yorkshire",
     "quartier_arrondissement": "Adlingfleet",
     "code_postal": "DN14",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -1776,9 +2130,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Guernesey",
     "langue_officielle": "Anglais, NRF",
+    "monnaie_devise": "GBP - Livre sterling (£)",
     "ville": "Guernsey Channel Islands",
     "quartier_arrondissement": "St Peter Port",
     "code_postal": "GY1",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -1786,9 +2142,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Guernesey",
     "langue_officielle": "Anglais, NRF",
+    "monnaie_devise": "GBP - Livre sterling (£)",
     "ville": "Channel Islands",
     "quartier_arrondissement": "Sark",
     "code_postal": "GY10",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -1796,9 +2154,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Guernesey",
     "langue_officielle": "Anglais, NRF",
+    "monnaie_devise": "GBP - Livre sterling (£)",
     "ville": "Guernsey Channel Islands",
     "quartier_arrondissement": "St Sampsons",
     "code_postal": "GY2",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -1806,9 +2166,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Guernesey",
     "langue_officielle": "Anglais, NRF",
+    "monnaie_devise": "GBP - Livre sterling (£)",
     "ville": "Guernsey Channel Islands",
     "quartier_arrondissement": "Delancey",
     "code_postal": "GY2",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -1816,9 +2178,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Guernesey",
     "langue_officielle": "Anglais, NRF",
+    "monnaie_devise": "GBP - Livre sterling (£)",
     "ville": "Guernsey Channel Islands",
     "quartier_arrondissement": "Vale",
     "code_postal": "GY3",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -1826,9 +2190,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Guernesey",
     "langue_officielle": "Anglais, NRF",
+    "monnaie_devise": "GBP - Livre sterling (£)",
     "ville": "Guernsey Channel Islands",
     "quartier_arrondissement": "St Martin",
     "code_postal": "GY4",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -1836,9 +2202,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Guernesey",
     "langue_officielle": "Anglais, NRF",
+    "monnaie_devise": "GBP - Livre sterling (£)",
     "ville": "Guernsey Channel Islands",
     "quartier_arrondissement": "Castel",
     "code_postal": "GY5",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -1846,9 +2214,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Guernesey",
     "langue_officielle": "Anglais, NRF",
+    "monnaie_devise": "GBP - Livre sterling (£)",
     "ville": "Guernsey Channel Islands",
     "quartier_arrondissement": "Vale",
     "code_postal": "GY6",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -1856,9 +2226,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Guernesey",
     "langue_officielle": "Anglais, NRF",
+    "monnaie_devise": "GBP - Livre sterling (£)",
     "ville": "Guernsey Channel Islands",
     "quartier_arrondissement": "Saint Andrew",
     "code_postal": "GY6",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -1866,9 +2238,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Guernesey",
     "langue_officielle": "Anglais, NRF",
+    "monnaie_devise": "GBP - Livre sterling (£)",
     "ville": "Guernsey Channel Islands",
     "quartier_arrondissement": "Saint Pierre du Bois",
     "code_postal": "GY7",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -1876,9 +2250,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Gibraltar",
     "langue_officielle": "Anglais, Espagnol, Italien, Portugais",
+    "monnaie_devise": "GIP - Pound",
     "ville": "Gibraltar",
     "quartier_arrondissement": "Gibraltar",
     "code_postal": "GX11 1AA",
+    "population": "26 544",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -1886,9 +2262,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Croatie",
     "langue_officielle": "Croate, Serbe",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Bjelovarsko-Bilogorska",
     "quartier_arrondissement": "Veliko Korenovo",
     "code_postal": "43000",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -1896,9 +2274,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Croatie",
     "langue_officielle": "Croate, Serbe",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Bjelovarsko-Bilogorska",
     "quartier_arrondissement": "Šimljanica",
     "code_postal": "43000",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -1906,9 +2286,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Croatie",
     "langue_officielle": "Croate, Serbe",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Bjelovarsko-Bilogorska",
     "quartier_arrondissement": "Paulovac",
     "code_postal": "43000",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -1916,9 +2298,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Croatie",
     "langue_officielle": "Croate, Serbe",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Bjelovarsko-Bilogorska",
     "quartier_arrondissement": "Poljančani",
     "code_postal": "43000",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -1926,9 +2310,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Croatie",
     "langue_officielle": "Croate, Serbe",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Bjelovarsko-Bilogorska",
     "quartier_arrondissement": "Narta",
     "code_postal": "43000",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -1936,9 +2322,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Croatie",
     "langue_officielle": "Croate, Serbe",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Bjelovarsko-Bilogorska",
     "quartier_arrondissement": "Novi Pavljani",
     "code_postal": "43000",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -1946,9 +2334,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Croatie",
     "langue_officielle": "Croate, Serbe",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Bjelovarsko-Bilogorska",
     "quartier_arrondissement": "Starčevljani",
     "code_postal": "43000",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -1956,9 +2346,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Croatie",
     "langue_officielle": "Croate, Serbe",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Bjelovarsko-Bilogorska",
     "quartier_arrondissement": "Berek",
     "code_postal": "43000",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -1966,9 +2358,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Croatie",
     "langue_officielle": "Croate, Serbe",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Bjelovarsko-Bilogorska",
     "quartier_arrondissement": "Malo Trojstvo",
     "code_postal": "43000",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -1976,9 +2370,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Croatie",
     "langue_officielle": "Croate, Serbe",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Bjelovarsko-Bilogorska",
     "quartier_arrondissement": "Babinac",
     "code_postal": "43000",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -1986,9 +2382,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Hongrie",
     "langue_officielle": "Hongrois",
+    "monnaie_devise": "HUF - Forint hongrois (Ft)",
     "ville": "Baranya",
     "quartier_arrondissement": "Szárász",
     "code_postal": "7188",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -1996,9 +2394,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Hongrie",
     "langue_officielle": "Hongrois",
+    "monnaie_devise": "HUF - Forint hongrois (Ft)",
     "ville": "Baranya",
     "quartier_arrondissement": "Komló",
     "code_postal": "7300",
+    "population": "26 924",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -2006,9 +2406,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Hongrie",
     "langue_officielle": "Hongrois",
+    "monnaie_devise": "HUF - Forint hongrois (Ft)",
     "ville": "Baranya",
     "quartier_arrondissement": "Mánfa",
     "code_postal": "7304",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -2016,9 +2418,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Hongrie",
     "langue_officielle": "Hongrois",
+    "monnaie_devise": "HUF - Forint hongrois (Ft)",
     "ville": "Baranya",
     "quartier_arrondissement": "Mecsekpölöske",
     "code_postal": "7305",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -2026,9 +2430,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Hongrie",
     "langue_officielle": "Hongrois",
+    "monnaie_devise": "HUF - Forint hongrois (Ft)",
     "ville": "Baranya",
     "quartier_arrondissement": "Liget",
     "code_postal": "7331",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -2036,9 +2442,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Hongrie",
     "langue_officielle": "Hongrois",
+    "monnaie_devise": "HUF - Forint hongrois (Ft)",
     "ville": "Baranya",
     "quartier_arrondissement": "Magyaregregy",
     "code_postal": "7332",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -2046,9 +2454,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Hongrie",
     "langue_officielle": "Hongrois",
+    "monnaie_devise": "HUF - Forint hongrois (Ft)",
     "ville": "Baranya",
     "quartier_arrondissement": "Kárász",
     "code_postal": "7333",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -2056,9 +2466,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Hongrie",
     "langue_officielle": "Hongrois",
+    "monnaie_devise": "HUF - Forint hongrois (Ft)",
     "ville": "Baranya",
     "quartier_arrondissement": "Vékény",
     "code_postal": "7333",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -2066,9 +2478,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Hongrie",
     "langue_officielle": "Hongrois",
+    "monnaie_devise": "HUF - Forint hongrois (Ft)",
     "ville": "Baranya",
     "quartier_arrondissement": "Szalatnak",
     "code_postal": "7334",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -2076,9 +2490,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Hongrie",
     "langue_officielle": "Hongrois",
+    "monnaie_devise": "HUF - Forint hongrois (Ft)",
     "ville": "Baranya",
     "quartier_arrondissement": "Köblény",
     "code_postal": "7334",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -2086,9 +2502,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Irlande",
     "langue_officielle": "Anglais, Irlandais",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Connacht",
     "quartier_arrondissement": "Knock",
     "code_postal": "F12",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -2096,9 +2514,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Irlande",
     "langue_officielle": "Anglais, Irlandais",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Connacht",
     "quartier_arrondissement": "Castlebar",
     "code_postal": "F23",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -2106,9 +2526,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Irlande",
     "langue_officielle": "Anglais, Irlandais",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Connacht",
     "quartier_arrondissement": "Ballina",
     "code_postal": "F26",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -2116,9 +2538,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Irlande",
     "langue_officielle": "Anglais, Irlandais",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Connacht",
     "quartier_arrondissement": "Westport",
     "code_postal": "F28",
+    "population": "26 391",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -2126,9 +2550,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Irlande",
     "langue_officielle": "Anglais, Irlandais",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Connacht",
     "quartier_arrondissement": "Ballinrobe",
     "code_postal": "F31",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -2136,9 +2562,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Irlande",
     "langue_officielle": "Anglais, Irlandais",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Connacht",
     "quartier_arrondissement": "Ballyhaunis",
     "code_postal": "F35",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -2146,9 +2574,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Irlande",
     "langue_officielle": "Anglais, Irlandais",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Connacht",
     "quartier_arrondissement": "Roscommon",
     "code_postal": "F42",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -2156,9 +2586,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Irlande",
     "langue_officielle": "Anglais, Irlandais",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Connacht",
     "quartier_arrondissement": "Castlerea",
     "code_postal": "F45",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -2166,9 +2598,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Irlande",
     "langue_officielle": "Anglais, Irlandais",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Connacht",
     "quartier_arrondissement": "Boyle",
     "code_postal": "F52",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -2176,9 +2610,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Irlande",
     "langue_officielle": "Anglais, Irlandais",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Connacht",
     "quartier_arrondissement": "Ballymote",
     "code_postal": "F56",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -2186,9 +2622,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Île de Man",
     "langue_officielle": "Anglais, GV",
+    "monnaie_devise": "GBP - Livre sterling (£)",
     "ville": "Isle of Man",
     "quartier_arrondissement": "Douglas",
     "code_postal": "IM1",
+    "population": "26 883",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -2196,9 +2634,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Île de Man",
     "langue_officielle": "Anglais, GV",
+    "monnaie_devise": "GBP - Livre sterling (£)",
     "ville": "Isle of Man",
     "quartier_arrondissement": "Onchan",
     "code_postal": "IM3",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -2206,9 +2646,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Île de Man",
     "langue_officielle": "Anglais, GV",
+    "monnaie_devise": "GBP - Livre sterling (£)",
     "ville": "Isle of Man",
     "quartier_arrondissement": "Garth",
     "code_postal": "IM4",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -2216,9 +2658,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Île de Man",
     "langue_officielle": "Anglais, GV",
+    "monnaie_devise": "GBP - Livre sterling (£)",
     "ville": "Isle of Man",
     "quartier_arrondissement": "Ballig",
     "code_postal": "IM4",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -2226,9 +2670,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Île de Man",
     "langue_officielle": "Anglais, GV",
+    "monnaie_devise": "GBP - Livre sterling (£)",
     "ville": "Isle of Man",
     "quartier_arrondissement": "Foxdale",
     "code_postal": "IM4",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -2236,9 +2682,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Île de Man",
     "langue_officielle": "Anglais, GV",
+    "monnaie_devise": "GBP - Livre sterling (£)",
     "ville": "Isle of Man",
     "quartier_arrondissement": "Eairy",
     "code_postal": "IM4",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -2246,9 +2694,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Île de Man",
     "langue_officielle": "Anglais, GV",
+    "monnaie_devise": "GBP - Livre sterling (£)",
     "ville": "Isle of Man",
     "quartier_arrondissement": "Baldwin",
     "code_postal": "IM4",
+    "population": "24 033",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -2256,9 +2706,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Île de Man",
     "langue_officielle": "Anglais, GV",
+    "monnaie_devise": "GBP - Livre sterling (£)",
     "ville": "Isle of Man",
     "quartier_arrondissement": "Braaid",
     "code_postal": "IM4",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -2266,9 +2718,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Île de Man",
     "langue_officielle": "Anglais, GV",
+    "monnaie_devise": "GBP - Livre sterling (£)",
     "ville": "Isle of Man",
     "quartier_arrondissement": "Quine's Hill",
     "code_postal": "IM4",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -2276,9 +2730,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Île de Man",
     "langue_officielle": "Anglais, GV",
+    "monnaie_devise": "GBP - Livre sterling (£)",
     "ville": "Isle of Man",
     "quartier_arrondissement": "Crosby",
     "code_postal": "IM4",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -2286,9 +2742,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Islande",
     "langue_officielle": "Islandais, Anglais, Allemand, Danois",
+    "monnaie_devise": "ISK - Couronne islandaise (kr)",
     "ville": "Reykjavík - 1",
     "quartier_arrondissement": "Reykjavík - 1",
     "code_postal": "101",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -2296,9 +2754,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Islande",
     "langue_officielle": "Islandais, Anglais, Allemand, Danois",
+    "monnaie_devise": "ISK - Couronne islandaise (kr)",
     "ville": "Reykjavík",
     "quartier_arrondissement": "Reykjavík",
     "code_postal": "102",
+    "population": "118 918",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -2306,9 +2766,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Islande",
     "langue_officielle": "Islandais, Anglais, Allemand, Danois",
+    "monnaie_devise": "ISK - Couronne islandaise (kr)",
     "ville": "Reykjavík - 3",
     "quartier_arrondissement": "Reykjavík - 3",
     "code_postal": "103",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -2316,9 +2778,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Islande",
     "langue_officielle": "Islandais, Anglais, Allemand, Danois",
+    "monnaie_devise": "ISK - Couronne islandaise (kr)",
     "ville": "Reykjavík - 4",
     "quartier_arrondissement": "Reykjavík - 4",
     "code_postal": "104",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -2326,9 +2790,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Islande",
     "langue_officielle": "Islandais, Anglais, Allemand, Danois",
+    "monnaie_devise": "ISK - Couronne islandaise (kr)",
     "ville": "Reykjavík - 5",
     "quartier_arrondissement": "Reykjavík - 5",
     "code_postal": "105",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -2336,9 +2802,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Islande",
     "langue_officielle": "Islandais, Anglais, Allemand, Danois",
+    "monnaie_devise": "ISK - Couronne islandaise (kr)",
     "ville": "Reykjavík - 7",
     "quartier_arrondissement": "Reykjavík - 7",
     "code_postal": "107",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -2346,9 +2814,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Islande",
     "langue_officielle": "Islandais, Anglais, Allemand, Danois",
+    "monnaie_devise": "ISK - Couronne islandaise (kr)",
     "ville": "Reykjavík - 8",
     "quartier_arrondissement": "Reykjavík - 8",
     "code_postal": "108",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -2356,9 +2826,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Islande",
     "langue_officielle": "Islandais, Anglais, Allemand, Danois",
+    "monnaie_devise": "ISK - Couronne islandaise (kr)",
     "ville": "Reykjavík - 9",
     "quartier_arrondissement": "Reykjavík - 9",
     "code_postal": "109",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -2366,9 +2838,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Islande",
     "langue_officielle": "Islandais, Anglais, Allemand, Danois",
+    "monnaie_devise": "ISK - Couronne islandaise (kr)",
     "ville": "Reykjavík - 10",
     "quartier_arrondissement": "Reykjavík - 10",
     "code_postal": "110",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -2376,9 +2850,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Islande",
     "langue_officielle": "Islandais, Anglais, Allemand, Danois",
+    "monnaie_devise": "ISK - Couronne islandaise (kr)",
     "ville": "Reykjavík - 11",
     "quartier_arrondissement": "Reykjavík - 11",
     "code_postal": "111",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -2386,9 +2862,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Italie",
     "langue_officielle": "Italien",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "L'Aquila",
     "quartier_arrondissement": "Barete",
     "code_postal": "67010",
+    "population": "33 691",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -2396,9 +2874,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Italie",
     "langue_officielle": "Italien",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "L'Aquila",
     "quartier_arrondissement": "San Giovanni",
     "code_postal": "67012",
+    "population": "33 691",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -2406,9 +2886,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Italie",
     "langue_officielle": "Italien",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "L'Aquila",
     "quartier_arrondissement": "Cagnano Amiterno",
     "code_postal": "67012",
+    "population": "33 691",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -2416,9 +2898,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Italie",
     "langue_officielle": "Italien",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "L'Aquila",
     "quartier_arrondissement": "Mascioni",
     "code_postal": "67013",
+    "population": "33 691",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -2426,9 +2910,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Italie",
     "langue_officielle": "Italien",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "L'Aquila",
     "quartier_arrondissement": "Campotosto",
     "code_postal": "67013",
+    "population": "33 691",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -2436,9 +2922,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Italie",
     "langue_officielle": "Italien",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "L'Aquila",
     "quartier_arrondissement": "Poggio Cancelli",
     "code_postal": "67013",
+    "population": "33 691",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -2446,9 +2934,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Italie",
     "langue_officielle": "Italien",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "L'Aquila",
     "quartier_arrondissement": "Ortolano",
     "code_postal": "67013",
+    "population": "33 691",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -2456,9 +2946,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Italie",
     "langue_officielle": "Italien",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "L'Aquila",
     "quartier_arrondissement": "Capitignano",
     "code_postal": "67014",
+    "population": "33 691",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -2466,9 +2958,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Italie",
     "langue_officielle": "Italien",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "L'Aquila",
     "quartier_arrondissement": "Cesaproba",
     "code_postal": "67015",
+    "population": "33 691",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -2476,9 +2970,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Italie",
     "langue_officielle": "Italien",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "L'Aquila",
     "quartier_arrondissement": "Aringo",
     "code_postal": "67015",
+    "population": "33 691",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -2486,9 +2982,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Jersey",
     "langue_officielle": "Anglais, Français, NRF",
+    "monnaie_devise": "GBP - Livre sterling (£)",
     "ville": "Jersey",
     "quartier_arrondissement": "Jersey",
     "code_postal": "JE4",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -2496,9 +2994,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Jersey",
     "langue_officielle": "Anglais, Français, NRF",
+    "monnaie_devise": "GBP - Livre sterling (£)",
     "ville": "Jersey Channel Islands",
     "quartier_arrondissement": "St Helier",
     "code_postal": "JE1",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -2506,9 +3006,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Jersey",
     "langue_officielle": "Anglais, Français, NRF",
+    "monnaie_devise": "GBP - Livre sterling (£)",
     "ville": "Jersey Channel Islands",
     "quartier_arrondissement": "St Helier",
     "code_postal": "JE2",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -2516,9 +3018,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Jersey",
     "langue_officielle": "Anglais, Français, NRF",
+    "monnaie_devise": "GBP - Livre sterling (£)",
     "ville": "Jersey Channel Islands",
     "quartier_arrondissement": "St Brelades",
     "code_postal": "JE3",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -2526,9 +3030,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Jersey",
     "langue_officielle": "Anglais, Français, NRF",
+    "monnaie_devise": "GBP - Livre sterling (£)",
     "ville": "Jersey Channel Islands",
     "quartier_arrondissement": "St Lawrence",
     "code_postal": "JE3",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -2536,9 +3042,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Liechtenstein",
     "langue_officielle": "Allemand",
+    "monnaie_devise": "CHF - Franc suisse (CHF)",
     "ville": "Vaduz",
     "quartier_arrondissement": "Vaduz",
     "code_postal": "9490",
+    "population": "5 197",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -2546,9 +3054,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Liechtenstein",
     "langue_officielle": "Allemand",
+    "monnaie_devise": "CHF - Franc suisse (CHF)",
     "ville": "Triesen",
     "quartier_arrondissement": "Triesen",
     "code_postal": "9495",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -2556,9 +3066,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Liechtenstein",
     "langue_officielle": "Allemand",
+    "monnaie_devise": "CHF - Franc suisse (CHF)",
     "ville": "Balzers",
     "quartier_arrondissement": "Balzers",
     "code_postal": "9496",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -2566,9 +3078,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Liechtenstein",
     "langue_officielle": "Allemand",
+    "monnaie_devise": "CHF - Franc suisse (CHF)",
     "ville": "Triesenberg",
     "quartier_arrondissement": "Triesenberg",
     "code_postal": "9497",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -2576,9 +3090,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Liechtenstein",
     "langue_officielle": "Allemand",
+    "monnaie_devise": "CHF - Franc suisse (CHF)",
     "ville": "Schaan",
     "quartier_arrondissement": "Schaan",
     "code_postal": "9494",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -2586,9 +3102,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Liechtenstein",
     "langue_officielle": "Allemand",
+    "monnaie_devise": "CHF - Franc suisse (CHF)",
     "ville": "Planken",
     "quartier_arrondissement": "Planken",
     "code_postal": "9498",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -2596,9 +3114,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Liechtenstein",
     "langue_officielle": "Allemand",
+    "monnaie_devise": "CHF - Franc suisse (CHF)",
     "ville": "Eschen",
     "quartier_arrondissement": "Nendeln",
     "code_postal": "9485",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -2606,9 +3126,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Liechtenstein",
     "langue_officielle": "Allemand",
+    "monnaie_devise": "CHF - Franc suisse (CHF)",
     "ville": "Eschen",
     "quartier_arrondissement": "Eschen",
     "code_postal": "9492",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -2616,9 +3138,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Liechtenstein",
     "langue_officielle": "Allemand",
+    "monnaie_devise": "CHF - Franc suisse (CHF)",
     "ville": "Mauren",
     "quartier_arrondissement": "Schaanwald",
     "code_postal": "9486",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -2626,9 +3150,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Liechtenstein",
     "langue_officielle": "Allemand",
+    "monnaie_devise": "CHF - Franc suisse (CHF)",
     "ville": "Mauren",
     "quartier_arrondissement": "Mauren FL",
     "code_postal": "9493",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -2636,9 +3162,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Lituanie",
     "langue_officielle": "Lituanien, Russe, Polonais",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Alytaus m. sav.",
     "quartier_arrondissement": "SB „Rugelis“",
     "code_postal": "62001",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -2646,9 +3174,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Lituanie",
     "langue_officielle": "Lituanien, Russe, Polonais",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Alytaus m. sav.",
     "quartier_arrondissement": "Alytus",
     "code_postal": "62001",
+    "population": "49 195",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -2656,9 +3186,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Lituanie",
     "langue_officielle": "Lituanien, Russe, Polonais",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Alytaus m. sav.",
     "quartier_arrondissement": "Kaniūkų k.",
     "code_postal": "62001",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -2666,9 +3198,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Lituanie",
     "langue_officielle": "Lituanien, Russe, Polonais",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Alytaus m. sav.",
     "quartier_arrondissement": "SB „Pušelė“",
     "code_postal": "62001",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -2676,9 +3210,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Lituanie",
     "langue_officielle": "Lituanien, Russe, Polonais",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Alytaus m. sav.",
     "quartier_arrondissement": "SB „Volungėlė“",
     "code_postal": "62001",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -2686,9 +3222,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Lituanie",
     "langue_officielle": "Lituanien, Russe, Polonais",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Alytaus m. sav.",
     "quartier_arrondissement": "SB „Sakalas“",
     "code_postal": "62001",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -2696,9 +3234,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Lituanie",
     "langue_officielle": "Lituanien, Russe, Polonais",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Alytaus m. sav.",
     "quartier_arrondissement": "SB „Dobilas“",
     "code_postal": "62001",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -2706,9 +3246,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Lituanie",
     "langue_officielle": "Lituanien, Russe, Polonais",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Alytaus m. sav.",
     "quartier_arrondissement": "SB „Šilas“",
     "code_postal": "62001",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -2716,9 +3258,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Lituanie",
     "langue_officielle": "Lituanien, Russe, Polonais",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Alytaus m. sav.",
     "quartier_arrondissement": "Alytus",
     "code_postal": "62014",
+    "population": "49 195",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -2726,9 +3270,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Lituanie",
     "langue_officielle": "Lituanien, Russe, Polonais",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Alytaus m. sav.",
     "quartier_arrondissement": "Alytus",
     "code_postal": "63001",
+    "population": "49 195",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -2736,9 +3282,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Luxembourg",
     "langue_officielle": "LB, Allemand, Français",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Dippach",
     "quartier_arrondissement": "Schouweiler",
     "code_postal": "L-4968",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -2746,9 +3294,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Luxembourg",
     "langue_officielle": "LB, Allemand, Français",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Dippach",
     "quartier_arrondissement": "Bettange-sur-Mess",
     "code_postal": "L-4970",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -2756,9 +3306,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Luxembourg",
     "langue_officielle": "LB, Allemand, Français",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Dippach",
     "quartier_arrondissement": "Sprinkange",
     "code_postal": "L-4970",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -2766,9 +3318,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Luxembourg",
     "langue_officielle": "LB, Allemand, Français",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Dippach",
     "quartier_arrondissement": "Bettange-sur-Mess",
     "code_postal": "L-4971",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -2776,9 +3330,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Luxembourg",
     "langue_officielle": "LB, Allemand, Français",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Dippach",
     "quartier_arrondissement": "Dippach (Capellen)",
     "code_postal": "L-4972",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -2786,9 +3342,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Luxembourg",
     "langue_officielle": "LB, Allemand, Français",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Dippach",
     "quartier_arrondissement": "Dippach (Capellen)",
     "code_postal": "L-4973",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -2796,9 +3354,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Luxembourg",
     "langue_officielle": "LB, Allemand, Français",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Dippach",
     "quartier_arrondissement": "Dippach (Capellen)",
     "code_postal": "L-4974",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -2806,9 +3366,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Luxembourg",
     "langue_officielle": "LB, Allemand, Français",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Dippach",
     "quartier_arrondissement": "Bettange-sur-Mess",
     "code_postal": "L-4975",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -2816,9 +3378,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Luxembourg",
     "langue_officielle": "LB, Allemand, Français",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Dippach",
     "quartier_arrondissement": "Bettange-sur-Mess",
     "code_postal": "L-4976",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -2826,9 +3390,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Luxembourg",
     "langue_officielle": "LB, Allemand, Français",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Dippach",
     "quartier_arrondissement": "Bettange-sur-Mess",
     "code_postal": "L-4977",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -2836,9 +3402,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Lettonie",
     "langue_officielle": "Letton, Russe, Lituanien",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Aizkraukles pag.",
     "quartier_arrondissement": "Aizkraukle",
     "code_postal": "LV-5101",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -2846,9 +3414,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Lettonie",
     "langue_officielle": "Letton, Russe, Lituanien",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Aizkraukles pag.",
     "quartier_arrondissement": "Aizkraukles stacija",
     "code_postal": "LV-5101",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -2856,9 +3426,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Lettonie",
     "langue_officielle": "Letton, Russe, Lituanien",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Jaunjelgavas pag.",
     "quartier_arrondissement": "Jaunjelgavas",
     "code_postal": "LV-5134",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -2866,9 +3438,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Lettonie",
     "langue_officielle": "Letton, Russe, Lituanien",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Daudzeses pag.",
     "quartier_arrondissement": "Daudzeva",
     "code_postal": "LV-5111",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -2876,9 +3450,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Lettonie",
     "langue_officielle": "Letton, Russe, Lituanien",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Daudzeses pag.",
     "quartier_arrondissement": "Daudzese",
     "code_postal": "LV-5111",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -2886,9 +3462,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Lettonie",
     "langue_officielle": "Letton, Russe, Lituanien",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Seces pag.",
     "quartier_arrondissement": "Sece",
     "code_postal": "LV-5124",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -2896,9 +3474,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Lettonie",
     "langue_officielle": "Letton, Russe, Lituanien",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Seces pag.",
     "quartier_arrondissement": "Bitāni",
     "code_postal": "LV-5124",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -2906,9 +3486,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Lettonie",
     "langue_officielle": "Letton, Russe, Lituanien",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Seces pag.",
     "quartier_arrondissement": "Ziedāni",
     "code_postal": "LV-5124",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -2916,9 +3498,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Lettonie",
     "langue_officielle": "Letton, Russe, Lituanien",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Seces pag.",
     "quartier_arrondissement": "Purviņi",
     "code_postal": "LV-5124",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -2926,9 +3510,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Lettonie",
     "langue_officielle": "Letton, Russe, Lituanien",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Sērenes pag.",
     "quartier_arrondissement": "Mellēni",
     "code_postal": "LV-5123",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -2936,9 +3522,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Monaco",
     "langue_officielle": "Français, Anglais, Italien",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Monaco",
     "quartier_arrondissement": "Port de La Condamine",
     "code_postal": "98000",
+    "population": "32 965",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -2946,9 +3534,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Monaco",
     "langue_officielle": "Français, Anglais, Italien",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Monaco",
     "quartier_arrondissement": "Monaco-Ville",
     "code_postal": "98000",
+    "population": "32 965",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -2956,9 +3546,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Monaco",
     "langue_officielle": "Français, Anglais, Italien",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Monaco",
     "quartier_arrondissement": "Monaco",
     "code_postal": "98000",
+    "population": "32 965",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -2966,9 +3558,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Monaco",
     "langue_officielle": "Français, Anglais, Italien",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Monaco",
     "quartier_arrondissement": "Port de Fontvieille",
     "code_postal": "98000",
+    "population": "32 965",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -2976,9 +3570,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Monaco",
     "langue_officielle": "Français, Anglais, Italien",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Monaco",
     "quartier_arrondissement": "La Condamine",
     "code_postal": "98000",
+    "population": "32 965",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -2986,9 +3582,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Monaco",
     "langue_officielle": "Français, Anglais, Italien",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Monaco",
     "quartier_arrondissement": "Anse du Portier",
     "code_postal": "98000",
+    "population": "32 965",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -2996,9 +3594,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Monaco",
     "langue_officielle": "Français, Anglais, Italien",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Monaco",
     "quartier_arrondissement": "Plage du Larvotto",
     "code_postal": "98000",
+    "population": "32 965",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -3006,9 +3606,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Monaco",
     "langue_officielle": "Français, Anglais, Italien",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Monaco",
     "quartier_arrondissement": "Pointe de la Poudrière",
     "code_postal": "98000",
+    "population": "32 965",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -3016,9 +3618,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Monaco",
     "langue_officielle": "Français, Anglais, Italien",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Monaco",
     "quartier_arrondissement": "Pointe Focinana",
     "code_postal": "98000",
+    "population": "32 965",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -3026,9 +3630,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Monaco",
     "langue_officielle": "Français, Anglais, Italien",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Monaco",
     "quartier_arrondissement": "Pointe Saint-Martin",
     "code_postal": "98000",
+    "population": "32 965",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -3036,9 +3642,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Moldavie",
     "langue_officielle": "Roumain, Russe, GAG, Turc",
+    "monnaie_devise": "MDL - Leu",
     "ville": "Anenii Noi",
     "quartier_arrondissement": "Anenii Noi",
     "code_postal": "MD-6501",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -3046,9 +3654,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Moldavie",
     "langue_officielle": "Roumain, Russe, GAG, Turc",
+    "monnaie_devise": "MDL - Leu",
     "ville": "Anenii Noi",
     "quartier_arrondissement": "Beriozchi",
     "code_postal": "MD-6501",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -3056,9 +3666,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Moldavie",
     "langue_officielle": "Roumain, Russe, GAG, Turc",
+    "monnaie_devise": "MDL - Leu",
     "ville": "Anenii Noi",
     "quartier_arrondissement": "Hirbovatul Nou",
     "code_postal": "MD-6501",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -3066,9 +3678,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Moldavie",
     "langue_officielle": "Roumain, Russe, GAG, Turc",
+    "monnaie_devise": "MDL - Leu",
     "ville": "Anenii Noi",
     "quartier_arrondissement": "Salcia",
     "code_postal": "MD-6511",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -3076,9 +3690,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Moldavie",
     "langue_officielle": "Roumain, Russe, GAG, Turc",
+    "monnaie_devise": "MDL - Leu",
     "ville": "Anenii Noi",
     "quartier_arrondissement": "Botnaresti",
     "code_postal": "MD-6511",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -3086,9 +3702,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Moldavie",
     "langue_officielle": "Roumain, Russe, GAG, Turc",
+    "monnaie_devise": "MDL - Leu",
     "ville": "Anenii Noi",
     "quartier_arrondissement": "Botnarestii Noi",
     "code_postal": "MD-6511",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -3096,9 +3714,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Moldavie",
     "langue_officielle": "Roumain, Russe, GAG, Turc",
+    "monnaie_devise": "MDL - Leu",
     "ville": "Anenii Noi",
     "quartier_arrondissement": "Bulboaca",
     "code_postal": "MD-6512",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -3106,9 +3726,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Moldavie",
     "langue_officielle": "Roumain, Russe, GAG, Turc",
+    "monnaie_devise": "MDL - Leu",
     "ville": "Anenii Noi",
     "quartier_arrondissement": "Calfa",
     "code_postal": "MD-6513",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -3116,9 +3738,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Moldavie",
     "langue_officielle": "Roumain, Russe, GAG, Turc",
+    "monnaie_devise": "MDL - Leu",
     "ville": "Anenii Noi",
     "quartier_arrondissement": "Calfa Noua",
     "code_postal": "MD-6513",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -3126,9 +3750,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Moldavie",
     "langue_officielle": "Roumain, Russe, GAG, Turc",
+    "monnaie_devise": "MDL - Leu",
     "ville": "Anenii Noi",
     "quartier_arrondissement": "Chetrosu",
     "code_postal": "MD-6514",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -3136,9 +3762,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Macédoine du Nord",
     "langue_officielle": "MK, Albanais, Turc, RMM",
+    "monnaie_devise": "MKD - Denar",
     "ville": "Skopje",
     "quartier_arrondissement": "Skopje",
     "code_postal": "1000",
+    "population": "474 889",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -3146,9 +3774,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Macédoine du Nord",
     "langue_officielle": "MK, Albanais, Turc, RMM",
+    "monnaie_devise": "MKD - Denar",
     "ville": "Skopje",
     "quartier_arrondissement": "Skopje",
     "code_postal": "1010",
+    "population": "474 889",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -3156,9 +3786,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Macédoine du Nord",
     "langue_officielle": "MK, Albanais, Turc, RMM",
+    "monnaie_devise": "MKD - Denar",
     "ville": "Kuceviste",
     "quartier_arrondissement": "Kuceviste",
     "code_postal": "1011",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -3166,9 +3798,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Macédoine du Nord",
     "langue_officielle": "MK, Albanais, Turc, RMM",
+    "monnaie_devise": "MKD - Denar",
     "ville": "Skopje-Karpos 3",
     "quartier_arrondissement": "Skopje-Karpos 3",
     "code_postal": "1020",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -3176,9 +3810,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Macédoine du Nord",
     "langue_officielle": "MK, Albanais, Turc, RMM",
+    "monnaie_devise": "MKD - Denar",
     "ville": "Skopje",
     "quartier_arrondissement": "Skopje",
     "code_postal": "1040",
+    "population": "474 889",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -3186,9 +3822,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Macédoine du Nord",
     "langue_officielle": "MK, Albanais, Turc, RMM",
+    "monnaie_devise": "MKD - Denar",
     "ville": "Ilinden",
     "quartier_arrondissement": "Ilinden",
     "code_postal": "1041",
+    "population": "16 406",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -3196,9 +3834,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Macédoine du Nord",
     "langue_officielle": "MK, Albanais, Turc, RMM",
+    "monnaie_devise": "MKD - Denar",
     "ville": "Miladinovci",
     "quartier_arrondissement": "Miladinovci",
     "code_postal": "1042",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -3206,9 +3846,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Macédoine du Nord",
     "langue_officielle": "MK, Albanais, Turc, RMM",
+    "monnaie_devise": "MKD - Denar",
     "ville": "Petrovec",
     "quartier_arrondissement": "Petrovec",
     "code_postal": "1043",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -3216,9 +3858,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Macédoine du Nord",
     "langue_officielle": "MK, Albanais, Turc, RMM",
+    "monnaie_devise": "MKD - Denar",
     "ville": "Katlanovo",
     "quartier_arrondissement": "Katlanovo",
     "code_postal": "1044",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -3226,9 +3870,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Macédoine du Nord",
     "langue_officielle": "MK, Albanais, Turc, RMM",
+    "monnaie_devise": "MKD - Denar",
     "ville": "Aracinovo",
     "quartier_arrondissement": "Aracinovo",
     "code_postal": "1045",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -3236,9 +3882,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Malte",
     "langue_officielle": "Maltais, Anglais",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Attard",
     "quartier_arrondissement": "Attard",
     "code_postal": "ATD",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -3246,9 +3894,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Malte",
     "langue_officielle": "Maltais, Anglais",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Balzan",
     "quartier_arrondissement": "Balzan",
     "code_postal": "BZN",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -3256,9 +3906,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Malte",
     "langue_officielle": "Maltais, Anglais",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Il-Birgu",
     "quartier_arrondissement": "Birgu",
     "code_postal": "BRG",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -3266,9 +3918,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Malte",
     "langue_officielle": "Maltais, Anglais",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Birkirkara",
     "quartier_arrondissement": "Birkirkara",
     "code_postal": "BKR",
+    "population": "24 356",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -3276,9 +3930,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Malte",
     "langue_officielle": "Maltais, Anglais",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Birżebbuġa",
     "quartier_arrondissement": "Birżebbuġa",
     "code_postal": "BBG",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -3286,9 +3942,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Malte",
     "langue_officielle": "Maltais, Anglais",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Bormla",
     "quartier_arrondissement": "Bormla",
     "code_postal": "BML",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -3296,9 +3954,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Malte",
     "langue_officielle": "Maltais, Anglais",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Dingli",
     "quartier_arrondissement": "Dingli",
     "code_postal": "DGL",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -3306,9 +3966,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Malte",
     "langue_officielle": "Maltais, Anglais",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Il-Fgura",
     "quartier_arrondissement": "Fgura",
     "code_postal": "FGR",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -3316,9 +3978,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Malte",
     "langue_officielle": "Maltais, Anglais",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Il-Furjana",
     "quartier_arrondissement": "Floriana",
     "code_postal": "FRN",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -3326,9 +3990,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Malte",
     "langue_officielle": "Maltais, Anglais",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Il-Fontana",
     "quartier_arrondissement": "Fontana",
     "code_postal": "FNT",
+    "population": "26 745",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -3336,9 +4002,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Pays-Bas",
     "langue_officielle": "Néerlandais, FY",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Assen Municipality",
     "quartier_arrondissement": "Assen",
     "code_postal": "9401",
+    "population": "68 836",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -3346,9 +4014,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Pays-Bas",
     "langue_officielle": "Néerlandais, FY",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Assen Municipality",
     "quartier_arrondissement": "Assen",
     "code_postal": "9402",
+    "population": "68 836",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -3356,9 +4026,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Pays-Bas",
     "langue_officielle": "Néerlandais, FY",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Assen Municipality",
     "quartier_arrondissement": "Assen",
     "code_postal": "9403",
+    "population": "68 836",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -3366,9 +4038,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Pays-Bas",
     "langue_officielle": "Néerlandais, FY",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Assen Municipality",
     "quartier_arrondissement": "Assen",
     "code_postal": "9404",
+    "population": "68 836",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -3376,9 +4050,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Pays-Bas",
     "langue_officielle": "Néerlandais, FY",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Assen Municipality",
     "quartier_arrondissement": "Assen",
     "code_postal": "9405",
+    "population": "68 836",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -3386,9 +4062,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Pays-Bas",
     "langue_officielle": "Néerlandais, FY",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Assen Municipality",
     "quartier_arrondissement": "Assen",
     "code_postal": "9406",
+    "population": "68 836",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -3396,9 +4074,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Pays-Bas",
     "langue_officielle": "Néerlandais, FY",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Assen Municipality",
     "quartier_arrondissement": "Assen",
     "code_postal": "9407",
+    "population": "68 836",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -3406,9 +4086,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Pays-Bas",
     "langue_officielle": "Néerlandais, FY",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Assen Municipality",
     "quartier_arrondissement": "Assen",
     "code_postal": "9408",
+    "population": "68 836",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -3416,9 +4098,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Pays-Bas",
     "langue_officielle": "Néerlandais, FY",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Assen Municipality",
     "quartier_arrondissement": "Loon",
     "code_postal": "9409",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -3426,9 +4110,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Pays-Bas",
     "langue_officielle": "Néerlandais, FY",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Assen Municipality",
     "quartier_arrondissement": "Rhee",
     "code_postal": "9486",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -3436,9 +4122,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Norvège",
     "langue_officielle": "Norvégien, NB, NN, SE",
+    "monnaie_devise": "NOK - Couronne norvégienne (kr)",
     "ville": "Bærum",
     "quartier_arrondissement": "Sandvika",
     "code_postal": "1300",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -3446,9 +4134,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Norvège",
     "langue_officielle": "Norvégien, NB, NN, SE",
+    "monnaie_devise": "NOK - Couronne norvégienne (kr)",
     "ville": "Bærum",
     "quartier_arrondissement": "Sandvika",
     "code_postal": "1301",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -3456,9 +4146,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Norvège",
     "langue_officielle": "Norvégien, NB, NN, SE",
+    "monnaie_devise": "NOK - Couronne norvégienne (kr)",
     "ville": "Bærum",
     "quartier_arrondissement": "Sandvika",
     "code_postal": "1302",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -3466,9 +4158,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Norvège",
     "langue_officielle": "Norvégien, NB, NN, SE",
+    "monnaie_devise": "NOK - Couronne norvégienne (kr)",
     "ville": "Bærum",
     "quartier_arrondissement": "Sandvika",
     "code_postal": "1303",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -3476,9 +4170,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Norvège",
     "langue_officielle": "Norvégien, NB, NN, SE",
+    "monnaie_devise": "NOK - Couronne norvégienne (kr)",
     "ville": "Bærum",
     "quartier_arrondissement": "Sandvika",
     "code_postal": "1304",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -3486,9 +4182,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Norvège",
     "langue_officielle": "Norvégien, NB, NN, SE",
+    "monnaie_devise": "NOK - Couronne norvégienne (kr)",
     "ville": "Bærum",
     "quartier_arrondissement": "Haslum",
     "code_postal": "1305",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -3496,9 +4194,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Norvège",
     "langue_officielle": "Norvégien, NB, NN, SE",
+    "monnaie_devise": "NOK - Couronne norvégienne (kr)",
     "ville": "Bærum",
     "quartier_arrondissement": "Sandvika",
     "code_postal": "1306",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -3506,9 +4206,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Norvège",
     "langue_officielle": "Norvégien, NB, NN, SE",
+    "monnaie_devise": "NOK - Couronne norvégienne (kr)",
     "ville": "Bærum",
     "quartier_arrondissement": "Fornebu",
     "code_postal": "1307",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -3516,9 +4218,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Norvège",
     "langue_officielle": "Norvégien, NB, NN, SE",
+    "monnaie_devise": "NOK - Couronne norvégienne (kr)",
     "ville": "Bærum",
     "quartier_arrondissement": "Jar",
     "code_postal": "1308",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -3526,9 +4230,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Norvège",
     "langue_officielle": "Norvégien, NB, NN, SE",
+    "monnaie_devise": "NOK - Couronne norvégienne (kr)",
     "ville": "Bærum",
     "quartier_arrondissement": "Rud",
     "code_postal": "1309",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -3536,9 +4242,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Pologne",
     "langue_officielle": "Polonais",
+    "monnaie_devise": "PLN - Zloty polonais (zł)",
     "ville": "Powiat bolesławiecki",
     "quartier_arrondissement": "Rakowice",
     "code_postal": "59-700",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -3546,9 +4254,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Pologne",
     "langue_officielle": "Polonais",
+    "monnaie_devise": "PLN - Zloty polonais (zł)",
     "ville": "Powiat bolesławiecki",
     "quartier_arrondissement": "Golnice",
     "code_postal": "59-700",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -3556,9 +4266,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Pologne",
     "langue_officielle": "Polonais",
+    "monnaie_devise": "PLN - Zloty polonais (zł)",
     "ville": "Powiat bolesławiecki",
     "quartier_arrondissement": "Bolesławiec",
     "code_postal": "59-700",
+    "population": "40 682",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -3566,9 +4278,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Pologne",
     "langue_officielle": "Polonais",
+    "monnaie_devise": "PLN - Zloty polonais (zł)",
     "ville": "Powiat bolesławiecki",
     "quartier_arrondissement": "Chościszowice",
     "code_postal": "59-700",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -3576,9 +4290,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Pologne",
     "langue_officielle": "Polonais",
+    "monnaie_devise": "PLN - Zloty polonais (zł)",
     "ville": "Powiat bolesławiecki",
     "quartier_arrondissement": "Pstrąże",
     "code_postal": "59-700",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -3586,9 +4302,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Pologne",
     "langue_officielle": "Polonais",
+    "monnaie_devise": "PLN - Zloty polonais (zł)",
     "ville": "Powiat bolesławiecki",
     "quartier_arrondissement": "Nowa Wieś",
     "code_postal": "59-700",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -3596,9 +4314,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Pologne",
     "langue_officielle": "Polonais",
+    "monnaie_devise": "PLN - Zloty polonais (zł)",
     "ville": "Powiat bolesławiecki",
     "quartier_arrondissement": "Otok",
     "code_postal": "59-700",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -3606,9 +4326,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Pologne",
     "langue_officielle": "Polonais",
+    "monnaie_devise": "PLN - Zloty polonais (zł)",
     "ville": "Powiat bolesławiecki",
     "quartier_arrondissement": "Lipiany",
     "code_postal": "59-700",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -3616,9 +4338,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Pologne",
     "langue_officielle": "Polonais",
+    "monnaie_devise": "PLN - Zloty polonais (zł)",
     "ville": "Powiat bolesławiecki",
     "quartier_arrondissement": "Stara Oleszna",
     "code_postal": "59-700",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -3626,9 +4350,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Pologne",
     "langue_officielle": "Polonais",
+    "monnaie_devise": "PLN - Zloty polonais (zł)",
     "ville": "Powiat bolesławiecki",
     "quartier_arrondissement": "Dobra",
     "code_postal": "59-700",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -3636,9 +4362,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Portugal",
     "langue_officielle": "Portugais, MWL",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Águeda",
     "quartier_arrondissement": "Zona Industrial En 1 Norte",
     "code_postal": "3750-000",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -3646,9 +4374,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Portugal",
     "langue_officielle": "Portugais, MWL",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Águeda",
     "quartier_arrondissement": "Alcafaz",
     "code_postal": "3750-011",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -3656,9 +4386,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Portugal",
     "langue_officielle": "Portugais, MWL",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Águeda",
     "quartier_arrondissement": "Caselho",
     "code_postal": "3750-012",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -3666,9 +4398,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Portugal",
     "langue_officielle": "Portugais, MWL",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Águeda",
     "quartier_arrondissement": "Corga da Serra",
     "code_postal": "3750-013",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -3676,9 +4410,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Portugal",
     "langue_officielle": "Portugais, MWL",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Águeda",
     "quartier_arrondissement": "Bertufo",
     "code_postal": "3750-013",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -3686,9 +4422,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Portugal",
     "langue_officielle": "Portugais, MWL",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Águeda",
     "quartier_arrondissement": "Foz",
     "code_postal": "3750-014",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -3696,9 +4434,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Portugal",
     "langue_officielle": "Portugais, MWL",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Águeda",
     "quartier_arrondissement": "Guistola",
     "code_postal": "3750-015",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -3706,9 +4446,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Portugal",
     "langue_officielle": "Portugais, MWL",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Águeda",
     "quartier_arrondissement": "Guistolinha",
     "code_postal": "3750-016",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -3716,9 +4458,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Portugal",
     "langue_officielle": "Portugais, MWL",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Águeda",
     "quartier_arrondissement": "Lomba",
     "code_postal": "3750-017",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -3726,9 +4470,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Portugal",
     "langue_officielle": "Portugais, MWL",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Águeda",
     "quartier_arrondissement": "Povinha",
     "code_postal": "3750-018",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -3736,9 +4482,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Roumanie",
     "langue_officielle": "Roumain, Hongrois, ROM",
+    "monnaie_devise": "RON - Leu roumain (lei)",
     "ville": "Alba",
     "quartier_arrondissement": "Bărăbanţ",
     "code_postal": "510001",
+    "population": "24 923",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -3746,9 +4494,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Roumanie",
     "langue_officielle": "Roumain, Hongrois, ROM",
+    "monnaie_devise": "RON - Leu roumain (lei)",
     "ville": "Alba",
     "quartier_arrondissement": "Miceşti",
     "code_postal": "510002",
+    "population": "24 923",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -3756,9 +4506,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Roumanie",
     "langue_officielle": "Roumain, Hongrois, ROM",
+    "monnaie_devise": "RON - Leu roumain (lei)",
     "ville": "Alba",
     "quartier_arrondissement": "Alba Iulia",
     "code_postal": "510002",
+    "population": "64 227",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -3766,9 +4518,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Roumanie",
     "langue_officielle": "Roumain, Hongrois, ROM",
+    "monnaie_devise": "RON - Leu roumain (lei)",
     "ville": "Alba",
     "quartier_arrondissement": "Oarda",
     "code_postal": "510003",
+    "population": "24 923",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -3776,9 +4530,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Roumanie",
     "langue_officielle": "Roumain, Hongrois, ROM",
+    "monnaie_devise": "RON - Leu roumain (lei)",
     "ville": "Alba",
     "quartier_arrondissement": "Pâclişa",
     "code_postal": "510004",
+    "population": "24 923",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -3786,9 +4542,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Roumanie",
     "langue_officielle": "Roumain, Hongrois, ROM",
+    "monnaie_devise": "RON - Leu roumain (lei)",
     "ville": "Alba",
     "quartier_arrondissement": "Alba Iulia",
     "code_postal": "510005",
+    "population": "64 227",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -3796,9 +4554,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Roumanie",
     "langue_officielle": "Roumain, Hongrois, ROM",
+    "monnaie_devise": "RON - Leu roumain (lei)",
     "ville": "Alba",
     "quartier_arrondissement": "Alba Iulia",
     "code_postal": "510006",
+    "population": "64 227",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -3806,9 +4566,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Roumanie",
     "langue_officielle": "Roumain, Hongrois, ROM",
+    "monnaie_devise": "RON - Leu roumain (lei)",
     "ville": "Alba",
     "quartier_arrondissement": "Alba Iulia",
     "code_postal": "510007",
+    "population": "64 227",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -3816,9 +4578,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Roumanie",
     "langue_officielle": "Roumain, Hongrois, ROM",
+    "monnaie_devise": "RON - Leu roumain (lei)",
     "ville": "Alba",
     "quartier_arrondissement": "Alba Iulia",
     "code_postal": "510008",
+    "population": "64 227",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -3826,9 +4590,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Roumanie",
     "langue_officielle": "Roumain, Hongrois, ROM",
+    "monnaie_devise": "RON - Leu roumain (lei)",
     "ville": "Alba",
     "quartier_arrondissement": "Alba Iulia",
     "code_postal": "510009",
+    "population": "64 227",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -3836,9 +4602,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Serbie",
     "langue_officielle": "Serbe, Hongrois, Bosnien, ROM",
+    "monnaie_devise": "RSD - Dinar serbe (дин.)",
     "ville": "Beograd",
     "quartier_arrondissement": "Beograd",
     "code_postal": "11000",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -3846,9 +4614,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Serbie",
     "langue_officielle": "Serbe, Hongrois, Bosnien, ROM",
+    "monnaie_devise": "RSD - Dinar serbe (дин.)",
     "ville": "Brograd",
     "quartier_arrondissement": "Brograd",
     "code_postal": "11031",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -3856,9 +4626,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Serbie",
     "langue_officielle": "Serbe, Hongrois, Bosnien, ROM",
+    "monnaie_devise": "RSD - Dinar serbe (дин.)",
     "ville": "Zemun",
     "quartier_arrondissement": "Zemun",
     "code_postal": "11080",
+    "population": "155 591",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -3866,9 +4638,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Serbie",
     "langue_officielle": "Serbe, Hongrois, Bosnien, ROM",
+    "monnaie_devise": "RSD - Dinar serbe (дин.)",
     "ville": "Kaluđerica",
     "quartier_arrondissement": "Kaluđerica",
     "code_postal": "11130",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -3876,9 +4650,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Serbie",
     "langue_officielle": "Serbe, Hongrois, Bosnien, ROM",
+    "monnaie_devise": "RSD - Dinar serbe (дин.)",
     "ville": "Rušanj",
     "quartier_arrondissement": "Rušanj",
     "code_postal": "11194",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -3886,9 +4662,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Serbie",
     "langue_officielle": "Serbe, Hongrois, Bosnien, ROM",
+    "monnaie_devise": "RSD - Dinar serbe (дин.)",
     "ville": "Borča",
     "quartier_arrondissement": "Borča",
     "code_postal": "11211",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -3896,9 +4674,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Serbie",
     "langue_officielle": "Serbe, Hongrois, Bosnien, ROM",
+    "monnaie_devise": "RSD - Dinar serbe (дин.)",
     "ville": "Ovča",
     "quartier_arrondissement": "Ovča",
     "code_postal": "11212",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -3906,9 +4686,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Serbie",
     "langue_officielle": "Serbe, Hongrois, Bosnien, ROM",
+    "monnaie_devise": "RSD - Dinar serbe (дин.)",
     "ville": "Padinska Skela",
     "quartier_arrondissement": "Padinska Skela",
     "code_postal": "11213",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -3916,9 +4698,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Serbie",
     "langue_officielle": "Serbe, Hongrois, Bosnien, ROM",
+    "monnaie_devise": "RSD - Dinar serbe (дин.)",
     "ville": "Slanci",
     "quartier_arrondissement": "Slanci",
     "code_postal": "11215",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -3926,9 +4710,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Serbie",
     "langue_officielle": "Serbe, Hongrois, Bosnien, ROM",
+    "monnaie_devise": "RSD - Dinar serbe (дин.)",
     "ville": "Beli Potok",
     "quartier_arrondissement": "Beli Potok",
     "code_postal": "11223",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -3936,9 +4722,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Russie",
     "langue_officielle": "Russe",
+    "monnaie_devise": "RUB - Rouble russe (₽)",
     "ville": "Адыгея Республика",
     "quartier_arrondissement": "Майкоп",
     "code_postal": "385000",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -3946,9 +4734,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Russie",
     "langue_officielle": "Russe",
+    "monnaie_devise": "RUB - Rouble russe (₽)",
     "ville": "Адыгея Республика",
     "quartier_arrondissement": "Майкоп 1",
     "code_postal": "385001",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -3956,9 +4746,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Russie",
     "langue_officielle": "Russe",
+    "monnaie_devise": "RUB - Rouble russe (₽)",
     "ville": "Адыгея Республика",
     "quartier_arrondissement": "Майкоп 2",
     "code_postal": "385002",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -3966,9 +4758,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Russie",
     "langue_officielle": "Russe",
+    "monnaie_devise": "RUB - Rouble russe (₽)",
     "ville": "Адыгея Республика",
     "quartier_arrondissement": "Майкоп 3",
     "code_postal": "385003",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -3976,9 +4770,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Russie",
     "langue_officielle": "Russe",
+    "monnaie_devise": "RUB - Rouble russe (₽)",
     "ville": "Адыгея Республика",
     "quartier_arrondissement": "Майкоп 6",
     "code_postal": "385006",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -3986,9 +4782,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Russie",
     "langue_officielle": "Russe",
+    "monnaie_devise": "RUB - Rouble russe (₽)",
     "ville": "Адыгея Республика",
     "quartier_arrondissement": "Майкоп 7",
     "code_postal": "385007",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -3996,9 +4794,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Russie",
     "langue_officielle": "Russe",
+    "monnaie_devise": "RUB - Rouble russe (₽)",
     "ville": "Адыгея Республика",
     "quartier_arrondissement": "Майкоп 8",
     "code_postal": "385008",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -4006,9 +4806,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Russie",
     "langue_officielle": "Russe",
+    "monnaie_devise": "RUB - Rouble russe (₽)",
     "ville": "Адыгея Республика",
     "quartier_arrondissement": "Майкоп 9",
     "code_postal": "385009",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -4016,9 +4818,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Russie",
     "langue_officielle": "Russe",
+    "monnaie_devise": "RUB - Rouble russe (₽)",
     "ville": "Адыгея Республика",
     "quartier_arrondissement": "Майкоп 11",
     "code_postal": "385011",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -4026,9 +4830,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Russie",
     "langue_officielle": "Russe",
+    "monnaie_devise": "RUB - Rouble russe (₽)",
     "ville": "Адыгея Республика",
     "quartier_arrondissement": "Майкоп 12",
     "code_postal": "385012",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -4036,9 +4842,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Suède",
     "langue_officielle": "Suédois, SE, SMA, Finnois",
+    "monnaie_devise": "SEK - Couronne suédoise (kr)",
     "ville": "Gotland",
     "quartier_arrondissement": "Fårö",
     "code_postal": "624 66",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -4046,9 +4854,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Suède",
     "langue_officielle": "Suédois, SE, SMA, Finnois",
+    "monnaie_devise": "SEK - Couronne suédoise (kr)",
     "ville": "Gotland",
     "quartier_arrondissement": "Fårö",
     "code_postal": "624 67",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -4056,9 +4866,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Suède",
     "langue_officielle": "Suédois, SE, SMA, Finnois",
+    "monnaie_devise": "SEK - Couronne suédoise (kr)",
     "ville": "Uppsala",
     "quartier_arrondissement": "Ekolsund",
     "code_postal": "749 50",
+    "population": "177 074",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -4066,9 +4878,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Suède",
     "langue_officielle": "Suédois, SE, SMA, Finnois",
+    "monnaie_devise": "SEK - Couronne suédoise (kr)",
     "ville": "Västmanland",
     "quartier_arrondissement": "Strömsholm",
     "code_postal": "734 94",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -4076,9 +4890,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Suède",
     "langue_officielle": "Suédois, SE, SMA, Finnois",
+    "monnaie_devise": "SEK - Couronne suédoise (kr)",
     "ville": "Stockholm",
     "quartier_arrondissement": "Saltsjö-boo",
     "code_postal": "132 20",
+    "population": "1 515 017",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -4086,9 +4902,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Suède",
     "langue_officielle": "Suédois, SE, SMA, Finnois",
+    "monnaie_devise": "SEK - Couronne suédoise (kr)",
     "ville": "Stockholm",
     "quartier_arrondissement": "Stockholm-Arlanda",
     "code_postal": "190 40",
+    "population": "1 515 017",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -4096,9 +4914,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Suède",
     "langue_officielle": "Suédois, SE, SMA, Finnois",
+    "monnaie_devise": "SEK - Couronne suédoise (kr)",
     "ville": "Stockholm",
     "quartier_arrondissement": "Stockholm-Arlanda",
     "code_postal": "190 45",
+    "population": "1 515 017",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -4106,9 +4926,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Suède",
     "langue_officielle": "Suédois, SE, SMA, Finnois",
+    "monnaie_devise": "SEK - Couronne suédoise (kr)",
     "ville": "Stockholm",
     "quartier_arrondissement": "Stockholm-Arlanda",
     "code_postal": "190 46",
+    "population": "1 515 017",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -4116,9 +4938,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Suède",
     "langue_officielle": "Suédois, SE, SMA, Finnois",
+    "monnaie_devise": "SEK - Couronne suédoise (kr)",
     "ville": "Stockholm",
     "quartier_arrondissement": "Stockholm-Arlanda",
     "code_postal": "190 47",
+    "population": "1 515 017",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -4126,9 +4950,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Suède",
     "langue_officielle": "Suédois, SE, SMA, Finnois",
+    "monnaie_devise": "SEK - Couronne suédoise (kr)",
     "ville": "Stockholm",
     "quartier_arrondissement": "Stockholm-Arlanda",
     "code_postal": "190 50",
+    "population": "1 515 017",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -4136,9 +4962,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Slovénie",
     "langue_officielle": "Slovène, SH",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Ljubljana - dostava",
     "quartier_arrondissement": "Ljubljana - dostava",
     "code_postal": "1000",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -4146,9 +4974,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Slovénie",
     "langue_officielle": "Slovène, SH",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Ljubljana - poštni predali",
     "quartier_arrondissement": "Ljubljana - poštni predali",
     "code_postal": "1001",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -4156,9 +4986,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Slovénie",
     "langue_officielle": "Slovène, SH",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Ljubljana Šentvid",
     "quartier_arrondissement": "Ljubljana Šentvid",
     "code_postal": "1210",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -4166,9 +4998,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Slovénie",
     "langue_officielle": "Slovène, SH",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Ljubljana-Šmartno",
     "quartier_arrondissement": "Ljubljana-Šmartno",
     "code_postal": "1211",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -4176,9 +5010,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Slovénie",
     "langue_officielle": "Slovène, SH",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Medvode",
     "quartier_arrondissement": "Medvode",
     "code_postal": "1215",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -4186,9 +5022,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Slovénie",
     "langue_officielle": "Slovène, SH",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Smlednik",
     "quartier_arrondissement": "Smlednik",
     "code_postal": "1216",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -4196,9 +5034,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Slovénie",
     "langue_officielle": "Slovène, SH",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Vodice",
     "quartier_arrondissement": "Vodice",
     "code_postal": "1217",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -4206,9 +5046,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Slovénie",
     "langue_officielle": "Slovène, SH",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Komenda",
     "quartier_arrondissement": "Komenda",
     "code_postal": "1218",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -4216,9 +5058,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Slovénie",
     "langue_officielle": "Slovène, SH",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Laze v Tuhinju",
     "quartier_arrondissement": "Laze v Tuhinju",
     "code_postal": "1219",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -4226,9 +5070,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Slovénie",
     "langue_officielle": "Slovène, SH",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Motnik",
     "quartier_arrondissement": "Motnik",
     "code_postal": "1221",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -4236,9 +5082,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Svalbard et Jan Mayen",
     "langue_officielle": "Norvégien, Russe",
+    "monnaie_devise": "NOK - Couronne norvégienne (kr)",
     "ville": "Svalbard",
     "quartier_arrondissement": "Longyearbyen",
     "code_postal": "9170",
+    "population": "2 368",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -4246,9 +5094,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Svalbard et Jan Mayen",
     "langue_officielle": "Norvégien, Russe",
+    "monnaie_devise": "NOK - Couronne norvégienne (kr)",
     "ville": "Svalbard",
     "quartier_arrondissement": "Longyearbyen",
     "code_postal": "9171",
+    "population": "2 368",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -4256,9 +5106,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Svalbard et Jan Mayen",
     "langue_officielle": "Norvégien, Russe",
+    "monnaie_devise": "NOK - Couronne norvégienne (kr)",
     "ville": "Svalbard",
     "quartier_arrondissement": "Ny-Ålesund",
     "code_postal": "9173",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -4266,9 +5118,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Svalbard et Jan Mayen",
     "langue_officielle": "Norvégien, Russe",
+    "monnaie_devise": "NOK - Couronne norvégienne (kr)",
     "ville": "Svalbard",
     "quartier_arrondissement": "Sveagruva",
     "code_postal": "9175",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -4276,9 +5130,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Svalbard et Jan Mayen",
     "langue_officielle": "Norvégien, Russe",
+    "monnaie_devise": "NOK - Couronne norvégienne (kr)",
     "ville": "Svalbard",
     "quartier_arrondissement": "Barentsburg",
     "code_postal": "9178",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -4286,9 +5142,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Svalbard et Jan Mayen",
     "langue_officielle": "Norvégien, Russe",
+    "monnaie_devise": "NOK - Couronne norvégienne (kr)",
     "ville": "Svalbard",
     "quartier_arrondissement": "Bjørnøya",
     "code_postal": "9176",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -4296,9 +5154,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Svalbard et Jan Mayen",
     "langue_officielle": "Norvégien, Russe",
+    "monnaie_devise": "NOK - Couronne norvégienne (kr)",
     "ville": "Svalbard",
     "quartier_arrondissement": "Hopen",
     "code_postal": "9174",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -4306,9 +5166,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Svalbard et Jan Mayen",
     "langue_officielle": "Norvégien, Russe",
+    "monnaie_devise": "NOK - Couronne norvégienne (kr)",
     "ville": "Jan Mayen",
     "quartier_arrondissement": "Jan Mayen",
     "code_postal": "8099",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -4316,9 +5178,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Slovaquie",
     "langue_officielle": "Slovaque, Hongrois",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Okres Banská Bystrica",
     "quartier_arrondissement": "Sebedín-Bečov",
     "code_postal": "974 01",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -4326,9 +5190,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Slovaquie",
     "langue_officielle": "Slovaque, Hongrois",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Okres Banská Bystrica",
     "quartier_arrondissement": "Kynceľová",
     "code_postal": "974 01",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -4336,9 +5202,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Slovaquie",
     "langue_officielle": "Slovaque, Hongrois",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Okres Banská Bystrica",
     "quartier_arrondissement": "Riečka",
     "code_postal": "974 01",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -4346,9 +5214,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Slovaquie",
     "langue_officielle": "Slovaque, Hongrois",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Okres Banská Bystrica",
     "quartier_arrondissement": "Nemce",
     "code_postal": "974 01",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -4356,9 +5226,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Slovaquie",
     "langue_officielle": "Slovaque, Hongrois",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Okres Banská Bystrica",
     "quartier_arrondissement": "Horná Mičiná",
     "code_postal": "974 01",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -4366,9 +5238,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Slovaquie",
     "langue_officielle": "Slovaque, Hongrois",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Okres Banská Bystrica",
     "quartier_arrondissement": "Banská Bystrica 1",
     "code_postal": "974 01",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -4376,9 +5250,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Slovaquie",
     "langue_officielle": "Slovaque, Hongrois",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Okres Banská Bystrica",
     "quartier_arrondissement": "Banská Bystrica",
     "code_postal": "974 01",
+    "population": "74 590",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -4386,9 +5262,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Slovaquie",
     "langue_officielle": "Slovaque, Hongrois",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Okres Banská Bystrica",
     "quartier_arrondissement": "Dolná Mičiná",
     "code_postal": "974 01",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -4396,9 +5274,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Slovaquie",
     "langue_officielle": "Slovaque, Hongrois",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Okres Banská Bystrica",
     "quartier_arrondissement": "Špania Dolina",
     "code_postal": "974 01",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -4406,9 +5286,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Slovaquie",
     "langue_officielle": "Slovaque, Hongrois",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Okres Banská Bystrica",
     "quartier_arrondissement": "Čerín - Čačín",
     "code_postal": "974 01",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -4416,9 +5298,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Saint-Marin",
     "langue_officielle": "Italien",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "San Marino",
     "quartier_arrondissement": "San Marino",
     "code_postal": "47890",
+    "population": "4 500",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -4426,9 +5310,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Saint-Marin",
     "langue_officielle": "Italien",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Casole",
     "quartier_arrondissement": "Casole",
     "code_postal": "47890",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -4436,9 +5322,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Saint-Marin",
     "langue_officielle": "Italien",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Murata",
     "quartier_arrondissement": "Murata",
     "code_postal": "47890",
+    "population": "38 271",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -4446,9 +5334,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Saint-Marin",
     "langue_officielle": "Italien",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Santa Mustiola",
     "quartier_arrondissement": "Santa Mustiola",
     "code_postal": "47890",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -4456,9 +5346,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Saint-Marin",
     "langue_officielle": "Italien",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Galazzano",
     "quartier_arrondissement": "Galazzano",
     "code_postal": "47891",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -4466,9 +5358,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Saint-Marin",
     "langue_officielle": "Italien",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Falciano",
     "quartier_arrondissement": "Falciano",
     "code_postal": "47891",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -4476,9 +5370,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Saint-Marin",
     "langue_officielle": "Italien",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Rovereta",
     "quartier_arrondissement": "Rovereta",
     "code_postal": "47891",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -4486,9 +5382,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Saint-Marin",
     "langue_officielle": "Italien",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Dogana",
     "quartier_arrondissement": "Dogana",
     "code_postal": "47891",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -4496,9 +5394,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Saint-Marin",
     "langue_officielle": "Italien",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Acquaviva",
     "quartier_arrondissement": "Acquaviva",
     "code_postal": "47892",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -4506,9 +5406,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Saint-Marin",
     "langue_officielle": "Italien",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Gualdicciolo",
     "quartier_arrondissement": "Gualdicciolo",
     "code_postal": "47892",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -4516,9 +5418,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Ukraine",
     "langue_officielle": "Ukrainien, Russe, ROM, Polonais",
+    "monnaie_devise": "UAH - Hryvnia ukrainienne (₴)",
     "ville": "Cherkaska",
     "quartier_arrondissement": "Черкаси",
     "code_postal": "18000",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -4526,9 +5430,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Ukraine",
     "langue_officielle": "Ukrainien, Russe, ROM, Polonais",
+    "monnaie_devise": "UAH - Hryvnia ukrainienne (₴)",
     "ville": "Cherkaska",
     "quartier_arrondissement": "Черкаси",
     "code_postal": "18001",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -4536,9 +5442,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Ukraine",
     "langue_officielle": "Ukrainien, Russe, ROM, Polonais",
+    "monnaie_devise": "UAH - Hryvnia ukrainienne (₴)",
     "ville": "Cherkaska",
     "quartier_arrondissement": "Черкаси",
     "code_postal": "18002",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -4546,9 +5454,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Ukraine",
     "langue_officielle": "Ukrainien, Russe, ROM, Polonais",
+    "monnaie_devise": "UAH - Hryvnia ukrainienne (₴)",
     "ville": "Cherkaska",
     "quartier_arrondissement": "Черкаси",
     "code_postal": "18003",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -4556,9 +5466,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Ukraine",
     "langue_officielle": "Ukrainien, Russe, ROM, Polonais",
+    "monnaie_devise": "UAH - Hryvnia ukrainienne (₴)",
     "ville": "Cherkaska",
     "quartier_arrondissement": "Черкаси",
     "code_postal": "18005",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -4566,9 +5478,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Ukraine",
     "langue_officielle": "Ukrainien, Russe, ROM, Polonais",
+    "monnaie_devise": "UAH - Hryvnia ukrainienne (₴)",
     "ville": "Cherkaska",
     "quartier_arrondissement": "Черкаси",
     "code_postal": "18006",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -4576,9 +5490,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Ukraine",
     "langue_officielle": "Ukrainien, Russe, ROM, Polonais",
+    "monnaie_devise": "UAH - Hryvnia ukrainienne (₴)",
     "ville": "Cherkaska",
     "quartier_arrondissement": "Черкаси",
     "code_postal": "18007",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -4586,9 +5502,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Ukraine",
     "langue_officielle": "Ukrainien, Russe, ROM, Polonais",
+    "monnaie_devise": "UAH - Hryvnia ukrainienne (₴)",
     "ville": "Cherkaska",
     "quartier_arrondissement": "Черкаси",
     "code_postal": "18008",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -4596,9 +5514,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Ukraine",
     "langue_officielle": "Ukrainien, Russe, ROM, Polonais",
+    "monnaie_devise": "UAH - Hryvnia ukrainienne (₴)",
     "ville": "Cherkaska",
     "quartier_arrondissement": "Черкаси",
     "code_postal": "18009",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -4606,9 +5526,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Ukraine",
     "langue_officielle": "Ukrainien, Russe, ROM, Polonais",
+    "monnaie_devise": "UAH - Hryvnia ukrainienne (₴)",
     "ville": "Cherkaska",
     "quartier_arrondissement": "Черкаси",
     "code_postal": "18014",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -4616,9 +5538,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Vatican",
     "langue_officielle": "Latin, Italien, Français",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Citta' Del Vaticano",
     "quartier_arrondissement": "Citta' Del Vaticano",
     "code_postal": "00120",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -4626,9 +5550,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Bosnie-Herzégovine",
     "langue_officielle": "Bosnien, Croate, Serbe",
+    "monnaie_devise": "BAM - Marka",
     "ville": "Zenica",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Zenica)",
     "code_postal": "",
+    "population": "164 423",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -4636,9 +5562,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Bosnie-Herzégovine",
     "langue_officielle": "Bosnien, Croate, Serbe",
+    "monnaie_devise": "BAM - Marka",
     "ville": "Visoko",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Visoko)",
     "code_postal": "",
+    "population": "17 890",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -4646,9 +5574,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Bosnie-Herzégovine",
     "langue_officielle": "Bosnien, Croate, Serbe",
+    "monnaie_devise": "BAM - Marka",
     "ville": "Velika Kladuša",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Velika Kladuša)",
     "code_postal": "",
+    "population": "19 330",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -4656,9 +5586,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Bosnie-Herzégovine",
     "langue_officielle": "Bosnien, Croate, Serbe",
+    "monnaie_devise": "BAM - Marka",
     "ville": "Tuzla",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Tuzla)",
     "code_postal": "",
+    "population": "142 486",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -4666,9 +5598,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Bosnie-Herzégovine",
     "langue_officielle": "Bosnien, Croate, Serbe",
+    "monnaie_devise": "BAM - Marka",
     "ville": "Trebinje",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Trebinje)",
     "code_postal": "",
+    "population": "33 178",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -4676,9 +5610,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Bosnie-Herzégovine",
     "langue_officielle": "Bosnien, Croate, Serbe",
+    "monnaie_devise": "BAM - Marka",
     "ville": "Travnik",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Travnik)",
     "code_postal": "",
+    "population": "31 127",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -4686,9 +5622,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Bosnie-Herzégovine",
     "langue_officielle": "Bosnien, Croate, Serbe",
+    "monnaie_devise": "BAM - Marka",
     "ville": "Sarajevo",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Sarajevo)",
     "code_postal": "",
+    "population": "696 731",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -4696,9 +5634,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Bosnie-Herzégovine",
     "langue_officielle": "Bosnien, Croate, Serbe",
+    "monnaie_devise": "BAM - Marka",
     "ville": "Prijedor",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Prijedor)",
     "code_postal": "",
+    "population": "36 347",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -4706,9 +5646,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Bosnie-Herzégovine",
     "langue_officielle": "Bosnien, Croate, Serbe",
+    "monnaie_devise": "BAM - Marka",
     "ville": "Mostar",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Mostar)",
     "code_postal": "",
+    "population": "104 518",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -4716,9 +5658,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Bosnie-Herzégovine",
     "langue_officielle": "Bosnien, Croate, Serbe",
+    "monnaie_devise": "BAM - Marka",
     "ville": "Lukavac",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Lukavac)",
     "code_postal": "",
+    "population": "44 520",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -4726,9 +5670,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Grèce",
     "langue_officielle": "Grec, Anglais, Français",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Voúla",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Voúla)",
     "code_postal": "",
+    "population": "28 364",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -4736,9 +5682,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Grèce",
     "langue_officielle": "Grec, Anglais, Français",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Volos",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Volos)",
     "code_postal": "",
+    "population": "86 048",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -4746,9 +5694,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Grèce",
     "langue_officielle": "Grec, Anglais, Français",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Výronas",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Výronas)",
     "code_postal": "",
+    "population": "61 308",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -4756,9 +5706,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Grèce",
     "langue_officielle": "Grec, Anglais, Français",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Vári",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Vári)",
     "code_postal": "",
+    "population": "16 717",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -4766,9 +5718,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Grèce",
     "langue_officielle": "Grec, Anglais, Français",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Trípoli",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Trípoli)",
     "code_postal": "",
+    "population": "26 561",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -4776,9 +5730,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Grèce",
     "langue_officielle": "Grec, Anglais, Français",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Tríkala",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Tríkala)",
     "code_postal": "",
+    "population": "61 653",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -4786,9 +5742,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Grèce",
     "langue_officielle": "Grec, Anglais, Français",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Thívai",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Thívai)",
     "code_postal": "",
+    "population": "32 410",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -4796,9 +5754,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Grèce",
     "langue_officielle": "Grec, Anglais, Français",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Sparta",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Sparta)",
     "code_postal": "",
+    "population": "16 239",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -4806,9 +5766,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Grèce",
     "langue_officielle": "Grec, Anglais, Français",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Salamína",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Salamína)",
     "code_postal": "",
+    "population": "25 370",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -4816,9 +5778,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Grèce",
     "langue_officielle": "Grec, Anglais, Français",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Rethymno",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Rethymno)",
     "code_postal": "",
+    "population": "32 468",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -4826,9 +5790,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Kosovo",
     "langue_officielle": "Albanais, Serbe",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Zvečan",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Zvečan)",
     "code_postal": "",
+    "population": "17 000",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -4836,9 +5802,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Kosovo",
     "langue_officielle": "Albanais, Serbe",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Vushtrri",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Vushtrri)",
     "code_postal": "",
+    "population": "30 651",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -4846,9 +5814,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Kosovo",
     "langue_officielle": "Albanais, Serbe",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Vitina",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Vitina)",
     "code_postal": "",
+    "population": "46 959",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -4856,9 +5826,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Kosovo",
     "langue_officielle": "Albanais, Serbe",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Ferizaj",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Ferizaj)",
     "code_postal": "",
+    "population": "59 504",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -4866,9 +5838,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Kosovo",
     "langue_officielle": "Albanais, Serbe",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Suva Reka",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Suva Reka)",
     "code_postal": "",
+    "population": "72 229",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -4876,9 +5850,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Kosovo",
     "langue_officielle": "Albanais, Serbe",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Shtime",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Shtime)",
     "code_postal": "",
+    "population": "35 000",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -4886,9 +5862,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Kosovo",
     "langue_officielle": "Albanais, Serbe",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Prizren",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Prizren)",
     "code_postal": "",
+    "population": "171 464",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -4896,9 +5874,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Kosovo",
     "langue_officielle": "Albanais, Serbe",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Pristina",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Pristina)",
     "code_postal": "",
+    "population": "550 000",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -4906,9 +5886,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Kosovo",
     "langue_officielle": "Albanais, Serbe",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Podujeva",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Podujeva)",
     "code_postal": "",
+    "population": "35 000",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -4916,9 +5898,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Kosovo",
     "langue_officielle": "Albanais, Serbe",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Pejë",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Pejë)",
     "code_postal": "",
+    "population": "48 962",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -4926,9 +5910,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Monténégro",
     "langue_officielle": "Serbe, Hongrois, Bosnien, Albanais",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Podgorica",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Podgorica)",
     "code_postal": "",
+    "population": "236 852",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -4936,9 +5922,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Monténégro",
     "langue_officielle": "Serbe, Hongrois, Bosnien, Albanais",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Pljevlja",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Pljevlja)",
     "code_postal": "",
+    "population": "19 489",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -4946,9 +5934,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Monténégro",
     "langue_officielle": "Serbe, Hongrois, Bosnien, Albanais",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Nikšić",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Nikšić)",
     "code_postal": "",
+    "population": "58 212",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -4956,9 +5946,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Monténégro",
     "langue_officielle": "Serbe, Hongrois, Bosnien, Albanais",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Herceg Novi",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Herceg Novi)",
     "code_postal": "",
+    "population": "19 536",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -4966,9 +5958,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Monténégro",
     "langue_officielle": "Serbe, Hongrois, Bosnien, Albanais",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Cetinje",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Cetinje)",
     "code_postal": "",
+    "population": "15 137",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -4976,9 +5970,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Monténégro",
     "langue_officielle": "Serbe, Hongrois, Bosnien, Albanais",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Budva",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Budva)",
     "code_postal": "",
+    "population": "18 000",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -4986,9 +5982,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Monténégro",
     "langue_officielle": "Serbe, Hongrois, Bosnien, Albanais",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Bijelo Polje",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Bijelo Polje)",
     "code_postal": "",
+    "population": "15 400",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -4996,9 +5994,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Monténégro",
     "langue_officielle": "Serbe, Hongrois, Bosnien, Albanais",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Bar",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Bar)",
     "code_postal": "",
+    "population": "15 868",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -5006,9 +6006,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Europe",
     "pays": "Serbia and Montenegro",
     "langue_officielle": "CU, Hongrois, Albanais, Serbe",
+    "monnaie_devise": "RSD - Dinar serbe (дин.)",
     "ville": "Belgrade",
     "quartier_arrondissement": "District Central / Agglomération Principale",
     "code_postal": "",
+    "population": "1 273 651",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -5016,9 +6018,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Émirats Arabes Unis",
     "langue_officielle": "Arabe, Anglais",
+    "monnaie_devise": "AED - Dirham des Émirats arabes unis (AED)",
     "ville": "Al Ras",
     "quartier_arrondissement": "Al Ras",
     "code_postal": "28119 95762",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -5026,9 +6030,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Émirats Arabes Unis",
     "langue_officielle": "Arabe, Anglais",
+    "monnaie_devise": "AED - Dirham des Émirats arabes unis (AED)",
     "ville": "Al Ras",
     "quartier_arrondissement": "Al Ras",
     "code_postal": "28120 95556",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -5036,9 +6042,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Émirats Arabes Unis",
     "langue_officielle": "Arabe, Anglais",
+    "monnaie_devise": "AED - Dirham des Émirats arabes unis (AED)",
     "ville": "Al Ras",
     "quartier_arrondissement": "Al Ras",
     "code_postal": "28145 95641",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -5046,9 +6054,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Émirats Arabes Unis",
     "langue_officielle": "Arabe, Anglais",
+    "monnaie_devise": "AED - Dirham des Émirats arabes unis (AED)",
     "ville": "Al Ras",
     "quartier_arrondissement": "Al Ras",
     "code_postal": "28150 95596",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -5056,9 +6066,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Émirats Arabes Unis",
     "langue_officielle": "Arabe, Anglais",
+    "monnaie_devise": "AED - Dirham des Émirats arabes unis (AED)",
     "ville": "Al Ras",
     "quartier_arrondissement": "Al Ras",
     "code_postal": "28174 95593",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -5066,9 +6078,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Émirats Arabes Unis",
     "langue_officielle": "Arabe, Anglais",
+    "monnaie_devise": "AED - Dirham des Émirats arabes unis (AED)",
     "ville": "Al Ras",
     "quartier_arrondissement": "Al Ras",
     "code_postal": "28178 95711",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -5076,9 +6090,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Émirats Arabes Unis",
     "langue_officielle": "Arabe, Anglais",
+    "monnaie_devise": "AED - Dirham des Émirats arabes unis (AED)",
     "ville": "Al Ras",
     "quartier_arrondissement": "Al Ras",
     "code_postal": "28180 95649",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -5086,9 +6102,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Émirats Arabes Unis",
     "langue_officielle": "Arabe, Anglais",
+    "monnaie_devise": "AED - Dirham des Émirats arabes unis (AED)",
     "ville": "Al Ras",
     "quartier_arrondissement": "Al Ras",
     "code_postal": "28180 95728",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -5096,9 +6114,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Émirats Arabes Unis",
     "langue_officielle": "Arabe, Anglais",
+    "monnaie_devise": "AED - Dirham des Émirats arabes unis (AED)",
     "ville": "Al Ras",
     "quartier_arrondissement": "Al Ras",
     "code_postal": "28185 95676",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -5106,9 +6126,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Émirats Arabes Unis",
     "langue_officielle": "Arabe, Anglais",
+    "monnaie_devise": "AED - Dirham des Émirats arabes unis (AED)",
     "ville": "Al Ras",
     "quartier_arrondissement": "Al Ras",
     "code_postal": "28187 95781",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -5116,9 +6138,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Arménie",
     "langue_officielle": "Arménien",
+    "monnaie_devise": "AMD - Dram arménien (֏)",
     "ville": "Syunik",
     "quartier_arrondissement": "Goris",
     "code_postal": "3201",
+    "population": "17 592",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -5126,9 +6150,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Arménie",
     "langue_officielle": "Arménien",
+    "monnaie_devise": "AMD - Dram arménien (֏)",
     "ville": "Syunik",
     "quartier_arrondissement": "Goris",
     "code_postal": "3202",
+    "population": "17 592",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -5136,9 +6162,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Arménie",
     "langue_officielle": "Arménien",
+    "monnaie_devise": "AMD - Dram arménien (֏)",
     "ville": "Syunik",
     "quartier_arrondissement": "Goris",
     "code_postal": "3203",
+    "population": "17 592",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -5146,9 +6174,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Arménie",
     "langue_officielle": "Arménien",
+    "monnaie_devise": "AMD - Dram arménien (֏)",
     "ville": "Syunik",
     "quartier_arrondissement": "Goris",
     "code_postal": "3205",
+    "population": "17 592",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -5156,9 +6186,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Arménie",
     "langue_officielle": "Arménien",
+    "monnaie_devise": "AMD - Dram arménien (֏)",
     "ville": "Syunik",
     "quartier_arrondissement": "Khnatsakh",
     "code_postal": "3206",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -5166,9 +6198,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Arménie",
     "langue_officielle": "Arménien",
+    "monnaie_devise": "AMD - Dram arménien (֏)",
     "ville": "Syunik",
     "quartier_arrondissement": "Khndzoresk",
     "code_postal": "3207",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -5176,9 +6210,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Arménie",
     "langue_officielle": "Arménien",
+    "monnaie_devise": "AMD - Dram arménien (֏)",
     "ville": "Syunik",
     "quartier_arrondissement": "Khoznavar",
     "code_postal": "3208",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -5186,9 +6222,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Arménie",
     "langue_officielle": "Arménien",
+    "monnaie_devise": "AMD - Dram arménien (֏)",
     "ville": "Syunik",
     "quartier_arrondissement": "Khot",
     "code_postal": "3209",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -5196,9 +6234,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Arménie",
     "langue_officielle": "Arménien",
+    "monnaie_devise": "AMD - Dram arménien (֏)",
     "ville": "Syunik",
     "quartier_arrondissement": "Kornidzor",
     "code_postal": "3210",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -5206,9 +6246,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Arménie",
     "langue_officielle": "Arménien",
+    "monnaie_devise": "AMD - Dram arménien (֏)",
     "ville": "Syunik",
     "quartier_arrondissement": "Halidzor",
     "code_postal": "3211",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -5216,9 +6258,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Azerbaïdjan",
     "langue_officielle": "Azéri, Russe, Arménien",
+    "monnaie_devise": "AZN - Manat azerbaïdjanais (₼)",
     "ville": "Abşeron",
     "quartier_arrondissement": "Abşeron",
     "code_postal": "AZ 0100",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -5226,9 +6270,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Azerbaïdjan",
     "langue_officielle": "Azéri, Russe, Arménien",
+    "monnaie_devise": "AZN - Manat azerbaïdjanais (₼)",
     "ville": "Abşeron",
     "quartier_arrondissement": "1 Sayli",
     "code_postal": "AZ 0101",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -5236,9 +6282,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Azerbaïdjan",
     "langue_officielle": "Azéri, Russe, Arménien",
+    "monnaie_devise": "AZN - Manat azerbaïdjanais (₼)",
     "ville": "Abşeron",
     "quartier_arrondissement": "2 Sayli",
     "code_postal": "AZ 0102",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -5246,9 +6294,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Azerbaïdjan",
     "langue_officielle": "Azéri, Russe, Arménien",
+    "monnaie_devise": "AZN - Manat azerbaïdjanais (₼)",
     "ville": "Abşeron",
     "quartier_arrondissement": "Aşaği Güzdək",
     "code_postal": "AZ 0111",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -5256,9 +6306,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Azerbaïdjan",
     "langue_officielle": "Azéri, Russe, Arménien",
+    "monnaie_devise": "AZN - Manat azerbaïdjanais (₼)",
     "ville": "Abşeron",
     "quartier_arrondissement": "Ceyranbatan",
     "code_postal": "AZ 0112",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -5266,9 +6318,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Azerbaïdjan",
     "langue_officielle": "Azéri, Russe, Arménien",
+    "monnaie_devise": "AZN - Manat azerbaïdjanais (₼)",
     "ville": "Abşeron",
     "quartier_arrondissement": "Fatmayi",
     "code_postal": "AZ 0113",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -5276,9 +6330,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Azerbaïdjan",
     "langue_officielle": "Azéri, Russe, Arménien",
+    "monnaie_devise": "AZN - Manat azerbaïdjanais (₼)",
     "ville": "Abşeron",
     "quartier_arrondissement": "Güzdək-2",
     "code_postal": "AZ 0114",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -5286,9 +6342,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Azerbaïdjan",
     "langue_officielle": "Azéri, Russe, Arménien",
+    "monnaie_devise": "AZN - Manat azerbaïdjanais (₼)",
     "ville": "Abşeron",
     "quartier_arrondissement": "Hökməli",
     "code_postal": "AZ 0115",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -5296,9 +6354,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Azerbaïdjan",
     "langue_officielle": "Azéri, Russe, Arménien",
+    "monnaie_devise": "AZN - Manat azerbaïdjanais (₼)",
     "ville": "Abşeron",
     "quartier_arrondissement": "Masazir-1",
     "code_postal": "AZ 0116",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -5306,9 +6366,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Azerbaïdjan",
     "langue_officielle": "Azéri, Russe, Arménien",
+    "monnaie_devise": "AZN - Manat azerbaïdjanais (₼)",
     "ville": "Abşeron",
     "quartier_arrondissement": "Qobu",
     "code_postal": "AZ 0117",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -5316,9 +6378,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Bangladesh",
     "langue_officielle": "Bengali, Anglais",
+    "monnaie_devise": "BDT - Taka bangladais (৳)",
     "ville": "Dhaka",
     "quartier_arrondissement": "Dhaka GPO",
     "code_postal": "1000",
+    "population": "10 356 500",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -5326,9 +6390,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Bangladesh",
     "langue_officielle": "Bengali, Anglais",
+    "monnaie_devise": "BDT - Taka bangladais (৳)",
     "ville": "Dhaka",
     "quartier_arrondissement": "Dhaka Sadar HO",
     "code_postal": "1100",
+    "population": "10 356 500",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -5336,9 +6402,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Bangladesh",
     "langue_officielle": "Bengali, Anglais",
+    "monnaie_devise": "BDT - Taka bangladais (৳)",
     "ville": "Dhaka",
     "quartier_arrondissement": "Wari TSO",
     "code_postal": "1203",
+    "population": "10 356 500",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -5346,9 +6414,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Bangladesh",
     "langue_officielle": "Bengali, Anglais",
+    "monnaie_devise": "BDT - Taka bangladais (৳)",
     "ville": "Dhaka",
     "quartier_arrondissement": "Gendaria TSO",
     "code_postal": "1204",
+    "population": "10 356 500",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -5356,9 +6426,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Bangladesh",
     "langue_officielle": "Bengali, Anglais",
+    "monnaie_devise": "BDT - Taka bangladais (৳)",
     "ville": "Dhaka",
     "quartier_arrondissement": "New Market TSO",
     "code_postal": "1205",
+    "population": "10 356 500",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -5366,9 +6438,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Bangladesh",
     "langue_officielle": "Bengali, Anglais",
+    "monnaie_devise": "BDT - Taka bangladais (৳)",
     "ville": "Dhaka",
     "quartier_arrondissement": "Dhaka CantonmentTSO",
     "code_postal": "1206",
+    "population": "10 356 500",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -5376,9 +6450,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Bangladesh",
     "langue_officielle": "Bengali, Anglais",
+    "monnaie_devise": "BDT - Taka bangladais (৳)",
     "ville": "Dhaka",
     "quartier_arrondissement": "Mohammadpur Housing",
     "code_postal": "1207",
+    "population": "10 356 500",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -5386,9 +6462,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Bangladesh",
     "langue_officielle": "Bengali, Anglais",
+    "monnaie_devise": "BDT - Taka bangladais (৳)",
     "ville": "Dhaka",
     "quartier_arrondissement": "Dhaka Politechnic",
     "code_postal": "1208",
+    "population": "10 356 500",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -5396,9 +6474,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Bangladesh",
     "langue_officielle": "Bengali, Anglais",
+    "monnaie_devise": "BDT - Taka bangladais (৳)",
     "ville": "Dhaka",
     "quartier_arrondissement": "Jigatala TSO",
     "code_postal": "1209",
+    "population": "10 356 500",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -5406,9 +6486,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Bangladesh",
     "langue_officielle": "Bengali, Anglais",
+    "monnaie_devise": "BDT - Taka bangladais (৳)",
     "ville": "Dhaka",
     "quartier_arrondissement": "Posta TSO",
     "code_postal": "1211",
+    "population": "10 356 500",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -5416,9 +6498,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Îles Cocos",
     "langue_officielle": "Malais, Anglais",
+    "monnaie_devise": "AUD - Dollar australien ($AU)",
     "ville": "Territory of Cocos (Keeling) Islands",
     "quartier_arrondissement": "Territory of Cocos (Keeling) Islands",
     "code_postal": "6799",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -5426,9 +6510,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Chine",
     "langue_officielle": "Chinois (Mandarin), Cantonais",
+    "monnaie_devise": "CNY - Yuan renminbi (¥)",
     "ville": "Hefei Shi",
     "quartier_arrondissement": "Hefei",
     "code_postal": "230000",
+    "population": "9 465 881",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -5436,9 +6522,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Chine",
     "langue_officielle": "Chinois (Mandarin), Cantonais",
+    "monnaie_devise": "CNY - Yuan renminbi (¥)",
     "ville": "Hefei Shi",
     "quartier_arrondissement": "Changfeng County",
     "code_postal": "231100",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -5446,9 +6534,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Chine",
     "langue_officielle": "Chinois (Mandarin), Cantonais",
+    "monnaie_devise": "CNY - Yuan renminbi (¥)",
     "ville": "Hefei Shi",
     "quartier_arrondissement": "Feixi County",
     "code_postal": "231200",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -5456,9 +6546,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Chine",
     "langue_officielle": "Chinois (Mandarin), Cantonais",
+    "monnaie_devise": "CNY - Yuan renminbi (¥)",
     "ville": "Hefei Shi",
     "quartier_arrondissement": "Lujiang County",
     "code_postal": "231500",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -5466,9 +6558,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Chine",
     "langue_officielle": "Chinois (Mandarin), Cantonais",
+    "monnaie_devise": "CNY - Yuan renminbi (¥)",
     "ville": "Hefei Shi",
     "quartier_arrondissement": "Feidong County",
     "code_postal": "231600",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -5476,9 +6570,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Chine",
     "langue_officielle": "Chinois (Mandarin), Cantonais",
+    "monnaie_devise": "CNY - Yuan renminbi (¥)",
     "ville": "Hefei Shi",
     "quartier_arrondissement": "Chaohu",
     "code_postal": "238000",
+    "population": "138 463",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -5486,9 +6582,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Chine",
     "langue_officielle": "Chinois (Mandarin), Cantonais",
+    "monnaie_devise": "CNY - Yuan renminbi (¥)",
     "ville": "Wuhu Shi",
     "quartier_arrondissement": "Wuhu",
     "code_postal": "241000",
+    "population": "1 598 165",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -5496,9 +6594,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Chine",
     "langue_officielle": "Chinois (Mandarin), Cantonais",
+    "monnaie_devise": "CNY - Yuan renminbi (¥)",
     "ville": "Wuhu Shi",
     "quartier_arrondissement": "Wuhu County",
     "code_postal": "241100",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -5506,9 +6606,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Chine",
     "langue_officielle": "Chinois (Mandarin), Cantonais",
+    "monnaie_devise": "CNY - Yuan renminbi (¥)",
     "ville": "Wuhu Shi",
     "quartier_arrondissement": "Fanchang County",
     "code_postal": "241200",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -5516,9 +6618,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Chine",
     "langue_officielle": "Chinois (Mandarin), Cantonais",
+    "monnaie_devise": "CNY - Yuan renminbi (¥)",
     "ville": "Wuhu Shi",
     "quartier_arrondissement": "Nanling County",
     "code_postal": "242400",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -5526,9 +6630,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Hong Kong",
     "langue_officielle": "Chinois (Mandarin), Cantonais, Anglais",
+    "monnaie_devise": "HKD - Dollar",
     "ville": "Hong Kong Special Administrative Region",
     "quartier_arrondissement": "Hong Kong Special Administrative Region",
     "code_postal": "999077",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -5536,9 +6642,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Indonésie",
     "langue_officielle": "Indonésien, Anglais, Néerlandais, JV",
+    "monnaie_devise": "IDR - Roupie indonésienne (Rp)",
     "ville": "Amaiteng Mulia",
     "quartier_arrondissement": "Amaiteng Mulia",
     "code_postal": "23891",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -5546,9 +6654,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Indonésie",
     "langue_officielle": "Indonésien, Anglais, Néerlandais, JV",
+    "monnaie_devise": "IDR - Roupie indonésienne (Rp)",
     "ville": "Abail",
     "quartier_arrondissement": "Abail",
     "code_postal": "23891",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -5556,9 +6666,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Indonésie",
     "langue_officielle": "Indonésien, Anglais, Néerlandais, JV",
+    "monnaie_devise": "IDR - Roupie indonésienne (Rp)",
     "ville": "Bulu Hadik",
     "quartier_arrondissement": "Bulu Hadik",
     "code_postal": "23891",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -5566,9 +6678,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Indonésie",
     "langue_officielle": "Indonésien, Anglais, Néerlandais, JV",
+    "monnaie_devise": "IDR - Roupie indonésienne (Rp)",
     "ville": "Alus Alus",
     "quartier_arrondissement": "Alus Alus",
     "code_postal": "23891",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -5576,9 +6690,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Indonésie",
     "langue_officielle": "Indonésien, Anglais, Néerlandais, JV",
+    "monnaie_devise": "IDR - Roupie indonésienne (Rp)",
     "ville": "Tanjung Raya",
     "quartier_arrondissement": "Tanjung Raya",
     "code_postal": "23891",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -5586,9 +6702,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Indonésie",
     "langue_officielle": "Indonésien, Anglais, Néerlandais, JV",
+    "monnaie_devise": "IDR - Roupie indonésienne (Rp)",
     "ville": "Badegong",
     "quartier_arrondissement": "Badegong",
     "code_postal": "23891",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -5596,9 +6714,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Indonésie",
     "langue_officielle": "Indonésien, Anglais, Néerlandais, JV",
+    "monnaie_devise": "IDR - Roupie indonésienne (Rp)",
     "ville": "Suka Karya",
     "quartier_arrondissement": "Suka Karya",
     "code_postal": "23891",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -5606,9 +6726,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Indonésie",
     "langue_officielle": "Indonésien, Anglais, Néerlandais, JV",
+    "monnaie_devise": "IDR - Roupie indonésienne (Rp)",
     "ville": "Lugu Sek Bahak (Sebahak)",
     "quartier_arrondissement": "Lugu Sek Bahak (Sebahak)",
     "code_postal": "23891",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -5616,9 +6738,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Indonésie",
     "langue_officielle": "Indonésien, Anglais, Néerlandais, JV",
+    "monnaie_devise": "IDR - Roupie indonésienne (Rp)",
     "ville": "Kuala Baru",
     "quartier_arrondissement": "Kuala Baru",
     "code_postal": "23891",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -5626,9 +6750,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Indonésie",
     "langue_officielle": "Indonésien, Anglais, Néerlandais, JV",
+    "monnaie_devise": "IDR - Roupie indonésienne (Rp)",
     "ville": "Situbuk",
     "quartier_arrondissement": "Situbuk",
     "code_postal": "23891",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -5636,9 +6762,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Inde",
     "langue_officielle": "Anglais, Hindi, Bengali, Télougou",
+    "monnaie_devise": "INR - Roupie indienne (₹)",
     "ville": "Nicobar",
     "quartier_arrondissement": "Sawai",
     "code_postal": "744301",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -5646,9 +6774,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Inde",
     "langue_officielle": "Anglais, Hindi, Bengali, Télougou",
+    "monnaie_devise": "INR - Roupie indienne (₹)",
     "ville": "Nicobar",
     "quartier_arrondissement": "Kakana",
     "code_postal": "744301",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -5656,9 +6786,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Inde",
     "langue_officielle": "Anglais, Hindi, Bengali, Télougou",
+    "monnaie_devise": "INR - Roupie indienne (₹)",
     "ville": "Nicobar",
     "quartier_arrondissement": "Mus",
     "code_postal": "744301",
+    "population": "82 536",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -5666,9 +6798,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Inde",
     "langue_officielle": "Anglais, Hindi, Bengali, Télougou",
+    "monnaie_devise": "INR - Roupie indienne (₹)",
     "ville": "Nicobar",
     "quartier_arrondissement": "Lapathy",
     "code_postal": "744301",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -5676,9 +6810,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Inde",
     "langue_officielle": "Anglais, Hindi, Bengali, Télougou",
+    "monnaie_devise": "INR - Roupie indienne (₹)",
     "ville": "Nicobar",
     "quartier_arrondissement": "Carnicobar",
     "code_postal": "744301",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -5686,9 +6822,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Inde",
     "langue_officielle": "Anglais, Hindi, Bengali, Télougou",
+    "monnaie_devise": "INR - Roupie indienne (₹)",
     "ville": "Nicobar",
     "quartier_arrondissement": "Campbelbay",
     "code_postal": "744302",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -5696,9 +6834,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Inde",
     "langue_officielle": "Anglais, Hindi, Bengali, Télougou",
+    "monnaie_devise": "INR - Roupie indienne (₹)",
     "ville": "Nicobar",
     "quartier_arrondissement": "Shabnamnagar",
     "code_postal": "744302",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -5706,9 +6846,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Inde",
     "langue_officielle": "Anglais, Hindi, Bengali, Télougou",
+    "monnaie_devise": "INR - Roupie indienne (₹)",
     "ville": "Nicobar",
     "quartier_arrondissement": "Kondul Island",
     "code_postal": "744302",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -5716,9 +6858,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Inde",
     "langue_officielle": "Anglais, Hindi, Bengali, Télougou",
+    "monnaie_devise": "INR - Roupie indienne (₹)",
     "ville": "Nicobar",
     "quartier_arrondissement": "Pilomilo Island",
     "code_postal": "744302",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -5726,9 +6870,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Inde",
     "langue_officielle": "Anglais, Hindi, Bengali, Télougou",
+    "monnaie_devise": "INR - Roupie indienne (₹)",
     "ville": "Nicobar",
     "quartier_arrondissement": "Little Nicobar",
     "code_postal": "744302",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -5736,9 +6882,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Territoire britannique de l'océan Indien",
     "langue_officielle": "Anglais",
+    "monnaie_devise": "USD - Dollar américain ($)",
     "ville": "British Indian Ocean Territory",
     "quartier_arrondissement": "British Indian Ocean Territory",
     "code_postal": "BBND 1ZZ",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -5746,9 +6894,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Japon",
     "langue_officielle": "Japonais",
+    "monnaie_devise": "JPY - Yen japonais (¥)",
     "ville": "Yatomi Shi",
     "quartier_arrondissement": "Rokujocho",
     "code_postal": "490-1401",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -5756,9 +6906,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Japon",
     "langue_officielle": "Japonais",
+    "monnaie_devise": "JPY - Yen japonais (¥)",
     "ville": "Yatomi Shi",
     "quartier_arrondissement": "Gotoyama",
     "code_postal": "490-1402",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -5766,9 +6918,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Japon",
     "langue_officielle": "Japonais",
+    "monnaie_devise": "JPY - Yen japonais (¥)",
     "ville": "Yatomi Shi",
     "quartier_arrondissement": "Toriganjicho",
     "code_postal": "490-1403",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -5776,9 +6930,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Japon",
     "langue_officielle": "Japonais",
+    "monnaie_devise": "JPY - Yen japonais (¥)",
     "ville": "Yatomi Shi",
     "quartier_arrondissement": "Toriganji",
     "code_postal": "490-1403",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -5786,9 +6942,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Japon",
     "langue_officielle": "Japonais",
+    "monnaie_devise": "JPY - Yen japonais (¥)",
     "ville": "Yatomi Shi",
     "quartier_arrondissement": "Ikadaba",
     "code_postal": "490-1404",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -5796,9 +6954,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Japon",
     "langue_officielle": "Japonais",
+    "monnaie_devise": "JPY - Yen japonais (¥)",
     "ville": "Yatomi Shi",
     "quartier_arrondissement": "Kandocho",
     "code_postal": "490-1405",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -5806,9 +6966,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Japon",
     "langue_officielle": "Japonais",
+    "monnaie_devise": "JPY - Yen japonais (¥)",
     "ville": "Yatomi Shi",
     "quartier_arrondissement": "Kando",
     "code_postal": "490-1405",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -5816,9 +6978,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Japon",
     "langue_officielle": "Japonais",
+    "monnaie_devise": "JPY - Yen japonais (¥)",
     "ville": "Yatomi Shi",
     "quartier_arrondissement": "Nabehira",
     "code_postal": "490-1406",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -5826,9 +6990,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Japon",
     "langue_officielle": "Japonais",
+    "monnaie_devise": "JPY - Yen japonais (¥)",
     "ville": "Yatomi Shi",
     "quartier_arrondissement": "Sambyakujima",
     "code_postal": "490-1407",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -5836,9 +7002,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Japon",
     "langue_officielle": "Japonais",
+    "monnaie_devise": "JPY - Yen japonais (¥)",
     "ville": "Yatomi Shi",
     "quartier_arrondissement": "Zentacho",
     "code_postal": "490-1411",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -5846,9 +7014,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Corée du Sud",
     "langue_officielle": "Coréen, Anglais",
+    "monnaie_devise": "KRW - Won sud-coréen (₩)",
     "ville": "제주시",
     "quartier_arrondissement": "추자면",
     "code_postal": "63000",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -5856,9 +7026,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Corée du Sud",
     "langue_officielle": "Coréen, Anglais",
+    "monnaie_devise": "KRW - Won sud-coréen (₩)",
     "ville": "제주시",
     "quartier_arrondissement": "추자면",
     "code_postal": "63001",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -5866,9 +7038,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Corée du Sud",
     "langue_officielle": "Coréen, Anglais",
+    "monnaie_devise": "KRW - Won sud-coréen (₩)",
     "ville": "제주시",
     "quartier_arrondissement": "한경면",
     "code_postal": "63002",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -5876,9 +7050,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Corée du Sud",
     "langue_officielle": "Coréen, Anglais",
+    "monnaie_devise": "KRW - Won sud-coréen (₩)",
     "ville": "제주시",
     "quartier_arrondissement": "한경면",
     "code_postal": "63003",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -5886,9 +7062,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Corée du Sud",
     "langue_officielle": "Coréen, Anglais",
+    "monnaie_devise": "KRW - Won sud-coréen (₩)",
     "ville": "제주시",
     "quartier_arrondissement": "한경면",
     "code_postal": "63004",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -5896,9 +7074,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Corée du Sud",
     "langue_officielle": "Coréen, Anglais",
+    "monnaie_devise": "KRW - Won sud-coréen (₩)",
     "ville": "제주시",
     "quartier_arrondissement": "한경면",
     "code_postal": "63005",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -5906,9 +7086,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Corée du Sud",
     "langue_officielle": "Coréen, Anglais",
+    "monnaie_devise": "KRW - Won sud-coréen (₩)",
     "ville": "제주시",
     "quartier_arrondissement": "한경면",
     "code_postal": "63006",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -5916,9 +7098,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Corée du Sud",
     "langue_officielle": "Coréen, Anglais",
+    "monnaie_devise": "KRW - Won sud-coréen (₩)",
     "ville": "제주시",
     "quartier_arrondissement": "한경면",
     "code_postal": "63007",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -5926,9 +7110,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Corée du Sud",
     "langue_officielle": "Coréen, Anglais",
+    "monnaie_devise": "KRW - Won sud-coréen (₩)",
     "ville": "제주시",
     "quartier_arrondissement": "한경면",
     "code_postal": "63008",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -5936,9 +7122,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Corée du Sud",
     "langue_officielle": "Coréen, Anglais",
+    "monnaie_devise": "KRW - Won sud-coréen (₩)",
     "ville": "제주시",
     "quartier_arrondissement": "한경면",
     "code_postal": "63009",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -5946,9 +7134,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Sri Lanka",
     "langue_officielle": "Cingalais, Tamoul, Anglais",
+    "monnaie_devise": "LKR - Roupie srilankaise (Rs)",
     "ville": "Kandy",
     "quartier_arrondissement": "Kandy (Central Province)",
     "code_postal": "20000",
+    "population": "111 701",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -5956,9 +7146,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Sri Lanka",
     "langue_officielle": "Cingalais, Tamoul, Anglais",
+    "monnaie_devise": "LKR - Roupie srilankaise (Rs)",
     "ville": "Kandy",
     "quartier_arrondissement": "Halloluwa",
     "code_postal": "20032",
+    "population": "111 701",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -5966,9 +7158,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Sri Lanka",
     "langue_officielle": "Cingalais, Tamoul, Anglais",
+    "monnaie_devise": "LKR - Roupie srilankaise (Rs)",
     "ville": "Kandy",
     "quartier_arrondissement": "Yatihalagala",
     "code_postal": "20034",
+    "population": "111 701",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -5976,9 +7170,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Sri Lanka",
     "langue_officielle": "Cingalais, Tamoul, Anglais",
+    "monnaie_devise": "LKR - Roupie srilankaise (Rs)",
     "ville": "Kandy",
     "quartier_arrondissement": "lhala Kobbekaduwa",
     "code_postal": "20042",
+    "population": "111 701",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -5986,9 +7182,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Sri Lanka",
     "langue_officielle": "Cingalais, Tamoul, Anglais",
+    "monnaie_devise": "LKR - Roupie srilankaise (Rs)",
     "ville": "Kandy",
     "quartier_arrondissement": "Sangarajapura",
     "code_postal": "20044",
+    "population": "111 701",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -5996,9 +7194,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Sri Lanka",
     "langue_officielle": "Cingalais, Tamoul, Anglais",
+    "monnaie_devise": "LKR - Roupie srilankaise (Rs)",
     "ville": "Kandy",
     "quartier_arrondissement": "Kulugammana",
     "code_postal": "20048",
+    "population": "111 701",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -6006,9 +7206,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Sri Lanka",
     "langue_officielle": "Cingalais, Tamoul, Anglais",
+    "monnaie_devise": "LKR - Roupie srilankaise (Rs)",
     "ville": "Kandy",
     "quartier_arrondissement": "Uduwa",
     "code_postal": "20052",
+    "population": "111 701",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -6016,9 +7218,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Sri Lanka",
     "langue_officielle": "Cingalais, Tamoul, Anglais",
+    "monnaie_devise": "LKR - Roupie srilankaise (Rs)",
     "ville": "Kandy",
     "quartier_arrondissement": "Hataraliyadda",
     "code_postal": "20060",
+    "population": "111 701",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -6026,9 +7230,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Sri Lanka",
     "langue_officielle": "Cingalais, Tamoul, Anglais",
+    "monnaie_devise": "LKR - Roupie srilankaise (Rs)",
     "ville": "Kandy",
     "quartier_arrondissement": "Aludeniya",
     "code_postal": "20062",
+    "population": "111 701",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -6036,9 +7242,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Sri Lanka",
     "langue_officielle": "Cingalais, Tamoul, Anglais",
+    "monnaie_devise": "LKR - Roupie srilankaise (Rs)",
     "ville": "Kandy",
     "quartier_arrondissement": "Dedunupitiya",
     "code_postal": "20068",
+    "population": "111 701",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -6046,9 +7254,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Macao",
     "langue_officielle": "Chinois (Mandarin), Portugais",
+    "monnaie_devise": "MOP - Pataca",
     "ville": "Macau Special Administrative Region",
     "quartier_arrondissement": "Macau Special Administrative Region",
     "code_postal": "999078",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -6056,9 +7266,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Malaisie",
     "langue_officielle": "Malais, Anglais, Chinois (Mandarin), Tamoul",
+    "monnaie_devise": "MYR - Ringgit malaisien (RM)",
     "ville": "Johor",
     "quartier_arrondissement": "Nusajaya",
     "code_postal": "79000",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -6066,9 +7278,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Malaisie",
     "langue_officielle": "Malais, Anglais, Chinois (Mandarin), Tamoul",
+    "monnaie_devise": "MYR - Ringgit malaisien (RM)",
     "ville": "Johor",
     "quartier_arrondissement": "Nusajaya",
     "code_postal": "79100",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -6076,9 +7290,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Malaisie",
     "langue_officielle": "Malais, Anglais, Chinois (Mandarin), Tamoul",
+    "monnaie_devise": "MYR - Ringgit malaisien (RM)",
     "ville": "Johor",
     "quartier_arrondissement": "Nusajaya",
     "code_postal": "79150",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -6086,9 +7302,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Malaisie",
     "langue_officielle": "Malais, Anglais, Chinois (Mandarin), Tamoul",
+    "monnaie_devise": "MYR - Ringgit malaisien (RM)",
     "ville": "Johor",
     "quartier_arrondissement": "Nusajaya",
     "code_postal": "79200",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -6096,9 +7314,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Malaisie",
     "langue_officielle": "Malais, Anglais, Chinois (Mandarin), Tamoul",
+    "monnaie_devise": "MYR - Ringgit malaisien (RM)",
     "ville": "Johor",
     "quartier_arrondissement": "Nusajaya",
     "code_postal": "79250",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -6106,9 +7326,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Malaisie",
     "langue_officielle": "Malais, Anglais, Chinois (Mandarin), Tamoul",
+    "monnaie_devise": "MYR - Ringgit malaisien (RM)",
     "ville": "Johor",
     "quartier_arrondissement": "Nusajaya",
     "code_postal": "79502",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -6116,9 +7338,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Malaisie",
     "langue_officielle": "Malais, Anglais, Chinois (Mandarin), Tamoul",
+    "monnaie_devise": "MYR - Ringgit malaisien (RM)",
     "ville": "Johor",
     "quartier_arrondissement": "Nusajaya",
     "code_postal": "79503",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -6126,9 +7350,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Malaisie",
     "langue_officielle": "Malais, Anglais, Chinois (Mandarin), Tamoul",
+    "monnaie_devise": "MYR - Ringgit malaisien (RM)",
     "ville": "Johor",
     "quartier_arrondissement": "Nusajaya",
     "code_postal": "79504",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -6136,9 +7362,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Malaisie",
     "langue_officielle": "Malais, Anglais, Chinois (Mandarin), Tamoul",
+    "monnaie_devise": "MYR - Ringgit malaisien (RM)",
     "ville": "Johor",
     "quartier_arrondissement": "Nusajaya",
     "code_postal": "79505",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -6146,9 +7374,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Malaisie",
     "langue_officielle": "Malais, Anglais, Chinois (Mandarin), Tamoul",
+    "monnaie_devise": "MYR - Ringgit malaisien (RM)",
     "ville": "Johor",
     "quartier_arrondissement": "Nusajaya",
     "code_postal": "79511",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -6156,9 +7386,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Philippines",
     "langue_officielle": "Tagalog, Anglais, Filipino, CEB",
+    "monnaie_devise": "PHP - Peso philippin (₱)",
     "ville": "Province of Ilocos Norte",
     "quartier_arrondissement": "Laoag City",
     "code_postal": "2900",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -6166,9 +7398,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Philippines",
     "langue_officielle": "Tagalog, Anglais, Filipino, CEB",
+    "monnaie_devise": "PHP - Peso philippin (₱)",
     "ville": "Province of Ilocos Norte",
     "quartier_arrondissement": "San Nicolas",
     "code_postal": "2901",
+    "population": "34 237",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -6176,9 +7410,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Philippines",
     "langue_officielle": "Tagalog, Anglais, Filipino, CEB",
+    "monnaie_devise": "PHP - Peso philippin (₱)",
     "ville": "Province of Ilocos Norte",
     "quartier_arrondissement": "Paoay",
     "code_postal": "2902",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -6186,9 +7422,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Philippines",
     "langue_officielle": "Tagalog, Anglais, Filipino, CEB",
+    "monnaie_devise": "PHP - Peso philippin (₱)",
     "ville": "Province of Ilocos Norte",
     "quartier_arrondissement": "Currimao",
     "code_postal": "2903",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -6196,9 +7434,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Philippines",
     "langue_officielle": "Tagalog, Anglais, Filipino, CEB",
+    "monnaie_devise": "PHP - Peso philippin (₱)",
     "ville": "Province of Ilocos Norte",
     "quartier_arrondissement": "Badoc",
     "code_postal": "2904",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -6206,9 +7446,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Philippines",
     "langue_officielle": "Tagalog, Anglais, Filipino, CEB",
+    "monnaie_devise": "PHP - Peso philippin (₱)",
     "ville": "Province of Ilocos Norte",
     "quartier_arrondissement": "Pinili",
     "code_postal": "2905",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -6216,9 +7458,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Philippines",
     "langue_officielle": "Tagalog, Anglais, Filipino, CEB",
+    "monnaie_devise": "PHP - Peso philippin (₱)",
     "ville": "Province of Ilocos Norte",
     "quartier_arrondissement": "Batac",
     "code_postal": "2906",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -6226,9 +7470,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Philippines",
     "langue_officielle": "Tagalog, Anglais, Filipino, CEB",
+    "monnaie_devise": "PHP - Peso philippin (₱)",
     "ville": "Province of Ilocos Norte",
     "quartier_arrondissement": "Marcos",
     "code_postal": "2907",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -6236,9 +7482,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Philippines",
     "langue_officielle": "Tagalog, Anglais, Filipino, CEB",
+    "monnaie_devise": "PHP - Peso philippin (₱)",
     "ville": "Province of Ilocos Norte",
     "quartier_arrondissement": "Banna (formerly Espiritu)",
     "code_postal": "2908",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -6246,9 +7494,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Philippines",
     "langue_officielle": "Tagalog, Anglais, Filipino, CEB",
+    "monnaie_devise": "PHP - Peso philippin (₱)",
     "ville": "Province of Ilocos Norte",
     "quartier_arrondissement": "Nueva Era",
     "code_postal": "2909",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -6256,9 +7506,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Pakistan",
     "langue_officielle": "Ourdou, Anglais, Pendjabi, SD",
+    "monnaie_devise": "PKR - Roupie pakistanaise (₨)",
     "ville": "Balochistan",
     "quartier_arrondissement": "Sui Gas Field Sibi",
     "code_postal": "80000",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -6266,9 +7518,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Pakistan",
     "langue_officielle": "Ourdou, Anglais, Pendjabi, SD",
+    "monnaie_devise": "PKR - Roupie pakistanaise (₨)",
     "ville": "Balochistan",
     "quartier_arrondissement": "Dera Bugti",
     "code_postal": "80100",
+    "population": "18 120",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -6276,9 +7530,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Pakistan",
     "langue_officielle": "Ourdou, Anglais, Pendjabi, SD",
+    "monnaie_devise": "PKR - Roupie pakistanaise (₨)",
     "ville": "Balochistan",
     "quartier_arrondissement": "Manjhi Pur",
     "code_postal": "80200",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -6286,9 +7542,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Pakistan",
     "langue_officielle": "Ourdou, Anglais, Pendjabi, SD",
+    "monnaie_devise": "PKR - Roupie pakistanaise (₨)",
     "ville": "Balochistan",
     "quartier_arrondissement": "Usta Muhammad",
     "code_postal": "80300",
+    "population": "64 632",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -6296,9 +7554,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Pakistan",
     "langue_officielle": "Ourdou, Anglais, Pendjabi, SD",
+    "monnaie_devise": "PKR - Roupie pakistanaise (₨)",
     "ville": "Balochistan",
     "quartier_arrondissement": "Dr.Azizullah Salakzai",
     "code_postal": "80310",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -6306,9 +7566,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Pakistan",
     "langue_officielle": "Ourdou, Anglais, Pendjabi, SD",
+    "monnaie_devise": "PKR - Roupie pakistanaise (₨)",
     "ville": "Balochistan",
     "quartier_arrondissement": "Gandakha",
     "code_postal": "80400",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -6316,9 +7578,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Pakistan",
     "langue_officielle": "Ourdou, Anglais, Pendjabi, SD",
+    "monnaie_devise": "PKR - Roupie pakistanaise (₨)",
     "ville": "Balochistan",
     "quartier_arrondissement": "Dera Allayyar",
     "code_postal": "80500",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -6326,9 +7590,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Pakistan",
     "langue_officielle": "Ourdou, Anglais, Pendjabi, SD",
+    "monnaie_devise": "PKR - Roupie pakistanaise (₨)",
     "ville": "Balochistan",
     "quartier_arrondissement": "Sohbat Pur",
     "code_postal": "80600",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -6336,9 +7602,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Pakistan",
     "langue_officielle": "Ourdou, Anglais, Pendjabi, SD",
+    "monnaie_devise": "PKR - Roupie pakistanaise (₨)",
     "ville": "Balochistan",
     "quartier_arrondissement": "Dear Murad Jamali",
     "code_postal": "80700",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -6346,9 +7614,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Pakistan",
     "langue_officielle": "Ourdou, Anglais, Pendjabi, SD",
+    "monnaie_devise": "PKR - Roupie pakistanaise (₨)",
     "ville": "Balochistan",
     "quartier_arrondissement": "Chattar",
     "code_postal": "80800",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -6356,9 +7626,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Singapour",
     "langue_officielle": "Mandarin, Anglais, Malais, Tamoul",
+    "monnaie_devise": "SGD - Dollar de Singapour ($S)",
     "ville": "Straits Boulevard",
     "quartier_arrondissement": "Straits Boulevard",
     "code_postal": "018906",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -6366,9 +7638,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Singapour",
     "langue_officielle": "Mandarin, Anglais, Malais, Tamoul",
+    "monnaie_devise": "SGD - Dollar de Singapour ($S)",
     "ville": "Straits Boulevard",
     "quartier_arrondissement": "Straits Boulevard",
     "code_postal": "018907",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -6376,9 +7650,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Singapour",
     "langue_officielle": "Mandarin, Anglais, Malais, Tamoul",
+    "monnaie_devise": "SGD - Dollar de Singapour ($S)",
     "ville": "Marina Gardens Drive",
     "quartier_arrondissement": "Marina Gardens Drive",
     "code_postal": "018910",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -6386,9 +7662,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Singapour",
     "langue_officielle": "Mandarin, Anglais, Malais, Tamoul",
+    "monnaie_devise": "SGD - Dollar de Singapour ($S)",
     "ville": "Central Boulevard",
     "quartier_arrondissement": "Central Boulevard",
     "code_postal": "018915",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -6396,9 +7674,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Singapour",
     "langue_officielle": "Mandarin, Anglais, Malais, Tamoul",
+    "monnaie_devise": "SGD - Dollar de Singapour ($S)",
     "ville": "Central Boulevard",
     "quartier_arrondissement": "Central Boulevard",
     "code_postal": "018916",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -6406,9 +7686,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Singapour",
     "langue_officielle": "Mandarin, Anglais, Malais, Tamoul",
+    "monnaie_devise": "SGD - Dollar de Singapour ($S)",
     "ville": "Park Street",
     "quartier_arrondissement": "Park Street",
     "code_postal": "018925",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -6416,9 +7698,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Singapour",
     "langue_officielle": "Mandarin, Anglais, Malais, Tamoul",
+    "monnaie_devise": "SGD - Dollar de Singapour ($S)",
     "ville": "Park Street",
     "quartier_arrondissement": "Park Street",
     "code_postal": "018926",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -6426,9 +7710,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Singapour",
     "langue_officielle": "Mandarin, Anglais, Malais, Tamoul",
+    "monnaie_devise": "SGD - Dollar de Singapour ($S)",
     "ville": "Park Street",
     "quartier_arrondissement": "Park Street",
     "code_postal": "018927",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -6436,9 +7722,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Singapour",
     "langue_officielle": "Mandarin, Anglais, Malais, Tamoul",
+    "monnaie_devise": "SGD - Dollar de Singapour ($S)",
     "ville": "Park Street",
     "quartier_arrondissement": "Park Street",
     "code_postal": "018928",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -6446,9 +7734,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Singapour",
     "langue_officielle": "Mandarin, Anglais, Malais, Tamoul",
+    "monnaie_devise": "SGD - Dollar de Singapour ($S)",
     "ville": "Park Street",
     "quartier_arrondissement": "Park Street",
     "code_postal": "018929",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -6456,9 +7746,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Thaïlande",
     "langue_officielle": "Thaï, Anglais",
+    "monnaie_devise": "THB - Baht thaïlandais (฿)",
     "ville": "Bangkok",
     "quartier_arrondissement": "Samphanthawong",
     "code_postal": "10100",
+    "population": "24 150",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -6466,9 +7758,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Thaïlande",
     "langue_officielle": "Thaï, Anglais",
+    "monnaie_devise": "THB - Baht thaïlandais (฿)",
     "ville": "Bangkok",
     "quartier_arrondissement": "Pom Prap Sattru Phai",
     "code_postal": "10100",
+    "population": "51 006",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -6476,9 +7770,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Thaïlande",
     "langue_officielle": "Thaï, Anglais",
+    "monnaie_devise": "THB - Baht thaïlandais (฿)",
     "ville": "Bangkok",
     "quartier_arrondissement": "Wattana",
     "code_postal": "10110",
+    "population": "5 104 476",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -6486,9 +7782,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Thaïlande",
     "langue_officielle": "Thaï, Anglais",
+    "monnaie_devise": "THB - Baht thaïlandais (฿)",
     "ville": "Bangkok",
     "quartier_arrondissement": "Yannawa",
     "code_postal": "10120",
+    "population": "5 104 476",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -6496,9 +7794,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Thaïlande",
     "langue_officielle": "Thaï, Anglais",
+    "monnaie_devise": "THB - Baht thaïlandais (฿)",
     "ville": "Bangkok",
     "quartier_arrondissement": "Bang Kholame",
     "code_postal": "10120",
+    "population": "5 104 476",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -6506,9 +7806,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Thaïlande",
     "langue_officielle": "Thaï, Anglais",
+    "monnaie_devise": "THB - Baht thaïlandais (฿)",
     "ville": "Bangkok",
     "quartier_arrondissement": "Thung Khru",
     "code_postal": "10140",
+    "population": "116 473",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -6516,9 +7818,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Thaïlande",
     "langue_officielle": "Thaï, Anglais",
+    "monnaie_devise": "THB - Baht thaïlandais (฿)",
     "ville": "Bangkok",
     "quartier_arrondissement": "Rat Burana",
     "code_postal": "10140",
+    "population": "86 695",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -6526,9 +7830,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Thaïlande",
     "langue_officielle": "Thaï, Anglais",
+    "monnaie_devise": "THB - Baht thaïlandais (฿)",
     "ville": "Bangkok",
     "quartier_arrondissement": "Bang Bon",
     "code_postal": "10150",
+    "population": "105 161",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -6536,9 +7842,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Thaïlande",
     "langue_officielle": "Thaï, Anglais",
+    "monnaie_devise": "THB - Baht thaïlandais (฿)",
     "ville": "Bangkok",
     "quartier_arrondissement": "Bang Khun Thian",
     "code_postal": "10150",
+    "population": "165 491",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -6546,9 +7854,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Thaïlande",
     "langue_officielle": "Thaï, Anglais",
+    "monnaie_devise": "THB - Baht thaïlandais (฿)",
     "ville": "Bangkok",
     "quartier_arrondissement": "Phasi Charoen",
     "code_postal": "10160",
+    "population": "122 070",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -6556,9 +7866,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Turquie",
     "langue_officielle": "Turc, KU, DIQ, Azéri",
+    "monnaie_devise": "TRY - Livre turque (₺)",
     "ville": "Gerger",
     "quartier_arrondissement": "Dağdeviren",
     "code_postal": "02700",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -6566,9 +7878,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Turquie",
     "langue_officielle": "Turc, KU, DIQ, Azéri",
+    "monnaie_devise": "TRY - Livre turque (₺)",
     "ville": "Gerger",
     "quartier_arrondissement": "Oymakli",
     "code_postal": "02700",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -6576,9 +7890,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Turquie",
     "langue_officielle": "Turc, KU, DIQ, Azéri",
+    "monnaie_devise": "TRY - Livre turque (₺)",
     "ville": "Gerger",
     "quartier_arrondissement": "Kiliç",
     "code_postal": "02700",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -6586,9 +7902,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Turquie",
     "langue_officielle": "Turc, KU, DIQ, Azéri",
+    "monnaie_devise": "TRY - Livre turque (₺)",
     "ville": "Gerger",
     "quartier_arrondissement": "Kesertaş",
     "code_postal": "02700",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -6596,9 +7914,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Turquie",
     "langue_officielle": "Turc, KU, DIQ, Azéri",
+    "monnaie_devise": "TRY - Livre turque (₺)",
     "ville": "Gerger",
     "quartier_arrondissement": "Ağaçli",
     "code_postal": "02700",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -6606,9 +7926,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Turquie",
     "langue_officielle": "Turc, KU, DIQ, Azéri",
+    "monnaie_devise": "TRY - Livre turque (₺)",
     "ville": "Gerger",
     "quartier_arrondissement": "Beşgöze",
     "code_postal": "02700",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -6616,9 +7938,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Turquie",
     "langue_officielle": "Turc, KU, DIQ, Azéri",
+    "monnaie_devise": "TRY - Livre turque (₺)",
     "ville": "Gerger",
     "quartier_arrondissement": "Gürgenli",
     "code_postal": "02700",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -6626,9 +7950,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Turquie",
     "langue_officielle": "Turc, KU, DIQ, Azéri",
+    "monnaie_devise": "TRY - Livre turque (₺)",
     "ville": "Gerger",
     "quartier_arrondissement": "Ortaca",
     "code_postal": "02700",
+    "population": "19 741",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -6636,9 +7962,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Turquie",
     "langue_officielle": "Turc, KU, DIQ, Azéri",
+    "monnaie_devise": "TRY - Livre turque (₺)",
     "ville": "Gerger",
     "quartier_arrondissement": "Seyitmahmut",
     "code_postal": "02700",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -6646,9 +7974,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Turquie",
     "langue_officielle": "Turc, KU, DIQ, Azéri",
+    "monnaie_devise": "TRY - Livre turque (₺)",
     "ville": "Gerger",
     "quartier_arrondissement": "Koşarlar",
     "code_postal": "02700",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -6656,9 +7986,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Afghanistan",
     "langue_officielle": "Persan, Pachto, Ouzbek, Turkmène",
+    "monnaie_devise": "AFN - Afghani afghan (؋)",
     "ville": "Zaranj",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Zaranj)",
     "code_postal": "",
+    "population": "49 851",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -6666,9 +7998,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Afghanistan",
     "langue_officielle": "Persan, Pachto, Ouzbek, Turkmène",
+    "monnaie_devise": "AFN - Afghani afghan (؋)",
     "ville": "Bāzār-e Yakāwlang",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Bāzār-e Yakāwlang)",
     "code_postal": "",
+    "population": "65 000",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -6676,9 +8010,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Afghanistan",
     "langue_officielle": "Persan, Pachto, Ouzbek, Turkmène",
+    "monnaie_devise": "AFN - Afghani afghan (؋)",
     "ville": "Taloqan",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Taloqan)",
     "code_postal": "",
+    "population": "64 256",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -6686,9 +8022,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Afghanistan",
     "langue_officielle": "Persan, Pachto, Ouzbek, Turkmène",
+    "monnaie_devise": "AFN - Afghani afghan (؋)",
     "ville": "Shīnḏanḏ",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Shīnḏanḏ)",
     "code_postal": "",
+    "population": "29 264",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -6696,9 +8034,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Afghanistan",
     "langue_officielle": "Persan, Pachto, Ouzbek, Turkmène",
+    "monnaie_devise": "AFN - Afghani afghan (؋)",
     "ville": "Shibirghān",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Shibirghān)",
     "code_postal": "",
+    "population": "55 641",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -6706,9 +8046,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Afghanistan",
     "langue_officielle": "Persan, Pachto, Ouzbek, Turkmène",
+    "monnaie_devise": "AFN - Afghani afghan (؋)",
     "ville": "Shahrak",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Shahrak)",
     "code_postal": "",
+    "population": "15 967",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -6716,9 +8058,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Afghanistan",
     "langue_officielle": "Persan, Pachto, Ouzbek, Turkmène",
+    "monnaie_devise": "AFN - Afghani afghan (؋)",
     "ville": "Sar-e Pul",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Sar-e Pul)",
     "code_postal": "",
+    "population": "52 121",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -6726,9 +8070,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Afghanistan",
     "langue_officielle": "Persan, Pachto, Ouzbek, Turkmène",
+    "monnaie_devise": "AFN - Afghani afghan (؋)",
     "ville": "Sang-e Chārak",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Sang-e Chārak)",
     "code_postal": "",
+    "population": "15 377",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -6736,9 +8082,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Afghanistan",
     "langue_officielle": "Persan, Pachto, Ouzbek, Turkmène",
+    "monnaie_devise": "AFN - Afghani afghan (؋)",
     "ville": "Aībak",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Aībak)",
     "code_postal": "",
+    "population": "47 823",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -6746,9 +8094,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Afghanistan",
     "langue_officielle": "Persan, Pachto, Ouzbek, Turkmène",
+    "monnaie_devise": "AFN - Afghani afghan (؋)",
     "ville": "Rustāq",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Rustāq)",
     "code_postal": "",
+    "population": "25 636",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -6756,9 +8106,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Bahreïn",
     "langue_officielle": "Arabe, Anglais, Persan, Ourdou",
+    "monnaie_devise": "BHD - Dinar bahreïni (BD)",
     "ville": "Sitrah",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Sitrah)",
     "code_postal": "",
+    "population": "72 601",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -6766,9 +8118,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Bahreïn",
     "langue_officielle": "Arabe, Anglais, Persan, Ourdou",
+    "monnaie_devise": "BHD - Dinar bahreïni (BD)",
     "ville": "Madīnat ‘Īsá",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Madīnat ‘Īsá)",
     "code_postal": "",
+    "population": "38 090",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -6776,9 +8130,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Bahreïn",
     "langue_officielle": "Arabe, Anglais, Persan, Ourdou",
+    "monnaie_devise": "BHD - Dinar bahreïni (BD)",
     "ville": "Jidd Ḩafş",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Jidd Ḩafş)",
     "code_postal": "",
+    "population": "66 588",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -6786,9 +8142,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Bahreïn",
     "langue_officielle": "Arabe, Anglais, Persan, Ourdou",
+    "monnaie_devise": "BHD - Dinar bahreïni (BD)",
     "ville": "Madīnat Ḩamad",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Madīnat Ḩamad)",
     "code_postal": "",
+    "population": "133 550",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -6796,9 +8154,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Bahreïn",
     "langue_officielle": "Arabe, Anglais, Persan, Ourdou",
+    "monnaie_devise": "BHD - Dinar bahreïni (BD)",
     "ville": "Dār Kulayb",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Dār Kulayb)",
     "code_postal": "",
+    "population": "65 466",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -6806,9 +8166,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Bahreïn",
     "langue_officielle": "Arabe, Anglais, Persan, Ourdou",
+    "monnaie_devise": "BHD - Dinar bahreïni (BD)",
     "ville": "Al Muharraq",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Al Muharraq)",
     "code_postal": "",
+    "population": "176 583",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -6816,9 +8178,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Bahreïn",
     "langue_officielle": "Arabe, Anglais, Persan, Ourdou",
+    "monnaie_devise": "BHD - Dinar bahreïni (BD)",
     "ville": "Manama",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Manama)",
     "code_postal": "",
+    "population": "147 074",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -6826,9 +8190,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Bahreïn",
     "langue_officielle": "Arabe, Anglais, Persan, Ourdou",
+    "monnaie_devise": "BHD - Dinar bahreïni (BD)",
     "ville": "Ar Rifā‘",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Ar Rifā‘)",
     "code_postal": "",
+    "population": "115 495",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -6836,9 +8202,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Brunéi",
     "langue_officielle": "Malais, Anglais",
+    "monnaie_devise": "BND - Dollar",
     "ville": "Tutong",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Tutong)",
     "code_postal": "",
+    "population": "19 151",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -6846,9 +8214,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Brunéi",
     "langue_officielle": "Malais, Anglais",
+    "monnaie_devise": "BND - Dollar",
     "ville": "Kuala Belait",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Kuala Belait)",
     "code_postal": "",
+    "population": "31 178",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -6856,9 +8226,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Brunéi",
     "langue_officielle": "Malais, Anglais",
+    "monnaie_devise": "BND - Dollar",
     "ville": "Liang",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Liang)",
     "code_postal": "",
+    "population": "16 813",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -6866,9 +8238,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Brunéi",
     "langue_officielle": "Malais, Anglais",
+    "monnaie_devise": "BND - Dollar",
     "ville": "Serasa",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Serasa)",
     "code_postal": "",
+    "population": "18 569",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -6876,9 +8250,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Brunéi",
     "langue_officielle": "Malais, Anglais",
+    "monnaie_devise": "BND - Dollar",
     "ville": "Sengkurong",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Sengkurong)",
     "code_postal": "",
+    "population": "40 972",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -6886,9 +8262,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Brunéi",
     "langue_officielle": "Malais, Anglais",
+    "monnaie_devise": "BND - Dollar",
     "ville": "Mentiri",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Mentiri)",
     "code_postal": "",
+    "population": "39 324",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -6896,9 +8274,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Brunéi",
     "langue_officielle": "Malais, Anglais",
+    "monnaie_devise": "BND - Dollar",
     "ville": "Bandar Seri Begawan",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Bandar Seri Begawan)",
     "code_postal": "",
+    "population": "64 409",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -6906,9 +8286,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Bhoutan",
     "langue_officielle": "Dzongkha",
+    "monnaie_devise": "BTN - Ngultrum",
     "ville": "Thimphu",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Thimphu)",
     "code_postal": "",
+    "population": "98 676",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -6916,9 +8298,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Bhoutan",
     "langue_officielle": "Dzongkha",
+    "monnaie_devise": "BTN - Ngultrum",
     "ville": "Punākha",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Punākha)",
     "code_postal": "",
+    "population": "21 500",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -6926,9 +8310,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Bhoutan",
     "langue_officielle": "Dzongkha",
+    "monnaie_devise": "BTN - Ngultrum",
     "ville": "Phuntsholing",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Phuntsholing)",
     "code_postal": "",
+    "population": "27 658",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -6936,9 +8322,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Bhoutan",
     "langue_officielle": "Dzongkha",
+    "monnaie_devise": "BTN - Ngultrum",
     "ville": "Tsirang",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Tsirang)",
     "code_postal": "",
+    "population": "22 376",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -6946,9 +8334,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Géorgie",
     "langue_officielle": "Géorgien, Russe, Arménien, Azéri",
+    "monnaie_devise": "GEL - Lari géorgien (₾)",
     "ville": "Zugdidi",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Zugdidi)",
     "code_postal": "",
+    "population": "40 067",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -6956,9 +8346,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Géorgie",
     "langue_officielle": "Géorgien, Russe, Arménien, Azéri",
+    "monnaie_devise": "GEL - Lari géorgien (₾)",
     "ville": "Zestaponi",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Zestaponi)",
     "code_postal": "",
+    "population": "20 183",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -6966,9 +8358,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Géorgie",
     "langue_officielle": "Géorgien, Russe, Arménien, Azéri",
+    "monnaie_devise": "GEL - Lari géorgien (₾)",
     "ville": "Ts’khinvali",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Ts’khinvali)",
     "code_postal": "",
+    "population": "32 180",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -6976,9 +8370,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Géorgie",
     "langue_officielle": "Géorgien, Russe, Arménien, Azéri",
+    "monnaie_devise": "GEL - Lari géorgien (₾)",
     "ville": "Telavi",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Telavi)",
     "code_postal": "",
+    "population": "19 875",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -6986,9 +8382,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Géorgie",
     "langue_officielle": "Géorgien, Russe, Arménien, Azéri",
+    "monnaie_devise": "GEL - Lari géorgien (₾)",
     "ville": "Tbilisi",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Tbilisi)",
     "code_postal": "",
+    "population": "1 049 498",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -6996,9 +8394,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Géorgie",
     "langue_officielle": "Géorgien, Russe, Arménien, Azéri",
+    "monnaie_devise": "GEL - Lari géorgien (₾)",
     "ville": "Sokhumi",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Sokhumi)",
     "code_postal": "",
+    "population": "65 439",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -7006,9 +8406,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Géorgie",
     "langue_officielle": "Géorgien, Russe, Arménien, Azéri",
+    "monnaie_devise": "GEL - Lari géorgien (₾)",
     "ville": "Samtredia",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Samtredia)",
     "code_postal": "",
+    "population": "21 063",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -7016,9 +8418,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Géorgie",
     "langue_officielle": "Géorgien, Russe, Arménien, Azéri",
+    "monnaie_devise": "GEL - Lari géorgien (₾)",
     "ville": "Rustavi",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Rustavi)",
     "code_postal": "",
+    "population": "128 249",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -7026,9 +8430,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Géorgie",
     "langue_officielle": "Géorgien, Russe, Arménien, Azéri",
+    "monnaie_devise": "GEL - Lari géorgien (₾)",
     "ville": "Poti",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Poti)",
     "code_postal": "",
+    "population": "41 175",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -7036,9 +8442,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Géorgie",
     "langue_officielle": "Géorgien, Russe, Arménien, Azéri",
+    "monnaie_devise": "GEL - Lari géorgien (₾)",
     "ville": "Marneuli",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Marneuli)",
     "code_postal": "",
+    "population": "26 400",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -7046,9 +8454,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Israël",
     "langue_officielle": "Hébreu, Arabe, Anglais",
+    "monnaie_devise": "ILS - Nouveau Shekel israélien (₪)",
     "ville": "Jerusalem",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Jerusalem)",
     "code_postal": "",
+    "population": "971 800",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -7056,9 +8466,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Israël",
     "langue_officielle": "Hébreu, Arabe, Anglais",
+    "monnaie_devise": "ILS - Nouveau Shekel israélien (₪)",
     "ville": "Giv`at H̱ananya",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Giv`at H̱ananya)",
     "code_postal": "",
+    "population": "15 500",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -7066,9 +8478,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Israël",
     "langue_officielle": "Hébreu, Arabe, Anglais",
+    "monnaie_devise": "ILS - Nouveau Shekel israélien (₪)",
     "ville": "Modi‘in Makkabbim Re‘ut",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Modi‘in Makkabbim Re‘ut)",
     "code_postal": "",
+    "population": "93 277",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -7076,9 +8490,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Israël",
     "langue_officielle": "Hébreu, Arabe, Anglais",
+    "monnaie_devise": "ILS - Nouveau Shekel israélien (₪)",
     "ville": "Zikhron Ya‘aqov",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Zikhron Ya‘aqov)",
     "code_postal": "",
+    "population": "23 206",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -7086,9 +8502,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Israël",
     "langue_officielle": "Hébreu, Arabe, Anglais",
+    "monnaie_devise": "ILS - Nouveau Shekel israélien (₪)",
     "ville": "Safed",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Safed)",
     "code_postal": "",
+    "population": "36 094",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -7096,9 +8514,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Israël",
     "langue_officielle": "Hébreu, Arabe, Anglais",
+    "monnaie_devise": "ILS - Nouveau Shekel israélien (₪)",
     "ville": "Yoqne‘am ‘Illit",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Yoqne‘am ‘Illit)",
     "code_postal": "",
+    "population": "23 796",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -7106,9 +8526,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Israël",
     "langue_officielle": "Hébreu, Arabe, Anglais",
+    "monnaie_devise": "ILS - Nouveau Shekel israélien (₪)",
     "ville": "Yirkā",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Yirkā)",
     "code_postal": "",
+    "population": "17 171",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -7116,9 +8538,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Israël",
     "langue_officielle": "Hébreu, Arabe, Anglais",
+    "monnaie_devise": "ILS - Nouveau Shekel israélien (₪)",
     "ville": "Yehud Monosson",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Yehud Monosson)",
     "code_postal": "",
+    "population": "25 600",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -7126,9 +8550,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Israël",
     "langue_officielle": "Hébreu, Arabe, Anglais",
+    "monnaie_devise": "ILS - Nouveau Shekel israélien (₪)",
     "ville": "Yavné",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Yavné)",
     "code_postal": "",
+    "population": "47 585",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -7136,9 +8562,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Israël",
     "langue_officielle": "Hébreu, Arabe, Anglais",
+    "monnaie_devise": "ILS - Nouveau Shekel israélien (₪)",
     "ville": "Jaffa",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Jaffa)",
     "code_postal": "",
+    "population": "100 000",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -7146,9 +8574,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Irak",
     "langue_officielle": "Arabe, KU, Arménien",
+    "monnaie_devise": "IQD - Dinar irakien (ع.د)",
     "ville": "Zaxo",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Zaxo)",
     "code_postal": "",
+    "population": "95 052",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -7156,9 +8586,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Irak",
     "langue_officielle": "Arabe, KU, Arménien",
+    "monnaie_devise": "IQD - Dinar irakien (ع.د)",
     "ville": "Umm Qaşr",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Umm Qaşr)",
     "code_postal": "",
+    "population": "107 620",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -7166,9 +8598,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Irak",
     "langue_officielle": "Arabe, KU, Arménien",
+    "monnaie_devise": "IQD - Dinar irakien (ع.د)",
     "ville": "Ţūz Khūrmātū",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Ţūz Khūrmātū)",
     "code_postal": "",
+    "population": "120 712",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -7176,9 +8610,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Irak",
     "langue_officielle": "Arabe, KU, Arménien",
+    "monnaie_devise": "IQD - Dinar irakien (ع.د)",
     "ville": "Tikrīt",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Tikrīt)",
     "code_postal": "",
+    "population": "42 477",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -7186,9 +8622,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Irak",
     "langue_officielle": "Arabe, KU, Arménien",
+    "monnaie_devise": "IQD - Dinar irakien (ع.د)",
     "ville": "Tāzah Khūrmātū",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Tāzah Khūrmātū)",
     "code_postal": "",
+    "population": "21 788",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -7196,9 +8634,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Irak",
     "langue_officielle": "Arabe, KU, Arménien",
+    "monnaie_devise": "IQD - Dinar irakien (ع.د)",
     "ville": "Tallkayf",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Tallkayf)",
     "code_postal": "",
+    "population": "23 524",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -7206,9 +8646,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Irak",
     "langue_officielle": "Arabe, KU, Arménien",
+    "monnaie_devise": "IQD - Dinar irakien (ع.د)",
     "ville": "Sumayl",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Sumayl)",
     "code_postal": "",
+    "population": "152 512",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -7216,9 +8658,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Irak",
     "langue_officielle": "Arabe, KU, Arménien",
+    "monnaie_devise": "IQD - Dinar irakien (ع.د)",
     "ville": "Sīnah",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Sīnah)",
     "code_postal": "",
+    "population": "128 776",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -7226,9 +8670,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Irak",
     "langue_officielle": "Arabe, KU, Arménien",
+    "monnaie_devise": "IQD - Dinar irakien (ع.د)",
     "ville": "Ash Sharqāt",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Ash Sharqāt)",
     "code_postal": "",
+    "population": "160 000",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -7236,9 +8682,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Irak",
     "langue_officielle": "Arabe, KU, Arménien",
+    "monnaie_devise": "IQD - Dinar irakien (ع.د)",
     "ville": "Shaqlāwah",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Shaqlāwah)",
     "code_postal": "",
+    "population": "32 599",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -7246,9 +8694,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Iran",
     "langue_officielle": "Persan, KU",
+    "monnaie_devise": "IRR - Rial iranien (﷼)",
     "ville": "Shahrak-e Qods",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Shahrak-e Qods)",
     "code_postal": "",
+    "population": "29 774",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -7256,9 +8706,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Iran",
     "langue_officielle": "Persan, KU",
+    "monnaie_devise": "IRR - Rial iranien (﷼)",
     "ville": "Lavāsān",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Lavāsān)",
     "code_postal": "",
+    "population": "18 146",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -7266,9 +8718,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Iran",
     "langue_officielle": "Persan, KU",
+    "monnaie_devise": "IRR - Rial iranien (﷼)",
     "ville": "Alvand",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Alvand)",
     "code_postal": "",
+    "population": "90 000",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -7276,9 +8730,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Iran",
     "langue_officielle": "Persan, KU",
+    "monnaie_devise": "IRR - Rial iranien (﷼)",
     "ville": "Zīr Āb",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Zīr Āb)",
     "code_postal": "",
+    "population": "16 191",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -7286,9 +8742,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Iran",
     "langue_officielle": "Persan, KU",
+    "monnaie_devise": "IRR - Rial iranien (﷼)",
     "ville": "Bostānābād",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Bostānābād)",
     "code_postal": "",
+    "population": "21 734",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -7296,9 +8754,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Iran",
     "langue_officielle": "Persan, KU",
+    "monnaie_devise": "IRR - Rial iranien (﷼)",
     "ville": "Nūrābād",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Nūrābād)",
     "code_postal": "",
+    "population": "65 547",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -7306,9 +8766,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Iran",
     "langue_officielle": "Persan, KU",
+    "monnaie_devise": "IRR - Rial iranien (﷼)",
     "ville": "Javānrūd",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Javānrūd)",
     "code_postal": "",
+    "population": "54 354",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -7316,9 +8778,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Iran",
     "langue_officielle": "Persan, KU",
+    "monnaie_devise": "IRR - Rial iranien (﷼)",
     "ville": "Īstgāh-e Rāh Āhan-e Garmsār",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Īstgāh-e Rāh Āhan-e Garmsār)",
     "code_postal": "",
+    "population": "49 491",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -7326,9 +8790,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Iran",
     "langue_officielle": "Persan, KU",
+    "monnaie_devise": "IRR - Rial iranien (﷼)",
     "ville": "Qarchak",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Qarchak)",
     "code_postal": "",
+    "population": "251 834",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -7336,9 +8802,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Iran",
     "langue_officielle": "Persan, KU",
+    "monnaie_devise": "IRR - Rial iranien (﷼)",
     "ville": "Ṣāleḥīeh",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Ṣāleḥīeh)",
     "code_postal": "",
+    "population": "58 683",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -7346,9 +8814,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Jordanie",
     "langue_officielle": "Arabe, Anglais",
+    "monnaie_devise": "JOD - Dinar jordanien (JD)",
     "ville": "Wādī as Sīr",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Wādī as Sīr)",
     "code_postal": "",
+    "population": "181 212",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -7356,9 +8826,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Jordanie",
     "langue_officielle": "Arabe, Anglais",
+    "monnaie_devise": "JOD - Dinar jordanien (JD)",
     "ville": "Umm as Summāq",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Umm as Summāq)",
     "code_postal": "",
+    "population": "18 274",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -7366,9 +8838,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Jordanie",
     "langue_officielle": "Arabe, Anglais",
+    "monnaie_devise": "JOD - Dinar jordanien (JD)",
     "ville": "Saḩāb",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Saḩāb)",
     "code_postal": "",
+    "population": "40 241",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -7376,9 +8850,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Jordanie",
     "langue_officielle": "Arabe, Anglais",
+    "monnaie_devise": "JOD - Dinar jordanien (JD)",
     "ville": "Māḩiş",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Māḩiş)",
     "code_postal": "",
+    "population": "17 754",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -7386,9 +8862,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Jordanie",
     "langue_officielle": "Arabe, Anglais",
+    "monnaie_devise": "JOD - Dinar jordanien (JD)",
     "ville": "Mādabā",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Mādabā)",
     "code_postal": "",
+    "population": "82 335",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -7396,9 +8874,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Jordanie",
     "langue_officielle": "Arabe, Anglais",
+    "monnaie_devise": "JOD - Dinar jordanien (JD)",
     "ville": "Ma'an",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Ma'an)",
     "code_postal": "",
+    "population": "50 350",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -7406,9 +8886,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Jordanie",
     "langue_officielle": "Arabe, Anglais",
+    "monnaie_devise": "JOD - Dinar jordanien (JD)",
     "ville": "Kurayyimah",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Kurayyimah)",
     "code_postal": "",
+    "population": "17 837",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -7416,9 +8898,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Jordanie",
     "langue_officielle": "Arabe, Anglais",
+    "monnaie_devise": "JOD - Dinar jordanien (JD)",
     "ville": "Khuraybat as Sūq",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Khuraybat as Sūq)",
     "code_postal": "",
+    "population": "186 158",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -7426,9 +8910,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Jordanie",
     "langue_officielle": "Arabe, Anglais",
+    "monnaie_devise": "JOD - Dinar jordanien (JD)",
     "ville": "Ḩayy Khildā",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Ḩayy Khildā)",
     "code_postal": "",
+    "population": "251 000",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -7436,9 +8922,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Jordanie",
     "langue_officielle": "Arabe, Anglais",
+    "monnaie_devise": "JOD - Dinar jordanien (JD)",
     "ville": "Judita",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Judita)",
     "code_postal": "",
+    "population": "20 000",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -7446,9 +8934,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Kirghizistan",
     "langue_officielle": "Kirghize, Ouzbek, Russe",
+    "monnaie_devise": "KGS - Som",
     "ville": "Suluktu",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Suluktu)",
     "code_postal": "",
+    "population": "15 019",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -7456,9 +8946,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Kirghizistan",
     "langue_officielle": "Kirghize, Ouzbek, Russe",
+    "monnaie_devise": "KGS - Som",
     "ville": "Razzakov",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Razzakov)",
     "code_postal": "",
+    "population": "34 219",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -7466,9 +8958,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Kirghizistan",
     "langue_officielle": "Kirghize, Ouzbek, Russe",
+    "monnaie_devise": "KGS - Som",
     "ville": "Balykchy",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Balykchy)",
     "code_postal": "",
+    "population": "42 875",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -7476,9 +8970,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Kirghizistan",
     "langue_officielle": "Kirghize, Ouzbek, Russe",
+    "monnaie_devise": "KGS - Som",
     "ville": "Kojomkul",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Kojomkul)",
     "code_postal": "",
+    "population": "20 182",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -7486,9 +8982,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Kirghizistan",
     "langue_officielle": "Kirghize, Ouzbek, Russe",
+    "monnaie_devise": "KGS - Som",
     "ville": "Tokmok",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Tokmok)",
     "code_postal": "",
+    "population": "71 443",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -7496,9 +8994,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Kirghizistan",
     "langue_officielle": "Kirghize, Ouzbek, Russe",
+    "monnaie_devise": "KGS - Som",
     "ville": "Tash-Kumyr",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Tash-Kumyr)",
     "code_postal": "",
+    "population": "23 594",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -7506,9 +9006,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Kirghizistan",
     "langue_officielle": "Kirghize, Ouzbek, Russe",
+    "monnaie_devise": "KGS - Som",
     "ville": "Talas",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Talas)",
     "code_postal": "",
+    "population": "40 308",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -7516,9 +9018,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Kirghizistan",
     "langue_officielle": "Kirghize, Ouzbek, Russe",
+    "monnaie_devise": "KGS - Som",
     "ville": "Suzak",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Suzak)",
     "code_postal": "",
+    "population": "30 534",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -7526,9 +9030,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Kirghizistan",
     "langue_officielle": "Kirghize, Ouzbek, Russe",
+    "monnaie_devise": "KGS - Som",
     "ville": "Kyzyl-Suu",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Kyzyl-Suu)",
     "code_postal": "",
+    "population": "15 075",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -7536,9 +9042,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Kirghizistan",
     "langue_officielle": "Kirghize, Ouzbek, Russe",
+    "monnaie_devise": "KGS - Som",
     "ville": "Uzgen",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Uzgen)",
     "code_postal": "",
+    "population": "49 410",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -7546,9 +9054,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Cambodge",
     "langue_officielle": "Khmer, Français, Anglais",
+    "monnaie_devise": "KHR - Riels",
     "ville": "Phnom Penh",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Phnom Penh)",
     "code_postal": "",
+    "population": "1 573 544",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -7556,9 +9066,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Cambodge",
     "langue_officielle": "Khmer, Français, Anglais",
+    "monnaie_devise": "KHR - Riels",
     "ville": "Ta Khmau",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Ta Khmau)",
     "code_postal": "",
+    "population": "52 066",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -7566,9 +9078,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Cambodge",
     "langue_officielle": "Khmer, Français, Anglais",
+    "monnaie_devise": "KHR - Riels",
     "ville": "Takeo",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Takeo)",
     "code_postal": "",
+    "population": "47 914",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -7576,9 +9090,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Cambodge",
     "langue_officielle": "Khmer, Français, Anglais",
+    "monnaie_devise": "KHR - Riels",
     "ville": "Svay Rieng",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Svay Rieng)",
     "code_postal": "",
+    "population": "23 956",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -7586,9 +9102,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Cambodge",
     "langue_officielle": "Khmer, Français, Anglais",
+    "monnaie_devise": "KHR - Riels",
     "ville": "Suong",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Suong)",
     "code_postal": "",
+    "population": "30 000",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -7596,9 +9114,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Cambodge",
     "langue_officielle": "Khmer, Français, Anglais",
+    "monnaie_devise": "KHR - Riels",
     "ville": "Stung Treng",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Stung Treng)",
     "code_postal": "",
+    "population": "25 000",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -7606,9 +9126,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Cambodge",
     "langue_officielle": "Khmer, Français, Anglais",
+    "monnaie_devise": "KHR - Riels",
     "ville": "Snuol",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Snuol)",
     "code_postal": "",
+    "population": "16 473",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -7616,9 +9138,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Cambodge",
     "langue_officielle": "Khmer, Français, Anglais",
+    "monnaie_devise": "KHR - Riels",
     "ville": "Sisophon",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Sisophon)",
     "code_postal": "",
+    "population": "23 218",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -7626,9 +9150,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Cambodge",
     "langue_officielle": "Khmer, Français, Anglais",
+    "monnaie_devise": "KHR - Riels",
     "ville": "Siem Reap",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Siem Reap)",
     "code_postal": "",
+    "population": "139 458",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -7636,9 +9162,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Cambodge",
     "langue_officielle": "Khmer, Français, Anglais",
+    "monnaie_devise": "KHR - Riels",
     "ville": "Prey Veng",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Prey Veng)",
     "code_postal": "",
+    "population": "33 079",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -7646,9 +9174,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Corée du Nord",
     "langue_officielle": "Coréen",
+    "monnaie_devise": "KPW - Won nord-coréen (₩)",
     "ville": "Yŏnan-ŭp",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Yŏnan-ŭp)",
     "code_postal": "",
+    "population": "22 665",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -7656,9 +9186,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Corée du Nord",
     "langue_officielle": "Coréen",
+    "monnaie_devise": "KPW - Won nord-coréen (₩)",
     "ville": "Wŏnsan",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Wŏnsan)",
     "code_postal": "",
+    "population": "329 207",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -7666,9 +9198,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Corée du Nord",
     "langue_officielle": "Coréen",
+    "monnaie_devise": "KPW - Won nord-coréen (₩)",
     "ville": "Ŭnch’ŏn-ŭp",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Ŭnch’ŏn-ŭp)",
     "code_postal": "",
+    "population": "95 597",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -7676,9 +9210,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Corée du Nord",
     "langue_officielle": "Coréen",
+    "monnaie_devise": "KPW - Won nord-coréen (₩)",
     "ville": "Ŭllyul",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Ŭllyul)",
     "code_postal": "",
+    "population": "107 997",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -7686,9 +9222,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Corée du Nord",
     "langue_officielle": "Coréen",
+    "monnaie_devise": "KPW - Won nord-coréen (₩)",
     "ville": "T’ongch’ŏn-ŭp",
     "quartier_arrondissement": "Centre Urbain / Agglomération (T’ongch’ŏn-ŭp)",
     "code_postal": "",
+    "population": "20 575",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -7696,9 +9234,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Corée du Nord",
     "langue_officielle": "Coréen",
+    "monnaie_devise": "KPW - Won nord-coréen (₩)",
     "ville": "Tŏkch’ŏn",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Tŏkch’ŏn)",
     "code_postal": "",
+    "population": "237 133",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -7706,9 +9246,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Corée du Nord",
     "langue_officielle": "Coréen",
+    "monnaie_devise": "KPW - Won nord-coréen (₩)",
     "ville": "T’aet’an-ŭp",
     "quartier_arrondissement": "Centre Urbain / Agglomération (T’aet’an-ŭp)",
     "code_postal": "",
+    "population": "64 258",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -7716,9 +9258,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Corée du Nord",
     "langue_officielle": "Coréen",
+    "monnaie_devise": "KPW - Won nord-coréen (₩)",
     "ville": "Sŭngho 1-tong",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Sŭngho 1-tong)",
     "code_postal": "",
+    "population": "39 841",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -7726,9 +9270,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Corée du Nord",
     "langue_officielle": "Coréen",
+    "monnaie_devise": "KPW - Won nord-coréen (₩)",
     "ville": "Sunch’ŏn",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Sunch’ŏn)",
     "code_postal": "",
+    "population": "437 000",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -7736,9 +9282,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Corée du Nord",
     "langue_officielle": "Coréen",
+    "monnaie_devise": "KPW - Won nord-coréen (₩)",
     "ville": "Sunan",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Sunan)",
     "code_postal": "",
+    "population": "36 671",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -7746,9 +9294,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Koweït",
     "langue_officielle": "Arabe, Anglais",
+    "monnaie_devise": "KWD - Dinar koweïtien (KD)",
     "ville": "Janūb as Surrah",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Janūb as Surrah)",
     "code_postal": "",
+    "population": "18 496",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -7756,9 +9306,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Koweït",
     "langue_officielle": "Arabe, Anglais",
+    "monnaie_devise": "KWD - Dinar koweïtien (KD)",
     "ville": "Ḩawallī",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Ḩawallī)",
     "code_postal": "",
+    "population": "164 212",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -7766,9 +9318,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Koweït",
     "langue_officielle": "Arabe, Anglais",
+    "monnaie_devise": "KWD - Dinar koweïtien (KD)",
     "ville": "Bayān",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Bayān)",
     "code_postal": "",
+    "population": "30 635",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -7776,9 +9330,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Koweït",
     "langue_officielle": "Arabe, Anglais",
+    "monnaie_devise": "KWD - Dinar koweïtien (KD)",
     "ville": "As Sālimīyah",
     "quartier_arrondissement": "Centre Urbain / Agglomération (As Sālimīyah)",
     "code_postal": "",
+    "population": "147 649",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -7786,9 +9342,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Koweït",
     "langue_officielle": "Arabe, Anglais",
+    "monnaie_devise": "KWD - Dinar koweïtien (KD)",
     "ville": "Ar Rumaythīyah",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Ar Rumaythīyah)",
     "code_postal": "",
+    "population": "58 135",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -7796,9 +9354,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Koweït",
     "langue_officielle": "Arabe, Anglais",
+    "monnaie_devise": "KWD - Dinar koweïtien (KD)",
     "ville": "Ar Riqqah",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Ar Riqqah)",
     "code_postal": "",
+    "population": "52 068",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -7806,9 +9366,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Koweït",
     "langue_officielle": "Arabe, Anglais",
+    "monnaie_devise": "KWD - Dinar koweïtien (KD)",
     "ville": "Al Manqaf",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Al Manqaf)",
     "code_postal": "",
+    "population": "39 025",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -7816,9 +9378,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Koweït",
     "langue_officielle": "Arabe, Anglais",
+    "monnaie_devise": "KWD - Dinar koweïtien (KD)",
     "ville": "Al Mahbūlah",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Al Mahbūlah)",
     "code_postal": "",
+    "population": "18 178",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -7826,9 +9390,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Koweït",
     "langue_officielle": "Arabe, Anglais",
+    "monnaie_devise": "KWD - Dinar koweïtien (KD)",
     "ville": "Kuwait City",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Kuwait City)",
     "code_postal": "",
+    "population": "60 064",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -7836,9 +9402,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Koweït",
     "langue_officielle": "Arabe, Anglais",
+    "monnaie_devise": "KWD - Dinar koweïtien (KD)",
     "ville": "Al Jahrā’",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Al Jahrā’)",
     "code_postal": "",
+    "population": "24 281",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -7846,9 +9414,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Kazakhstan",
     "langue_officielle": "Kazakh, Russe",
+    "monnaie_devise": "KZT - Tenge kazakh (₸)",
     "ville": "Zhanaozen",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Zhanaozen)",
     "code_postal": "",
+    "population": "103 598",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -7856,9 +9426,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Kazakhstan",
     "langue_officielle": "Kazakh, Russe",
+    "monnaie_devise": "KZT - Tenge kazakh (₸)",
     "ville": "Shalqar",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Shalqar)",
     "code_postal": "",
+    "population": "27 399",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -7866,9 +9438,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Kazakhstan",
     "langue_officielle": "Kazakh, Russe",
+    "monnaie_devise": "KZT - Tenge kazakh (₸)",
     "ville": "Shalkar",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Shalkar)",
     "code_postal": "",
+    "population": "27 072",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -7876,9 +9450,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Kazakhstan",
     "langue_officielle": "Kazakh, Russe",
+    "monnaie_devise": "KZT - Tenge kazakh (₸)",
     "ville": "Oral",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Oral)",
     "code_postal": "",
+    "population": "330 000",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -7886,9 +9462,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Kazakhstan",
     "langue_officielle": "Kazakh, Russe",
+    "monnaie_devise": "KZT - Tenge kazakh (₸)",
     "ville": "Kandyagash",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Kandyagash)",
     "code_postal": "",
+    "population": "28 196",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -7896,9 +9474,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Kazakhstan",
     "langue_officielle": "Kazakh, Russe",
+    "monnaie_devise": "KZT - Tenge kazakh (₸)",
     "ville": "Mangistau",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Mangistau)",
     "code_postal": "",
+    "population": "31 368",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -7906,9 +9486,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Kazakhstan",
     "langue_officielle": "Kazakh, Russe",
+    "monnaie_devise": "KZT - Tenge kazakh (₸)",
     "ville": "Qulsary",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Qulsary)",
     "code_postal": "",
+    "population": "51 216",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -7916,9 +9498,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Kazakhstan",
     "langue_officielle": "Kazakh, Russe",
+    "monnaie_devise": "KZT - Tenge kazakh (₸)",
     "ville": "Khromtau",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Khromtau)",
     "code_postal": "",
+    "population": "23 715",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -7926,9 +9510,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Kazakhstan",
     "langue_officielle": "Kazakh, Russe",
+    "monnaie_devise": "KZT - Tenge kazakh (₸)",
     "ville": "Karagandy",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Karagandy)",
     "code_postal": "",
+    "population": "497 777",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -7936,9 +9522,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Kazakhstan",
     "langue_officielle": "Kazakh, Russe",
+    "monnaie_devise": "KZT - Tenge kazakh (₸)",
     "ville": "Embi",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Embi)",
     "code_postal": "",
+    "population": "18 760",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -7946,9 +9534,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Laos",
     "langue_officielle": "Lao, Français, Anglais",
+    "monnaie_devise": "LAK - Kip",
     "ville": "Vientiane",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Vientiane)",
     "code_postal": "",
+    "population": "840 940",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -7956,9 +9546,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Laos",
     "langue_officielle": "Lao, Français, Anglais",
+    "monnaie_devise": "LAK - Kip",
     "ville": "Xam Nua",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Xam Nua)",
     "code_postal": "",
+    "population": "56 900",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -7966,9 +9558,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Laos",
     "langue_officielle": "Lao, Français, Anglais",
+    "monnaie_devise": "LAK - Kip",
     "ville": "Savannakhet",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Savannakhet)",
     "code_postal": "",
+    "population": "125 760",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -7976,9 +9570,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Laos",
     "langue_officielle": "Lao, Français, Anglais",
+    "monnaie_devise": "LAK - Kip",
     "ville": "Pakse",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Pakse)",
     "code_postal": "",
+    "population": "77 900",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -7986,9 +9582,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Laos",
     "langue_officielle": "Lao, Français, Anglais",
+    "monnaie_devise": "LAK - Kip",
     "ville": "Muang Xay",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Muang Xay)",
     "code_postal": "",
+    "population": "25 000",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -7996,9 +9594,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Laos",
     "langue_officielle": "Lao, Français, Anglais",
+    "monnaie_devise": "LAK - Kip",
     "ville": "Vang Vieng",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Vang Vieng)",
     "code_postal": "",
+    "population": "25 000",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -8006,9 +9606,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Laos",
     "langue_officielle": "Lao, Français, Anglais",
+    "monnaie_devise": "LAK - Kip",
     "ville": "Muang Sing",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Muang Sing)",
     "code_postal": "",
+    "population": "23 500",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -8016,9 +9618,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Laos",
     "langue_officielle": "Lao, Français, Anglais",
+    "monnaie_devise": "LAK - Kip",
     "ville": "Muang Phônsavan",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Muang Phônsavan)",
     "code_postal": "",
+    "population": "37 507",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -8026,9 +9630,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Laos",
     "langue_officielle": "Lao, Français, Anglais",
+    "monnaie_devise": "LAK - Kip",
     "ville": "Pakxan",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Pakxan)",
     "code_postal": "",
+    "population": "21 967",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -8036,9 +9642,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Laos",
     "langue_officielle": "Lao, Français, Anglais",
+    "monnaie_devise": "LAK - Kip",
     "ville": "Thakhèk",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Thakhèk)",
     "code_postal": "",
+    "population": "90 800",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -8046,9 +9654,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Liban",
     "langue_officielle": "Arabe, Français, Anglais, Arménien",
+    "monnaie_devise": "LBP - Livre libanaise (L£)",
     "ville": "Zahlé",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Zahlé)",
     "code_postal": "",
+    "population": "78 145",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -8056,9 +9666,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Liban",
     "langue_officielle": "Arabe, Français, Anglais, Arménien",
+    "monnaie_devise": "LBP - Livre libanaise (L£)",
     "ville": "Tripoli",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Tripoli)",
     "code_postal": "",
+    "population": "26 561",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -8066,9 +9678,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Liban",
     "langue_officielle": "Arabe, Français, Anglais, Arménien",
+    "monnaie_devise": "LBP - Livre libanaise (L£)",
     "ville": "Tyre",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Tyre)",
     "code_postal": "",
+    "population": "135 204",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -8076,9 +9690,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Liban",
     "langue_officielle": "Arabe, Français, Anglais, Arménien",
+    "monnaie_devise": "LBP - Livre libanaise (L£)",
     "ville": "Chmistâr",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Chmistâr)",
     "code_postal": "",
+    "population": "30 000",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -8086,9 +9702,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Liban",
     "langue_officielle": "Arabe, Français, Anglais, Arménien",
+    "monnaie_devise": "LBP - Livre libanaise (L£)",
     "ville": "Sidon",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Sidon)",
     "code_postal": "",
+    "population": "163 554",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -8096,9 +9714,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Liban",
     "langue_officielle": "Arabe, Français, Anglais, Arménien",
+    "monnaie_devise": "LBP - Livre libanaise (L£)",
     "ville": "Ra’s Bayrūt",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Ra’s Bayrūt)",
     "code_postal": "",
+    "population": "1 251 739",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -8106,9 +9726,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Liban",
     "langue_officielle": "Arabe, Français, Anglais, Arménien",
+    "monnaie_devise": "LBP - Livre libanaise (L£)",
     "ville": "Jounieh",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Jounieh)",
     "code_postal": "",
+    "population": "96 315",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -8116,9 +9738,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Liban",
     "langue_officielle": "Arabe, Français, Anglais, Arménien",
+    "monnaie_devise": "LBP - Livre libanaise (L£)",
     "ville": "Byblos",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Byblos)",
     "code_postal": "",
+    "population": "20 784",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -8126,9 +9750,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Liban",
     "langue_officielle": "Arabe, Français, Anglais, Arménien",
+    "monnaie_devise": "LBP - Livre libanaise (L£)",
     "ville": "Aarsâl",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Aarsâl)",
     "code_postal": "",
+    "population": "50 000",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -8136,9 +9762,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Liban",
     "langue_officielle": "Arabe, Français, Anglais, Arménien",
+    "monnaie_devise": "LBP - Livre libanaise (L£)",
     "ville": "Habboûch",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Habboûch)",
     "code_postal": "",
+    "population": "98 433",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -8146,9 +9774,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Birmanie",
     "langue_officielle": "Birman",
+    "monnaie_devise": "MMK - Kyat",
     "ville": "Zigon",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Zigon)",
     "code_postal": "",
+    "population": "15 233",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -8156,9 +9786,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Birmanie",
     "langue_officielle": "Birman",
+    "monnaie_devise": "MMK - Kyat",
     "ville": "Zalun",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Zalun)",
     "code_postal": "",
+    "population": "21 947",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -8166,9 +9798,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Birmanie",
     "langue_officielle": "Birman",
+    "monnaie_devise": "MMK - Kyat",
     "ville": "Ywar Ma West",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Ywar Ma West)",
     "code_postal": "",
+    "population": "30 704",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -8176,9 +9810,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Birmanie",
     "langue_officielle": "Birman",
+    "monnaie_devise": "MMK - Kyat",
     "ville": "Ye-u",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Ye-u)",
     "code_postal": "",
+    "population": "20 458",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -8186,9 +9822,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Birmanie",
     "langue_officielle": "Birman",
+    "monnaie_devise": "MMK - Kyat",
     "ville": "Yesagyo",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Yesagyo)",
     "code_postal": "",
+    "population": "23 329",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -8196,9 +9834,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Birmanie",
     "langue_officielle": "Birman",
+    "monnaie_devise": "MMK - Kyat",
     "ville": "Yenangyaung",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Yenangyaung)",
     "code_postal": "",
+    "population": "110 553",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -8206,9 +9846,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Birmanie",
     "langue_officielle": "Birman",
+    "monnaie_devise": "MMK - Kyat",
     "ville": "Yedashe",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Yedashe)",
     "code_postal": "",
+    "population": "24 420",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -8216,9 +9858,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Birmanie",
     "langue_officielle": "Birman",
+    "monnaie_devise": "MMK - Kyat",
     "ville": "Ye",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Ye)",
     "code_postal": "",
+    "population": "34 430",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -8226,9 +9870,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Birmanie",
     "langue_officielle": "Birman",
+    "monnaie_devise": "MMK - Kyat",
     "ville": "Yawnghwe",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Yawnghwe)",
     "code_postal": "",
+    "population": "188 083",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -8236,9 +9882,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Birmanie",
     "langue_officielle": "Birman",
+    "monnaie_devise": "MMK - Kyat",
     "ville": "Nyaungdon",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Nyaungdon)",
     "code_postal": "",
+    "population": "40 092",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -8246,9 +9894,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Mongolie",
     "langue_officielle": "Mongol, Russe",
+    "monnaie_devise": "MNT - Tugrik",
     "ville": "Uliastay",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Uliastay)",
     "code_postal": "",
+    "population": "16 265",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -8256,9 +9906,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Mongolie",
     "langue_officielle": "Mongol, Russe",
+    "monnaie_devise": "MNT - Tugrik",
     "ville": "Ulaangom",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Ulaangom)",
     "code_postal": "",
+    "population": "30 092",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -8266,9 +9918,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Mongolie",
     "langue_officielle": "Mongol, Russe",
+    "monnaie_devise": "MNT - Tugrik",
     "ville": "Ölgii",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Ölgii)",
     "code_postal": "",
+    "population": "28 400",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -8276,9 +9930,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Mongolie",
     "langue_officielle": "Mongol, Russe",
+    "monnaie_devise": "MNT - Tugrik",
     "ville": "Khovd",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Khovd)",
     "code_postal": "",
+    "population": "29 800",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -8286,9 +9942,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Mongolie",
     "langue_officielle": "Mongol, Russe",
+    "monnaie_devise": "MNT - Tugrik",
     "ville": "Altai",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Altai)",
     "code_postal": "",
+    "population": "17 617",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -8296,9 +9954,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Mongolie",
     "langue_officielle": "Mongol, Russe",
+    "monnaie_devise": "MNT - Tugrik",
     "ville": "Ulan Bator",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Ulan Bator)",
     "code_postal": "",
+    "population": "844 818",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -8306,9 +9966,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Mongolie",
     "langue_officielle": "Mongol, Russe",
+    "monnaie_devise": "MNT - Tugrik",
     "ville": "Tsetserleg",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Tsetserleg)",
     "code_postal": "",
+    "population": "21 620",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -8316,9 +9978,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Mongolie",
     "langue_officielle": "Mongol, Russe",
+    "monnaie_devise": "MNT - Tugrik",
     "ville": "Sühbaatar",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Sühbaatar)",
     "code_postal": "",
+    "population": "22 741",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -8326,9 +9990,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Mongolie",
     "langue_officielle": "Mongol, Russe",
+    "monnaie_devise": "MNT - Tugrik",
     "ville": "Undurkhaan",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Undurkhaan)",
     "code_postal": "",
+    "population": "22 741",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -8336,9 +10002,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Mongolie",
     "langue_officielle": "Mongol, Russe",
+    "monnaie_devise": "MNT - Tugrik",
     "ville": "Nalayh",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Nalayh)",
     "code_postal": "",
+    "population": "39 579",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -8346,9 +10014,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Maldives",
     "langue_officielle": "DV, Anglais",
+    "monnaie_devise": "MVR - Rufiyaa",
     "ville": "Male",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Male)",
     "code_postal": "",
+    "population": "103 693",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -8356,9 +10026,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Népal",
     "langue_officielle": "Népalais, Anglais",
+    "monnaie_devise": "NPR - Roupie népalaise (रू)",
     "ville": "Wāliṅ",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Wāliṅ)",
     "code_postal": "",
+    "population": "21 867",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -8366,9 +10038,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Népal",
     "langue_officielle": "Népalais, Anglais",
+    "monnaie_devise": "NPR - Roupie népalaise (रू)",
     "ville": "Tulsi̇̄pur",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Tulsi̇̄pur)",
     "code_postal": "",
+    "population": "39 058",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -8376,9 +10050,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Népal",
     "langue_officielle": "Népalais, Anglais",
+    "monnaie_devise": "NPR - Roupie népalaise (रू)",
     "ville": "Ṭikāpur",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Ṭikāpur)",
     "code_postal": "",
+    "population": "44 758",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -8386,9 +10062,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Népal",
     "langue_officielle": "Népalais, Anglais",
+    "monnaie_devise": "NPR - Roupie népalaise (रू)",
     "ville": "Tānsen",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Tānsen)",
     "code_postal": "",
+    "population": "23 693",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -8396,9 +10074,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Népal",
     "langue_officielle": "Népalais, Anglais",
+    "monnaie_devise": "NPR - Roupie népalaise (रू)",
     "ville": "Siraha",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Siraha)",
     "code_postal": "",
+    "population": "24 657",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -8406,9 +10086,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Népal",
     "langue_officielle": "Népalais, Anglais",
+    "monnaie_devise": "NPR - Roupie népalaise (रू)",
     "ville": "Rājbirāj",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Rājbirāj)",
     "code_postal": "",
+    "population": "69 803",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -8416,9 +10098,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Népal",
     "langue_officielle": "Népalais, Anglais",
+    "monnaie_devise": "NPR - Roupie népalaise (रू)",
     "ville": "Pokhara",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Pokhara)",
     "code_postal": "",
+    "population": "600 051",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -8426,9 +10110,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Népal",
     "langue_officielle": "Népalais, Anglais",
+    "monnaie_devise": "NPR - Roupie népalaise (रू)",
     "ville": "Pātan",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Pātan)",
     "code_postal": "",
+    "population": "133 737",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -8436,9 +10122,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Népal",
     "langue_officielle": "Népalais, Anglais",
+    "monnaie_devise": "NPR - Roupie népalaise (रू)",
     "ville": "Panauti̇̄",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Panauti̇̄)",
     "code_postal": "",
+    "population": "27 602",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -8446,9 +10134,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Népal",
     "langue_officielle": "Népalais, Anglais",
+    "monnaie_devise": "NPR - Roupie népalaise (रू)",
     "ville": "Malaṅgawā",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Malaṅgawā)",
     "code_postal": "",
+    "population": "20 284",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -8456,9 +10146,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Oman",
     "langue_officielle": "Arabe, Anglais, BAL, Ourdou",
+    "monnaie_devise": "OMR - Rial omanais (RO)",
     "ville": "Sur",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Sur)",
     "code_postal": "",
+    "population": "71 152",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -8466,9 +10158,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Oman",
     "langue_officielle": "Arabe, Anglais, BAL, Ourdou",
+    "monnaie_devise": "OMR - Rial omanais (RO)",
     "ville": "Sohar",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Sohar)",
     "code_postal": "",
+    "population": "108 274",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -8476,9 +10170,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Oman",
     "langue_officielle": "Arabe, Anglais, BAL, Ourdou",
+    "monnaie_devise": "OMR - Rial omanais (RO)",
     "ville": "Sufālat Samā’il",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Sufālat Samā’il)",
     "code_postal": "",
+    "population": "47 718",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -8486,9 +10182,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Oman",
     "langue_officielle": "Arabe, Anglais, BAL, Ourdou",
+    "monnaie_devise": "OMR - Rial omanais (RO)",
     "ville": "Shināş",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Shināş)",
     "code_postal": "",
+    "population": "48 009",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -8496,9 +10194,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Oman",
     "langue_officielle": "Arabe, Anglais, BAL, Ourdou",
+    "monnaie_devise": "OMR - Rial omanais (RO)",
     "ville": "Samā’il",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Samā’il)",
     "code_postal": "",
+    "population": "80 538",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -8506,9 +10206,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Oman",
     "langue_officielle": "Arabe, Anglais, BAL, Ourdou",
+    "monnaie_devise": "OMR - Rial omanais (RO)",
     "ville": "Şalālah",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Şalālah)",
     "code_postal": "",
+    "population": "163 140",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -8516,9 +10218,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Oman",
     "langue_officielle": "Arabe, Anglais, BAL, Ourdou",
+    "monnaie_devise": "OMR - Rial omanais (RO)",
     "ville": "Şaḩam",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Şaḩam)",
     "code_postal": "",
+    "population": "140 000",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -8526,9 +10230,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Oman",
     "langue_officielle": "Arabe, Anglais, BAL, Ourdou",
+    "monnaie_devise": "OMR - Rial omanais (RO)",
     "ville": "Qurayyāt",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Qurayyāt)",
     "code_postal": "",
+    "population": "63 133",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -8536,9 +10242,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Oman",
     "langue_officielle": "Arabe, Anglais, BAL, Ourdou",
+    "monnaie_devise": "OMR - Rial omanais (RO)",
     "ville": "Nizwá",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Nizwá)",
     "code_postal": "",
+    "population": "72 076",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -8546,9 +10254,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Oman",
     "langue_officielle": "Arabe, Anglais, BAL, Ourdou",
+    "monnaie_devise": "OMR - Rial omanais (RO)",
     "ville": "Muscat",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Muscat)",
     "code_postal": "",
+    "population": "797 000",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -8556,9 +10266,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Palestine",
     "langue_officielle": "Arabe",
+    "monnaie_devise": "ILS - Nouveau Shekel israélien (₪)",
     "ville": "Rafaḩ",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Rafaḩ)",
     "code_postal": "",
+    "population": "44 215",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -8566,9 +10278,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Palestine",
     "langue_officielle": "Arabe",
+    "monnaie_devise": "ILS - Nouveau Shekel israélien (₪)",
     "ville": "An Nuşayrāt",
     "quartier_arrondissement": "Centre Urbain / Agglomération (An Nuşayrāt)",
     "code_postal": "",
+    "population": "36 123",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -8576,9 +10290,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Palestine",
     "langue_officielle": "Arabe",
+    "monnaie_devise": "ILS - Nouveau Shekel israélien (₪)",
     "ville": "Khān Yūnis",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Khān Yūnis)",
     "code_postal": "",
+    "population": "173 183",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -8586,9 +10302,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Palestine",
     "langue_officielle": "Arabe",
+    "monnaie_devise": "ILS - Nouveau Shekel israélien (₪)",
     "ville": "Jabālyā",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Jabālyā)",
     "code_postal": "",
+    "population": "168 568",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -8596,9 +10314,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Palestine",
     "langue_officielle": "Arabe",
+    "monnaie_devise": "ILS - Nouveau Shekel israélien (₪)",
     "ville": "Gaza",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Gaza)",
     "code_postal": "",
+    "population": "410 000",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -8606,9 +10326,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Palestine",
     "langue_officielle": "Arabe",
+    "monnaie_devise": "ILS - Nouveau Shekel israélien (₪)",
     "ville": "Dayr al Balaḩ",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Dayr al Balaḩ)",
     "code_postal": "",
+    "population": "59 504",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -8616,9 +10338,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Palestine",
     "langue_officielle": "Arabe",
+    "monnaie_devise": "ILS - Nouveau Shekel israélien (₪)",
     "ville": "Bayt Lāhyā",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Bayt Lāhyā)",
     "code_postal": "",
+    "population": "56 919",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -8626,9 +10350,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Palestine",
     "langue_officielle": "Arabe",
+    "monnaie_devise": "ILS - Nouveau Shekel israélien (₪)",
     "ville": "Bayt Ḩānūn",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Bayt Ḩānūn)",
     "code_postal": "",
+    "population": "37 392",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -8636,9 +10362,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Palestine",
     "langue_officielle": "Arabe",
+    "monnaie_devise": "ILS - Nouveau Shekel israélien (₪)",
     "ville": "Banī Suhaylā",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Banī Suhaylā)",
     "code_postal": "",
+    "population": "31 272",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -8646,9 +10374,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Palestine",
     "langue_officielle": "Arabe",
+    "monnaie_devise": "ILS - Nouveau Shekel israélien (₪)",
     "ville": "Al Burayj",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Al Burayj)",
     "code_postal": "",
+    "population": "34 951",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -8656,9 +10386,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Qatar",
     "langue_officielle": "Arabe, Anglais",
+    "monnaie_devise": "QAR - Rial qatari (QAR)",
     "ville": "Doha",
     "quartier_arrondissement": "West Bay - Diplomatic Area",
     "code_postal": "",
+    "population": "2 382 000",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -8666,9 +10398,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Qatar",
     "langue_officielle": "Arabe, Anglais",
+    "monnaie_devise": "QAR - Rial qatari (QAR)",
     "ville": "Doha",
     "quartier_arrondissement": "The Pearl - Porto Arabia",
     "code_postal": "",
+    "population": "2 382 000",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -8676,9 +10410,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Qatar",
     "langue_officielle": "Arabe, Anglais",
+    "monnaie_devise": "QAR - Rial qatari (QAR)",
     "ville": "Doha",
     "quartier_arrondissement": "Al Souq - Souq Waqif",
     "code_postal": "",
+    "population": "2 382 000",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -8686,9 +10422,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Qatar",
     "langue_officielle": "Arabe, Anglais",
+    "monnaie_devise": "QAR - Rial qatari (QAR)",
     "ville": "Doha",
     "quartier_arrondissement": "Msheireb Downtown",
     "code_postal": "",
+    "population": "2 382 000",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -8696,9 +10434,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Qatar",
     "langue_officielle": "Arabe, Anglais",
+    "monnaie_devise": "QAR - Rial qatari (QAR)",
     "ville": "Al Rayyan",
     "quartier_arrondissement": "Education City",
     "code_postal": "",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -8706,9 +10446,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Qatar",
     "langue_officielle": "Arabe, Anglais",
+    "monnaie_devise": "QAR - Rial qatari (QAR)",
     "ville": "Al ‘Unayzah",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Al ‘Unayzah)",
     "code_postal": "",
+    "population": "39 761",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -8716,9 +10458,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Qatar",
     "langue_officielle": "Arabe, Anglais",
+    "monnaie_devise": "QAR - Rial qatari (QAR)",
     "ville": "Umm Şalāl Muḩammad",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Umm Şalāl Muḩammad)",
     "code_postal": "",
+    "population": "29 391",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -8726,9 +10470,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Qatar",
     "langue_officielle": "Arabe, Anglais",
+    "monnaie_devise": "QAR - Rial qatari (QAR)",
     "ville": "Umm Ghuwaylīnah",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Umm Ghuwaylīnah)",
     "code_postal": "",
+    "population": "39 457",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -8736,9 +10482,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Qatar",
     "langue_officielle": "Arabe, Anglais",
+    "monnaie_devise": "QAR - Rial qatari (QAR)",
     "ville": "Nu‘ayjah",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Nu‘ayjah)",
     "code_postal": "",
+    "population": "19 975",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -8746,9 +10494,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Qatar",
     "langue_officielle": "Arabe, Anglais",
+    "monnaie_devise": "QAR - Rial qatari (QAR)",
     "ville": "Mu‘aydhir Rawḑat Rāshid",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Mu‘aydhir Rawḑat Rāshid)",
     "code_postal": "",
+    "population": "27 569",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -8756,9 +10506,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Arabie Saoudite",
     "langue_officielle": "Arabe",
+    "monnaie_devise": "SAR - Riyal saoudien (SAR)",
     "ville": "Yanbu",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Yanbu)",
     "code_postal": "",
+    "population": "200 161",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -8766,9 +10518,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Arabie Saoudite",
     "langue_officielle": "Arabe",
+    "monnaie_devise": "SAR - Riyal saoudien (SAR)",
     "ville": "Umluj",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Umluj)",
     "code_postal": "",
+    "population": "33 874",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -8776,9 +10530,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Arabie Saoudite",
     "langue_officielle": "Arabe",
+    "monnaie_devise": "SAR - Riyal saoudien (SAR)",
     "ville": "Turaif",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Turaif)",
     "code_postal": "",
+    "population": "40 819",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -8786,9 +10542,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Arabie Saoudite",
     "langue_officielle": "Arabe",
+    "monnaie_devise": "SAR - Riyal saoudien (SAR)",
     "ville": "Ţurayf",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Ţurayf)",
     "code_postal": "",
+    "population": "66 014",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -8796,9 +10554,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Arabie Saoudite",
     "langue_officielle": "Arabe",
+    "monnaie_devise": "SAR - Riyal saoudien (SAR)",
     "ville": "Turabah",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Turabah)",
     "code_postal": "",
+    "population": "23 235",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -8806,9 +10566,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Arabie Saoudite",
     "langue_officielle": "Arabe",
+    "monnaie_devise": "SAR - Riyal saoudien (SAR)",
     "ville": "Taymā’",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Taymā’)",
     "code_postal": "",
+    "population": "37 579",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -8816,9 +10578,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Arabie Saoudite",
     "langue_officielle": "Arabe",
+    "monnaie_devise": "SAR - Riyal saoudien (SAR)",
     "ville": "Tārūt",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Tārūt)",
     "code_postal": "",
+    "population": "85 371",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -8826,9 +10590,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Arabie Saoudite",
     "langue_officielle": "Arabe",
+    "monnaie_devise": "SAR - Riyal saoudien (SAR)",
     "ville": "Tabuk",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Tabuk)",
     "code_postal": "",
+    "population": "122 771",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -8836,9 +10602,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Arabie Saoudite",
     "langue_officielle": "Arabe",
+    "monnaie_devise": "SAR - Riyal saoudien (SAR)",
     "ville": "Ţubarjal",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Ţubarjal)",
     "code_postal": "",
+    "population": "40 019",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -8846,9 +10614,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Arabie Saoudite",
     "langue_officielle": "Arabe",
+    "monnaie_devise": "SAR - Riyal saoudien (SAR)",
     "ville": "Unaizah",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Unaizah)",
     "code_postal": "",
+    "population": "183 319",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -8856,9 +10626,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Syrie",
     "langue_officielle": "Arabe, KU, Arménien, ARC",
+    "monnaie_devise": "SYP - Livre syrienne (LS)",
     "ville": "Zākīyah",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Zākīyah)",
     "code_postal": "",
+    "population": "18 553",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -8866,9 +10638,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Syrie",
     "langue_officielle": "Arabe, KU, Arménien, ARC",
+    "monnaie_devise": "SYP - Livre syrienne (LS)",
     "ville": "Yabrūd",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Yabrūd)",
     "code_postal": "",
+    "population": "40 502",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -8876,9 +10650,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Syrie",
     "langue_officielle": "Arabe, KU, Arménien, ARC",
+    "monnaie_devise": "SYP - Livre syrienne (LS)",
     "ville": "Ţayyibat al Imām",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Ţayyibat al Imām)",
     "code_postal": "",
+    "population": "29 259",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -8886,9 +10662,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Syrie",
     "langue_officielle": "Arabe, KU, Arménien, ARC",
+    "monnaie_devise": "SYP - Livre syrienne (LS)",
     "ville": "Ţarţūs",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Ţarţūs)",
     "code_postal": "",
+    "population": "458 327",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -8896,9 +10674,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Syrie",
     "langue_officielle": "Arabe, KU, Arménien, ARC",
+    "monnaie_devise": "SYP - Livre syrienne (LS)",
     "ville": "Tall Rif‘at",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Tall Rif‘at)",
     "code_postal": "",
+    "population": "25 658",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -8906,9 +10686,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Syrie",
     "langue_officielle": "Arabe, KU, Arménien, ARC",
+    "monnaie_devise": "SYP - Livre syrienne (LS)",
     "ville": "Tallkalakh",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Tallkalakh)",
     "code_postal": "",
+    "population": "29 754",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -8916,9 +10698,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Syrie",
     "langue_officielle": "Arabe, KU, Arménien, ARC",
+    "monnaie_devise": "SYP - Livre syrienne (LS)",
     "ville": "Tallbīsah",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Tallbīsah)",
     "code_postal": "",
+    "population": "38 491",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -8926,9 +10710,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Syrie",
     "langue_officielle": "Arabe, KU, Arménien, ARC",
+    "monnaie_devise": "SYP - Livre syrienne (LS)",
     "ville": "Ţafas",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Ţafas)",
     "code_postal": "",
+    "population": "31 249",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -8936,9 +10722,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Syrie",
     "langue_officielle": "Arabe, KU, Arménien, ARC",
+    "monnaie_devise": "SYP - Livre syrienne (LS)",
     "ville": "Tadmur",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Tadmur)",
     "code_postal": "",
+    "population": "51 015",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -8946,9 +10734,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Syrie",
     "langue_officielle": "Arabe, KU, Arménien, ARC",
+    "monnaie_devise": "SYP - Livre syrienne (LS)",
     "ville": "Tādif",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Tādif)",
     "code_postal": "",
+    "population": "34 670",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -8956,9 +10746,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Tadjikistan",
     "langue_officielle": "Tadjik, Russe",
+    "monnaie_devise": "TJS - Somoni",
     "ville": "Yovon",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Yovon)",
     "code_postal": "",
+    "population": "17 471",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -8966,9 +10758,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Tadjikistan",
     "langue_officielle": "Tadjik, Russe",
+    "monnaie_devise": "TJS - Somoni",
     "ville": "Hulbuk",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Hulbuk)",
     "code_postal": "",
+    "population": "21 736",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -8976,9 +10770,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Tadjikistan",
     "langue_officielle": "Tadjik, Russe",
+    "monnaie_devise": "TJS - Somoni",
     "ville": "Vakhsh",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Vakhsh)",
     "code_postal": "",
+    "population": "15 215",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -8986,9 +10782,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Tadjikistan",
     "langue_officielle": "Tadjik, Russe",
+    "monnaie_devise": "TJS - Somoni",
     "ville": "Istaravshan",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Istaravshan)",
     "code_postal": "",
+    "population": "273 500",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -8996,9 +10794,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Tadjikistan",
     "langue_officielle": "Tadjik, Russe",
+    "monnaie_devise": "TJS - Somoni",
     "ville": "Shahriston",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Shahriston)",
     "code_postal": "",
+    "population": "22 903",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -9006,9 +10806,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Tadjikistan",
     "langue_officielle": "Tadjik, Russe",
+    "monnaie_devise": "TJS - Somoni",
     "ville": "Bokhtar",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Bokhtar)",
     "code_postal": "",
+    "population": "110 800",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -9016,9 +10818,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Tadjikistan",
     "langue_officielle": "Tadjik, Russe",
+    "monnaie_devise": "TJS - Somoni",
     "ville": "Panjakent",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Panjakent)",
     "code_postal": "",
+    "population": "35 085",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -9026,9 +10830,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Tadjikistan",
     "langue_officielle": "Tadjik, Russe",
+    "monnaie_devise": "TJS - Somoni",
     "ville": "Farkhor",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Farkhor)",
     "code_postal": "",
+    "population": "21 736",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -9036,9 +10842,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Tadjikistan",
     "langue_officielle": "Tadjik, Russe",
+    "monnaie_devise": "TJS - Somoni",
     "ville": "Vahdat",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Vahdat)",
     "code_postal": "",
+    "population": "45 693",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -9046,9 +10854,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Tadjikistan",
     "langue_officielle": "Tadjik, Russe",
+    "monnaie_devise": "TJS - Somoni",
     "ville": "Norak",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Norak)",
     "code_postal": "",
+    "population": "18 122",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -9056,9 +10866,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Turkménistan",
     "langue_officielle": "Turkmène, Russe, Ouzbek",
+    "monnaie_devise": "TMT - Manat",
     "ville": "Balkanabat",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Balkanabat)",
     "code_postal": "",
+    "population": "87 822",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -9066,9 +10878,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Turkménistan",
     "langue_officielle": "Turkmène, Russe, Ouzbek",
+    "monnaie_devise": "TMT - Manat",
     "ville": "Kaka",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Kaka)",
     "code_postal": "",
+    "population": "33 315",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -9076,9 +10890,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Turkménistan",
     "langue_officielle": "Turkmène, Russe, Ouzbek",
+    "monnaie_devise": "TMT - Manat",
     "ville": "Gyzylarbat",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Gyzylarbat)",
     "code_postal": "",
+    "population": "48 558",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -9086,9 +10902,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Turkménistan",
     "langue_officielle": "Turkmène, Russe, Ouzbek",
+    "monnaie_devise": "TMT - Manat",
     "ville": "Gämi",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Gämi)",
     "code_postal": "",
+    "population": "18 148",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -9096,9 +10914,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Turkménistan",
     "langue_officielle": "Turkmène, Russe, Ouzbek",
+    "monnaie_devise": "TMT - Manat",
     "ville": "Gumdag",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Gumdag)",
     "code_postal": "",
+    "population": "30 884",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -9106,9 +10926,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Turkménistan",
     "langue_officielle": "Turkmène, Russe, Ouzbek",
+    "monnaie_devise": "TMT - Manat",
     "ville": "Gökdepe",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Gökdepe)",
     "code_postal": "",
+    "population": "33 381",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -9116,9 +10938,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Turkménistan",
     "langue_officielle": "Turkmène, Russe, Ouzbek",
+    "monnaie_devise": "TMT - Manat",
     "ville": "Bereket",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Bereket)",
     "code_postal": "",
+    "population": "24 500",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -9126,9 +10950,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Turkménistan",
     "langue_officielle": "Turkmène, Russe, Ouzbek",
+    "monnaie_devise": "TMT - Manat",
     "ville": "Magtymguly",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Magtymguly)",
     "code_postal": "",
+    "population": "15 386",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -9136,9 +10962,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Turkménistan",
     "langue_officielle": "Turkmène, Russe, Ouzbek",
+    "monnaie_devise": "TMT - Manat",
     "ville": "Jebel",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Jebel)",
     "code_postal": "",
+    "population": "15 056",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -9146,9 +10974,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Turkménistan",
     "langue_officielle": "Turkmène, Russe, Ouzbek",
+    "monnaie_devise": "TMT - Manat",
     "ville": "Abadan",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Abadan)",
     "code_postal": "",
+    "population": "231 476",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -9156,9 +10986,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Taïwan",
     "langue_officielle": "Chinois (Mandarin), NAN, HAK",
+    "monnaie_devise": "TWD - Dollar",
     "ville": "Douliu",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Douliu)",
     "code_postal": "",
+    "population": "107 924",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -9166,9 +10998,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Taïwan",
     "langue_officielle": "Chinois (Mandarin), NAN, HAK",
+    "monnaie_devise": "TWD - Dollar",
     "ville": "Yongkang",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Yongkang)",
     "code_postal": "",
+    "population": "233 730",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -9176,9 +11010,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Taïwan",
     "langue_officielle": "Chinois (Mandarin), NAN, HAK",
+    "monnaie_devise": "TWD - Dollar",
     "ville": "Yongjing",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Yongjing)",
     "code_postal": "",
+    "population": "35 365",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -9186,9 +11022,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Taïwan",
     "langue_officielle": "Chinois (Mandarin), NAN, HAK",
+    "monnaie_devise": "TWD - Dollar",
     "ville": "Yujing",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Yujing)",
     "code_postal": "",
+    "population": "16 597",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -9196,9 +11034,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Taïwan",
     "langue_officielle": "Chinois (Mandarin), NAN, HAK",
+    "monnaie_devise": "TWD - Dollar",
     "ville": "Yuanlin",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Yuanlin)",
     "code_postal": "",
+    "population": "124 725",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -9206,9 +11046,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Taïwan",
     "langue_officielle": "Chinois (Mandarin), NAN, HAK",
+    "monnaie_devise": "TWD - Dollar",
     "ville": "Yingge",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Yingge)",
     "code_postal": "",
+    "population": "87 920",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -9216,9 +11058,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Taïwan",
     "langue_officielle": "Chinois (Mandarin), NAN, HAK",
+    "monnaie_devise": "TWD - Dollar",
     "ville": "Wufeng",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Wufeng)",
     "code_postal": "",
+    "population": "65 567",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -9226,9 +11070,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Taïwan",
     "langue_officielle": "Chinois (Mandarin), NAN, HAK",
+    "monnaie_devise": "TWD - Dollar",
     "ville": "Citong",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Citong)",
     "code_postal": "",
+    "population": "24 998",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -9236,9 +11082,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Taïwan",
     "langue_officielle": "Chinois (Mandarin), NAN, HAK",
+    "monnaie_devise": "TWD - Dollar",
     "ville": "Donggang",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Donggang)",
     "code_postal": "",
+    "population": "47 746",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -9246,9 +11094,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Taïwan",
     "langue_officielle": "Chinois (Mandarin), NAN, HAK",
+    "monnaie_devise": "TWD - Dollar",
     "ville": "Caotun",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Caotun)",
     "code_postal": "",
+    "population": "96 838",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -9256,9 +11106,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Ouzbékistan",
     "langue_officielle": "Ouzbek, Russe, Tadjik",
+    "monnaie_devise": "UZS - Sum ouzbek (soʻm)",
     "ville": "Nukus",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Nukus)",
     "code_postal": "",
+    "population": "332 500",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -9266,9 +11118,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Ouzbékistan",
     "langue_officielle": "Ouzbek, Russe, Tadjik",
+    "monnaie_devise": "UZS - Sum ouzbek (soʻm)",
     "ville": "Qŭnghirot",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Qŭnghirot)",
     "code_postal": "",
+    "population": "80 090",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -9276,9 +11130,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Ouzbékistan",
     "langue_officielle": "Ouzbek, Russe, Tadjik",
+    "monnaie_devise": "UZS - Sum ouzbek (soʻm)",
     "ville": "Xo‘jayli Shahri",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Xo‘jayli Shahri)",
     "code_postal": "",
+    "population": "67 800",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -9286,9 +11142,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Ouzbékistan",
     "langue_officielle": "Ouzbek, Russe, Tadjik",
+    "monnaie_devise": "UZS - Sum ouzbek (soʻm)",
     "ville": "Oltinko‘l",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Oltinko‘l)",
     "code_postal": "",
+    "population": "59 122",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -9296,9 +11154,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Ouzbékistan",
     "langue_officielle": "Ouzbek, Russe, Tadjik",
+    "monnaie_devise": "UZS - Sum ouzbek (soʻm)",
     "ville": "Zomin Shaharchasi",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Zomin Shaharchasi)",
     "code_postal": "",
+    "population": "27 077",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -9306,9 +11166,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Ouzbékistan",
     "langue_officielle": "Ouzbek, Russe, Tadjik",
+    "monnaie_devise": "UZS - Sum ouzbek (soʻm)",
     "ville": "Urgut Shahri",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Urgut Shahri)",
     "code_postal": "",
+    "population": "65 300",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -9316,9 +11178,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Ouzbékistan",
     "langue_officielle": "Ouzbek, Russe, Tadjik",
+    "monnaie_devise": "UZS - Sum ouzbek (soʻm)",
     "ville": "Tirmiz",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Tirmiz)",
     "code_postal": "",
+    "population": "182 800",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -9326,9 +11190,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Ouzbékistan",
     "langue_officielle": "Ouzbek, Russe, Tadjik",
+    "monnaie_devise": "UZS - Sum ouzbek (soʻm)",
     "ville": "Sho‘rchi",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Sho‘rchi)",
     "code_postal": "",
+    "population": "25 000",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -9336,9 +11202,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Ouzbékistan",
     "langue_officielle": "Ouzbek, Russe, Tadjik",
+    "monnaie_devise": "UZS - Sum ouzbek (soʻm)",
     "ville": "Shahrisabz",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Shahrisabz)",
     "code_postal": "",
+    "population": "142 700",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -9346,9 +11214,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Ouzbékistan",
     "langue_officielle": "Ouzbek, Russe, Tadjik",
+    "monnaie_devise": "UZS - Sum ouzbek (soʻm)",
     "ville": "Samarkand",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Samarkand)",
     "code_postal": "",
+    "population": "595 200",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -9356,9 +11226,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Viêt Nam",
     "langue_officielle": "Vietnamien, Anglais, Français, Chinois (Mandarin)",
+    "monnaie_devise": "VND - Dong vietnamien (₫)",
     "ville": "Yên Vinh",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Yên Vinh)",
     "code_postal": "",
+    "population": "107 082",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -9366,9 +11238,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Viêt Nam",
     "langue_officielle": "Vietnamien, Anglais, Français, Chinois (Mandarin)",
+    "monnaie_devise": "VND - Dong vietnamien (₫)",
     "ville": "Yên Phụ",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Yên Phụ)",
     "code_postal": "",
+    "population": "23 942",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -9376,9 +11250,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Viêt Nam",
     "langue_officielle": "Vietnamien, Anglais, Français, Chinois (Mandarin)",
+    "monnaie_devise": "VND - Dong vietnamien (₫)",
     "ville": "Yên Bái",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Yên Bái)",
     "code_postal": "",
+    "population": "100 631",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -9386,9 +11262,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Viêt Nam",
     "langue_officielle": "Vietnamien, Anglais, Français, Chinois (Mandarin)",
+    "monnaie_devise": "VND - Dong vietnamien (₫)",
     "ville": "Xuân Mai",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Xuân Mai)",
     "code_postal": "",
+    "population": "25 100",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -9396,9 +11274,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Viêt Nam",
     "langue_officielle": "Vietnamien, Anglais, Français, Chinois (Mandarin)",
+    "monnaie_devise": "VND - Dong vietnamien (₫)",
     "ville": "Xuân Lộc",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Xuân Lộc)",
     "code_postal": "",
+    "population": "253 140",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -9406,9 +11286,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Viêt Nam",
     "langue_officielle": "Vietnamien, Anglais, Français, Chinois (Mandarin)",
+    "monnaie_devise": "VND - Dong vietnamien (₫)",
     "ville": "Xóm Mỹ Xuân",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Xóm Mỹ Xuân)",
     "code_postal": "",
+    "population": "32 345",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -9416,9 +11298,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Viêt Nam",
     "langue_officielle": "Vietnamien, Anglais, Français, Chinois (Mandarin)",
+    "monnaie_devise": "VND - Dong vietnamien (₫)",
     "ville": "Xóm Cái Nước",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Xóm Cái Nước)",
     "code_postal": "",
+    "population": "54 397",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -9426,9 +11310,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Viêt Nam",
     "langue_officielle": "Vietnamien, Anglais, Français, Chinois (Mandarin)",
+    "monnaie_devise": "VND - Dong vietnamien (₫)",
     "ville": "Cái Đôi Vàm",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Cái Đôi Vàm)",
     "code_postal": "",
+    "population": "36 444",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -9436,9 +11322,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Viêt Nam",
     "langue_officielle": "Vietnamien, Anglais, Français, Chinois (Mandarin)",
+    "monnaie_devise": "VND - Dong vietnamien (₫)",
     "ville": "Trảng Bom",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Trảng Bom)",
     "code_postal": "",
+    "population": "57 560",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -9446,9 +11334,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Viêt Nam",
     "langue_officielle": "Vietnamien, Anglais, Français, Chinois (Mandarin)",
+    "monnaie_devise": "VND - Dong vietnamien (₫)",
     "ville": "Xã Long Hải",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Xã Long Hải)",
     "code_postal": "",
+    "population": "35 167",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -9456,9 +11346,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Yémen",
     "langue_officielle": "Arabe",
+    "monnaie_devise": "YER - Rial yéménite (﷼)",
     "ville": "Zinjibār",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Zinjibār)",
     "code_postal": "",
+    "population": "19 879",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -9466,9 +11358,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Yémen",
     "langue_officielle": "Arabe",
+    "monnaie_devise": "YER - Rial yéménite (﷼)",
     "ville": "Zabīd",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Zabīd)",
     "code_postal": "",
+    "population": "52 590",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -9476,9 +11370,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Yémen",
     "langue_officielle": "Arabe",
+    "monnaie_devise": "YER - Rial yéménite (﷼)",
     "ville": "Yarīm",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Yarīm)",
     "code_postal": "",
+    "population": "33 050",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -9486,9 +11382,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Yémen",
     "langue_officielle": "Arabe",
+    "monnaie_devise": "YER - Rial yéménite (﷼)",
     "ville": "Taiz",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Taiz)",
     "code_postal": "",
+    "population": "940 600",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -9496,9 +11394,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Yémen",
     "langue_officielle": "Arabe",
+    "monnaie_devise": "YER - Rial yéménite (﷼)",
     "ville": "Sayyān",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Sayyān)",
     "code_postal": "",
+    "population": "69 404",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -9506,9 +11406,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Yémen",
     "langue_officielle": "Arabe",
+    "monnaie_devise": "YER - Rial yéménite (﷼)",
     "ville": "Sanaa",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Sanaa)",
     "code_postal": "",
+    "population": "1 937 451",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -9516,9 +11418,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Yémen",
     "langue_officielle": "Arabe",
+    "monnaie_devise": "YER - Rial yéménite (﷼)",
     "ville": "Saḩar",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Saḩar)",
     "code_postal": "",
+    "population": "31 859",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -9526,9 +11430,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Yémen",
     "langue_officielle": "Arabe",
+    "monnaie_devise": "YER - Rial yéménite (﷼)",
     "ville": "Sa'dah",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Sa'dah)",
     "code_postal": "",
+    "population": "51 870",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -9536,9 +11442,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Yémen",
     "langue_officielle": "Arabe",
+    "monnaie_devise": "YER - Rial yéménite (﷼)",
     "ville": "Ma'rib",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Ma'rib)",
     "code_postal": "",
+    "population": "16 794",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -9546,9 +11454,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Asie",
     "pays": "Yémen",
     "langue_officielle": "Arabe",
+    "monnaie_devise": "YER - Rial yéménite (﷼)",
     "ville": "Laḩij",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Laḩij)",
     "code_postal": "",
+    "population": "23 375",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -9556,9 +11466,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Anguilla",
     "langue_officielle": "Anglais",
+    "monnaie_devise": "XCD - Dollar",
     "ville": "Anguilla",
     "quartier_arrondissement": "Anguilla",
     "code_postal": "AI-2640",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -9566,9 +11478,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Bermudes",
     "langue_officielle": "Anglais, Portugais",
+    "monnaie_devise": "BMD - Dollar",
     "ville": "Devonshire Parish",
     "quartier_arrondissement": "Devonshire",
     "code_postal": "DV 01",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -9576,9 +11490,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Bermudes",
     "langue_officielle": "Anglais, Portugais",
+    "monnaie_devise": "BMD - Dollar",
     "ville": "Devonshire Parish",
     "quartier_arrondissement": "Devonshire",
     "code_postal": "DV 02",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -9586,9 +11502,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Bermudes",
     "langue_officielle": "Anglais, Portugais",
+    "monnaie_devise": "BMD - Dollar",
     "ville": "Devonshire Parish",
     "quartier_arrondissement": "Devonshire",
     "code_postal": "DV 03",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -9596,9 +11514,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Bermudes",
     "langue_officielle": "Anglais, Portugais",
+    "monnaie_devise": "BMD - Dollar",
     "ville": "Devonshire Parish",
     "quartier_arrondissement": "Devonshire",
     "code_postal": "DV 04",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -9606,9 +11526,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Bermudes",
     "langue_officielle": "Anglais, Portugais",
+    "monnaie_devise": "BMD - Dollar",
     "ville": "Devonshire Parish",
     "quartier_arrondissement": "Devonshire",
     "code_postal": "DV 05",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -9616,9 +11538,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Bermudes",
     "langue_officielle": "Anglais, Portugais",
+    "monnaie_devise": "BMD - Dollar",
     "ville": "Devonshire Parish",
     "quartier_arrondissement": "Devonshire",
     "code_postal": "DV 06",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -9626,9 +11550,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Bermudes",
     "langue_officielle": "Anglais, Portugais",
+    "monnaie_devise": "BMD - Dollar",
     "ville": "Devonshire Parish",
     "quartier_arrondissement": "Devonshire",
     "code_postal": "DV 07",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -9636,9 +11562,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Bermudes",
     "langue_officielle": "Anglais, Portugais",
+    "monnaie_devise": "BMD - Dollar",
     "ville": "Devonshire Parish",
     "quartier_arrondissement": "Devonshire",
     "code_postal": "DV 08",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -9646,9 +11574,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Bermudes",
     "langue_officielle": "Anglais, Portugais",
+    "monnaie_devise": "BMD - Dollar",
     "ville": "Devonshire Parish",
     "quartier_arrondissement": "Devonshire",
     "code_postal": "FL 01",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -9656,9 +11586,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Bermudes",
     "langue_officielle": "Anglais, Portugais",
+    "monnaie_devise": "BMD - Dollar",
     "ville": "Devonshire Parish",
     "quartier_arrondissement": "Devonshire",
     "code_postal": "FL 02",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -9666,9 +11598,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Canada",
     "langue_officielle": "Anglais, Français",
+    "monnaie_devise": "CAD - Dollar canadien ($CA)",
     "ville": "Alberta",
     "quartier_arrondissement": "Eastern Alberta (St. Paul)",
     "code_postal": "T0A",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -9676,9 +11610,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Canada",
     "langue_officielle": "Anglais, Français",
+    "monnaie_devise": "CAD - Dollar canadien ($CA)",
     "ville": "Alberta",
     "quartier_arrondissement": "Wainwright Region (Tofield)",
     "code_postal": "T0B",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -9686,9 +11622,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Canada",
     "langue_officielle": "Anglais, Français",
+    "monnaie_devise": "CAD - Dollar canadien ($CA)",
     "ville": "Alberta",
     "quartier_arrondissement": "Central Alberta (Stettler)",
     "code_postal": "T0C",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -9696,9 +11634,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Canada",
     "langue_officielle": "Anglais, Français",
+    "monnaie_devise": "CAD - Dollar canadien ($CA)",
     "ville": "Alberta",
     "quartier_arrondissement": "Western Alberta (Jasper)",
     "code_postal": "T0E",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -9706,9 +11646,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Canada",
     "langue_officielle": "Anglais, Français",
+    "monnaie_devise": "CAD - Dollar canadien ($CA)",
     "ville": "Alberta",
     "quartier_arrondissement": "North Central Alberta (Slave Lake)",
     "code_postal": "T0G",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -9716,9 +11658,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Canada",
     "langue_officielle": "Anglais, Français",
+    "monnaie_devise": "CAD - Dollar canadien ($CA)",
     "ville": "Alberta",
     "quartier_arrondissement": "Northwestern Alberta (High Level)",
     "code_postal": "T0H",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -9726,9 +11670,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Canada",
     "langue_officielle": "Anglais, Français",
+    "monnaie_devise": "CAD - Dollar canadien ($CA)",
     "ville": "Alberta",
     "quartier_arrondissement": "Southeastern Alberta (Drumheller)",
     "code_postal": "T0J",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -9736,9 +11682,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Canada",
     "langue_officielle": "Anglais, Français",
+    "monnaie_devise": "CAD - Dollar canadien ($CA)",
     "ville": "Alberta",
     "quartier_arrondissement": "International Border Region (Cardston)",
     "code_postal": "T0K",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -9746,9 +11694,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Canada",
     "langue_officielle": "Anglais, Français",
+    "monnaie_devise": "CAD - Dollar canadien ($CA)",
     "ville": "Alberta",
     "quartier_arrondissement": "Kananaskis Country (Claresholm)",
     "code_postal": "T0L",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -9756,9 +11706,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Canada",
     "langue_officielle": "Anglais, Français",
+    "monnaie_devise": "CAD - Dollar canadien ($CA)",
     "ville": "Alberta",
     "quartier_arrondissement": "Central Foothills (Sundre)",
     "code_postal": "T0M",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -9766,9 +11718,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Costa Rica",
     "langue_officielle": "Espagnol, Anglais",
+    "monnaie_devise": "CRC - Colon",
     "ville": "Alajuela",
     "quartier_arrondissement": "Alajuela (Provincia de Alajuela)",
     "code_postal": "20101",
+    "population": "47 494",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -9776,9 +11730,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Costa Rica",
     "langue_officielle": "Espagnol, Anglais",
+    "monnaie_devise": "CRC - Colon",
     "ville": "Alajuela",
     "quartier_arrondissement": "San José",
     "code_postal": "20102",
+    "population": "31 430",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -9786,9 +11742,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Costa Rica",
     "langue_officielle": "Espagnol, Anglais",
+    "monnaie_devise": "CRC - Colon",
     "ville": "Alajuela",
     "quartier_arrondissement": "Carrizal",
     "code_postal": "20103",
+    "population": "22 000",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -9796,9 +11754,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Costa Rica",
     "langue_officielle": "Espagnol, Anglais",
+    "monnaie_devise": "CRC - Colon",
     "ville": "Alajuela",
     "quartier_arrondissement": "San Antonio",
     "code_postal": "20104",
+    "population": "87 675",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -9806,9 +11766,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Costa Rica",
     "langue_officielle": "Espagnol, Anglais",
+    "monnaie_devise": "CRC - Colon",
     "ville": "Alajuela",
     "quartier_arrondissement": "Guácima",
     "code_postal": "20105",
+    "population": "47 494",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -9816,9 +11778,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Costa Rica",
     "langue_officielle": "Espagnol, Anglais",
+    "monnaie_devise": "CRC - Colon",
     "ville": "Alajuela",
     "quartier_arrondissement": "San Isidro",
     "code_postal": "20106",
+    "population": "45 190",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -9826,9 +11790,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Costa Rica",
     "langue_officielle": "Espagnol, Anglais",
+    "monnaie_devise": "CRC - Colon",
     "ville": "Alajuela",
     "quartier_arrondissement": "Sabanilla",
     "code_postal": "20107",
+    "population": "47 494",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -9836,9 +11802,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Costa Rica",
     "langue_officielle": "Espagnol, Anglais",
+    "monnaie_devise": "CRC - Colon",
     "ville": "Alajuela",
     "quartier_arrondissement": "San Rafael",
     "code_postal": "20108",
+    "population": "118 009",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -9846,9 +11814,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Costa Rica",
     "langue_officielle": "Espagnol, Anglais",
+    "monnaie_devise": "CRC - Colon",
     "ville": "Alajuela",
     "quartier_arrondissement": "Río Segundo",
     "code_postal": "20109",
+    "population": "22 171",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -9856,9 +11826,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Costa Rica",
     "langue_officielle": "Espagnol, Anglais",
+    "monnaie_devise": "CRC - Colon",
     "ville": "Alajuela",
     "quartier_arrondissement": "Desamparados",
     "code_postal": "20110",
+    "population": "47 494",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -9866,9 +11838,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "République Dominicaine",
     "langue_officielle": "Espagnol",
+    "monnaie_devise": "DOP - Peso",
     "ville": "Centro de Los Heroes",
     "quartier_arrondissement": "Centro de Los Heroes",
     "code_postal": "10101",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -9876,9 +11850,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "République Dominicaine",
     "langue_officielle": "Espagnol",
+    "monnaie_devise": "DOP - Peso",
     "ville": "Mata Hambre",
     "quartier_arrondissement": "Mata Hambre",
     "code_postal": "10102",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -9886,9 +11862,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "République Dominicaine",
     "langue_officielle": "Espagnol",
+    "monnaie_devise": "DOP - Peso",
     "ville": "Zona Universitaria",
     "quartier_arrondissement": "Zona Universitaria",
     "code_postal": "10103",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -9896,9 +11874,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "République Dominicaine",
     "langue_officielle": "Espagnol",
+    "monnaie_devise": "DOP - Peso",
     "ville": "San Geronimo",
     "quartier_arrondissement": "San Geronimo",
     "code_postal": "10104",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -9906,9 +11886,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "République Dominicaine",
     "langue_officielle": "Espagnol",
+    "monnaie_devise": "DOP - Peso",
     "ville": "Ciudad Universitaria",
     "quartier_arrondissement": "Ciudad Universitaria",
     "code_postal": "10105",
+    "population": "16 364",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -9916,9 +11898,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "République Dominicaine",
     "langue_officielle": "Espagnol",
+    "monnaie_devise": "DOP - Peso",
     "ville": "Los Robles",
     "quartier_arrondissement": "Los Robles",
     "code_postal": "10106",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -9926,9 +11910,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "République Dominicaine",
     "langue_officielle": "Espagnol",
+    "monnaie_devise": "DOP - Peso",
     "ville": "El Vergel",
     "quartier_arrondissement": "El Vergel",
     "code_postal": "10107",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -9936,9 +11922,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "République Dominicaine",
     "langue_officielle": "Espagnol",
+    "monnaie_devise": "DOP - Peso",
     "ville": "Esperilla",
     "quartier_arrondissement": "Esperilla",
     "code_postal": "10107",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -9946,9 +11934,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "République Dominicaine",
     "langue_officielle": "Espagnol",
+    "monnaie_devise": "DOP - Peso",
     "ville": "El Manguito",
     "quartier_arrondissement": "El Manguito",
     "code_postal": "10108",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -9956,9 +11946,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "République Dominicaine",
     "langue_officielle": "Espagnol",
+    "monnaie_devise": "DOP - Peso",
     "ville": "Esperilla",
     "quartier_arrondissement": "Esperilla",
     "code_postal": "10108",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -9966,9 +11958,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Groenland",
     "langue_officielle": "KL, Danois, Anglais",
+    "monnaie_devise": "DKK - Couronne danoise (kr)",
     "ville": "Santa Claus/Julemanden",
     "quartier_arrondissement": "Santa Claus/Julemanden",
     "code_postal": "2412",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -9976,9 +11970,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Groenland",
     "langue_officielle": "KL, Danois, Anglais",
+    "monnaie_devise": "DKK - Couronne danoise (kr)",
     "ville": "Nuuk",
     "quartier_arrondissement": "Nuuk",
     "code_postal": "3900",
+    "population": "14 798",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -9986,9 +11982,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Groenland",
     "langue_officielle": "KL, Danois, Anglais",
+    "monnaie_devise": "DKK - Couronne danoise (kr)",
     "ville": "Nuussuaq",
     "quartier_arrondissement": "Nuussuaq",
     "code_postal": "3905",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -9996,9 +11994,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Groenland",
     "langue_officielle": "KL, Danois, Anglais",
+    "monnaie_devise": "DKK - Couronne danoise (kr)",
     "ville": "Kangerlussuaq",
     "quartier_arrondissement": "Kangerlussuaq",
     "code_postal": "3910",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -10006,9 +12006,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Groenland",
     "langue_officielle": "KL, Danois, Anglais",
+    "monnaie_devise": "DKK - Couronne danoise (kr)",
     "ville": "Sisimiut",
     "quartier_arrondissement": "Sisimiut",
     "code_postal": "3911",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -10016,9 +12018,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Groenland",
     "langue_officielle": "KL, Danois, Anglais",
+    "monnaie_devise": "DKK - Couronne danoise (kr)",
     "ville": "Maniitsoq",
     "quartier_arrondissement": "Maniitsoq",
     "code_postal": "3912",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -10026,9 +12030,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Groenland",
     "langue_officielle": "KL, Danois, Anglais",
+    "monnaie_devise": "DKK - Couronne danoise (kr)",
     "ville": "Tasiilaq",
     "quartier_arrondissement": "Tasiilaq",
     "code_postal": "3913",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -10036,9 +12042,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Groenland",
     "langue_officielle": "KL, Danois, Anglais",
+    "monnaie_devise": "DKK - Couronne danoise (kr)",
     "ville": "Kulusuk",
     "quartier_arrondissement": "Kulusuk",
     "code_postal": "3915",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -10046,9 +12054,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Groenland",
     "langue_officielle": "KL, Danois, Anglais",
+    "monnaie_devise": "DKK - Couronne danoise (kr)",
     "ville": "Alluitsup Paa",
     "quartier_arrondissement": "Alluitsup Paa",
     "code_postal": "3919",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -10056,9 +12066,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Groenland",
     "langue_officielle": "KL, Danois, Anglais",
+    "monnaie_devise": "DKK - Couronne danoise (kr)",
     "ville": "Qaqortoq",
     "quartier_arrondissement": "Qaqortoq",
     "code_postal": "3920",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -10066,9 +12078,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Guadeloupe",
     "langue_officielle": "Français",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Guadeloupe",
     "quartier_arrondissement": "Les Abymes",
     "code_postal": "97001 CEDEX",
+    "population": "53 514",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -10076,9 +12090,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Guadeloupe",
     "langue_officielle": "Français",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Guadeloupe",
     "quartier_arrondissement": "Pointe-à-Pitre",
     "code_postal": "97002 CEDEX",
+    "population": "15 181",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -10086,9 +12102,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Guadeloupe",
     "langue_officielle": "Français",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Guadeloupe",
     "quartier_arrondissement": "Pointe-à-Pitre",
     "code_postal": "97003 CEDEX",
+    "population": "15 181",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -10096,9 +12114,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Guadeloupe",
     "langue_officielle": "Français",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Guadeloupe",
     "quartier_arrondissement": "Pointe-à-Pitre",
     "code_postal": "97004 CEDEX",
+    "population": "15 181",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -10106,9 +12126,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Guadeloupe",
     "langue_officielle": "Français",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Guadeloupe",
     "quartier_arrondissement": "Pointe-à-Pitre",
     "code_postal": "97005 CEDEX",
+    "population": "15 181",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -10116,9 +12138,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Guadeloupe",
     "langue_officielle": "Français",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Guadeloupe",
     "quartier_arrondissement": "Pointe-à-Pitre",
     "code_postal": "97006 CEDEX",
+    "population": "15 181",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -10126,9 +12150,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Guadeloupe",
     "langue_officielle": "Français",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Guadeloupe",
     "quartier_arrondissement": "Pointe-à-Pitre",
     "code_postal": "97007 CEDEX",
+    "population": "15 181",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -10136,9 +12162,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Guadeloupe",
     "langue_officielle": "Français",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Guadeloupe",
     "quartier_arrondissement": "Pointe-à-Pitre",
     "code_postal": "97008 CEDEX",
+    "population": "15 181",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -10146,9 +12174,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Guadeloupe",
     "langue_officielle": "Français",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Guadeloupe",
     "quartier_arrondissement": "Les Abymes",
     "code_postal": "97009 CEDEX",
+    "population": "53 514",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -10156,9 +12186,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Guadeloupe",
     "langue_officielle": "Français",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Guadeloupe",
     "quartier_arrondissement": "Pointe-à-Pitre",
     "code_postal": "97010 CEDEX",
+    "population": "15 181",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -10166,9 +12198,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Guatemala",
     "langue_officielle": "Espagnol",
+    "monnaie_devise": "GTQ - Quetzal",
     "ville": "DEPTO DE ALTA VERAPAZ",
     "quartier_arrondissement": "DEPTO DE ALTA VERAPAZ",
     "code_postal": "16000",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -10176,9 +12210,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Guatemala",
     "langue_officielle": "Espagnol",
+    "monnaie_devise": "GTQ - Quetzal",
     "ville": "DEPTO DE ALTA VERAPAZ",
     "quartier_arrondissement": "COBAN",
     "code_postal": "16001",
+    "population": "212 047",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -10186,9 +12222,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Guatemala",
     "langue_officielle": "Espagnol",
+    "monnaie_devise": "GTQ - Quetzal",
     "ville": "DEPTO DE ALTA VERAPAZ",
     "quartier_arrondissement": "SANTA CRUZ VERAPAZ",
     "code_postal": "16002",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -10196,9 +12234,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Guatemala",
     "langue_officielle": "Espagnol",
+    "monnaie_devise": "GTQ - Quetzal",
     "ville": "DEPTO DE ALTA VERAPAZ",
     "quartier_arrondissement": "SAN CRISTOBAL VERAPAZ",
     "code_postal": "16003",
+    "population": "19 664",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -10206,9 +12246,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Guatemala",
     "langue_officielle": "Espagnol",
+    "monnaie_devise": "GTQ - Quetzal",
     "ville": "DEPTO DE ALTA VERAPAZ",
     "quartier_arrondissement": "TACTIC",
     "code_postal": "16004",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -10216,9 +12258,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Guatemala",
     "langue_officielle": "Espagnol",
+    "monnaie_devise": "GTQ - Quetzal",
     "ville": "DEPTO DE ALTA VERAPAZ",
     "quartier_arrondissement": "TAMAHU",
     "code_postal": "16005",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -10226,9 +12270,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Guatemala",
     "langue_officielle": "Espagnol",
+    "monnaie_devise": "GTQ - Quetzal",
     "ville": "DEPTO DE ALTA VERAPAZ",
     "quartier_arrondissement": "TUCURU",
     "code_postal": "16006",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -10236,9 +12282,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Guatemala",
     "langue_officielle": "Espagnol",
+    "monnaie_devise": "GTQ - Quetzal",
     "ville": "DEPTO DE ALTA VERAPAZ",
     "quartier_arrondissement": "PANZOS",
     "code_postal": "16007",
+    "population": "71 846",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -10246,9 +12294,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Guatemala",
     "langue_officielle": "Espagnol",
+    "monnaie_devise": "GTQ - Quetzal",
     "ville": "DEPTO DE ALTA VERAPAZ",
     "quartier_arrondissement": "SENAHU",
     "code_postal": "16008",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -10256,9 +12306,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Guatemala",
     "langue_officielle": "Espagnol",
+    "monnaie_devise": "GTQ - Quetzal",
     "ville": "DEPTO DE ALTA VERAPAZ",
     "quartier_arrondissement": "SAN PEDRO CARCHA",
     "code_postal": "16009",
+    "population": "16 353",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -10266,9 +12318,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Honduras",
     "langue_officielle": "Espagnol, CAB, MIQ",
+    "monnaie_devise": "HNL - Lempira",
     "ville": "Atlántida",
     "quartier_arrondissement": "La Ceiba",
     "code_postal": "31101",
+    "population": "222 055",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -10276,9 +12330,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Honduras",
     "langue_officielle": "Espagnol, CAB, MIQ",
+    "monnaie_devise": "HNL - Lempira",
     "ville": "Atlántida",
     "quartier_arrondissement": "Tela",
     "code_postal": "31301",
+    "population": "29 325",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -10286,9 +12342,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Honduras",
     "langue_officielle": "Espagnol, CAB, MIQ",
+    "monnaie_devise": "HNL - Lempira",
     "ville": "Choluteca",
     "quartier_arrondissement": "Choluteca",
     "code_postal": "51101",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -10296,9 +12354,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Honduras",
     "langue_officielle": "Espagnol, CAB, MIQ",
+    "monnaie_devise": "HNL - Lempira",
     "ville": "Choluteca",
     "quartier_arrondissement": "Pespire",
     "code_postal": "51201",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -10306,9 +12366,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Honduras",
     "langue_officielle": "Espagnol, CAB, MIQ",
+    "monnaie_devise": "HNL - Lempira",
     "ville": "Colon",
     "quartier_arrondissement": "Trujillo",
     "code_postal": "32101",
+    "population": "1 067 700",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -10316,9 +12378,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Honduras",
     "langue_officielle": "Espagnol, CAB, MIQ",
+    "monnaie_devise": "HNL - Lempira",
     "ville": "Colon",
     "quartier_arrondissement": "Tocoa",
     "code_postal": "32301",
+    "population": "111 972",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -10326,9 +12390,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Honduras",
     "langue_officielle": "Espagnol, CAB, MIQ",
+    "monnaie_devise": "HNL - Lempira",
     "ville": "Comayagua",
     "quartier_arrondissement": "Comayagua",
     "code_postal": "12101",
+    "population": "58 784",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -10336,9 +12402,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Honduras",
     "langue_officielle": "Espagnol, CAB, MIQ",
+    "monnaie_devise": "HNL - Lempira",
     "ville": "Comayagua",
     "quartier_arrondissement": "Siguatepeque",
     "code_postal": "12111",
+    "population": "127 468",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -10346,9 +12414,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Honduras",
     "langue_officielle": "Espagnol, CAB, MIQ",
+    "monnaie_devise": "HNL - Lempira",
     "ville": "Copán",
     "quartier_arrondissement": "Santa Rosa de Copan",
     "code_postal": "41101",
+    "population": "27 753",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -10356,9 +12426,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Honduras",
     "langue_officielle": "Espagnol, CAB, MIQ",
+    "monnaie_devise": "HNL - Lempira",
     "ville": "Copán",
     "quartier_arrondissement": "La Entrada",
     "code_postal": "41202",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -10366,9 +12438,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Haïti",
     "langue_officielle": "Créole haïtien, Français",
+    "monnaie_devise": "HTG - Gourde",
     "ville": "Nord-Ouest",
     "quartier_arrondissement": "Port-de-Paix",
     "code_postal": "HT3110",
+    "population": "306 217",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -10376,9 +12450,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Haïti",
     "langue_officielle": "Créole haïtien, Français",
+    "monnaie_devise": "HTG - Gourde",
     "ville": "Nord-Ouest",
     "quartier_arrondissement": "La Pointe",
     "code_postal": "HT3111",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -10386,9 +12462,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Haïti",
     "langue_officielle": "Créole haïtien, Français",
+    "monnaie_devise": "HTG - Gourde",
     "ville": "Nord-Ouest",
     "quartier_arrondissement": "La Tortue",
     "code_postal": "HT3120",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -10396,9 +12474,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Haïti",
     "langue_officielle": "Créole haïtien, Français",
+    "monnaie_devise": "HTG - Gourde",
     "ville": "Nord-Ouest",
     "quartier_arrondissement": "Pointe des Oiseaux",
     "code_postal": "HT3121",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -10406,9 +12486,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Haïti",
     "langue_officielle": "Créole haïtien, Français",
+    "monnaie_devise": "HTG - Gourde",
     "ville": "Nord-Ouest",
     "quartier_arrondissement": "Mare Rouge",
     "code_postal": "HT3122",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -10416,9 +12498,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Haïti",
     "langue_officielle": "Créole haïtien, Français",
+    "monnaie_devise": "HTG - Gourde",
     "ville": "Nord-Ouest",
     "quartier_arrondissement": "Bassin-Bleu",
     "code_postal": "HT3130",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -10426,9 +12510,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Haïti",
     "langue_officielle": "Créole haïtien, Français",
+    "monnaie_devise": "HTG - Gourde",
     "ville": "Nord-Ouest",
     "quartier_arrondissement": "Chansolme",
     "code_postal": "HT3140",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -10436,9 +12522,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Haïti",
     "langue_officielle": "Créole haïtien, Français",
+    "monnaie_devise": "HTG - Gourde",
     "ville": "Nord-Ouest",
     "quartier_arrondissement": "Saint-Louis-du-Nord",
     "code_postal": "HT3210",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -10446,9 +12534,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Haïti",
     "langue_officielle": "Créole haïtien, Français",
+    "monnaie_devise": "HTG - Gourde",
     "ville": "Nord-Ouest",
     "quartier_arrondissement": "Bonneau",
     "code_postal": "HT3211",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -10456,9 +12546,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Haïti",
     "langue_officielle": "Créole haïtien, Français",
+    "monnaie_devise": "HTG - Gourde",
     "ville": "Nord-Ouest",
     "quartier_arrondissement": "Guichard",
     "code_postal": "HT3212",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -10466,9 +12558,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Martinique",
     "langue_officielle": "Français",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Martinique",
     "quartier_arrondissement": "Fort-de-France",
     "code_postal": "97200",
+    "population": "89 995",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -10476,9 +12570,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Martinique",
     "langue_officielle": "Français",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Martinique",
     "quartier_arrondissement": "Fort-de-France",
     "code_postal": "97201 CEDEX",
+    "population": "89 995",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -10486,9 +12582,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Martinique",
     "langue_officielle": "Français",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Martinique",
     "quartier_arrondissement": "Fort-de-France",
     "code_postal": "97202 CEDEX",
+    "population": "89 995",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -10496,9 +12594,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Martinique",
     "langue_officielle": "Français",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Martinique",
     "quartier_arrondissement": "Fort-de-France",
     "code_postal": "97203 CEDEX",
+    "population": "89 995",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -10506,9 +12606,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Martinique",
     "langue_officielle": "Français",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Martinique",
     "quartier_arrondissement": "Fort-de-France",
     "code_postal": "97204 CEDEX",
+    "population": "89 995",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -10516,9 +12618,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Martinique",
     "langue_officielle": "Français",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Martinique",
     "quartier_arrondissement": "Fort-de-France",
     "code_postal": "97205 CEDEX",
+    "population": "89 995",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -10526,9 +12630,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Martinique",
     "langue_officielle": "Français",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Martinique",
     "quartier_arrondissement": "Fort-de-France",
     "code_postal": "97206 CEDEX",
+    "population": "89 995",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -10536,9 +12642,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Martinique",
     "langue_officielle": "Français",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Martinique",
     "quartier_arrondissement": "Fort-de-France",
     "code_postal": "97207 CEDEX",
+    "population": "89 995",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -10546,9 +12654,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Martinique",
     "langue_officielle": "Français",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Martinique",
     "quartier_arrondissement": "Fort-de-France",
     "code_postal": "97208 CEDEX",
+    "population": "89 995",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -10556,9 +12666,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Martinique",
     "langue_officielle": "Français",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Martinique",
     "quartier_arrondissement": "Fort-de-France",
     "code_postal": "97209 CEDEX",
+    "population": "89 995",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -10566,9 +12678,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Mexique",
     "langue_officielle": "Espagnol",
+    "monnaie_devise": "MXN - Peso mexicain ($MX)",
     "ville": "Aguascalientes",
     "quartier_arrondissement": "Zona Centro",
     "code_postal": "20000",
+    "population": "722 250",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -10576,9 +12690,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Mexique",
     "langue_officielle": "Espagnol",
+    "monnaie_devise": "MXN - Peso mexicain ($MX)",
     "ville": "Aguascalientes",
     "quartier_arrondissement": "Ramon Romo Franco",
     "code_postal": "20010",
+    "population": "722 250",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -10586,9 +12702,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Mexique",
     "langue_officielle": "Espagnol",
+    "monnaie_devise": "MXN - Peso mexicain ($MX)",
     "ville": "Aguascalientes",
     "quartier_arrondissement": "Colinas del Rio",
     "code_postal": "20010",
+    "population": "722 250",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -10596,9 +12714,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Mexique",
     "langue_officielle": "Espagnol",
+    "monnaie_devise": "MXN - Peso mexicain ($MX)",
     "ville": "Aguascalientes",
     "quartier_arrondissement": "San Cayetano",
     "code_postal": "20010",
+    "population": "722 250",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -10606,9 +12726,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Mexique",
     "langue_officielle": "Espagnol",
+    "monnaie_devise": "MXN - Peso mexicain ($MX)",
     "ville": "Aguascalientes",
     "quartier_arrondissement": "Las Brisas",
     "code_postal": "20010",
+    "population": "722 250",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -10616,9 +12738,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Mexique",
     "langue_officielle": "Espagnol",
+    "monnaie_devise": "MXN - Peso mexicain ($MX)",
     "ville": "Aguascalientes",
     "quartier_arrondissement": "Olivares Santana",
     "code_postal": "20010",
+    "population": "722 250",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -10626,9 +12750,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Mexique",
     "langue_officielle": "Espagnol",
+    "monnaie_devise": "MXN - Peso mexicain ($MX)",
     "ville": "Aguascalientes",
     "quartier_arrondissement": "Colinas de San Ignacio",
     "code_postal": "20016",
+    "population": "722 250",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -10636,9 +12762,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Mexique",
     "langue_officielle": "Espagnol",
+    "monnaie_devise": "MXN - Peso mexicain ($MX)",
     "ville": "Aguascalientes",
     "quartier_arrondissement": "La Fundición",
     "code_postal": "20016",
+    "population": "722 250",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -10646,9 +12774,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Mexique",
     "langue_officielle": "Espagnol",
+    "monnaie_devise": "MXN - Peso mexicain ($MX)",
     "ville": "Aguascalientes",
     "quartier_arrondissement": "Fundición II",
     "code_postal": "20016",
+    "population": "722 250",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -10656,9 +12786,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Mexique",
     "langue_officielle": "Espagnol",
+    "monnaie_devise": "MXN - Peso mexicain ($MX)",
     "ville": "Aguascalientes",
     "quartier_arrondissement": "Los Sauces",
     "code_postal": "20016",
+    "population": "722 250",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -10666,9 +12798,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Panama",
     "langue_officielle": "Espagnol, Anglais",
+    "monnaie_devise": "PAB - Balboa",
     "ville": "Bocas Del Toro",
     "quartier_arrondissement": "Bocas Del Toro (Cabecera)",
     "code_postal": "01001",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -10676,9 +12810,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Panama",
     "langue_officielle": "Espagnol, Anglais",
+    "monnaie_devise": "PAB - Balboa",
     "ville": "Bocas Del Toro",
     "quartier_arrondissement": "Bastimentos",
     "code_postal": "01002",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -10686,9 +12822,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Panama",
     "langue_officielle": "Espagnol, Anglais",
+    "monnaie_devise": "PAB - Balboa",
     "ville": "Bocas Del Toro",
     "quartier_arrondissement": "Punta Laurel",
     "code_postal": "01003",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -10696,9 +12834,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Panama",
     "langue_officielle": "Espagnol, Anglais",
+    "monnaie_devise": "PAB - Balboa",
     "ville": "Bocas Del Toro",
     "quartier_arrondissement": "Cauchero",
     "code_postal": "01004",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -10706,9 +12846,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Panama",
     "langue_officielle": "Espagnol, Anglais",
+    "monnaie_devise": "PAB - Balboa",
     "ville": "Bocas Del Toro",
     "quartier_arrondissement": "Tierra Oscura",
     "code_postal": "01005",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -10716,9 +12858,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Panama",
     "langue_officielle": "Espagnol, Anglais",
+    "monnaie_devise": "PAB - Balboa",
     "ville": "Changuinola",
     "quartier_arrondissement": "Changuinola (Cabec)",
     "code_postal": "01006",
+    "population": "17 997",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -10726,9 +12870,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Panama",
     "langue_officielle": "Espagnol, Anglais",
+    "monnaie_devise": "PAB - Balboa",
     "ville": "Changuinola",
     "quartier_arrondissement": "Almirante",
     "code_postal": "01007",
+    "population": "17 997",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -10736,9 +12882,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Panama",
     "langue_officielle": "Espagnol, Anglais",
+    "monnaie_devise": "PAB - Balboa",
     "ville": "Changuinola",
     "quartier_arrondissement": "Guabito",
     "code_postal": "01008",
+    "population": "17 997",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -10746,9 +12894,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Panama",
     "langue_officielle": "Espagnol, Anglais",
+    "monnaie_devise": "PAB - Balboa",
     "ville": "Changuinola",
     "quartier_arrondissement": "El Teribe",
     "code_postal": "01009",
+    "population": "17 997",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -10756,9 +12906,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Panama",
     "langue_officielle": "Espagnol, Anglais",
+    "monnaie_devise": "PAB - Balboa",
     "ville": "Changuinola",
     "quartier_arrondissement": "Valle Del Risco",
     "code_postal": "01010",
+    "population": "17 997",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -10766,9 +12918,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Saint-Pierre-et-Miquelon",
     "langue_officielle": "Français",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Miquelon-Langlade",
     "quartier_arrondissement": "Miquelon",
     "code_postal": "97500",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -10776,9 +12930,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Saint-Pierre-et-Miquelon",
     "langue_officielle": "Français",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Saint-Pierre",
     "quartier_arrondissement": "Saint-Pierre",
     "code_postal": "97500",
+    "population": "6 200",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -10786,9 +12942,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Porto Rico",
     "langue_officielle": "Anglais, Espagnol",
+    "monnaie_devise": "USD - Dollar américain ($)",
     "ville": "Adjuntas",
     "quartier_arrondissement": "Adjuntas",
     "code_postal": "00601",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -10796,9 +12954,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Porto Rico",
     "langue_officielle": "Anglais, Espagnol",
+    "monnaie_devise": "USD - Dollar américain ($)",
     "ville": "Aguada",
     "quartier_arrondissement": "Aguada",
     "code_postal": "00602",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -10806,9 +12966,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Porto Rico",
     "langue_officielle": "Anglais, Espagnol",
+    "monnaie_devise": "USD - Dollar américain ($)",
     "ville": "Aguadilla",
     "quartier_arrondissement": "Aguadilla",
     "code_postal": "00603",
+    "population": "16 073",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -10816,9 +12978,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Porto Rico",
     "langue_officielle": "Anglais, Espagnol",
+    "monnaie_devise": "USD - Dollar américain ($)",
     "ville": "Aguadilla",
     "quartier_arrondissement": "Aguadilla",
     "code_postal": "00604",
+    "population": "16 073",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -10826,9 +12990,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Porto Rico",
     "langue_officielle": "Anglais, Espagnol",
+    "monnaie_devise": "USD - Dollar américain ($)",
     "ville": "Aguadilla",
     "quartier_arrondissement": "Aguadilla",
     "code_postal": "00605",
+    "population": "16 073",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -10836,9 +13002,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Porto Rico",
     "langue_officielle": "Anglais, Espagnol",
+    "monnaie_devise": "USD - Dollar américain ($)",
     "ville": "Aguadilla",
     "quartier_arrondissement": "San Antonio",
     "code_postal": "00690",
+    "population": "87 675",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -10846,9 +13014,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Porto Rico",
     "langue_officielle": "Anglais, Espagnol",
+    "monnaie_devise": "USD - Dollar américain ($)",
     "ville": "Aguas Buenas",
     "quartier_arrondissement": "Aguas Buenas",
     "code_postal": "00703",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -10856,9 +13026,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Porto Rico",
     "langue_officielle": "Anglais, Espagnol",
+    "monnaie_devise": "USD - Dollar américain ($)",
     "ville": "Aibonito",
     "quartier_arrondissement": "Aibonito",
     "code_postal": "00705",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -10866,9 +13038,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Porto Rico",
     "langue_officielle": "Anglais, Espagnol",
+    "monnaie_devise": "USD - Dollar américain ($)",
     "ville": "Aibonito",
     "quartier_arrondissement": "La Plata",
     "code_postal": "00786",
+    "population": "195 443",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -10876,9 +13050,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Porto Rico",
     "langue_officielle": "Anglais, Espagnol",
+    "monnaie_devise": "USD - Dollar américain ($)",
     "ville": "Anasco",
     "quartier_arrondissement": "Anasco",
     "code_postal": "00610",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -10886,9 +13062,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Îles Turques-et-Caïques",
     "langue_officielle": "Anglais",
+    "monnaie_devise": "USD - Dollar américain ($)",
     "ville": "Turks and Caicos Islands",
     "quartier_arrondissement": "Turks and Caicos Islands",
     "code_postal": "TKCA 1ZZ",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -10896,9 +13074,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "États-Unis",
     "langue_officielle": "Anglais, Espagnol",
+    "monnaie_devise": "USD - Dollar américain ($)",
     "ville": "Aleutians East",
     "quartier_arrondissement": "Akutan",
     "code_postal": "99553",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -10906,9 +13086,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "États-Unis",
     "langue_officielle": "Anglais, Espagnol",
+    "monnaie_devise": "USD - Dollar américain ($)",
     "ville": "Aleutians East",
     "quartier_arrondissement": "Cold Bay",
     "code_postal": "99571",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -10916,9 +13098,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "États-Unis",
     "langue_officielle": "Anglais, Espagnol",
+    "monnaie_devise": "USD - Dollar américain ($)",
     "ville": "Aleutians East",
     "quartier_arrondissement": "False Pass",
     "code_postal": "99583",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -10926,9 +13110,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "États-Unis",
     "langue_officielle": "Anglais, Espagnol",
+    "monnaie_devise": "USD - Dollar américain ($)",
     "ville": "Aleutians East",
     "quartier_arrondissement": "King Cove",
     "code_postal": "99612",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -10936,9 +13122,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "États-Unis",
     "langue_officielle": "Anglais, Espagnol",
+    "monnaie_devise": "USD - Dollar américain ($)",
     "ville": "Aleutians East",
     "quartier_arrondissement": "Sand Point",
     "code_postal": "99661",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -10946,9 +13134,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "États-Unis",
     "langue_officielle": "Anglais, Espagnol",
+    "monnaie_devise": "USD - Dollar américain ($)",
     "ville": "Aleutians West (CA)",
     "quartier_arrondissement": "Adak",
     "code_postal": "99546",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -10956,9 +13146,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "États-Unis",
     "langue_officielle": "Anglais, Espagnol",
+    "monnaie_devise": "USD - Dollar américain ($)",
     "ville": "Aleutians West (CA)",
     "quartier_arrondissement": "Atka",
     "code_postal": "99547",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -10966,9 +13158,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "États-Unis",
     "langue_officielle": "Anglais, Espagnol",
+    "monnaie_devise": "USD - Dollar américain ($)",
     "ville": "Aleutians West (CA)",
     "quartier_arrondissement": "Saint George Island",
     "code_postal": "99591",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -10976,9 +13170,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "États-Unis",
     "langue_officielle": "Anglais, Espagnol",
+    "monnaie_devise": "USD - Dollar américain ($)",
     "ville": "Aleutians West (CA)",
     "quartier_arrondissement": "Nikolski",
     "code_postal": "99638",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -10986,9 +13182,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "États-Unis",
     "langue_officielle": "Anglais, Espagnol",
+    "monnaie_devise": "USD - Dollar américain ($)",
     "ville": "Aleutians West (CA)",
     "quartier_arrondissement": "Saint Paul Island",
     "code_postal": "99660",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -10996,9 +13194,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Îles Vierges des États-Unis",
     "langue_officielle": "Anglais",
+    "monnaie_devise": "USD - Dollar américain ($)",
     "ville": "St. Croix",
     "quartier_arrondissement": "Christiansted",
     "code_postal": "00820",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -11006,9 +13206,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Îles Vierges des États-Unis",
     "langue_officielle": "Anglais",
+    "monnaie_devise": "USD - Dollar américain ($)",
     "ville": "St. Croix",
     "quartier_arrondissement": "Christiansted",
     "code_postal": "00821",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -11016,9 +13218,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Îles Vierges des États-Unis",
     "langue_officielle": "Anglais",
+    "monnaie_devise": "USD - Dollar américain ($)",
     "ville": "St. Croix",
     "quartier_arrondissement": "Christiansted",
     "code_postal": "00822",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -11026,9 +13230,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Îles Vierges des États-Unis",
     "langue_officielle": "Anglais",
+    "monnaie_devise": "USD - Dollar américain ($)",
     "ville": "St. Croix",
     "quartier_arrondissement": "Christiansted",
     "code_postal": "00823",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -11036,9 +13242,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Îles Vierges des États-Unis",
     "langue_officielle": "Anglais",
+    "monnaie_devise": "USD - Dollar américain ($)",
     "ville": "St. Croix",
     "quartier_arrondissement": "Christiansted",
     "code_postal": "00824",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -11046,9 +13254,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Îles Vierges des États-Unis",
     "langue_officielle": "Anglais",
+    "monnaie_devise": "USD - Dollar américain ($)",
     "ville": "St. Croix",
     "quartier_arrondissement": "Frederiksted",
     "code_postal": "00840",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -11056,9 +13266,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Îles Vierges des États-Unis",
     "langue_officielle": "Anglais",
+    "monnaie_devise": "USD - Dollar américain ($)",
     "ville": "St. Croix",
     "quartier_arrondissement": "Frederiksted",
     "code_postal": "00841",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -11066,9 +13278,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Îles Vierges des États-Unis",
     "langue_officielle": "Anglais",
+    "monnaie_devise": "USD - Dollar américain ($)",
     "ville": "St. Croix",
     "quartier_arrondissement": "Kingshill",
     "code_postal": "00850",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -11076,9 +13290,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Îles Vierges des États-Unis",
     "langue_officielle": "Anglais",
+    "monnaie_devise": "USD - Dollar américain ($)",
     "ville": "St. Croix",
     "quartier_arrondissement": "Kingshill",
     "code_postal": "00851",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -11086,9 +13302,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Îles Vierges des États-Unis",
     "langue_officielle": "Anglais",
+    "monnaie_devise": "USD - Dollar américain ($)",
     "ville": "St. John",
     "quartier_arrondissement": "St John",
     "code_postal": "00830",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -11096,9 +13314,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Antigua-et-Barbuda",
     "langue_officielle": "Anglais",
+    "monnaie_devise": "XCD - Dollar",
     "ville": "Saint John’s",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Saint John’s)",
     "code_postal": "",
+    "population": "51 737",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -11106,9 +13326,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Aruba",
     "langue_officielle": "Néerlandais, Papiamento, Espagnol, Anglais",
+    "monnaie_devise": "AWG - Guilder",
     "ville": "Tanki Leendert",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Tanki Leendert)",
     "code_postal": "",
+    "population": "21 500",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -11116,9 +13338,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Aruba",
     "langue_officielle": "Néerlandais, Papiamento, Espagnol, Anglais",
+    "monnaie_devise": "AWG - Guilder",
     "ville": "Santa Cruz",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Santa Cruz)",
     "code_postal": "",
+    "population": "15 236",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -11126,9 +13350,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Aruba",
     "langue_officielle": "Néerlandais, Papiamento, Espagnol, Anglais",
+    "monnaie_devise": "AWG - Guilder",
     "ville": "Oranjestad",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Oranjestad)",
     "code_postal": "",
+    "population": "29 998",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -11136,9 +13362,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Aruba",
     "langue_officielle": "Néerlandais, Papiamento, Espagnol, Anglais",
+    "monnaie_devise": "AWG - Guilder",
     "ville": "Noord",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Noord)",
     "code_postal": "",
+    "population": "24 193",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -11146,9 +13374,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Barbade",
     "langue_officielle": "Anglais",
+    "monnaie_devise": "BBD - Dollar",
     "ville": "Bridgetown",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Bridgetown)",
     "code_postal": "",
+    "population": "98 511",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -11156,9 +13386,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Saint-Barthélemy",
     "langue_officielle": "Français",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Gustavia",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Gustavia)",
     "code_postal": "",
+    "population": "5 988",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -11166,9 +13398,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Bonaire, Saint-Eustache et Saba",
     "langue_officielle": "Néerlandais, Papiamento, Anglais",
+    "monnaie_devise": "USD - Dollar américain ($)",
     "ville": "Kralendijk",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Kralendijk)",
     "code_postal": "",
+    "population": "10 620",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -11176,9 +13410,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Bahamas",
     "langue_officielle": "Anglais",
+    "monnaie_devise": "BSD - Dollar",
     "ville": "Nassau",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Nassau)",
     "code_postal": "",
+    "population": "227 940",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -11186,9 +13422,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Bahamas",
     "langue_officielle": "Anglais",
+    "monnaie_devise": "BSD - Dollar",
     "ville": "Lucaya",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Lucaya)",
     "code_postal": "",
+    "population": "46 525",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -11196,9 +13434,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Bahamas",
     "langue_officielle": "Anglais",
+    "monnaie_devise": "BSD - Dollar",
     "ville": "Killarney",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Killarney)",
     "code_postal": "",
+    "population": "17 679",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -11206,9 +13446,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Bahamas",
     "langue_officielle": "Anglais",
+    "monnaie_devise": "BSD - Dollar",
     "ville": "Freeport",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Freeport)",
     "code_postal": "",
+    "population": "26 910",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -11216,9 +13458,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Belize",
     "langue_officielle": "Anglais, Espagnol",
+    "monnaie_devise": "BZD - Dollar",
     "ville": "San Pedro",
     "quartier_arrondissement": "Centre Urbain / Agglomération (San Pedro)",
     "code_postal": "",
+    "population": "47 452",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -11226,9 +13470,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Belize",
     "langue_officielle": "Anglais, Espagnol",
+    "monnaie_devise": "BZD - Dollar",
     "ville": "San Ignacio",
     "quartier_arrondissement": "Centre Urbain / Agglomération (San Ignacio)",
     "code_postal": "",
+    "population": "21 229",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -11236,9 +13482,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Belize",
     "langue_officielle": "Anglais, Espagnol",
+    "monnaie_devise": "BZD - Dollar",
     "ville": "Orange Walk",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Orange Walk)",
     "code_postal": "",
+    "population": "15 298",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -11246,9 +13494,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Belize",
     "langue_officielle": "Anglais, Espagnol",
+    "monnaie_devise": "BZD - Dollar",
     "ville": "Belmopan",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Belmopan)",
     "code_postal": "",
+    "population": "13 381",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -11256,9 +13506,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Belize",
     "langue_officielle": "Anglais, Espagnol",
+    "monnaie_devise": "BZD - Dollar",
     "ville": "Belize City",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Belize City)",
     "code_postal": "",
+    "population": "65 222",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -11266,9 +13518,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Cuba",
     "langue_officielle": "Espagnol, Papiamento",
+    "monnaie_devise": "CUP - Peso",
     "ville": "Yara",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Yara)",
     "code_postal": "",
+    "population": "28 944",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -11276,9 +13530,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Cuba",
     "langue_officielle": "Espagnol, Papiamento",
+    "monnaie_devise": "CUP - Peso",
     "ville": "Yaguajay",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Yaguajay)",
     "code_postal": "",
+    "population": "42 218",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -11286,9 +13542,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Cuba",
     "langue_officielle": "Espagnol, Papiamento",
+    "monnaie_devise": "CUP - Peso",
     "ville": "Viñales",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Viñales)",
     "code_postal": "",
+    "population": "27 129",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -11296,9 +13554,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Cuba",
     "langue_officielle": "Espagnol, Papiamento",
+    "monnaie_devise": "CUP - Peso",
     "ville": "Víbora Park",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Víbora Park)",
     "code_postal": "",
+    "population": "23 000",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -11306,9 +13566,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Cuba",
     "langue_officielle": "Espagnol, Papiamento",
+    "monnaie_devise": "CUP - Peso",
     "ville": "Vertientes",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Vertientes)",
     "code_postal": "",
+    "population": "29 704",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -11316,9 +13578,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Cuba",
     "langue_officielle": "Espagnol, Papiamento",
+    "monnaie_devise": "CUP - Peso",
     "ville": "Venezuela",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Venezuela)",
     "code_postal": "",
+    "population": "16 601",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -11326,9 +13590,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Cuba",
     "langue_officielle": "Espagnol, Papiamento",
+    "monnaie_devise": "CUP - Peso",
     "ville": "Vedado del Cotorro",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Vedado del Cotorro)",
     "code_postal": "",
+    "population": "74 650",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -11336,9 +13602,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Cuba",
     "langue_officielle": "Espagnol, Papiamento",
+    "monnaie_devise": "CUP - Peso",
     "ville": "Vedado",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Vedado)",
     "code_postal": "",
+    "population": "108 369",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -11346,9 +13614,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Cuba",
     "langue_officielle": "Espagnol, Papiamento",
+    "monnaie_devise": "CUP - Peso",
     "ville": "Varadero",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Varadero)",
     "code_postal": "",
+    "population": "20 000",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -11356,9 +13626,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Cuba",
     "langue_officielle": "Espagnol, Papiamento",
+    "monnaie_devise": "CUP - Peso",
     "ville": "San Germán",
     "quartier_arrondissement": "Centre Urbain / Agglomération (San Germán)",
     "code_postal": "",
+    "population": "43 892",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -11366,9 +13638,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Curaçao",
     "langue_officielle": "Néerlandais, Papiamento",
+    "monnaie_devise": "XCG - Guilder",
     "ville": "Willemstad",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Willemstad)",
     "code_postal": "",
+    "population": "125 000",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -11376,9 +13650,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Curaçao",
     "langue_officielle": "Néerlandais, Papiamento",
+    "monnaie_devise": "XCG - Guilder",
     "ville": "Bandariba",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Bandariba)",
     "code_postal": "",
+    "population": "20 838",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -11386,9 +13662,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Dominique",
     "langue_officielle": "Anglais",
+    "monnaie_devise": "XCD - Dollar",
     "ville": "Roseau",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Roseau)",
     "code_postal": "",
+    "population": "16 571",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -11396,9 +13674,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Grenade",
     "langue_officielle": "Anglais",
+    "monnaie_devise": "XCD - Dollar",
     "ville": "Saint George's",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Saint George's)",
     "code_postal": "",
+    "population": "7 500",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -11406,9 +13686,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Jamaïque",
     "langue_officielle": "Anglais",
+    "monnaie_devise": "JMD - Dollar",
     "ville": "Spanish Town",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Spanish Town)",
     "code_postal": "",
+    "population": "145 018",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -11416,9 +13698,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Jamaïque",
     "langue_officielle": "Anglais",
+    "monnaie_devise": "JMD - Dollar",
     "ville": "Savanna-la-Mar",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Savanna-la-Mar)",
     "code_postal": "",
+    "population": "16 553",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -11426,9 +13710,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Jamaïque",
     "langue_officielle": "Anglais",
+    "monnaie_devise": "JMD - Dollar",
     "ville": "Portmore",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Portmore)",
     "code_postal": "",
+    "population": "102 861",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -11436,9 +13722,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Jamaïque",
     "langue_officielle": "Anglais",
+    "monnaie_devise": "JMD - Dollar",
     "ville": "Old Harbour",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Old Harbour)",
     "code_postal": "",
+    "population": "26 024",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -11446,9 +13734,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Jamaïque",
     "langue_officielle": "Anglais",
+    "monnaie_devise": "JMD - Dollar",
     "ville": "Ocho Rios",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Ocho Rios)",
     "code_postal": "",
+    "population": "26 503",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -11456,9 +13746,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Jamaïque",
     "langue_officielle": "Anglais",
+    "monnaie_devise": "JMD - Dollar",
     "ville": "New Kingston",
     "quartier_arrondissement": "Centre Urbain / Agglomération (New Kingston)",
     "code_postal": "",
+    "population": "583 958",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -11466,9 +13758,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Jamaïque",
     "langue_officielle": "Anglais",
+    "monnaie_devise": "JMD - Dollar",
     "ville": "Montego Bay",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Montego Bay)",
     "code_postal": "",
+    "population": "82 867",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -11476,9 +13770,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Jamaïque",
     "langue_officielle": "Anglais",
+    "monnaie_devise": "JMD - Dollar",
     "ville": "May Pen",
     "quartier_arrondissement": "Centre Urbain / Agglomération (May Pen)",
     "code_postal": "",
+    "population": "44 755",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -11486,9 +13782,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Jamaïque",
     "langue_officielle": "Anglais",
+    "monnaie_devise": "JMD - Dollar",
     "ville": "Mandeville",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Mandeville)",
     "code_postal": "",
+    "population": "47 115",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -11496,9 +13794,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Jamaïque",
     "langue_officielle": "Anglais",
+    "monnaie_devise": "JMD - Dollar",
     "ville": "Linstead",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Linstead)",
     "code_postal": "",
+    "population": "20 660",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -11506,9 +13806,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Saint-Christophe-et-Niévès",
     "langue_officielle": "Anglais",
+    "monnaie_devise": "XCD - Dollar",
     "ville": "Basseterre",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Basseterre)",
     "code_postal": "",
+    "population": "12 920",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -11516,9 +13818,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Îles Caïmans",
     "langue_officielle": "Anglais",
+    "monnaie_devise": "KYD - Dollar",
     "ville": "West Bay",
     "quartier_arrondissement": "Centre Urbain / Agglomération (West Bay)",
     "code_postal": "",
+    "population": "15 335",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -11526,9 +13830,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Îles Caïmans",
     "langue_officielle": "Anglais",
+    "monnaie_devise": "KYD - Dollar",
     "ville": "George Town",
     "quartier_arrondissement": "Centre Urbain / Agglomération (George Town)",
     "code_postal": "",
+    "population": "29 370",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -11536,9 +13842,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Sainte-Lucie",
     "langue_officielle": "Anglais",
+    "monnaie_devise": "XCD - Dollar",
     "ville": "Gros Islet",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Gros Islet)",
     "code_postal": "",
+    "population": "25 210",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -11546,9 +13854,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Sainte-Lucie",
     "langue_officielle": "Anglais",
+    "monnaie_devise": "XCD - Dollar",
     "ville": "Castries",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Castries)",
     "code_postal": "",
+    "population": "20 000",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -11556,9 +13866,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Saint-Martin",
     "langue_officielle": "Français",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Marigot",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Marigot)",
     "code_postal": "",
+    "population": "5 700",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -11566,9 +13878,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Montserrat",
     "langue_officielle": "Anglais",
+    "monnaie_devise": "XCD - Dollar",
     "ville": "Plymouth",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Plymouth)",
     "code_postal": "",
+    "population": "260 203",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -11576,9 +13890,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Montserrat",
     "langue_officielle": "Anglais",
+    "monnaie_devise": "XCD - Dollar",
     "ville": "Brades",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Brades)",
     "code_postal": "",
+    "population": "1 000",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -11586,9 +13902,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Nicaragua",
     "langue_officielle": "Espagnol, Anglais",
+    "monnaie_devise": "NIO - Cordoba",
     "ville": "Tipitapa",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Tipitapa)",
     "code_postal": "",
+    "population": "50 000",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -11596,9 +13914,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Nicaragua",
     "langue_officielle": "Espagnol, Anglais",
+    "monnaie_devise": "NIO - Cordoba",
     "ville": "Somoto",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Somoto)",
     "code_postal": "",
+    "population": "20 316",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -11606,9 +13926,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Nicaragua",
     "langue_officielle": "Espagnol, Anglais",
+    "monnaie_devise": "NIO - Cordoba",
     "ville": "Somotillo",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Somotillo)",
     "code_postal": "",
+    "population": "15 385",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -11616,9 +13938,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Nicaragua",
     "langue_officielle": "Espagnol, Anglais",
+    "monnaie_devise": "NIO - Cordoba",
     "ville": "Siuna",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Siuna)",
     "code_postal": "",
+    "population": "16 056",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -11626,9 +13950,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Nicaragua",
     "langue_officielle": "Espagnol, Anglais",
+    "monnaie_devise": "NIO - Cordoba",
     "ville": "San Rafael del Sur",
     "quartier_arrondissement": "Centre Urbain / Agglomération (San Rafael del Sur)",
     "code_postal": "",
+    "population": "29 836",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -11636,9 +13962,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Nicaragua",
     "langue_officielle": "Espagnol, Anglais",
+    "monnaie_devise": "NIO - Cordoba",
     "ville": "San Marcos",
     "quartier_arrondissement": "Centre Urbain / Agglomération (San Marcos)",
     "code_postal": "",
+    "population": "60 735",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -11646,9 +13974,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Nicaragua",
     "langue_officielle": "Espagnol, Anglais",
+    "monnaie_devise": "NIO - Cordoba",
     "ville": "Rivas",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Rivas)",
     "code_postal": "",
+    "population": "30 000",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -11656,9 +13986,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Nicaragua",
     "langue_officielle": "Espagnol, Anglais",
+    "monnaie_devise": "NIO - Cordoba",
     "ville": "Río Blanco",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Río Blanco)",
     "code_postal": "",
+    "population": "40 611",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -11666,9 +13998,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Nicaragua",
     "langue_officielle": "Espagnol, Anglais",
+    "monnaie_devise": "NIO - Cordoba",
     "ville": "Rama",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Rama)",
     "code_postal": "",
+    "population": "20 456",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -11676,9 +14010,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Nicaragua",
     "langue_officielle": "Espagnol, Anglais",
+    "monnaie_devise": "NIO - Cordoba",
     "ville": "Puerto Cabezas",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Puerto Cabezas)",
     "code_postal": "",
+    "population": "33 635",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -11686,9 +14022,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Salvador",
     "langue_officielle": "Espagnol",
+    "monnaie_devise": "USD - Dollar américain ($)",
     "ville": "Zacatecoluca",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Zacatecoluca)",
     "code_postal": "",
+    "population": "39 613",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -11696,9 +14034,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Salvador",
     "langue_officielle": "Espagnol",
+    "monnaie_devise": "USD - Dollar américain ($)",
     "ville": "Usulután",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Usulután)",
     "code_postal": "",
+    "population": "51 910",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -11706,9 +14046,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Salvador",
     "langue_officielle": "Espagnol",
+    "monnaie_devise": "USD - Dollar américain ($)",
     "ville": "Soyapango",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Soyapango)",
     "code_postal": "",
+    "population": "329 708",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -11716,9 +14058,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Salvador",
     "langue_officielle": "Espagnol",
+    "monnaie_devise": "USD - Dollar américain ($)",
     "ville": "Sonzacate",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Sonzacate)",
     "code_postal": "",
+    "population": "15 446",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -11726,9 +14070,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Salvador",
     "langue_officielle": "Espagnol",
+    "monnaie_devise": "USD - Dollar américain ($)",
     "ville": "Sonsonate",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Sonsonate)",
     "code_postal": "",
+    "population": "59 468",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -11736,9 +14082,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Salvador",
     "langue_officielle": "Espagnol",
+    "monnaie_devise": "USD - Dollar américain ($)",
     "ville": "Sensuntepeque",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Sensuntepeque)",
     "code_postal": "",
+    "population": "20 386",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -11746,9 +14094,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Salvador",
     "langue_officielle": "Espagnol",
+    "monnaie_devise": "USD - Dollar américain ($)",
     "ville": "San Vicente",
     "quartier_arrondissement": "Centre Urbain / Agglomération (San Vicente)",
     "code_postal": "",
+    "population": "90 021",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -11756,9 +14106,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Salvador",
     "langue_officielle": "Espagnol",
+    "monnaie_devise": "USD - Dollar américain ($)",
     "ville": "Santiago de María",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Santiago de María)",
     "code_postal": "",
+    "population": "15 032",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -11766,9 +14118,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Salvador",
     "langue_officielle": "Espagnol",
+    "monnaie_devise": "USD - Dollar américain ($)",
     "ville": "Santa Ana",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Santa Ana)",
     "code_postal": "",
+    "population": "25 145",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -11776,9 +14130,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Salvador",
     "langue_officielle": "Espagnol",
+    "monnaie_devise": "USD - Dollar américain ($)",
     "ville": "San Salvador",
     "quartier_arrondissement": "Centre Urbain / Agglomération (San Salvador)",
     "code_postal": "",
+    "population": "525 990",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -11786,9 +14142,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Saint-Martin (partie néerlandaise)",
     "langue_officielle": "Néerlandais, Anglais",
+    "monnaie_devise": "XCG - Guilder",
     "ville": "Philipsburg",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Philipsburg)",
     "code_postal": "",
+    "population": "1 400",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -11796,9 +14154,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Trinité-et-Tobago",
     "langue_officielle": "Anglais, HNS, Français, Espagnol",
+    "monnaie_devise": "TTD - Dollar",
     "ville": "Tunapuna",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Tunapuna)",
     "code_postal": "",
+    "population": "17 758",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -11806,9 +14166,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Trinité-et-Tobago",
     "langue_officielle": "Anglais, HNS, Français, Espagnol",
+    "monnaie_devise": "TTD - Dollar",
     "ville": "Scarborough",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Scarborough)",
     "code_postal": "",
+    "population": "17 605",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -11816,9 +14178,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Trinité-et-Tobago",
     "langue_officielle": "Anglais, HNS, Français, Espagnol",
+    "monnaie_devise": "TTD - Dollar",
     "ville": "Sangre Grande",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Sangre Grande)",
     "code_postal": "",
+    "population": "15 968",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -11826,9 +14190,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Trinité-et-Tobago",
     "langue_officielle": "Anglais, HNS, Français, Espagnol",
+    "monnaie_devise": "TTD - Dollar",
     "ville": "San Fernando",
     "quartier_arrondissement": "Centre Urbain / Agglomération (San Fernando)",
     "code_postal": "",
+    "population": "95 174",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -11836,9 +14202,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Trinité-et-Tobago",
     "langue_officielle": "Anglais, HNS, Français, Espagnol",
+    "monnaie_devise": "TTD - Dollar",
     "ville": "Rio Claro",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Rio Claro)",
     "code_postal": "",
+    "population": "17 950",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -11846,9 +14214,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Trinité-et-Tobago",
     "langue_officielle": "Anglais, HNS, Français, Espagnol",
+    "monnaie_devise": "TTD - Dollar",
     "ville": "Port of Spain",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Port of Spain)",
     "code_postal": "",
+    "population": "49 031",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -11856,9 +14226,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Trinité-et-Tobago",
     "langue_officielle": "Anglais, HNS, Français, Espagnol",
+    "monnaie_devise": "TTD - Dollar",
     "ville": "Point Fortin",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Point Fortin)",
     "code_postal": "",
+    "population": "19 056",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -11866,9 +14238,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Trinité-et-Tobago",
     "langue_officielle": "Anglais, HNS, Français, Espagnol",
+    "monnaie_devise": "TTD - Dollar",
     "ville": "Paradise",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Paradise)",
     "code_postal": "",
+    "population": "22 957",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -11876,9 +14250,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Trinité-et-Tobago",
     "langue_officielle": "Anglais, HNS, Français, Espagnol",
+    "monnaie_devise": "TTD - Dollar",
     "ville": "Mon Repos",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Mon Repos)",
     "code_postal": "",
+    "population": "56 380",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -11886,9 +14262,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Trinité-et-Tobago",
     "langue_officielle": "Anglais, HNS, Français, Espagnol",
+    "monnaie_devise": "TTD - Dollar",
     "ville": "Marabella",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Marabella)",
     "code_postal": "",
+    "population": "26 700",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -11896,9 +14274,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Saint-Vincent-et-les-Grenadines",
     "langue_officielle": "Anglais, Français",
+    "monnaie_devise": "XCD - Dollar",
     "ville": "Kingstown",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Kingstown)",
     "code_postal": "",
+    "population": "24 518",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -11906,9 +14286,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Saint-Vincent-et-les-Grenadines",
     "langue_officielle": "Anglais, Français",
+    "monnaie_devise": "XCD - Dollar",
     "ville": "Calliaqua",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Calliaqua)",
     "code_postal": "",
+    "population": "24 205",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -11916,9 +14298,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Îles Vierges britanniques",
     "langue_officielle": "Anglais",
+    "monnaie_devise": "USD - Dollar américain ($)",
     "ville": "Road Town",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Road Town)",
     "code_postal": "",
+    "population": "8 449",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -11926,9 +14310,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Nord",
     "pays": "Netherlands Antilles",
     "langue_officielle": "Néerlandais, Anglais, Espagnol",
+    "monnaie_devise": "ANG - Guilder",
     "ville": "Willemstad",
     "quartier_arrondissement": "District Central / Agglomération Principale",
     "code_postal": "",
+    "population": "125 000",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -11936,9 +14322,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Argentine",
     "langue_officielle": "Espagnol, Anglais, Italien, Allemand",
+    "monnaie_devise": "ARS - Peso argentin ($AR)",
     "ville": "Salta",
     "quartier_arrondissement": "POZO CERCADO (EL CHORRO (F), DPTO. RIVADAVIA (S))",
     "code_postal": "3636",
+    "population": "520 683",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -11946,9 +14334,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Argentine",
     "langue_officielle": "Espagnol, Anglais, Italien, Allemand",
+    "monnaie_devise": "ARS - Peso argentin ($AR)",
     "ville": "Salta",
     "quartier_arrondissement": "LAS SALADAS",
     "code_postal": "4123",
+    "population": "520 683",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -11956,9 +14346,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Argentine",
     "langue_officielle": "Espagnol, Anglais, Italien, Allemand",
+    "monnaie_devise": "ARS - Peso argentin ($AR)",
     "ville": "Salta",
     "quartier_arrondissement": "BRETE",
     "code_postal": "4126",
+    "population": "520 683",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -11966,9 +14358,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Argentine",
     "langue_officielle": "Espagnol, Anglais, Italien, Allemand",
+    "monnaie_devise": "ARS - Peso argentin ($AR)",
     "ville": "Salta",
     "quartier_arrondissement": "TALA",
     "code_postal": "4126",
+    "population": "72 536",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -11976,9 +14370,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Argentine",
     "langue_officielle": "Espagnol, Anglais, Italien, Allemand",
+    "monnaie_devise": "ARS - Peso argentin ($AR)",
     "ville": "Salta",
     "quartier_arrondissement": "CANDELARIA",
     "code_postal": "4126",
+    "population": "28 906",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -11986,9 +14382,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Argentine",
     "langue_officielle": "Espagnol, Anglais, Italien, Allemand",
+    "monnaie_devise": "ARS - Peso argentin ($AR)",
     "ville": "Salta",
     "quartier_arrondissement": "RUIZ DE LOS LLANOS",
     "code_postal": "4126",
+    "population": "520 683",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -11996,9 +14394,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Argentine",
     "langue_officielle": "Espagnol, Anglais, Italien, Allemand",
+    "monnaie_devise": "ARS - Peso argentin ($AR)",
     "ville": "Salta",
     "quartier_arrondissement": "LOS MOGOTES",
     "code_postal": "4126",
+    "population": "520 683",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -12006,9 +14406,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Argentine",
     "langue_officielle": "Espagnol, Anglais, Italien, Allemand",
+    "monnaie_devise": "ARS - Peso argentin ($AR)",
     "ville": "Salta",
     "quartier_arrondissement": "CEIBAL",
     "code_postal": "4126",
+    "population": "520 683",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -12016,9 +14418,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Argentine",
     "langue_officielle": "Espagnol, Anglais, Italien, Allemand",
+    "monnaie_devise": "ARS - Peso argentin ($AR)",
     "ville": "Salta",
     "quartier_arrondissement": "EL BRETE",
     "code_postal": "4126",
+    "population": "520 683",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -12026,9 +14430,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Argentine",
     "langue_officielle": "Espagnol, Anglais, Italien, Allemand",
+    "monnaie_devise": "ARS - Peso argentin ($AR)",
     "ville": "Salta",
     "quartier_arrondissement": "EL JARDIN",
     "code_postal": "4126",
+    "population": "520 683",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -12036,9 +14442,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Brésil",
     "langue_officielle": "Portugais",
+    "monnaie_devise": "BRL - Real brésilien (R$)",
     "ville": "Acrelândia",
     "quartier_arrondissement": "Acrelândia (Acre)",
     "code_postal": "69945-000",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -12046,9 +14454,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Brésil",
     "langue_officielle": "Portugais",
+    "monnaie_devise": "BRL - Real brésilien (R$)",
     "ville": "Assis Brasil",
     "quartier_arrondissement": "Assis Brasil (Acre)",
     "code_postal": "69935-000",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -12056,9 +14466,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Brésil",
     "langue_officielle": "Portugais",
+    "monnaie_devise": "BRL - Real brésilien (R$)",
     "ville": "Brasiléia",
     "quartier_arrondissement": "Brasiléia (Acre)",
     "code_postal": "69932-000",
+    "population": "26 702",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -12066,9 +14478,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Brésil",
     "langue_officielle": "Portugais",
+    "monnaie_devise": "BRL - Real brésilien (R$)",
     "ville": "Bujari",
     "quartier_arrondissement": "Bujari (Acre)",
     "code_postal": "69923-000",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -12076,9 +14490,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Brésil",
     "langue_officielle": "Portugais",
+    "monnaie_devise": "BRL - Real brésilien (R$)",
     "ville": "Capixaba",
     "quartier_arrondissement": "Capixaba (Acre)",
     "code_postal": "69922-000",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -12086,9 +14502,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Brésil",
     "langue_officielle": "Portugais",
+    "monnaie_devise": "BRL - Real brésilien (R$)",
     "ville": "Cruzeiro do Sul",
     "quartier_arrondissement": "Cruzeiro do Sul (Acre)",
     "code_postal": "69980-000",
+    "population": "89 072",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -12096,9 +14514,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Brésil",
     "langue_officielle": "Portugais",
+    "monnaie_devise": "BRL - Real brésilien (R$)",
     "ville": "Epitaciolândia",
     "quartier_arrondissement": "Epitaciolândia (Acre)",
     "code_postal": "69934-000",
+    "population": "18 757",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -12106,9 +14526,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Brésil",
     "langue_officielle": "Portugais",
+    "monnaie_devise": "BRL - Real brésilien (R$)",
     "ville": "Feijó",
     "quartier_arrondissement": "Feijó (Acre)",
     "code_postal": "69960-000",
+    "population": "35 426",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -12116,9 +14538,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Brésil",
     "langue_officielle": "Portugais",
+    "monnaie_devise": "BRL - Real brésilien (R$)",
     "ville": "Jordão",
     "quartier_arrondissement": "Jordão (Acre)",
     "code_postal": "69975-000",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -12126,9 +14550,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Brésil",
     "langue_officielle": "Portugais",
+    "monnaie_devise": "BRL - Real brésilien (R$)",
     "ville": "Mâncio Lima",
     "quartier_arrondissement": "Mâncio Lima (Acre)",
     "code_postal": "69990-000",
+    "population": "19 294",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -12136,9 +14562,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Chili",
     "langue_officielle": "Espagnol",
+    "monnaie_devise": "CLP - Peso chilien ($CL)",
     "ville": "Provincia de Valparaíso",
     "quartier_arrondissement": "Valparaíso",
     "code_postal": "2340000",
+    "population": "24 241",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -12146,9 +14574,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Chili",
     "langue_officielle": "Espagnol",
+    "monnaie_devise": "CLP - Peso chilien ($CL)",
     "ville": "Provincia de Valparaíso",
     "quartier_arrondissement": "Casablanca",
     "code_postal": "2480000",
+    "population": "24 537",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -12156,9 +14586,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Chili",
     "langue_officielle": "Espagnol",
+    "monnaie_devise": "CLP - Peso chilien ($CL)",
     "ville": "Provincia de Valparaíso",
     "quartier_arrondissement": "Quintero",
     "code_postal": "2490000",
+    "population": "22 174",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -12166,9 +14598,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Chili",
     "langue_officielle": "Espagnol",
+    "monnaie_devise": "CLP - Peso chilien ($CL)",
     "ville": "Provincia de Valparaíso",
     "quartier_arrondissement": "Puchuncaví",
     "code_postal": "2500000",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -12176,9 +14610,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Chili",
     "langue_officielle": "Espagnol",
+    "monnaie_devise": "CLP - Peso chilien ($CL)",
     "ville": "Provincia de Valparaíso",
     "quartier_arrondissement": "Concón",
     "code_postal": "2510000",
+    "population": "42 152",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -12186,9 +14622,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Chili",
     "langue_officielle": "Espagnol",
+    "monnaie_devise": "CLP - Peso chilien ($CL)",
     "ville": "Provincia de Valparaíso",
     "quartier_arrondissement": "Viña Del Mar",
     "code_postal": "2520000",
+    "population": "334 248",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -12196,9 +14634,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Chili",
     "langue_officielle": "Espagnol",
+    "monnaie_devise": "CLP - Peso chilien ($CL)",
     "ville": "Provincia de Valparaíso",
     "quartier_arrondissement": "Juan Fernández",
     "code_postal": "2600000",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -12206,9 +14646,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Chili",
     "langue_officielle": "Espagnol",
+    "monnaie_devise": "CLP - Peso chilien ($CL)",
     "ville": "Provincia de Isla de Pascua",
     "quartier_arrondissement": "Isla De Pascua",
     "code_postal": "2770000",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -12216,9 +14658,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Chili",
     "langue_officielle": "Espagnol",
+    "monnaie_devise": "CLP - Peso chilien ($CL)",
     "ville": "Provincia de Los Andes",
     "quartier_arrondissement": "Los Andes",
     "code_postal": "2100000",
+    "population": "63 009",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -12226,9 +14670,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Chili",
     "langue_officielle": "Espagnol",
+    "monnaie_devise": "CLP - Peso chilien ($CL)",
     "ville": "Provincia de Los Andes",
     "quartier_arrondissement": "San Esteban",
     "code_postal": "2120000",
+    "population": "17 090",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -12236,9 +14682,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Colombie",
     "langue_officielle": "Espagnol",
+    "monnaie_devise": "COP - Peso colombien ($CO)",
     "ville": "Leticia",
     "quartier_arrondissement": "Leticia (Amazonas)",
     "code_postal": "910001",
+    "population": "48 144",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -12246,9 +14694,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Colombie",
     "langue_officielle": "Espagnol",
+    "monnaie_devise": "COP - Peso colombien ($CO)",
     "ville": "Leticia",
     "quartier_arrondissement": "Leticia (Amazonas)",
     "code_postal": "910007",
+    "population": "48 144",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -12256,9 +14706,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Colombie",
     "langue_officielle": "Espagnol",
+    "monnaie_devise": "COP - Peso colombien ($CO)",
     "ville": "Leticia",
     "quartier_arrondissement": "Leticia (Amazonas)",
     "code_postal": "910008",
+    "population": "48 144",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -12266,9 +14718,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Colombie",
     "langue_officielle": "Espagnol",
+    "monnaie_devise": "COP - Peso colombien ($CO)",
     "ville": "El Encanto",
     "quartier_arrondissement": "El Encanto (Amazonas)",
     "code_postal": "913010",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -12276,9 +14730,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Colombie",
     "langue_officielle": "Espagnol",
+    "monnaie_devise": "COP - Peso colombien ($CO)",
     "ville": "El Encanto",
     "quartier_arrondissement": "El Encanto (Amazonas)",
     "code_postal": "913017",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -12286,9 +14742,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Colombie",
     "langue_officielle": "Espagnol",
+    "monnaie_devise": "COP - Peso colombien ($CO)",
     "ville": "El Encanto",
     "quartier_arrondissement": "El Encanto (Amazonas)",
     "code_postal": "913018",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -12296,9 +14754,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Colombie",
     "langue_officielle": "Espagnol",
+    "monnaie_devise": "COP - Peso colombien ($CO)",
     "ville": "El Encanto",
     "quartier_arrondissement": "El Encanto (Amazonas)",
     "code_postal": "913019",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -12306,9 +14766,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Colombie",
     "langue_officielle": "Espagnol",
+    "monnaie_devise": "COP - Peso colombien ($CO)",
     "ville": "La Chorrera",
     "quartier_arrondissement": "La Chorrera (Amazonas)",
     "code_postal": "914050",
+    "population": "61 232",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -12316,9 +14778,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Colombie",
     "langue_officielle": "Espagnol",
+    "monnaie_devise": "COP - Peso colombien ($CO)",
     "ville": "La Chorrera",
     "quartier_arrondissement": "La Chorrera (Amazonas)",
     "code_postal": "914057",
+    "population": "61 232",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -12326,9 +14790,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Colombie",
     "langue_officielle": "Espagnol",
+    "monnaie_devise": "COP - Peso colombien ($CO)",
     "ville": "La Pedrera",
     "quartier_arrondissement": "La Pedrera (Amazonas)",
     "code_postal": "917010",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -12336,9 +14802,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Équateur",
     "langue_officielle": "Espagnol",
+    "monnaie_devise": "USD - Dollar américain ($)",
     "ville": "Cantón San Cristóbal",
     "quartier_arrondissement": "Española Hood-Puerto Baquerizo Moreno",
     "code_postal": "200101",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -12346,9 +14814,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Équateur",
     "langue_officielle": "Espagnol",
+    "monnaie_devise": "USD - Dollar américain ($)",
     "ville": "Cantón San Cristóbal",
     "quartier_arrondissement": "El Progreso",
     "code_postal": "200104",
+    "population": "100 810",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -12356,9 +14826,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Équateur",
     "langue_officielle": "Espagnol",
+    "monnaie_devise": "USD - Dollar américain ($)",
     "ville": "Cantón Isabela",
     "quartier_arrondissement": "Puerto Villamil",
     "code_postal": "200103",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -12366,9 +14838,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Équateur",
     "langue_officielle": "Espagnol",
+    "monnaie_devise": "USD - Dollar américain ($)",
     "ville": "Cantón Isabela",
     "quartier_arrondissement": "Isla Fernandina Narborough",
     "code_postal": "200107",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -12376,9 +14850,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Équateur",
     "langue_officielle": "Espagnol",
+    "monnaie_devise": "USD - Dollar américain ($)",
     "ville": "Cantón Santa Cruz",
     "quartier_arrondissement": "Puerto Ayora",
     "code_postal": "200102",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -12386,9 +14862,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Équateur",
     "langue_officielle": "Espagnol",
+    "monnaie_devise": "USD - Dollar américain ($)",
     "ville": "Cantón Santa Cruz",
     "quartier_arrondissement": "Bellavista",
     "code_postal": "200105",
+    "population": "15 231",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -12396,9 +14874,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Équateur",
     "langue_officielle": "Espagnol",
+    "monnaie_devise": "USD - Dollar américain ($)",
     "ville": "Cantón Santa Cruz",
     "quartier_arrondissement": "Isla Pinzon",
     "code_postal": "200106",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -12406,9 +14886,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Équateur",
     "langue_officielle": "Espagnol",
+    "monnaie_devise": "USD - Dollar américain ($)",
     "ville": "Cantón Cuenca",
     "quartier_arrondissement": "Cuenca_El Vecino",
     "code_postal": "010101",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -12416,9 +14898,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Équateur",
     "langue_officielle": "Espagnol",
+    "monnaie_devise": "USD - Dollar américain ($)",
     "ville": "Cantón Cuenca",
     "quartier_arrondissement": "Cuenca_El Vecino",
     "code_postal": "010102",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -12426,9 +14910,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Équateur",
     "langue_officielle": "Espagnol",
+    "monnaie_devise": "USD - Dollar américain ($)",
     "ville": "Cantón Cuenca",
     "quartier_arrondissement": "Cuenca_Totorocoha",
     "code_postal": "010103",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -12436,9 +14922,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Îles Malouines",
     "langue_officielle": "Anglais",
+    "monnaie_devise": "FKP - Pound",
     "ville": "Falkland Islands",
     "quartier_arrondissement": "Falkland Islands",
     "code_postal": "FIQQ 1ZZ",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -12446,9 +14934,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Guyane française",
     "langue_officielle": "Français",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Guyane",
     "quartier_arrondissement": "Cayenne",
     "code_postal": "97300",
+    "population": "61 550",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -12456,9 +14946,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Guyane française",
     "langue_officielle": "Français",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Guyane",
     "quartier_arrondissement": "Cayenne",
     "code_postal": "97305 CEDEX",
+    "population": "61 550",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -12466,9 +14958,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Guyane française",
     "langue_officielle": "Français",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Guyane",
     "quartier_arrondissement": "Cayenne",
     "code_postal": "97306 CEDEX",
+    "population": "61 550",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -12476,9 +14970,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Guyane française",
     "langue_officielle": "Français",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Guyane",
     "quartier_arrondissement": "Cayenne",
     "code_postal": "97307 CEDEX",
+    "population": "61 550",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -12486,9 +14982,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Guyane française",
     "langue_officielle": "Français",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Guyane",
     "quartier_arrondissement": "Cayenne",
     "code_postal": "97308 CEDEX",
+    "population": "61 550",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -12496,9 +14994,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Guyane française",
     "langue_officielle": "Français",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Guyane",
     "quartier_arrondissement": "Cayenne",
     "code_postal": "97309 CEDEX",
+    "population": "61 550",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -12506,9 +15006,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Guyane française",
     "langue_officielle": "Français",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Guyane",
     "quartier_arrondissement": "Kourou",
     "code_postal": "97310",
+    "population": "24 029",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -12516,9 +15018,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Guyane française",
     "langue_officielle": "Français",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Guyane",
     "quartier_arrondissement": "Roura",
     "code_postal": "97311",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -12526,9 +15030,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Guyane française",
     "langue_officielle": "Français",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Guyane",
     "quartier_arrondissement": "Saint-Élie",
     "code_postal": "97312",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -12536,9 +15042,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Guyane française",
     "langue_officielle": "Français",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Guyane",
     "quartier_arrondissement": "Saint-Georges",
     "code_postal": "97313",
+    "population": "31 173",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -12546,9 +15054,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Pérou",
     "langue_officielle": "Espagnol, Quechua, Aymara",
+    "monnaie_devise": "PEN - Sol péruvien (S/)",
     "ville": "Chachapoyas",
     "quartier_arrondissement": "San Antonio",
     "code_postal": "01000",
+    "population": "87 675",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -12556,9 +15066,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Pérou",
     "langue_officielle": "Espagnol, Quechua, Aymara",
+    "monnaie_devise": "PEN - Sol péruvien (S/)",
     "ville": "Chachapoyas",
     "quartier_arrondissement": "El Atajo",
     "code_postal": "01000",
+    "population": "32 026",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -12566,9 +15078,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Pérou",
     "langue_officielle": "Espagnol, Quechua, Aymara",
+    "monnaie_devise": "PEN - Sol péruvien (S/)",
     "ville": "Chachapoyas",
     "quartier_arrondissement": "La Hoya",
     "code_postal": "01000",
+    "population": "32 026",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -12576,9 +15090,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Pérou",
     "langue_officielle": "Espagnol, Quechua, Aymara",
+    "monnaie_devise": "PEN - Sol péruvien (S/)",
     "ville": "Chachapoyas",
     "quartier_arrondissement": "El Cruce",
     "code_postal": "01000",
+    "population": "32 026",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -12586,9 +15102,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Pérou",
     "langue_officielle": "Espagnol, Quechua, Aymara",
+    "monnaie_devise": "PEN - Sol péruvien (S/)",
     "ville": "Chachapoyas",
     "quartier_arrondissement": "Caclic",
     "code_postal": "01000",
+    "population": "32 026",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -12596,9 +15114,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Pérou",
     "langue_officielle": "Espagnol, Quechua, Aymara",
+    "monnaie_devise": "PEN - Sol péruvien (S/)",
     "ville": "Chachapoyas",
     "quartier_arrondissement": "Lucmaurco",
     "code_postal": "01000",
+    "population": "32 026",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -12606,9 +15126,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Pérou",
     "langue_officielle": "Espagnol, Quechua, Aymara",
+    "monnaie_devise": "PEN - Sol péruvien (S/)",
     "ville": "Chachapoyas",
     "quartier_arrondissement": "Hidalgo",
     "code_postal": "01000",
+    "population": "16 524",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -12616,9 +15138,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Pérou",
     "langue_officielle": "Espagnol, Quechua, Aymara",
+    "monnaie_devise": "PEN - Sol péruvien (S/)",
     "ville": "Chachapoyas",
     "quartier_arrondissement": "Leticia",
     "code_postal": "01000",
+    "population": "48 144",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -12626,9 +15150,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Pérou",
     "langue_officielle": "Espagnol, Quechua, Aymara",
+    "monnaie_devise": "PEN - Sol péruvien (S/)",
     "ville": "Chachapoyas",
     "quartier_arrondissement": "Taquia",
     "code_postal": "01000",
+    "population": "32 026",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -12636,9 +15162,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Pérou",
     "langue_officielle": "Espagnol, Quechua, Aymara",
+    "monnaie_devise": "PEN - Sol péruvien (S/)",
     "ville": "Chachapoyas",
     "quartier_arrondissement": "Huancas",
     "code_postal": "01000",
+    "population": "32 026",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -12646,9 +15174,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Uruguay",
     "langue_officielle": "Espagnol",
+    "monnaie_devise": "UYU - Peso uruguayen ($UY)",
     "ville": "Artigas",
     "quartier_arrondissement": "Limite Contestado",
     "code_postal": "40200",
+    "population": "43 897",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -12656,9 +15186,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Uruguay",
     "langue_officielle": "Espagnol",
+    "monnaie_devise": "UYU - Peso uruguayen ($UY)",
     "ville": "Artigas",
     "quartier_arrondissement": "Sarandi De Yacuy",
     "code_postal": "50200",
+    "population": "43 897",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -12666,9 +15198,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Uruguay",
     "langue_officielle": "Espagnol",
+    "monnaie_devise": "UYU - Peso uruguayen ($UY)",
     "ville": "Artigas",
     "quartier_arrondissement": "Pintadito",
     "code_postal": "55000",
+    "population": "43 897",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -12676,9 +15210,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Uruguay",
     "langue_officielle": "Espagnol",
+    "monnaie_devise": "UYU - Peso uruguayen ($UY)",
     "ville": "Artigas",
     "quartier_arrondissement": "Patitas",
     "code_postal": "55000",
+    "population": "43 897",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -12686,9 +15222,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Uruguay",
     "langue_officielle": "Espagnol",
+    "monnaie_devise": "UYU - Peso uruguayen ($UY)",
     "ville": "Artigas",
     "quartier_arrondissement": "Paso De Leon",
     "code_postal": "55000",
+    "population": "43 897",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -12696,9 +15234,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Uruguay",
     "langue_officielle": "Espagnol",
+    "monnaie_devise": "UYU - Peso uruguayen ($UY)",
     "ville": "Artigas",
     "quartier_arrondissement": "Pintado",
     "code_postal": "55000",
+    "population": "43 897",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -12706,9 +15246,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Uruguay",
     "langue_officielle": "Espagnol",
+    "monnaie_devise": "UYU - Peso uruguayen ($UY)",
     "ville": "Artigas",
     "quartier_arrondissement": "Cerrito",
     "code_postal": "55000",
+    "population": "43 897",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -12716,9 +15258,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Uruguay",
     "langue_officielle": "Espagnol",
+    "monnaie_devise": "UYU - Peso uruguayen ($UY)",
     "ville": "Artigas",
     "quartier_arrondissement": "Baltasar Brum",
     "code_postal": "55000",
+    "population": "43 897",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -12726,9 +15270,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Uruguay",
     "langue_officielle": "Espagnol",
+    "monnaie_devise": "UYU - Peso uruguayen ($UY)",
     "ville": "Artigas",
     "quartier_arrondissement": "Pintado Grande",
     "code_postal": "55000",
+    "population": "43 897",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -12736,9 +15282,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Uruguay",
     "langue_officielle": "Espagnol",
+    "monnaie_devise": "UYU - Peso uruguayen ($UY)",
     "ville": "Artigas",
     "quartier_arrondissement": "Taruman",
     "code_postal": "55000",
+    "population": "43 897",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -12746,9 +15294,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Bolivie",
     "langue_officielle": "Espagnol, Quechua, Aymara",
+    "monnaie_devise": "BOB - Boliviano bolivien (Bs)",
     "ville": "Yacuiba",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Yacuiba)",
     "code_postal": "",
+    "population": "82 803",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -12756,9 +15306,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Bolivie",
     "langue_officielle": "Espagnol, Quechua, Aymara",
+    "monnaie_devise": "BOB - Boliviano bolivien (Bs)",
     "ville": "Warnes",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Warnes)",
     "code_postal": "",
+    "population": "22 036",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -12766,9 +15318,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Bolivie",
     "langue_officielle": "Espagnol, Quechua, Aymara",
+    "monnaie_devise": "BOB - Boliviano bolivien (Bs)",
     "ville": "Vinto",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Vinto)",
     "code_postal": "",
+    "population": "58 739",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -12776,9 +15330,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Bolivie",
     "langue_officielle": "Espagnol, Quechua, Aymara",
+    "monnaie_devise": "BOB - Boliviano bolivien (Bs)",
     "ville": "Villazón",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Villazón)",
     "code_postal": "",
+    "population": "30 253",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -12786,9 +15342,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Bolivie",
     "langue_officielle": "Espagnol, Quechua, Aymara",
+    "monnaie_devise": "BOB - Boliviano bolivien (Bs)",
     "ville": "Villa Yapacaní",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Villa Yapacaní)",
     "code_postal": "",
+    "population": "18 187",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -12796,9 +15354,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Bolivie",
     "langue_officielle": "Espagnol, Quechua, Aymara",
+    "monnaie_devise": "BOB - Boliviano bolivien (Bs)",
     "ville": "Villamontes",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Villamontes)",
     "code_postal": "",
+    "population": "39 800",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -12806,9 +15366,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Bolivie",
     "langue_officielle": "Espagnol, Quechua, Aymara",
+    "monnaie_devise": "BOB - Boliviano bolivien (Bs)",
     "ville": "Viacha",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Viacha)",
     "code_postal": "",
+    "population": "86 218",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -12816,9 +15378,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Bolivie",
     "langue_officielle": "Espagnol, Quechua, Aymara",
+    "monnaie_devise": "BOB - Boliviano bolivien (Bs)",
     "ville": "Tupiza",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Tupiza)",
     "code_postal": "",
+    "population": "22 233",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -12826,9 +15390,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Bolivie",
     "langue_officielle": "Espagnol, Quechua, Aymara",
+    "monnaie_devise": "BOB - Boliviano bolivien (Bs)",
     "ville": "Trinidad",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Trinidad)",
     "code_postal": "",
+    "population": "84 259",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -12836,9 +15402,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Bolivie",
     "langue_officielle": "Espagnol, Quechua, Aymara",
+    "monnaie_devise": "BOB - Boliviano bolivien (Bs)",
     "ville": "Tiquipaya",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Tiquipaya)",
     "code_postal": "",
+    "population": "62 675",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -12846,9 +15414,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Guyana",
     "langue_officielle": "Anglais",
+    "monnaie_devise": "GYD - Dollar",
     "ville": "New Amsterdam",
     "quartier_arrondissement": "Centre Urbain / Agglomération (New Amsterdam)",
     "code_postal": "",
+    "population": "35 039",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -12856,9 +15426,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Guyana",
     "langue_officielle": "Anglais",
+    "monnaie_devise": "GYD - Dollar",
     "ville": "Linden",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Linden)",
     "code_postal": "",
+    "population": "38 284",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -12866,9 +15438,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Guyana",
     "langue_officielle": "Anglais",
+    "monnaie_devise": "GYD - Dollar",
     "ville": "Georgetown",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Georgetown)",
     "code_postal": "",
+    "population": "44 058",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -12876,9 +15450,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Paraguay",
     "langue_officielle": "Espagnol, Guarani",
+    "monnaie_devise": "PYG - Guaraní paraguayen (₲)",
     "ville": "Yby Yaú",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Yby Yaú)",
     "code_postal": "",
+    "population": "31 290",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -12886,9 +15462,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Paraguay",
     "langue_officielle": "Espagnol, Guarani",
+    "monnaie_devise": "PYG - Guaraní paraguayen (₲)",
     "ville": "Villeta",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Villeta)",
     "code_postal": "",
+    "population": "20 689",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -12896,9 +15474,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Paraguay",
     "langue_officielle": "Espagnol, Guarani",
+    "monnaie_devise": "PYG - Guaraní paraguayen (₲)",
     "ville": "Villarrica",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Villarrica)",
     "code_postal": "",
+    "population": "49 184",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -12906,9 +15486,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Paraguay",
     "langue_officielle": "Espagnol, Guarani",
+    "monnaie_devise": "PYG - Guaraní paraguayen (₲)",
     "ville": "Villa Hayes",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Villa Hayes)",
     "code_postal": "",
+    "population": "57 217",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -12916,9 +15498,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Paraguay",
     "langue_officielle": "Espagnol, Guarani",
+    "monnaie_devise": "PYG - Guaraní paraguayen (₲)",
     "ville": "Villa Elisa",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Villa Elisa)",
     "code_postal": "",
+    "population": "64 099",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -12926,9 +15510,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Paraguay",
     "langue_officielle": "Espagnol, Guarani",
+    "monnaie_devise": "PYG - Guaraní paraguayen (₲)",
     "ville": "San Lorenzo",
     "quartier_arrondissement": "Centre Urbain / Agglomération (San Lorenzo)",
     "code_postal": "",
+    "population": "47 626",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -12936,9 +15522,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Paraguay",
     "langue_officielle": "Espagnol, Guarani",
+    "monnaie_devise": "PYG - Guaraní paraguayen (₲)",
     "ville": "San Juan Bautista",
     "quartier_arrondissement": "Centre Urbain / Agglomération (San Juan Bautista)",
     "code_postal": "",
+    "population": "16 593",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -12946,9 +15534,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Paraguay",
     "langue_officielle": "Espagnol, Guarani",
+    "monnaie_devise": "PYG - Guaraní paraguayen (₲)",
     "ville": "San Antonio",
     "quartier_arrondissement": "Centre Urbain / Agglomération (San Antonio)",
     "code_postal": "",
+    "population": "87 675",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -12956,9 +15546,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Paraguay",
     "langue_officielle": "Espagnol, Guarani",
+    "monnaie_devise": "PYG - Guaraní paraguayen (₲)",
     "ville": "Presidente Franco",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Presidente Franco)",
     "code_postal": "",
+    "population": "54 292",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -12966,9 +15558,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Paraguay",
     "langue_officielle": "Espagnol, Guarani",
+    "monnaie_devise": "PYG - Guaraní paraguayen (₲)",
     "ville": "Pilar",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Pilar)",
     "code_postal": "",
+    "population": "81 120",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -12976,9 +15570,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Suriname",
     "langue_officielle": "Néerlandais, Anglais, SRN, HNS",
+    "monnaie_devise": "SRD - Dollar",
     "ville": "Rainville",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Rainville)",
     "code_postal": "",
+    "population": "22 747",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -12986,9 +15582,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Suriname",
     "langue_officielle": "Néerlandais, Anglais, SRN, HNS",
+    "monnaie_devise": "SRD - Dollar",
     "ville": "Paramaribo",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Paramaribo)",
     "code_postal": "",
+    "population": "223 757",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -12996,9 +15594,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Suriname",
     "langue_officielle": "Néerlandais, Anglais, SRN, HNS",
+    "monnaie_devise": "SRD - Dollar",
     "ville": "Lelydorp",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Lelydorp)",
     "code_postal": "",
+    "population": "18 223",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -13006,9 +15606,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Suriname",
     "langue_officielle": "Néerlandais, Anglais, SRN, HNS",
+    "monnaie_devise": "SRD - Dollar",
     "ville": "Flora",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Flora)",
     "code_postal": "",
+    "population": "19 538",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -13016,9 +15618,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Suriname",
     "langue_officielle": "Néerlandais, Anglais, SRN, HNS",
+    "monnaie_devise": "SRD - Dollar",
     "ville": "Blauwgrond",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Blauwgrond)",
     "code_postal": "",
+    "population": "31 483",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -13026,9 +15630,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Suriname",
     "langue_officielle": "Néerlandais, Anglais, SRN, HNS",
+    "monnaie_devise": "SRD - Dollar",
     "ville": "Munder Buiten",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Munder Buiten)",
     "code_postal": "",
+    "population": "17 234",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -13036,9 +15642,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Suriname",
     "langue_officielle": "Néerlandais, Anglais, SRN, HNS",
+    "monnaie_devise": "SRD - Dollar",
     "ville": "Tammenga",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Tammenga)",
     "code_postal": "",
+    "population": "15 819",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -13046,9 +15654,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Suriname",
     "langue_officielle": "Néerlandais, Anglais, SRN, HNS",
+    "monnaie_devise": "SRD - Dollar",
     "ville": "Welgelegen",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Welgelegen)",
     "code_postal": "",
+    "population": "19 304",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -13056,9 +15666,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Suriname",
     "langue_officielle": "Néerlandais, Anglais, SRN, HNS",
+    "monnaie_devise": "SRD - Dollar",
     "ville": "Beekhuizen",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Beekhuizen)",
     "code_postal": "",
+    "population": "17 185",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -13066,9 +15678,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Suriname",
     "langue_officielle": "Néerlandais, Anglais, SRN, HNS",
+    "monnaie_devise": "SRD - Dollar",
     "ville": "Pontbuiten",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Pontbuiten)",
     "code_postal": "",
+    "population": "23 211",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -13076,9 +15690,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Venezuela",
     "langue_officielle": "Espagnol",
+    "monnaie_devise": "VES - Bolivar vénézuélien (Bs)",
     "ville": "La Guardia",
     "quartier_arrondissement": "Centre Urbain / Agglomération (La Guardia)",
     "code_postal": "",
+    "population": "34 700",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -13086,9 +15702,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Venezuela",
     "langue_officielle": "Espagnol",
+    "monnaie_devise": "VES - Bolivar vénézuélien (Bs)",
     "ville": "La Asunción",
     "quartier_arrondissement": "Centre Urbain / Agglomération (La Asunción)",
     "code_postal": "",
+    "population": "35 084",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -13096,9 +15714,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Venezuela",
     "langue_officielle": "Espagnol",
+    "monnaie_devise": "VES - Bolivar vénézuélien (Bs)",
     "ville": "Anaco",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Anaco)",
     "code_postal": "",
+    "population": "139 397",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -13106,9 +15726,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Venezuela",
     "langue_officielle": "Espagnol",
+    "monnaie_devise": "VES - Bolivar vénézuélien (Bs)",
     "ville": "Alto Barinas",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Alto Barinas)",
     "code_postal": "",
+    "population": "284 289",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -13116,9 +15738,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Venezuela",
     "langue_officielle": "Espagnol",
+    "monnaie_devise": "VES - Bolivar vénézuélien (Bs)",
     "ville": "Zaraza",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Zaraza)",
     "code_postal": "",
+    "population": "74 017",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -13126,9 +15750,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Venezuela",
     "langue_officielle": "Espagnol",
+    "monnaie_devise": "VES - Bolivar vénézuélien (Bs)",
     "ville": "Yumare",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Yumare)",
     "code_postal": "",
+    "population": "15 661",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -13136,9 +15762,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Venezuela",
     "langue_officielle": "Espagnol",
+    "monnaie_devise": "VES - Bolivar vénézuélien (Bs)",
     "ville": "Yaritagua",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Yaritagua)",
     "code_postal": "",
+    "population": "113 343",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -13146,9 +15774,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Venezuela",
     "langue_officielle": "Espagnol",
+    "monnaie_devise": "VES - Bolivar vénézuélien (Bs)",
     "ville": "Villa de Cura",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Villa de Cura)",
     "code_postal": "",
+    "population": "99 669",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -13156,9 +15786,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Venezuela",
     "langue_officielle": "Espagnol",
+    "monnaie_devise": "VES - Bolivar vénézuélien (Bs)",
     "ville": "Villa Bruzual",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Villa Bruzual)",
     "code_postal": "",
+    "population": "55 244",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -13166,9 +15798,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Amérique du Sud",
     "pays": "Venezuela",
     "langue_officielle": "Espagnol",
+    "monnaie_devise": "VES - Bolivar vénézuélien (Bs)",
     "ville": "Valle de La Pascua",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Valle de La Pascua)",
     "code_postal": "",
+    "population": "153 136",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -13176,9 +15810,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Algérie",
     "langue_officielle": "Arabe, Berbère, Français",
+    "monnaie_devise": "DZD - Dinar algérien (DZD)",
     "ville": "Adrar",
     "quartier_arrondissement": "Ouled Ali",
     "code_postal": "01000",
+    "population": "68 276",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -13186,9 +15822,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Algérie",
     "langue_officielle": "Arabe, Berbère, Français",
+    "monnaie_devise": "DZD - Dinar algérien (DZD)",
     "ville": "Adrar",
     "quartier_arrondissement": "Akhnatir",
     "code_postal": "01000",
+    "population": "68 276",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -13196,9 +15834,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Algérie",
     "langue_officielle": "Arabe, Berbère, Français",
+    "monnaie_devise": "DZD - Dinar algérien (DZD)",
     "ville": "Adrar",
     "quartier_arrondissement": "Tililane",
     "code_postal": "01000",
+    "population": "68 276",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -13206,9 +15846,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Algérie",
     "langue_officielle": "Arabe, Berbère, Français",
+    "monnaie_devise": "DZD - Dinar algérien (DZD)",
     "ville": "Adrar",
     "quartier_arrondissement": "Adrar Cite Zerrari Med",
     "code_postal": "01000",
+    "population": "68 276",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -13216,9 +15858,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Algérie",
     "langue_officielle": "Arabe, Berbère, Français",
+    "monnaie_devise": "DZD - Dinar algérien (DZD)",
     "ville": "Adrar",
     "quartier_arrondissement": "Meraguen",
     "code_postal": "01000",
+    "population": "68 276",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -13226,9 +15870,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Algérie",
     "langue_officielle": "Arabe, Berbère, Français",
+    "monnaie_devise": "DZD - Dinar algérien (DZD)",
     "ville": "Adrar",
     "quartier_arrondissement": "Gasbet El Kaid",
     "code_postal": "01000",
+    "population": "68 276",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -13236,9 +15882,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Algérie",
     "langue_officielle": "Arabe, Berbère, Français",
+    "monnaie_devise": "DZD - Dinar algérien (DZD)",
     "ville": "Adrar",
     "quartier_arrondissement": "Ouled Oungal",
     "code_postal": "01000",
+    "population": "68 276",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -13246,9 +15894,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Algérie",
     "langue_officielle": "Arabe, Berbère, Français",
+    "monnaie_devise": "DZD - Dinar algérien (DZD)",
     "ville": "Adrar",
     "quartier_arrondissement": "Adrar Rp",
     "code_postal": "01000",
+    "population": "68 276",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -13256,9 +15906,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Algérie",
     "langue_officielle": "Arabe, Berbère, Français",
+    "monnaie_devise": "DZD - Dinar algérien (DZD)",
     "ville": "Adrar",
     "quartier_arrondissement": "Louajda",
     "code_postal": "01001",
+    "population": "68 276",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -13266,9 +15918,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Algérie",
     "langue_officielle": "Arabe, Berbère, Français",
+    "monnaie_devise": "DZD - Dinar algérien (DZD)",
     "ville": "Adrar",
     "quartier_arrondissement": "Macine",
     "code_postal": "01001",
+    "population": "68 276",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -13276,9 +15930,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Kenya",
     "langue_officielle": "Anglais, Swahili",
+    "monnaie_devise": "KES - Shilling kényan (KSh)",
     "ville": "Nairobi",
     "quartier_arrondissement": "Nairobi Gpo",
     "code_postal": "00100",
+    "population": "4 397 073",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -13286,9 +15942,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Kenya",
     "langue_officielle": "Anglais, Swahili",
+    "monnaie_devise": "KES - Shilling kényan (KSh)",
     "ville": "Nairobi",
     "quartier_arrondissement": "Jamia",
     "code_postal": "00101",
+    "population": "4 397 073",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -13296,9 +15954,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Kenya",
     "langue_officielle": "Anglais, Swahili",
+    "monnaie_devise": "KES - Shilling kényan (KSh)",
     "ville": "Nairobi",
     "quartier_arrondissement": "State Law Office-Sheria HSE",
     "code_postal": "00102",
+    "population": "4 397 073",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -13306,9 +15966,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Kenya",
     "langue_officielle": "Anglais, Swahili",
+    "monnaie_devise": "KES - Shilling kényan (KSh)",
     "ville": "Nairobi",
     "quartier_arrondissement": "City Square",
     "code_postal": "00200",
+    "population": "4 397 073",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -13316,9 +15978,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Kenya",
     "langue_officielle": "Anglais, Swahili",
+    "monnaie_devise": "KES - Shilling kényan (KSh)",
     "ville": "Nairobi",
     "quartier_arrondissement": "Kenyatta Hospital",
     "code_postal": "00202",
+    "population": "4 397 073",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -13326,9 +15990,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Kenya",
     "langue_officielle": "Anglais, Swahili",
+    "monnaie_devise": "KES - Shilling kényan (KSh)",
     "ville": "Nairobi",
     "quartier_arrondissement": "Mbari Ya Njiku",
     "code_postal": "00231",
+    "population": "4 397 073",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -13336,9 +16002,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Kenya",
     "langue_officielle": "Anglais, Swahili",
+    "monnaie_devise": "KES - Shilling kényan (KSh)",
     "ville": "Nairobi",
     "quartier_arrondissement": "Karatu",
     "code_postal": "00233",
+    "population": "4 397 073",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -13346,9 +16014,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Kenya",
     "langue_officielle": "Anglais, Swahili",
+    "monnaie_devise": "KES - Shilling kényan (KSh)",
     "ville": "Nairobi",
     "quartier_arrondissement": "Mundoro",
     "code_postal": "00235",
+    "population": "4 397 073",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -13356,9 +16026,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Kenya",
     "langue_officielle": "Anglais, Swahili",
+    "monnaie_devise": "KES - Shilling kényan (KSh)",
     "ville": "Nairobi",
     "quartier_arrondissement": "Kiamwangi",
     "code_postal": "00236",
+    "population": "4 397 073",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -13366,9 +16038,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Kenya",
     "langue_officielle": "Anglais, Swahili",
+    "monnaie_devise": "KES - Shilling kényan (KSh)",
     "ville": "Nairobi",
     "quartier_arrondissement": "Ronald Ngala Street",
     "code_postal": "00300",
+    "population": "4 397 073",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -13376,9 +16050,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Maroc",
     "langue_officielle": "Arabe, Berbère, Français",
+    "monnaie_devise": "MAD - Dirham marocain (MAD)",
     "ville": "Al-Hoceima",
     "quartier_arrondissement": "Al Hoceima",
     "code_postal": "32000",
+    "population": "395 644",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -13386,9 +16062,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Maroc",
     "langue_officielle": "Arabe, Berbère, Français",
+    "monnaie_devise": "MAD - Dirham marocain (MAD)",
     "ville": "Al-Hoceima",
     "quartier_arrondissement": "Ait Youssef Ou Ali",
     "code_postal": "32003",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -13396,9 +16074,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Maroc",
     "langue_officielle": "Arabe, Berbère, Français",
+    "monnaie_devise": "MAD - Dirham marocain (MAD)",
     "ville": "Al-Hoceima",
     "quartier_arrondissement": "Arbaa Taourirt",
     "code_postal": "32004",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -13406,9 +16086,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Maroc",
     "langue_officielle": "Arabe, Berbère, Français",
+    "monnaie_devise": "MAD - Dirham marocain (MAD)",
     "ville": "Al-Hoceima",
     "quartier_arrondissement": "Rouadi",
     "code_postal": "32006",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -13416,9 +16098,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Maroc",
     "langue_officielle": "Arabe, Berbère, Français",
+    "monnaie_devise": "MAD - Dirham marocain (MAD)",
     "ville": "Al-Hoceima",
     "quartier_arrondissement": "Senada",
     "code_postal": "32013",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -13426,9 +16110,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Maroc",
     "langue_officielle": "Arabe, Berbère, Français",
+    "monnaie_devise": "MAD - Dirham marocain (MAD)",
     "ville": "Al-Hoceima",
     "quartier_arrondissement": "Torres De Alcala",
     "code_postal": "32014",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -13436,9 +16122,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Maroc",
     "langue_officielle": "Arabe, Berbère, Français",
+    "monnaie_devise": "MAD - Dirham marocain (MAD)",
     "ville": "Al-Hoceima",
     "quartier_arrondissement": "Ait Kamra",
     "code_postal": "32022",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -13446,9 +16134,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Maroc",
     "langue_officielle": "Arabe, Berbère, Français",
+    "monnaie_devise": "MAD - Dirham marocain (MAD)",
     "ville": "Al-Hoceima",
     "quartier_arrondissement": "Chakrane",
     "code_postal": "32023",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -13456,9 +16146,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Maroc",
     "langue_officielle": "Arabe, Berbère, Français",
+    "monnaie_devise": "MAD - Dirham marocain (MAD)",
     "ville": "Al-Hoceima",
     "quartier_arrondissement": "Izemmouren",
     "code_postal": "32024",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -13466,9 +16158,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Maroc",
     "langue_officielle": "Arabe, Berbère, Français",
+    "monnaie_devise": "MAD - Dirham marocain (MAD)",
     "ville": "Al-Hoceima",
     "quartier_arrondissement": "Bni Bouayach",
     "code_postal": "32050",
+    "population": "19 951",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -13476,9 +16170,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Malawi",
     "langue_officielle": "Chichewa, YAO, TUM, SWK",
+    "monnaie_devise": "MWK - Kwacha malawien (MK)",
     "ville": "Dedza",
     "quartier_arrondissement": "Dedza Township",
     "code_postal": "209100",
+    "population": "34 882",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -13486,9 +16182,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Malawi",
     "langue_officielle": "Chichewa, YAO, TUM, SWK",
+    "monnaie_devise": "MWK - Kwacha malawien (MK)",
     "ville": "Dedza",
     "quartier_arrondissement": "Tambala",
     "code_postal": "209101",
+    "population": "34 882",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -13496,9 +16194,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Malawi",
     "langue_officielle": "Chichewa, YAO, TUM, SWK",
+    "monnaie_devise": "MWK - Kwacha malawien (MK)",
     "ville": "Dedza",
     "quartier_arrondissement": "Chauma",
     "code_postal": "209102",
+    "population": "34 882",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -13506,9 +16206,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Malawi",
     "langue_officielle": "Chichewa, YAO, TUM, SWK",
+    "monnaie_devise": "MWK - Kwacha malawien (MK)",
     "ville": "Dedza",
     "quartier_arrondissement": "Kasumbu",
     "code_postal": "209103",
+    "population": "34 882",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -13516,9 +16218,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Malawi",
     "langue_officielle": "Chichewa, YAO, TUM, SWK",
+    "monnaie_devise": "MWK - Kwacha malawien (MK)",
     "ville": "Dedza",
     "quartier_arrondissement": "Kachindamoto",
     "code_postal": "209104",
+    "population": "34 882",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -13526,9 +16230,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Malawi",
     "langue_officielle": "Chichewa, YAO, TUM, SWK",
+    "monnaie_devise": "MWK - Kwacha malawien (MK)",
     "ville": "Dedza",
     "quartier_arrondissement": "Kamenya Gwaza",
     "code_postal": "209105",
+    "population": "34 882",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -13536,9 +16242,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Malawi",
     "langue_officielle": "Chichewa, YAO, TUM, SWK",
+    "monnaie_devise": "MWK - Kwacha malawien (MK)",
     "ville": "Dedza",
     "quartier_arrondissement": "Kaphuka",
     "code_postal": "209106",
+    "population": "34 882",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -13546,9 +16254,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Malawi",
     "langue_officielle": "Chichewa, YAO, TUM, SWK",
+    "monnaie_devise": "MWK - Kwacha malawien (MK)",
     "ville": "Dedza",
     "quartier_arrondissement": "Chilikumwendo",
     "code_postal": "209107",
+    "population": "34 882",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -13556,9 +16266,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Malawi",
     "langue_officielle": "Chichewa, YAO, TUM, SWK",
+    "monnaie_devise": "MWK - Kwacha malawien (MK)",
     "ville": "Dedza",
     "quartier_arrondissement": "Kachere",
     "code_postal": "209108",
+    "population": "34 882",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -13566,9 +16278,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Malawi",
     "langue_officielle": "Chichewa, YAO, TUM, SWK",
+    "monnaie_devise": "MWK - Kwacha malawien (MK)",
     "ville": "Dowa",
     "quartier_arrondissement": "Dowa BOMA",
     "code_postal": "204100",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -13576,9 +16290,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "La Réunion",
     "langue_officielle": "Français",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Reunion (general)",
     "quartier_arrondissement": "Sainte-Clotilde",
     "code_postal": "97491 CEDEX",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -13586,9 +16302,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "La Réunion",
     "langue_officielle": "Français",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Reunion (general)",
     "quartier_arrondissement": "Sainte-Clotilde",
     "code_postal": "97492 CEDEX",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -13596,9 +16314,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "La Réunion",
     "langue_officielle": "Français",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Reunion (general)",
     "quartier_arrondissement": "Sainte-Clotilde",
     "code_postal": "97493 CEDEX",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -13606,9 +16326,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "La Réunion",
     "langue_officielle": "Français",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Reunion (general)",
     "quartier_arrondissement": "Sainte-Clotilde",
     "code_postal": "97494 CEDEX",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -13616,9 +16338,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "La Réunion",
     "langue_officielle": "Français",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Reunion (general)",
     "quartier_arrondissement": "Sainte-Clotilde",
     "code_postal": "97495 CEDEX",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -13626,9 +16350,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "La Réunion",
     "langue_officielle": "Français",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Reunion (general)",
     "quartier_arrondissement": "Sainte-Clotilde",
     "code_postal": "97496 CEDEX",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -13636,9 +16362,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "La Réunion",
     "langue_officielle": "Français",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Reunion (general)",
     "quartier_arrondissement": "Sainte-Clotilde",
     "code_postal": "97497 CEDEX",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -13646,9 +16374,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "La Réunion",
     "langue_officielle": "Français",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Réunion",
     "quartier_arrondissement": "Saint-Denis",
     "code_postal": "97400",
+    "population": "96 128",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -13656,9 +16386,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "La Réunion",
     "langue_officielle": "Français",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Réunion",
     "quartier_arrondissement": "Saint-Denis",
     "code_postal": "97401 CEDEX",
+    "population": "96 128",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -13666,9 +16398,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "La Réunion",
     "langue_officielle": "Français",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Réunion",
     "quartier_arrondissement": "Saint-Denis",
     "code_postal": "97402 CEDEX",
+    "population": "96 128",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -13676,9 +16410,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Mayotte",
     "langue_officielle": "Français",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Mayotte (general)",
     "quartier_arrondissement": "Passamainty",
     "code_postal": "97605",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -13686,9 +16422,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Mayotte",
     "langue_officielle": "Français",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Acoua",
     "quartier_arrondissement": "Acoua",
     "code_postal": "97630",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -13696,9 +16434,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Mayotte",
     "langue_officielle": "Français",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Bandraboua",
     "quartier_arrondissement": "Bandraboua",
     "code_postal": "97650",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -13706,9 +16446,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Mayotte",
     "langue_officielle": "Français",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Bandrele",
     "quartier_arrondissement": "Bandrélé",
     "code_postal": "97660",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -13716,9 +16458,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Mayotte",
     "langue_officielle": "Français",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Bouéni",
     "quartier_arrondissement": "Bouéni",
     "code_postal": "97620",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -13726,9 +16470,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Mayotte",
     "langue_officielle": "Français",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Chiconi",
     "quartier_arrondissement": "Chiconi",
     "code_postal": "97670",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -13736,9 +16482,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Mayotte",
     "langue_officielle": "Français",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Chirongui",
     "quartier_arrondissement": "Chirongui",
     "code_postal": "97620",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -13746,9 +16494,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Mayotte",
     "langue_officielle": "Français",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Dembeni",
     "quartier_arrondissement": "Dembeni",
     "code_postal": "97660",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -13756,9 +16506,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Mayotte",
     "langue_officielle": "Français",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Dzaoudzi",
     "quartier_arrondissement": "Dzaoudzi",
     "code_postal": "97615",
+    "population": "15 339",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -13766,9 +16518,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Mayotte",
     "langue_officielle": "Français",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Kani-Kéli",
     "quartier_arrondissement": "Kani Kéli",
     "code_postal": "97625",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -13776,9 +16530,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Afrique du Sud",
     "langue_officielle": "Zoulou, Xhosa, Afrikaans, NSO",
+    "monnaie_devise": "ZAR - Rand sud-africain (R)",
     "ville": "Pretoria",
     "quartier_arrondissement": "Pretoria",
     "code_postal": "0002",
+    "population": "2 112 693",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -13786,9 +16542,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Afrique du Sud",
     "langue_officielle": "Zoulou, Xhosa, Afrikaans, NSO",
+    "monnaie_devise": "ZAR - Rand sud-africain (R)",
     "ville": "Pretoria",
     "quartier_arrondissement": "Pretoria",
     "code_postal": "0003",
+    "population": "2 112 693",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -13796,9 +16554,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Afrique du Sud",
     "langue_officielle": "Zoulou, Xhosa, Afrikaans, NSO",
+    "monnaie_devise": "ZAR - Rand sud-africain (R)",
     "ville": "Pretoria",
     "quartier_arrondissement": "Pretoria",
     "code_postal": "0004",
+    "population": "2 112 693",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -13806,9 +16566,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Afrique du Sud",
     "langue_officielle": "Zoulou, Xhosa, Afrikaans, NSO",
+    "monnaie_devise": "ZAR - Rand sud-africain (R)",
     "ville": "Pretoria",
     "quartier_arrondissement": "Pretoria",
     "code_postal": "0005",
+    "population": "2 112 693",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -13816,9 +16578,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Afrique du Sud",
     "langue_officielle": "Zoulou, Xhosa, Afrikaans, NSO",
+    "monnaie_devise": "ZAR - Rand sud-africain (R)",
     "ville": "Pretoria",
     "quartier_arrondissement": "Pretoria",
     "code_postal": "0006",
+    "population": "2 112 693",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -13826,9 +16590,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Afrique du Sud",
     "langue_officielle": "Zoulou, Xhosa, Afrikaans, NSO",
+    "monnaie_devise": "ZAR - Rand sud-africain (R)",
     "ville": "Pretoria",
     "quartier_arrondissement": "Pretoria",
     "code_postal": "0007",
+    "population": "2 112 693",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -13836,9 +16602,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Afrique du Sud",
     "langue_officielle": "Zoulou, Xhosa, Afrikaans, NSO",
+    "monnaie_devise": "ZAR - Rand sud-africain (R)",
     "ville": "Pretoria",
     "quartier_arrondissement": "Pretoria",
     "code_postal": "0008",
+    "population": "2 112 693",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -13846,9 +16614,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Afrique du Sud",
     "langue_officielle": "Zoulou, Xhosa, Afrikaans, NSO",
+    "monnaie_devise": "ZAR - Rand sud-africain (R)",
     "ville": "Atteridgeville",
     "quartier_arrondissement": "Atteridgeville",
     "code_postal": "0008",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -13856,9 +16626,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Afrique du Sud",
     "langue_officielle": "Zoulou, Xhosa, Afrikaans, NSO",
+    "monnaie_devise": "ZAR - Rand sud-africain (R)",
     "ville": "Pretoria",
     "quartier_arrondissement": "Pretoria",
     "code_postal": "0009",
+    "population": "2 112 693",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -13866,9 +16638,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Afrique du Sud",
     "langue_officielle": "Zoulou, Xhosa, Afrikaans, NSO",
+    "monnaie_devise": "ZAR - Rand sud-africain (R)",
     "ville": "Glenstantia",
     "quartier_arrondissement": "Glenstantia",
     "code_postal": "0010",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -13876,9 +16650,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Angola",
     "langue_officielle": "Portugais",
+    "monnaie_devise": "AOA - Kwanza angolais (Kz)",
     "ville": "Saurimo",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Saurimo)",
     "code_postal": "",
+    "population": "393 000",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -13886,9 +16662,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Angola",
     "langue_officielle": "Portugais",
+    "monnaie_devise": "AOA - Kwanza angolais (Kz)",
     "ville": "Lucapa",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Lucapa)",
     "code_postal": "",
+    "population": "110 000",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -13896,9 +16674,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Angola",
     "langue_officielle": "Portugais",
+    "monnaie_devise": "AOA - Kwanza angolais (Kz)",
     "ville": "Dundo",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Dundo)",
     "code_postal": "",
+    "population": "177 604",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -13906,9 +16686,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Angola",
     "langue_officielle": "Portugais",
+    "monnaie_devise": "AOA - Kwanza angolais (Kz)",
     "ville": "Chitato",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Chitato)",
     "code_postal": "",
+    "population": "246 880",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -13916,9 +16698,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Angola",
     "langue_officielle": "Portugais",
+    "monnaie_devise": "AOA - Kwanza angolais (Kz)",
     "ville": "Cassanguidi",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Cassanguidi)",
     "code_postal": "",
+    "population": "20 000",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -13926,9 +16710,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Angola",
     "langue_officielle": "Portugais",
+    "monnaie_devise": "AOA - Kwanza angolais (Kz)",
     "ville": "Lumbala",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Lumbala)",
     "code_postal": "",
+    "population": "19 000",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -13936,9 +16722,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Angola",
     "langue_officielle": "Portugais",
+    "monnaie_devise": "AOA - Kwanza angolais (Kz)",
     "ville": "Luau",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Luau)",
     "code_postal": "",
+    "population": "55 432",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -13946,9 +16734,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Angola",
     "langue_officielle": "Portugais",
+    "monnaie_devise": "AOA - Kwanza angolais (Kz)",
     "ville": "Cazombo",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Cazombo)",
     "code_postal": "",
+    "population": "34 000",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -13956,9 +16746,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Angola",
     "langue_officielle": "Portugais",
+    "monnaie_devise": "AOA - Kwanza angolais (Kz)",
     "ville": "Nzagi",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Nzagi)",
     "code_postal": "",
+    "population": "60 000",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -13966,9 +16758,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Angola",
     "langue_officielle": "Portugais",
+    "monnaie_devise": "AOA - Kwanza angolais (Kz)",
     "ville": "Viana",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Viana)",
     "code_postal": "",
+    "population": "865 863",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -13976,9 +16770,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Burkina Faso",
     "langue_officielle": "Français, MOS",
+    "monnaie_devise": "XOF - Franc CFA BCEAO (FCFA)",
     "ville": "Zorgo",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Zorgo)",
     "code_postal": "",
+    "population": "35 398",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -13986,9 +16782,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Burkina Faso",
     "langue_officielle": "Français, MOS",
+    "monnaie_devise": "XOF - Franc CFA BCEAO (FCFA)",
     "ville": "Ziniaré",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Ziniaré)",
     "code_postal": "",
+    "population": "33 296",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -13996,9 +16794,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Burkina Faso",
     "langue_officielle": "Français, MOS",
+    "monnaie_devise": "XOF - Franc CFA BCEAO (FCFA)",
     "ville": "Zinguédéssé",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Zinguédéssé)",
     "code_postal": "",
+    "population": "19 648",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -14006,9 +16806,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Burkina Faso",
     "langue_officielle": "Français, MOS",
+    "monnaie_devise": "XOF - Franc CFA BCEAO (FCFA)",
     "ville": "Zabré",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Zabré)",
     "code_postal": "",
+    "population": "21 726",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -14016,9 +16818,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Burkina Faso",
     "langue_officielle": "Français, MOS",
+    "monnaie_devise": "XOF - Franc CFA BCEAO (FCFA)",
     "ville": "Yalgo",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Yalgo)",
     "code_postal": "",
+    "population": "26 340",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -14026,9 +16830,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Burkina Faso",
     "langue_officielle": "Français, MOS",
+    "monnaie_devise": "XOF - Franc CFA BCEAO (FCFA)",
     "ville": "Yako",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Yako)",
     "code_postal": "",
+    "population": "38 679",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -14036,9 +16842,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Burkina Faso",
     "langue_officielle": "Français, MOS",
+    "monnaie_devise": "XOF - Franc CFA BCEAO (FCFA)",
     "ville": "Tougan",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Tougan)",
     "code_postal": "",
+    "population": "26 347",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -14046,9 +16854,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Burkina Faso",
     "langue_officielle": "Français, MOS",
+    "monnaie_devise": "XOF - Franc CFA BCEAO (FCFA)",
     "ville": "Toma",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Toma)",
     "code_postal": "",
+    "population": "15 851",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -14056,9 +16866,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Burkina Faso",
     "langue_officielle": "Français, MOS",
+    "monnaie_devise": "XOF - Franc CFA BCEAO (FCFA)",
     "ville": "Tô",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Tô)",
     "code_postal": "",
+    "population": "16 026",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -14066,9 +16878,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Burkina Faso",
     "langue_officielle": "Français, MOS",
+    "monnaie_devise": "XOF - Franc CFA BCEAO (FCFA)",
     "ville": "Titao",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Titao)",
     "code_postal": "",
+    "population": "48 241",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -14076,9 +16890,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Burundi",
     "langue_officielle": "Français, Kirundi",
+    "monnaie_devise": "BIF - Franc burundais (FBu)",
     "ville": "Vyanda",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Vyanda)",
     "code_postal": "",
+    "population": "29 685",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -14086,9 +16902,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Burundi",
     "langue_officielle": "Français, Kirundi",
+    "monnaie_devise": "BIF - Franc burundais (FBu)",
     "ville": "Rumonge",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Rumonge)",
     "code_postal": "",
+    "population": "55 599",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -14096,9 +16914,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Burundi",
     "langue_officielle": "Français, Kirundi",
+    "monnaie_devise": "BIF - Franc burundais (FBu)",
     "ville": "Gatumba",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Gatumba)",
     "code_postal": "",
+    "population": "18 104",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -14106,9 +16926,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Burundi",
     "langue_officielle": "Français, Kirundi",
+    "monnaie_devise": "BIF - Franc burundais (FBu)",
     "ville": "Bujumbura",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Bujumbura)",
     "code_postal": "",
+    "population": "769 317",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -14116,9 +16938,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Burundi",
     "langue_officielle": "Français, Kirundi",
+    "monnaie_devise": "BIF - Franc burundais (FBu)",
     "ville": "Gitega",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Gitega)",
     "code_postal": "",
+    "population": "64 904",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -14126,9 +16950,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Burundi",
     "langue_officielle": "Français, Kirundi",
+    "monnaie_devise": "BIF - Franc burundais (FBu)",
     "ville": "Zanandore",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Zanandore)",
     "code_postal": "",
+    "population": "27 867",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -14136,9 +16962,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Burundi",
     "langue_officielle": "Français, Kirundi",
+    "monnaie_devise": "BIF - Franc burundais (FBu)",
     "ville": "Cendajuru",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Cendajuru)",
     "code_postal": "",
+    "population": "32 458",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -14146,9 +16974,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Burundi",
     "langue_officielle": "Français, Kirundi",
+    "monnaie_devise": "BIF - Franc burundais (FBu)",
     "ville": "Karusi",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Karusi)",
     "code_postal": "",
+    "population": "15 964",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -14156,9 +16986,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Burundi",
     "langue_officielle": "Français, Kirundi",
+    "monnaie_devise": "BIF - Franc burundais (FBu)",
     "ville": "Bubanza",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Bubanza)",
     "code_postal": "",
+    "population": "30 996",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -14166,9 +16998,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Burundi",
     "langue_officielle": "Français, Kirundi",
+    "monnaie_devise": "BIF - Franc burundais (FBu)",
     "ville": "Mpanda",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Mpanda)",
     "code_postal": "",
+    "population": "58 913",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -14176,9 +17010,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Bénin",
     "langue_officielle": "Français",
+    "monnaie_devise": "XOF - Franc CFA BCEAO (FCFA)",
     "ville": "Zinvié",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Zinvié)",
     "code_postal": "",
+    "population": "18 157",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -14186,9 +17022,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Bénin",
     "langue_officielle": "Français",
+    "monnaie_devise": "XOF - Franc CFA BCEAO (FCFA)",
     "ville": "Zé",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Zé)",
     "code_postal": "",
+    "population": "16 903",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -14196,9 +17034,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Bénin",
     "langue_officielle": "Français",
+    "monnaie_devise": "XOF - Franc CFA BCEAO (FCFA)",
     "ville": "Toviklin",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Toviklin)",
     "code_postal": "",
+    "population": "21 617",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -14206,9 +17046,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Bénin",
     "langue_officielle": "Français",
+    "monnaie_devise": "XOF - Franc CFA BCEAO (FCFA)",
     "ville": "Toukountouna",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Toukountouna)",
     "code_postal": "",
+    "population": "16 330",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -14216,9 +17058,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Bénin",
     "langue_officielle": "Français",
+    "monnaie_devise": "XOF - Franc CFA BCEAO (FCFA)",
     "ville": "Tobré",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Tobré)",
     "code_postal": "",
+    "population": "16 912",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -14226,9 +17070,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Bénin",
     "langue_officielle": "Français",
+    "monnaie_devise": "XOF - Franc CFA BCEAO (FCFA)",
     "ville": "Tchaourou",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Tchaourou)",
     "code_postal": "",
+    "population": "43 862",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -14236,9 +17082,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Bénin",
     "langue_officielle": "Français",
+    "monnaie_devise": "XOF - Franc CFA BCEAO (FCFA)",
     "ville": "Tanguiéta",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Tanguiéta)",
     "code_postal": "",
+    "population": "27 094",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -14246,9 +17094,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Bénin",
     "langue_officielle": "Français",
+    "monnaie_devise": "XOF - Franc CFA BCEAO (FCFA)",
     "ville": "Sinendé",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Sinendé)",
     "code_postal": "",
+    "population": "35 267",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -14256,9 +17106,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Bénin",
     "langue_officielle": "Français",
+    "monnaie_devise": "XOF - Franc CFA BCEAO (FCFA)",
     "ville": "Semi",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Semi)",
     "code_postal": "",
+    "population": "23 636",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -14266,9 +17118,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Bénin",
     "langue_officielle": "Français",
+    "monnaie_devise": "XOF - Franc CFA BCEAO (FCFA)",
     "ville": "Ségbana",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Ségbana)",
     "code_postal": "",
+    "population": "26 440",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -14276,9 +17130,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Botswana",
     "langue_officielle": "Anglais, Tswana",
+    "monnaie_devise": "BWP - Pula botswanais (P)",
     "ville": "Tonota",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Tonota)",
     "code_postal": "",
+    "population": "23 296",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -14286,9 +17142,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Botswana",
     "langue_officielle": "Anglais, Tswana",
+    "monnaie_devise": "BWP - Pula botswanais (P)",
     "ville": "Tlokweng",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Tlokweng)",
     "code_postal": "",
+    "population": "55 508",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -14296,9 +17154,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Botswana",
     "langue_officielle": "Anglais, Tswana",
+    "monnaie_devise": "BWP - Pula botswanais (P)",
     "ville": "Thamaga",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Thamaga)",
     "code_postal": "",
+    "population": "25 300",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -14306,9 +17166,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Botswana",
     "langue_officielle": "Anglais, Tswana",
+    "monnaie_devise": "BWP - Pula botswanais (P)",
     "ville": "Serowe",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Serowe)",
     "code_postal": "",
+    "population": "55 676",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -14316,9 +17178,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Botswana",
     "langue_officielle": "Anglais, Tswana",
+    "monnaie_devise": "BWP - Pula botswanais (P)",
     "ville": "Selebi-Phikwe",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Selebi-Phikwe)",
     "code_postal": "",
+    "population": "42 488",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -14326,9 +17190,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Botswana",
     "langue_officielle": "Anglais, Tswana",
+    "monnaie_devise": "BWP - Pula botswanais (P)",
     "ville": "Ramotswa",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Ramotswa)",
     "code_postal": "",
+    "population": "33 271",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -14336,9 +17202,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Botswana",
     "langue_officielle": "Anglais, Tswana",
+    "monnaie_devise": "BWP - Pula botswanais (P)",
     "ville": "Palapye",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Palapye)",
     "code_postal": "",
+    "population": "52 636",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -14346,9 +17214,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Botswana",
     "langue_officielle": "Anglais, Tswana",
+    "monnaie_devise": "BWP - Pula botswanais (P)",
     "ville": "Mosopa",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Mosopa)",
     "code_postal": "",
+    "population": "23 858",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -14356,9 +17226,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Botswana",
     "langue_officielle": "Anglais, Tswana",
+    "monnaie_devise": "BWP - Pula botswanais (P)",
     "ville": "Molepolole",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Molepolole)",
     "code_postal": "",
+    "population": "74 861",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -14366,9 +17238,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Botswana",
     "langue_officielle": "Anglais, Tswana",
+    "monnaie_devise": "BWP - Pula botswanais (P)",
     "ville": "Mogoditshane",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Mogoditshane)",
     "code_postal": "",
+    "population": "88 004",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -14376,9 +17250,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "République Démocratique du Congo",
     "langue_officielle": "Français, Lingala, Swahili, Kikongo",
+    "monnaie_devise": "CDF - Franc congolais (CDF)",
     "ville": "Kinshasa",
     "quartier_arrondissement": "Gombe - Centre des Affaires",
     "code_postal": "",
+    "population": "17 071 000",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -14386,9 +17262,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "République Démocratique du Congo",
     "langue_officielle": "Français, Lingala, Swahili, Kikongo",
+    "monnaie_devise": "CDF - Franc congolais (CDF)",
     "ville": "Kinshasa",
     "quartier_arrondissement": "Kalamu - Matonge",
     "code_postal": "",
+    "population": "17 071 000",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -14396,9 +17274,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "République Démocratique du Congo",
     "langue_officielle": "Français, Lingala, Swahili, Kikongo",
+    "monnaie_devise": "CDF - Franc congolais (CDF)",
     "ville": "Kinshasa",
     "quartier_arrondissement": "Ngaliema - Macampagne",
     "code_postal": "",
+    "population": "17 071 000",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -14406,9 +17286,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "République Démocratique du Congo",
     "langue_officielle": "Français, Lingala, Swahili, Kikongo",
+    "monnaie_devise": "CDF - Franc congolais (CDF)",
     "ville": "Kinshasa",
     "quartier_arrondissement": "Limete - Résidentiel",
     "code_postal": "",
+    "population": "17 071 000",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -14416,9 +17298,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "République Démocratique du Congo",
     "langue_officielle": "Français, Lingala, Swahili, Kikongo",
+    "monnaie_devise": "CDF - Franc congolais (CDF)",
     "ville": "Kinshasa",
     "quartier_arrondissement": "Kasa-Vubu - Gambela",
     "code_postal": "",
+    "population": "17 071 000",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -14426,9 +17310,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "République Démocratique du Congo",
     "langue_officielle": "Français, Lingala, Swahili, Kikongo",
+    "monnaie_devise": "CDF - Franc congolais (CDF)",
     "ville": "Lubumbashi",
     "quartier_arrondissement": "Commune de Lubumbashi - Centre-ville",
     "code_postal": "",
+    "population": "2 221 925",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -14436,9 +17322,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "République Démocratique du Congo",
     "langue_officielle": "Français, Lingala, Swahili, Kikongo",
+    "monnaie_devise": "CDF - Franc congolais (CDF)",
     "ville": "Goma",
     "quartier_arrondissement": "Commune de Goma - Birere",
     "code_postal": "",
+    "population": "78 200",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -14446,9 +17334,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "République Démocratique du Congo",
     "langue_officielle": "Français, Lingala, Swahili, Kikongo",
+    "monnaie_devise": "CDF - Franc congolais (CDF)",
     "ville": "Yangambi",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Yangambi)",
     "code_postal": "",
+    "population": "62 082",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -14456,9 +17346,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "République Démocratique du Congo",
     "langue_officielle": "Français, Lingala, Swahili, Kikongo",
+    "monnaie_devise": "CDF - Franc congolais (CDF)",
     "ville": "Watsa",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Watsa)",
     "code_postal": "",
+    "population": "47 278",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -14466,9 +17358,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "République Démocratique du Congo",
     "langue_officielle": "Français, Lingala, Swahili, Kikongo",
+    "monnaie_devise": "CDF - Franc congolais (CDF)",
     "ville": "Wamba",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Wamba)",
     "code_postal": "",
+    "population": "17 373",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -14476,9 +17370,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "République Centrafricaine",
     "langue_officielle": "Français, Sango, Lingala, Kikongo",
+    "monnaie_devise": "XAF - Franc CFA BEAC (FCFA)",
     "ville": "Zemio",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Zemio)",
     "code_postal": "",
+    "population": "17 829",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -14486,9 +17382,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "République Centrafricaine",
     "langue_officielle": "Français, Sango, Lingala, Kikongo",
+    "monnaie_devise": "XAF - Franc CFA BEAC (FCFA)",
     "ville": "Ndélé",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Ndélé)",
     "code_postal": "",
+    "population": "27 071",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -14496,9 +17394,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "République Centrafricaine",
     "langue_officielle": "Français, Sango, Lingala, Kikongo",
+    "monnaie_devise": "XAF - Franc CFA BEAC (FCFA)",
     "ville": "Ippy",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Ippy)",
     "code_postal": "",
+    "population": "28 319",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -14506,9 +17406,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "République Centrafricaine",
     "langue_officielle": "Français, Sango, Lingala, Kikongo",
+    "monnaie_devise": "XAF - Franc CFA BEAC (FCFA)",
     "ville": "Bria",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Bria)",
     "code_postal": "",
+    "population": "47 226",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -14516,9 +17418,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "République Centrafricaine",
     "langue_officielle": "Français, Sango, Lingala, Kikongo",
+    "monnaie_devise": "XAF - Franc CFA BEAC (FCFA)",
     "ville": "Bangassou",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Bangassou)",
     "code_postal": "",
+    "population": "54 059",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -14526,9 +17430,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "République Centrafricaine",
     "langue_officielle": "Français, Sango, Lingala, Kikongo",
+    "monnaie_devise": "XAF - Franc CFA BEAC (FCFA)",
     "ville": "Bambari",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Bambari)",
     "code_postal": "",
+    "population": "83 029",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -14536,9 +17442,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "République Centrafricaine",
     "langue_officielle": "Français, Sango, Lingala, Kikongo",
+    "monnaie_devise": "XAF - Franc CFA BEAC (FCFA)",
     "ville": "Alindao",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Alindao)",
     "code_postal": "",
+    "population": "32 588",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -14546,9 +17454,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "République Centrafricaine",
     "langue_officielle": "Français, Sango, Lingala, Kikongo",
+    "monnaie_devise": "XAF - Franc CFA BEAC (FCFA)",
     "ville": "Yaloké",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Yaloké)",
     "code_postal": "",
+    "population": "21 710",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -14556,9 +17466,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "République Centrafricaine",
     "langue_officielle": "Français, Sango, Lingala, Kikongo",
+    "monnaie_devise": "XAF - Franc CFA BEAC (FCFA)",
     "ville": "Sibut",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Sibut)",
     "code_postal": "",
+    "population": "31 986",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -14566,9 +17478,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "République Centrafricaine",
     "langue_officielle": "Français, Sango, Lingala, Kikongo",
+    "monnaie_devise": "XAF - Franc CFA BEAC (FCFA)",
     "ville": "Paoua",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Paoua)",
     "code_postal": "",
+    "population": "47 703",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -14576,9 +17490,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "République du Congo",
     "langue_officielle": "Français, Lingala, Kikongo",
+    "monnaie_devise": "XAF - Franc CFA BEAC (FCFA)",
     "ville": "Brazzaville",
     "quartier_arrondissement": "1er Arrondissement - Makelekele",
     "code_postal": "",
+    "population": "2 145 000",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -14586,9 +17502,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "République du Congo",
     "langue_officielle": "Français, Lingala, Kikongo",
+    "monnaie_devise": "XAF - Franc CFA BEAC (FCFA)",
     "ville": "Brazzaville",
     "quartier_arrondissement": "2e Arrondissement - Bacongo",
     "code_postal": "",
+    "population": "2 145 000",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -14596,9 +17514,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "République du Congo",
     "langue_officielle": "Français, Lingala, Kikongo",
+    "monnaie_devise": "XAF - Franc CFA BEAC (FCFA)",
     "ville": "Brazzaville",
     "quartier_arrondissement": "3e Arrondissement - Poto-Poto",
     "code_postal": "",
+    "population": "2 145 000",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -14606,9 +17526,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "République du Congo",
     "langue_officielle": "Français, Lingala, Kikongo",
+    "monnaie_devise": "XAF - Franc CFA BEAC (FCFA)",
     "ville": "Brazzaville",
     "quartier_arrondissement": "4e Arrondissement - Moungali",
     "code_postal": "",
+    "population": "2 145 000",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -14616,9 +17538,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "République du Congo",
     "langue_officielle": "Français, Lingala, Kikongo",
+    "monnaie_devise": "XAF - Franc CFA BEAC (FCFA)",
     "ville": "Brazzaville",
     "quartier_arrondissement": "5e Arrondissement - Ouenzé",
     "code_postal": "",
+    "population": "2 145 000",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -14626,9 +17550,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "République du Congo",
     "langue_officielle": "Français, Lingala, Kikongo",
+    "monnaie_devise": "XAF - Franc CFA BEAC (FCFA)",
     "ville": "Pointe-Noire",
     "quartier_arrondissement": "1er Arrondissement - Lumumba",
     "code_postal": "",
+    "population": "1 032 000",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -14636,9 +17562,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "République du Congo",
     "langue_officielle": "Français, Lingala, Kikongo",
+    "monnaie_devise": "XAF - Franc CFA BEAC (FCFA)",
     "ville": "Pointe-Noire",
     "quartier_arrondissement": "2e Arrondissement - Mvoumvou",
     "code_postal": "",
+    "population": "1 032 000",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -14646,9 +17574,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "République du Congo",
     "langue_officielle": "Français, Lingala, Kikongo",
+    "monnaie_devise": "XAF - Franc CFA BEAC (FCFA)",
     "ville": "Sibiti",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Sibiti)",
     "code_postal": "",
+    "population": "33 122",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -14656,9 +17586,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "République du Congo",
     "langue_officielle": "Français, Lingala, Kikongo",
+    "monnaie_devise": "XAF - Franc CFA BEAC (FCFA)",
     "ville": "Pointe-Noire",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Pointe-Noire)",
     "code_postal": "",
+    "population": "1 032 000",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -14666,9 +17598,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "République du Congo",
     "langue_officielle": "Français, Lingala, Kikongo",
+    "monnaie_devise": "XAF - Franc CFA BEAC (FCFA)",
     "ville": "Owando",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Owando)",
     "code_postal": "",
+    "population": "35 698",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -14676,9 +17610,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Côte d'Ivoire",
     "langue_officielle": "Français",
+    "monnaie_devise": "XOF - Franc CFA BCEAO (FCFA)",
     "ville": "Abidjan",
     "quartier_arrondissement": "Le Plateau - Cité Administrative",
     "code_postal": "",
+    "population": "6 321 017",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -14686,9 +17622,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Côte d'Ivoire",
     "langue_officielle": "Français",
+    "monnaie_devise": "XOF - Franc CFA BCEAO (FCFA)",
     "ville": "Abidjan",
     "quartier_arrondissement": "Cocody - Centre / Ambassades",
     "code_postal": "",
+    "population": "6 321 017",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -14696,9 +17634,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Côte d'Ivoire",
     "langue_officielle": "Français",
+    "monnaie_devise": "XOF - Franc CFA BCEAO (FCFA)",
     "ville": "Abidjan",
     "quartier_arrondissement": "Cocody - Deux-Plateaux",
     "code_postal": "",
+    "population": "6 321 017",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -14706,9 +17646,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Côte d'Ivoire",
     "langue_officielle": "Français",
+    "monnaie_devise": "XOF - Franc CFA BCEAO (FCFA)",
     "ville": "Abidjan",
     "quartier_arrondissement": "Cocody - Riviera Golf",
     "code_postal": "",
+    "population": "6 321 017",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -14716,9 +17658,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Côte d'Ivoire",
     "langue_officielle": "Français",
+    "monnaie_devise": "XOF - Franc CFA BCEAO (FCFA)",
     "ville": "Abidjan",
     "quartier_arrondissement": "Cocody - Angré",
     "code_postal": "",
+    "population": "6 321 017",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -14726,9 +17670,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Côte d'Ivoire",
     "langue_officielle": "Français",
+    "monnaie_devise": "XOF - Franc CFA BCEAO (FCFA)",
     "ville": "Abidjan",
     "quartier_arrondissement": "Marcory - Zone 4 / Biétry",
     "code_postal": "",
+    "population": "6 321 017",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -14736,9 +17682,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Côte d'Ivoire",
     "langue_officielle": "Français",
+    "monnaie_devise": "XOF - Franc CFA BCEAO (FCFA)",
     "ville": "Abidjan",
     "quartier_arrondissement": "Treichville - Avenue 16",
     "code_postal": "",
+    "population": "6 321 017",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -14746,9 +17694,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Côte d'Ivoire",
     "langue_officielle": "Français",
+    "monnaie_devise": "XOF - Franc CFA BCEAO (FCFA)",
     "ville": "Abidjan",
     "quartier_arrondissement": "Yopougon - Selmer / Maroc",
     "code_postal": "",
+    "population": "6 321 017",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -14756,9 +17706,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Côte d'Ivoire",
     "langue_officielle": "Français",
+    "monnaie_devise": "XOF - Franc CFA BCEAO (FCFA)",
     "ville": "Abidjan",
     "quartier_arrondissement": "Koumassi - Remblais",
     "code_postal": "",
+    "population": "6 321 017",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -14766,9 +17718,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Côte d'Ivoire",
     "langue_officielle": "Français",
+    "monnaie_devise": "XOF - Franc CFA BCEAO (FCFA)",
     "ville": "Abidjan",
     "quartier_arrondissement": "Port-Bouët - Vridi",
     "code_postal": "",
+    "population": "6 321 017",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -14776,9 +17730,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Cameroun",
     "langue_officielle": "Français, Anglais",
+    "monnaie_devise": "XAF - Franc CFA BEAC (FCFA)",
     "ville": "Douala",
     "quartier_arrondissement": "Douala 1er - Akwa",
     "code_postal": "",
+    "population": "2 768 400",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -14786,9 +17742,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Cameroun",
     "langue_officielle": "Français, Anglais",
+    "monnaie_devise": "XAF - Franc CFA BEAC (FCFA)",
     "ville": "Douala",
     "quartier_arrondissement": "Douala 1er - Bonanjo",
     "code_postal": "",
+    "population": "2 768 400",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -14796,9 +17754,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Cameroun",
     "langue_officielle": "Français, Anglais",
+    "monnaie_devise": "XAF - Franc CFA BEAC (FCFA)",
     "ville": "Douala",
     "quartier_arrondissement": "Douala 1er - Bonapriso",
     "code_postal": "",
+    "population": "2 768 400",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -14806,9 +17766,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Cameroun",
     "langue_officielle": "Français, Anglais",
+    "monnaie_devise": "XAF - Franc CFA BEAC (FCFA)",
     "ville": "Douala",
     "quartier_arrondissement": "Douala 1er - Deido",
     "code_postal": "",
+    "population": "2 768 400",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -14816,9 +17778,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Cameroun",
     "langue_officielle": "Français, Anglais",
+    "monnaie_devise": "XAF - Franc CFA BEAC (FCFA)",
     "ville": "Douala",
     "quartier_arrondissement": "Douala 2e - New Bell",
     "code_postal": "",
+    "population": "2 768 400",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -14826,9 +17790,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Cameroun",
     "langue_officielle": "Français, Anglais",
+    "monnaie_devise": "XAF - Franc CFA BEAC (FCFA)",
     "ville": "Douala",
     "quartier_arrondissement": "Douala 3e - Logbaba / Bassa",
     "code_postal": "",
+    "population": "2 768 400",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -14836,9 +17802,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Cameroun",
     "langue_officielle": "Français, Anglais",
+    "monnaie_devise": "XAF - Franc CFA BEAC (FCFA)",
     "ville": "Douala",
     "quartier_arrondissement": "Douala 4e - Bonabéri",
     "code_postal": "",
+    "population": "2 768 400",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -14846,9 +17814,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Cameroun",
     "langue_officielle": "Français, Anglais",
+    "monnaie_devise": "XAF - Franc CFA BEAC (FCFA)",
     "ville": "Douala",
     "quartier_arrondissement": "Douala 5e - Makèpe / Bépanda",
     "code_postal": "",
+    "population": "2 768 400",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -14856,9 +17826,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Cameroun",
     "langue_officielle": "Français, Anglais",
+    "monnaie_devise": "XAF - Franc CFA BEAC (FCFA)",
     "ville": "Yaoundé",
     "quartier_arrondissement": "Yaoundé 1er - Bastos",
     "code_postal": "",
+    "population": "2 765 600",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -14866,9 +17838,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Cameroun",
     "langue_officielle": "Français, Anglais",
+    "monnaie_devise": "XAF - Franc CFA BEAC (FCFA)",
     "ville": "Yaoundé",
     "quartier_arrondissement": "Yaoundé 1er - Omnisports",
     "code_postal": "",
+    "population": "2 765 600",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -14876,9 +17850,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Cap-Vert",
     "langue_officielle": "Portugais",
+    "monnaie_devise": "CVE - Escudo cap-verdien (Esc)",
     "ville": "Praia",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Praia)",
     "code_postal": "",
+    "population": "137 868",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -14886,9 +17862,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Cap-Vert",
     "langue_officielle": "Portugais",
+    "monnaie_devise": "CVE - Escudo cap-verdien (Esc)",
     "ville": "Mindelo",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Mindelo)",
     "code_postal": "",
+    "population": "69 013",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -14896,9 +17874,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Cap-Vert",
     "langue_officielle": "Portugais",
+    "monnaie_devise": "CVE - Escudo cap-verdien (Esc)",
     "ville": "Assomada",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Assomada)",
     "code_postal": "",
+    "population": "21 297",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -14906,9 +17886,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Cap-Vert",
     "langue_officielle": "Portugais",
+    "monnaie_devise": "CVE - Escudo cap-verdien (Esc)",
     "ville": "Espargos",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Espargos)",
     "code_postal": "",
+    "population": "24 500",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -14916,9 +17898,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Djibouti",
     "langue_officielle": "Français, Arabe, Somali, AA",
+    "monnaie_devise": "DJF - Franc djiboutien (Fdj)",
     "ville": "Tadjoura",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Tadjoura)",
     "code_postal": "",
+    "population": "19 533",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -14926,9 +17910,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Djibouti",
     "langue_officielle": "Français, Arabe, Somali, AA",
+    "monnaie_devise": "DJF - Franc djiboutien (Fdj)",
     "ville": "Obock",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Obock)",
     "code_postal": "",
+    "population": "15 429",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -14936,9 +17922,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Djibouti",
     "langue_officielle": "Français, Arabe, Somali, AA",
+    "monnaie_devise": "DJF - Franc djiboutien (Fdj)",
     "ville": "Djibouti",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Djibouti)",
     "code_postal": "",
+    "population": "626 512",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -14946,9 +17934,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Djibouti",
     "langue_officielle": "Français, Arabe, Somali, AA",
+    "monnaie_devise": "DJF - Franc djiboutien (Fdj)",
     "ville": "Dikhil",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Dikhil)",
     "code_postal": "",
+    "population": "32 801",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -14956,9 +17946,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Djibouti",
     "langue_officielle": "Français, Arabe, Somali, AA",
+    "monnaie_devise": "DJF - Franc djiboutien (Fdj)",
     "ville": "Arta",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Arta)",
     "code_postal": "",
+    "population": "17 477",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -14966,9 +17958,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Djibouti",
     "langue_officielle": "Français, Arabe, Somali, AA",
+    "monnaie_devise": "DJF - Franc djiboutien (Fdj)",
     "ville": "Ali Sabih",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Ali Sabih)",
     "code_postal": "",
+    "population": "50 006",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -14976,9 +17970,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Djibouti",
     "langue_officielle": "Français, Arabe, Somali, AA",
+    "monnaie_devise": "DJF - Franc djiboutien (Fdj)",
     "ville": "Balbala",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Balbala)",
     "code_postal": "",
+    "population": "554 350",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -14986,9 +17982,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Égypte",
     "langue_officielle": "Arabe, Anglais, Français",
+    "monnaie_devise": "EGP - Livre égyptienne (EGP)",
     "ville": "Zefta",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Zefta)",
     "code_postal": "",
+    "population": "111 700",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -14996,9 +17994,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Égypte",
     "langue_officielle": "Arabe, Anglais, Français",
+    "monnaie_devise": "EGP - Livre égyptienne (EGP)",
     "ville": "Zaafarana",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Zaafarana)",
     "code_postal": "",
+    "population": "46 993",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -15006,9 +18006,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Égypte",
     "langue_officielle": "Arabe, Anglais, Français",
+    "monnaie_devise": "EGP - Livre égyptienne (EGP)",
     "ville": "Tūnis",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Tūnis)",
     "code_postal": "",
+    "population": "19 495",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -15016,9 +18018,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Égypte",
     "langue_officielle": "Arabe, Anglais, Français",
+    "monnaie_devise": "EGP - Livre égyptienne (EGP)",
     "ville": "Ţūkh",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Ţūkh)",
     "code_postal": "",
+    "population": "52 593",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -15026,9 +18030,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Égypte",
     "langue_officielle": "Arabe, Anglais, Français",
+    "monnaie_devise": "EGP - Livre égyptienne (EGP)",
     "ville": "Timayy al Imdīd",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Timayy al Imdīd)",
     "code_postal": "",
+    "population": "20 389",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -15036,9 +18042,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Égypte",
     "langue_officielle": "Arabe, Anglais, Français",
+    "monnaie_devise": "EGP - Livre égyptienne (EGP)",
     "ville": "Ţimā",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Ţimā)",
     "code_postal": "",
+    "population": "101 130",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -15046,9 +18054,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Égypte",
     "langue_officielle": "Arabe, Anglais, Français",
+    "monnaie_devise": "EGP - Livre égyptienne (EGP)",
     "ville": "Ţūd",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Ţūd)",
     "code_postal": "",
+    "population": "30 780",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -15056,9 +18066,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Égypte",
     "langue_officielle": "Arabe, Anglais, Français",
+    "monnaie_devise": "EGP - Livre égyptienne (EGP)",
     "ville": "Tanta",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Tanta)",
     "code_postal": "",
+    "population": "576 648",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -15066,9 +18078,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Égypte",
     "langue_officielle": "Arabe, Anglais, Français",
+    "monnaie_devise": "EGP - Livre égyptienne (EGP)",
     "ville": "Ţāmiyah",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Ţāmiyah)",
     "code_postal": "",
+    "population": "73 070",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -15076,9 +18090,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Égypte",
     "langue_officielle": "Arabe, Anglais, Français",
+    "monnaie_devise": "EGP - Livre égyptienne (EGP)",
     "ville": "Ţalkhā",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Ţalkhā)",
     "code_postal": "",
+    "population": "112 851",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -15086,9 +18102,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Sahara occidental",
     "langue_officielle": "Arabe, MEY",
+    "monnaie_devise": "MAD - Dirham marocain (MAD)",
     "ville": "El Marsa",
     "quartier_arrondissement": "Centre Urbain / Agglomération (El Marsa)",
     "code_postal": "",
+    "population": "28 848",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -15096,9 +18114,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Sahara occidental",
     "langue_officielle": "Arabe, MEY",
+    "monnaie_devise": "MAD - Dirham marocain (MAD)",
     "ville": "Laayoune",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Laayoune)",
     "code_postal": "",
+    "population": "196 331",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -15106,9 +18126,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Sahara occidental",
     "langue_officielle": "Arabe, MEY",
+    "monnaie_devise": "MAD - Dirham marocain (MAD)",
     "ville": "Boujdour",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Boujdour)",
     "code_postal": "",
+    "population": "42 651",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -15116,9 +18138,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Sahara occidental",
     "langue_officielle": "Arabe, MEY",
+    "monnaie_devise": "MAD - Dirham marocain (MAD)",
     "ville": "Dakhla",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Dakhla)",
     "code_postal": "",
+    "population": "106 277",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -15126,9 +18150,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Érythrée",
     "langue_officielle": "AA, Arabe, TIG, KUN",
+    "monnaie_devise": "ERN - Nakfa",
     "ville": "Massawa",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Massawa)",
     "code_postal": "",
+    "population": "23 100",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -15136,9 +18162,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Érythrée",
     "langue_officielle": "AA, Arabe, TIG, KUN",
+    "monnaie_devise": "ERN - Nakfa",
     "ville": "Keren",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Keren)",
     "code_postal": "",
+    "population": "74 800",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -15146,9 +18174,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Érythrée",
     "langue_officielle": "AA, Arabe, TIG, KUN",
+    "monnaie_devise": "ERN - Nakfa",
     "ville": "Himora",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Himora)",
     "code_postal": "",
+    "population": "46 100",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -15156,9 +18186,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Érythrée",
     "langue_officielle": "AA, Arabe, TIG, KUN",
+    "monnaie_devise": "ERN - Nakfa",
     "ville": "Barentu",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Barentu)",
     "code_postal": "",
+    "population": "15 891",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -15166,9 +18198,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Érythrée",
     "langue_officielle": "AA, Arabe, TIG, KUN",
+    "monnaie_devise": "ERN - Nakfa",
     "ville": "Asmara",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Asmara)",
     "code_postal": "",
+    "population": "563 930",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -15176,9 +18210,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Érythrée",
     "langue_officielle": "AA, Arabe, TIG, KUN",
+    "monnaie_devise": "ERN - Nakfa",
     "ville": "Assab",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Assab)",
     "code_postal": "",
+    "population": "21 300",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -15186,9 +18222,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Érythrée",
     "langue_officielle": "AA, Arabe, TIG, KUN",
+    "monnaie_devise": "ERN - Nakfa",
     "ville": "Af’abet",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Af’abet)",
     "code_postal": "",
+    "population": "35 673",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -15196,9 +18234,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Érythrée",
     "langue_officielle": "AA, Arabe, TIG, KUN",
+    "monnaie_devise": "ERN - Nakfa",
     "ville": "Mendefera",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Mendefera)",
     "code_postal": "",
+    "population": "17 781",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -15206,9 +18246,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Éthiopie",
     "langue_officielle": "Amharique, Anglais, OM, TI",
+    "monnaie_devise": "ETB - Birr éthiopien (Br)",
     "ville": "Waal",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Waal)",
     "code_postal": "",
+    "population": "24 000",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -15216,9 +18258,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Éthiopie",
     "langue_officielle": "Amharique, Anglais, OM, TI",
+    "monnaie_devise": "ETB - Birr éthiopien (Br)",
     "ville": "Fadhigaradle",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Fadhigaradle)",
     "code_postal": "",
+    "population": "34 000",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -15226,9 +18270,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Éthiopie",
     "langue_officielle": "Amharique, Anglais, OM, TI",
+    "monnaie_devise": "ETB - Birr éthiopien (Br)",
     "ville": "Ziway",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Ziway)",
     "code_postal": "",
+    "population": "90 500",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -15236,9 +18282,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Éthiopie",
     "langue_officielle": "Amharique, Anglais, OM, TI",
+    "monnaie_devise": "ETB - Birr éthiopien (Br)",
     "ville": "Yirga Ch’efē",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Yirga Ch’efē)",
     "code_postal": "",
+    "population": "40 600",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -15246,9 +18294,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Éthiopie",
     "langue_officielle": "Amharique, Anglais, OM, TI",
+    "monnaie_devise": "ETB - Birr éthiopien (Br)",
     "ville": "Yirga ‘Alem",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Yirga ‘Alem)",
     "code_postal": "",
+    "population": "81 600",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -15256,9 +18306,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Éthiopie",
     "langue_officielle": "Amharique, Anglais, OM, TI",
+    "monnaie_devise": "ETB - Birr éthiopien (Br)",
     "ville": "Yabēlo",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Yabēlo)",
     "code_postal": "",
+    "population": "36 300",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -15266,9 +18318,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Éthiopie",
     "langue_officielle": "Amharique, Anglais, OM, TI",
+    "monnaie_devise": "ETB - Birr éthiopien (Br)",
     "ville": "Wik’ro",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Wik’ro)",
     "code_postal": "",
+    "population": "64 000",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -15276,9 +18330,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Éthiopie",
     "langue_officielle": "Amharique, Anglais, OM, TI",
+    "monnaie_devise": "ETB - Birr éthiopien (Br)",
     "ville": "Werota",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Werota)",
     "code_postal": "",
+    "population": "47 800",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -15286,9 +18342,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Éthiopie",
     "langue_officielle": "Amharique, Anglais, OM, TI",
+    "monnaie_devise": "ETB - Birr éthiopien (Br)",
     "ville": "Were Īlu",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Were Īlu)",
     "code_postal": "",
+    "population": "20 600",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -15296,9 +18354,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Éthiopie",
     "langue_officielle": "Amharique, Anglais, OM, TI",
+    "monnaie_devise": "ETB - Birr éthiopien (Br)",
     "ville": "Warder",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Warder)",
     "code_postal": "",
+    "population": "450 400",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -15306,9 +18366,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Gabon",
     "langue_officielle": "Français",
+    "monnaie_devise": "XAF - Franc CFA BEAC (FCFA)",
     "ville": "Libreville",
     "quartier_arrondissement": "1er Arrondissement - Batterie 4",
     "code_postal": "",
+    "population": "870 000",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -15316,9 +18378,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Gabon",
     "langue_officielle": "Français",
+    "monnaie_devise": "XAF - Franc CFA BEAC (FCFA)",
     "ville": "Libreville",
     "quartier_arrondissement": "1er Arrondissement - Haut de Gué-Gué",
     "code_postal": "",
+    "population": "870 000",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -15326,9 +18390,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Gabon",
     "langue_officielle": "Français",
+    "monnaie_devise": "XAF - Franc CFA BEAC (FCFA)",
     "ville": "Libreville",
     "quartier_arrondissement": "2e Arrondissement - Mont-Bouët / Camp de Police",
     "code_postal": "",
+    "population": "870 000",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -15336,9 +18402,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Gabon",
     "langue_officielle": "Français",
+    "monnaie_devise": "XAF - Franc CFA BEAC (FCFA)",
     "ville": "Libreville",
     "quartier_arrondissement": "3e Arrondissement - Louis / Nombakélé",
     "code_postal": "",
+    "population": "870 000",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -15346,9 +18414,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Gabon",
     "langue_officielle": "Français",
+    "monnaie_devise": "XAF - Franc CFA BEAC (FCFA)",
     "ville": "Libreville",
     "quartier_arrondissement": "4e Arrondissement - Baraka / Oloumi",
     "code_postal": "",
+    "population": "870 000",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -15356,9 +18426,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Gabon",
     "langue_officielle": "Français",
+    "monnaie_devise": "XAF - Franc CFA BEAC (FCFA)",
     "ville": "Libreville",
     "quartier_arrondissement": "5e Arrondissement - Glass / Lalala",
     "code_postal": "",
+    "population": "870 000",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -15366,9 +18438,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Gabon",
     "langue_officielle": "Français",
+    "monnaie_devise": "XAF - Franc CFA BEAC (FCFA)",
     "ville": "Port-Gentil",
     "quartier_arrondissement": "1er Arrondissement - Grand Village / Centre",
     "code_postal": "",
+    "population": "164 018",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -15376,9 +18450,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Gabon",
     "langue_officielle": "Français",
+    "monnaie_devise": "XAF - Franc CFA BEAC (FCFA)",
     "ville": "Franceville",
     "quartier_arrondissement": "Centre Urbain - Potos",
     "code_postal": "",
+    "population": "132 895",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -15386,9 +18462,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Gabon",
     "langue_officielle": "Français",
+    "monnaie_devise": "XAF - Franc CFA BEAC (FCFA)",
     "ville": "Tchibanga",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Tchibanga)",
     "code_postal": "",
+    "population": "36 108",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -15396,9 +18474,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Gabon",
     "langue_officielle": "Français",
+    "monnaie_devise": "XAF - Franc CFA BEAC (FCFA)",
     "ville": "Port-Gentil",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Port-Gentil)",
     "code_postal": "",
+    "population": "164 018",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -15406,9 +18486,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Ghana",
     "langue_officielle": "Anglais, AK, EE, TW",
+    "monnaie_devise": "GHS - Cedi ghanéen (GH₵)",
     "ville": "Yendi",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Yendi)",
     "code_postal": "",
+    "population": "64 676",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -15416,9 +18498,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Ghana",
     "langue_officielle": "Anglais, AK, EE, TW",
+    "monnaie_devise": "GHS - Cedi ghanéen (GH₵)",
     "ville": "Yegyi",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Yegyi)",
     "code_postal": "",
+    "population": "30 311",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -15426,9 +18510,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Ghana",
     "langue_officielle": "Anglais, AK, EE, TW",
+    "monnaie_devise": "GHS - Cedi ghanéen (GH₵)",
     "ville": "Winneba",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Winneba)",
     "code_postal": "",
+    "population": "71 288",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -15436,9 +18522,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Ghana",
     "langue_officielle": "Anglais, AK, EE, TW",
+    "monnaie_devise": "GHS - Cedi ghanéen (GH₵)",
     "ville": "Wankyi",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Wankyi)",
     "code_postal": "",
+    "population": "45 877",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -15446,9 +18534,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Ghana",
     "langue_officielle": "Anglais, AK, EE, TW",
+    "monnaie_devise": "GHS - Cedi ghanéen (GH₵)",
     "ville": "Wa",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Wa)",
     "code_postal": "",
+    "population": "78 107",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -15456,9 +18546,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Ghana",
     "langue_officielle": "Anglais, AK, EE, TW",
+    "monnaie_devise": "GHS - Cedi ghanéen (GH₵)",
     "ville": "Twifu Praso",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Twifu Praso)",
     "code_postal": "",
+    "population": "100 851",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -15466,9 +18558,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Ghana",
     "langue_officielle": "Anglais, AK, EE, TW",
+    "monnaie_devise": "GHS - Cedi ghanéen (GH₵)",
     "ville": "Teshi Old Town",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Teshi Old Town)",
     "code_postal": "",
+    "population": "144 013",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -15476,9 +18570,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Ghana",
     "langue_officielle": "Anglais, AK, EE, TW",
+    "monnaie_devise": "GHS - Cedi ghanéen (GH₵)",
     "ville": "Tepa",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Tepa)",
     "code_postal": "",
+    "population": "18 046",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -15486,9 +18582,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Ghana",
     "langue_officielle": "Anglais, AK, EE, TW",
+    "monnaie_devise": "GHS - Cedi ghanéen (GH₵)",
     "ville": "Tema",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Tema)",
     "code_postal": "",
+    "population": "155 782",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -15496,9 +18594,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Ghana",
     "langue_officielle": "Anglais, AK, EE, TW",
+    "monnaie_devise": "GHS - Cedi ghanéen (GH₵)",
     "ville": "Techiman",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Techiman)",
     "code_postal": "",
+    "population": "84 074",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -15506,9 +18606,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Gambie",
     "langue_officielle": "Anglais, MNK, WOF, Wolof",
+    "monnaie_devise": "GMD - Dalasi",
     "ville": "Welingara",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Welingara)",
     "code_postal": "",
+    "population": "27 856",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -15516,9 +18618,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Gambie",
     "langue_officielle": "Anglais, MNK, WOF, Wolof",
+    "monnaie_devise": "GMD - Dalasi",
     "ville": "Tanji",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Tanji)",
     "code_postal": "",
+    "population": "17 441",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -15526,9 +18630,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Gambie",
     "langue_officielle": "Anglais, MNK, WOF, Wolof",
+    "monnaie_devise": "GMD - Dalasi",
     "ville": "Sukuta",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Sukuta)",
     "code_postal": "",
+    "population": "56 472",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -15536,9 +18642,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Gambie",
     "langue_officielle": "Anglais, MNK, WOF, Wolof",
+    "monnaie_devise": "GMD - Dalasi",
     "ville": "Soma",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Soma)",
     "code_postal": "",
+    "population": "15 210",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -15546,9 +18654,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Gambie",
     "langue_officielle": "Anglais, MNK, WOF, Wolof",
+    "monnaie_devise": "GMD - Dalasi",
     "ville": "Serekunda",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Serekunda)",
     "code_postal": "",
+    "population": "340 000",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -15556,9 +18666,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Gambie",
     "langue_officielle": "Anglais, MNK, WOF, Wolof",
+    "monnaie_devise": "GMD - Dalasi",
     "ville": "Sanyang",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Sanyang)",
     "code_postal": "",
+    "population": "15 090",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -15566,9 +18678,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Gambie",
     "langue_officielle": "Anglais, MNK, WOF, Wolof",
+    "monnaie_devise": "GMD - Dalasi",
     "ville": "Sanchaba",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Sanchaba)",
     "code_postal": "",
+    "population": "25 091",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -15576,9 +18690,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Gambie",
     "langue_officielle": "Anglais, MNK, WOF, Wolof",
+    "monnaie_devise": "GMD - Dalasi",
     "ville": "Nema Kunku",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Nema Kunku)",
     "code_postal": "",
+    "population": "34 390",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -15586,9 +18702,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Gambie",
     "langue_officielle": "Anglais, MNK, WOF, Wolof",
+    "monnaie_devise": "GMD - Dalasi",
     "ville": "Manjai Kunda",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Manjai Kunda)",
     "code_postal": "",
+    "population": "22 327",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -15596,9 +18714,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Gambie",
     "langue_officielle": "Anglais, MNK, WOF, Wolof",
+    "monnaie_devise": "GMD - Dalasi",
     "ville": "Latri Sabiji",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Latri Sabiji)",
     "code_postal": "",
+    "population": "18 747",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -15606,9 +18726,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Guinée",
     "langue_officielle": "Français",
+    "monnaie_devise": "GNF - Franc guinéen (GNF)",
     "ville": "Yende Millimou",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Yende Millimou)",
     "code_postal": "",
+    "population": "20 372",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -15616,9 +18738,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Guinée",
     "langue_officielle": "Français",
+    "monnaie_devise": "GNF - Franc guinéen (GNF)",
     "ville": "Wendou Borou",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Wendou Borou)",
     "code_postal": "",
+    "population": "25 150",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -15626,9 +18750,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Guinée",
     "langue_officielle": "Français",
+    "monnaie_devise": "GNF - Franc guinéen (GNF)",
     "ville": "Tougué",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Tougué)",
     "code_postal": "",
+    "population": "25 531",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -15636,9 +18762,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Guinée",
     "langue_officielle": "Français",
+    "monnaie_devise": "GNF - Franc guinéen (GNF)",
     "ville": "Télimélé",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Télimélé)",
     "code_postal": "",
+    "population": "30 311",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -15646,9 +18774,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Guinée",
     "langue_officielle": "Français",
+    "monnaie_devise": "GNF - Franc guinéen (GNF)",
     "ville": "Siguiri",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Siguiri)",
     "code_postal": "",
+    "population": "148 018",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -15656,9 +18786,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Guinée",
     "langue_officielle": "Français",
+    "monnaie_devise": "GNF - Franc guinéen (GNF)",
     "ville": "Sangarédi",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Sangarédi)",
     "code_postal": "",
+    "population": "54 824",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -15666,9 +18798,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Guinée",
     "langue_officielle": "Français",
+    "monnaie_devise": "GNF - Franc guinéen (GNF)",
     "ville": "Kamsar",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Kamsar)",
     "code_postal": "",
+    "population": "148 000",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -15676,9 +18810,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Guinée",
     "langue_officielle": "Français",
+    "monnaie_devise": "GNF - Franc guinéen (GNF)",
     "ville": "Pita",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Pita)",
     "code_postal": "",
+    "population": "25 355",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -15686,9 +18822,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Guinée",
     "langue_officielle": "Français",
+    "monnaie_devise": "GNF - Franc guinéen (GNF)",
     "ville": "Nzérékoré",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Nzérékoré)",
     "code_postal": "",
+    "population": "226 426",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -15696,9 +18834,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Guinée",
     "langue_officielle": "Français",
+    "monnaie_devise": "GNF - Franc guinéen (GNF)",
     "ville": "Moussadou",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Moussadou)",
     "code_postal": "",
+    "population": "16 725",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -15706,9 +18846,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Guinée équatoriale",
     "langue_officielle": "Espagnol, Français, Portugais",
+    "monnaie_devise": "XAF - Franc CFA BEAC (FCFA)",
     "ville": "Ebebiyin",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Ebebiyin)",
     "code_postal": "",
+    "population": "24 831",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -15716,9 +18858,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Guinée équatoriale",
     "langue_officielle": "Espagnol, Français, Portugais",
+    "monnaie_devise": "XAF - Franc CFA BEAC (FCFA)",
     "ville": "Malabo",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Malabo)",
     "code_postal": "",
+    "population": "155 963",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -15726,9 +18870,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Guinée équatoriale",
     "langue_officielle": "Espagnol, Français, Portugais",
+    "monnaie_devise": "XAF - Franc CFA BEAC (FCFA)",
     "ville": "Bata",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Bata)",
     "code_postal": "",
+    "population": "173 046",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -15736,9 +18882,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Guinée équatoriale",
     "langue_officielle": "Espagnol, Français, Portugais",
+    "monnaie_devise": "XAF - Franc CFA BEAC (FCFA)",
     "ville": "Añisoc",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Añisoc)",
     "code_postal": "",
+    "population": "16 626",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -15746,9 +18894,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Guinée équatoriale",
     "langue_officielle": "Espagnol, Français, Portugais",
+    "monnaie_devise": "XAF - Franc CFA BEAC (FCFA)",
     "ville": "Aconibe",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Aconibe)",
     "code_postal": "",
+    "population": "16 543",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -15756,9 +18906,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Guinée équatoriale",
     "langue_officielle": "Espagnol, Français, Portugais",
+    "monnaie_devise": "XAF - Franc CFA BEAC (FCFA)",
     "ville": "Ciudad de la Paz",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Ciudad de la Paz)",
     "code_postal": "",
+    "population": "2 000",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -15766,9 +18918,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Guinée-Bissau",
     "langue_officielle": "Portugais, POV",
+    "monnaie_devise": "XOF - Franc CFA BCEAO (FCFA)",
     "ville": "Xitole",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Xitole)",
     "code_postal": "",
+    "population": "19 424",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -15776,9 +18930,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Guinée-Bissau",
     "langue_officielle": "Portugais, POV",
+    "monnaie_devise": "XOF - Franc CFA BCEAO (FCFA)",
     "ville": "Reino de Bandim",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Reino de Bandim)",
     "code_postal": "",
+    "population": "44 718",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -15786,9 +18942,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Guinée-Bissau",
     "langue_officielle": "Portugais, POV",
+    "monnaie_devise": "XOF - Franc CFA BCEAO (FCFA)",
     "ville": "Reino de Antula",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Reino de Antula)",
     "code_postal": "",
+    "population": "30 778",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -15796,9 +18954,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Guinée-Bissau",
     "langue_officielle": "Portugais, POV",
+    "monnaie_devise": "XOF - Franc CFA BCEAO (FCFA)",
     "ville": "Quelele",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Quelele)",
     "code_postal": "",
+    "population": "28 898",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -15806,9 +18966,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Guinée-Bissau",
     "langue_officielle": "Portugais, POV",
+    "monnaie_devise": "XOF - Franc CFA BCEAO (FCFA)",
     "ville": "Plaque",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Plaque)",
     "code_postal": "",
+    "population": "27 633",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -15816,9 +18978,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Guinée-Bissau",
     "langue_officielle": "Portugais, POV",
+    "monnaie_devise": "XOF - Franc CFA BCEAO (FCFA)",
     "ville": "Gabú",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Gabú)",
     "code_postal": "",
+    "population": "49 371",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -15826,9 +18990,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Guinée-Bissau",
     "langue_officielle": "Portugais, POV",
+    "monnaie_devise": "XOF - Franc CFA BCEAO (FCFA)",
     "ville": "Contumo",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Contumo)",
     "code_postal": "",
+    "population": "45 482",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -15836,9 +19002,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Guinée-Bissau",
     "langue_officielle": "Portugais, POV",
+    "monnaie_devise": "XOF - Franc CFA BCEAO (FCFA)",
     "ville": "Bissau",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Bissau)",
     "code_postal": "",
+    "population": "439 704",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -15846,9 +19014,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Guinée-Bissau",
     "langue_officielle": "Portugais, POV",
+    "monnaie_devise": "XOF - Franc CFA BCEAO (FCFA)",
     "ville": "Bafatá",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Bafatá)",
     "code_postal": "",
+    "population": "33 502",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -15856,9 +19026,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Guinée-Bissau",
     "langue_officielle": "Portugais, POV",
+    "monnaie_devise": "XOF - Franc CFA BCEAO (FCFA)",
     "ville": "Bairro Militar",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Bairro Militar)",
     "code_postal": "",
+    "population": "65 274",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -15866,9 +19038,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Comores",
     "langue_officielle": "Arabe, Français",
+    "monnaie_devise": "KMF - Franc comorien (CF)",
     "ville": "Moutsamoudou",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Moutsamoudou)",
     "code_postal": "",
+    "population": "26 313",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -15876,9 +19050,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Comores",
     "langue_officielle": "Arabe, Français",
+    "monnaie_devise": "KMF - Franc comorien (CF)",
     "ville": "Moroni",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Moroni)",
     "code_postal": "",
+    "population": "74 749",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -15886,9 +19062,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Comores",
     "langue_officielle": "Arabe, Français",
+    "monnaie_devise": "KMF - Franc comorien (CF)",
     "ville": "Fomboni",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Fomboni)",
     "code_postal": "",
+    "population": "17 291",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -15896,9 +19074,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Libéria",
     "langue_officielle": "Anglais",
+    "monnaie_devise": "LRD - Dollar",
     "ville": "Zwedru",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Zwedru)",
     "code_postal": "",
+    "population": "38 269",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -15906,9 +19086,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Libéria",
     "langue_officielle": "Anglais",
+    "monnaie_devise": "LRD - Dollar",
     "ville": "New Yekepa",
     "quartier_arrondissement": "Centre Urbain / Agglomération (New Yekepa)",
     "code_postal": "",
+    "population": "24 695",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -15916,9 +19098,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Libéria",
     "langue_officielle": "Anglais",
+    "monnaie_devise": "LRD - Dollar",
     "ville": "Voinjama",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Voinjama)",
     "code_postal": "",
+    "population": "23 051",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -15926,9 +19110,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Libéria",
     "langue_officielle": "Anglais",
+    "monnaie_devise": "LRD - Dollar",
     "ville": "Tubmanburg",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Tubmanburg)",
     "code_postal": "",
+    "population": "22 005",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -15936,9 +19122,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Libéria",
     "langue_officielle": "Anglais",
+    "monnaie_devise": "LRD - Dollar",
     "ville": "Sanniquellie",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Sanniquellie)",
     "code_postal": "",
+    "population": "17 895",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -15946,9 +19134,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Libéria",
     "langue_officielle": "Anglais",
+    "monnaie_devise": "LRD - Dollar",
     "ville": "Saclepea",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Saclepea)",
     "code_postal": "",
+    "population": "20 818",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -15956,9 +19146,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Libéria",
     "langue_officielle": "Anglais",
+    "monnaie_devise": "LRD - Dollar",
     "ville": "Pleebo City",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Pleebo City)",
     "code_postal": "",
+    "population": "35 423",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -15966,9 +19158,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Libéria",
     "langue_officielle": "Anglais",
+    "monnaie_devise": "LRD - Dollar",
     "ville": "Monrovia",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Monrovia)",
     "code_postal": "",
+    "population": "1 542 549",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -15976,9 +19170,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Libéria",
     "langue_officielle": "Anglais",
+    "monnaie_devise": "LRD - Dollar",
     "ville": "Kakata",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Kakata)",
     "code_postal": "",
+    "population": "52 247",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -15986,9 +19182,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Libéria",
     "langue_officielle": "Anglais",
+    "monnaie_devise": "LRD - Dollar",
     "ville": "Harper",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Harper)",
     "code_postal": "",
+    "population": "35 503",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -15996,9 +19194,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Lesotho",
     "langue_officielle": "Anglais, Sotho, Zoulou, Xhosa",
+    "monnaie_devise": "LSL - Loti lesothan (L)",
     "ville": "Teyateyaneng",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Teyateyaneng)",
     "code_postal": "",
+    "population": "27 272",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -16006,9 +19206,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Lesotho",
     "langue_officielle": "Anglais, Sotho, Zoulou, Xhosa",
+    "monnaie_devise": "LSL - Loti lesothan (L)",
     "ville": "Quthing",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Quthing)",
     "code_postal": "",
+    "population": "33 910",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -16016,9 +19218,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Lesotho",
     "langue_officielle": "Anglais, Sotho, Zoulou, Xhosa",
+    "monnaie_devise": "LSL - Loti lesothan (L)",
     "ville": "Qacha’s Nek",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Qacha’s Nek)",
     "code_postal": "",
+    "population": "25 573",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -16026,9 +19230,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Lesotho",
     "langue_officielle": "Anglais, Sotho, Zoulou, Xhosa",
+    "monnaie_devise": "LSL - Loti lesothan (L)",
     "ville": "Mohale's Hoek",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Mohale's Hoek)",
     "code_postal": "",
+    "population": "46 593",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -16036,9 +19242,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Lesotho",
     "langue_officielle": "Anglais, Sotho, Zoulou, Xhosa",
+    "monnaie_devise": "LSL - Loti lesothan (L)",
     "ville": "Maseru",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Maseru)",
     "code_postal": "",
+    "population": "359 753",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -16046,9 +19254,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Lesotho",
     "langue_officielle": "Anglais, Sotho, Zoulou, Xhosa",
+    "monnaie_devise": "LSL - Loti lesothan (L)",
     "ville": "Maputsoe",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Maputsoe)",
     "code_postal": "",
+    "population": "61 916",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -16056,9 +19266,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Lesotho",
     "langue_officielle": "Anglais, Sotho, Zoulou, Xhosa",
+    "monnaie_devise": "LSL - Loti lesothan (L)",
     "ville": "Mafeteng",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Mafeteng)",
     "code_postal": "",
+    "population": "45 287",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -16066,9 +19278,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Lesotho",
     "langue_officielle": "Anglais, Sotho, Zoulou, Xhosa",
+    "monnaie_devise": "LSL - Loti lesothan (L)",
     "ville": "Hlotse",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Hlotse)",
     "code_postal": "",
+    "population": "43 967",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -16076,9 +19290,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Lesotho",
     "langue_officielle": "Anglais, Sotho, Zoulou, Xhosa",
+    "monnaie_devise": "LSL - Loti lesothan (L)",
     "ville": "Butha-Buthe",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Butha-Buthe)",
     "code_postal": "",
+    "population": "40 599",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -16086,9 +19302,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Lesotho",
     "langue_officielle": "Anglais, Sotho, Zoulou, Xhosa",
+    "monnaie_devise": "LSL - Loti lesothan (L)",
     "ville": "Thaba-Tseka",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Thaba-Tseka)",
     "code_postal": "",
+    "population": "16 765",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -16096,9 +19314,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Libye",
     "langue_officielle": "Arabe, Italien, Anglais",
+    "monnaie_devise": "LYD - Dinar",
     "ville": "Tobruk",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Tobruk)",
     "code_postal": "",
+    "population": "141 499",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -16106,9 +19326,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Libye",
     "langue_officielle": "Arabe, Italien, Anglais",
+    "monnaie_devise": "LYD - Dinar",
     "ville": "Qaryat Sulūq",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Qaryat Sulūq)",
     "code_postal": "",
+    "population": "19 918",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -16116,9 +19338,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Libye",
     "langue_officielle": "Arabe, Italien, Anglais",
+    "monnaie_devise": "LYD - Dinar",
     "ville": "Darnah",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Darnah)",
     "code_postal": "",
+    "population": "102 581",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -16126,9 +19350,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Libye",
     "langue_officielle": "Arabe, Italien, Anglais",
+    "monnaie_devise": "LYD - Dinar",
     "ville": "Benghazi",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Benghazi)",
     "code_postal": "",
+    "population": "757 490",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -16136,9 +19362,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Libye",
     "langue_officielle": "Arabe, Italien, Anglais",
+    "monnaie_devise": "LYD - Dinar",
     "ville": "Az Zuwaytīnah",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Az Zuwaytīnah)",
     "code_postal": "",
+    "population": "21 015",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -16146,9 +19374,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Libye",
     "langue_officielle": "Arabe, Italien, Anglais",
+    "monnaie_devise": "LYD - Dinar",
     "ville": "At Tāj",
     "quartier_arrondissement": "Centre Urbain / Agglomération (At Tāj)",
     "code_postal": "",
+    "population": "46 050",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -16156,9 +19386,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Libye",
     "langue_officielle": "Arabe, Italien, Anglais",
+    "monnaie_devise": "LYD - Dinar",
     "ville": "Al Qubbah",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Al Qubbah)",
     "code_postal": "",
+    "population": "24 631",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -16166,9 +19398,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Libye",
     "langue_officielle": "Arabe, Italien, Anglais",
+    "monnaie_devise": "LYD - Dinar",
     "ville": "Al Marj",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Al Marj)",
     "code_postal": "",
+    "population": "85 315",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -16176,9 +19410,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Libye",
     "langue_officielle": "Arabe, Italien, Anglais",
+    "monnaie_devise": "LYD - Dinar",
     "ville": "Al Jawf",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Al Jawf)",
     "code_postal": "",
+    "population": "42 079",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -16186,9 +19422,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Libye",
     "langue_officielle": "Arabe, Italien, Anglais",
+    "monnaie_devise": "LYD - Dinar",
     "ville": "Al Bayḑā’",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Al Bayḑā’)",
     "code_postal": "",
+    "population": "129 439",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -16196,9 +19434,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Madagascar",
     "langue_officielle": "Français, Malgache",
+    "monnaie_devise": "MGA - Ariary malgache (Ar)",
     "ville": "Toamasina",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Toamasina)",
     "code_postal": "",
+    "population": "345 107",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -16206,9 +19446,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Madagascar",
     "langue_officielle": "Français, Malgache",
+    "monnaie_devise": "MGA - Ariary malgache (Ar)",
     "ville": "Vondrozo",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Vondrozo)",
     "code_postal": "",
+    "population": "19 949",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -16216,9 +19458,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Madagascar",
     "langue_officielle": "Français, Malgache",
+    "monnaie_devise": "MGA - Ariary malgache (Ar)",
     "ville": "Vohipeno",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Vohipeno)",
     "code_postal": "",
+    "population": "15 622",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -16226,9 +19470,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Madagascar",
     "langue_officielle": "Français, Malgache",
+    "monnaie_devise": "MGA - Ariary malgache (Ar)",
     "ville": "Vohipaho",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Vohipaho)",
     "code_postal": "",
+    "population": "27 000",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -16236,9 +19482,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Madagascar",
     "langue_officielle": "Français, Malgache",
+    "monnaie_devise": "MGA - Ariary malgache (Ar)",
     "ville": "Vohibinany",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Vohibinany)",
     "code_postal": "",
+    "population": "25 311",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -16246,9 +19494,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Madagascar",
     "langue_officielle": "Français, Malgache",
+    "monnaie_devise": "MGA - Ariary malgache (Ar)",
     "ville": "Vavatenina",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Vavatenina)",
     "code_postal": "",
+    "population": "37 861",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -16256,9 +19506,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Madagascar",
     "langue_officielle": "Français, Malgache",
+    "monnaie_devise": "MGA - Ariary malgache (Ar)",
     "ville": "Vatomandry",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Vatomandry)",
     "code_postal": "",
+    "population": "16 771",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -16266,9 +19518,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Madagascar",
     "langue_officielle": "Français, Malgache",
+    "monnaie_devise": "MGA - Ariary malgache (Ar)",
     "ville": "Vangaindrano",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Vangaindrano)",
     "code_postal": "",
+    "population": "40 813",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -16276,9 +19530,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Madagascar",
     "langue_officielle": "Français, Malgache",
+    "monnaie_devise": "MGA - Ariary malgache (Ar)",
     "ville": "Tsiroanomandidy",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Tsiroanomandidy)",
     "code_postal": "",
+    "population": "47 087",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -16286,9 +19542,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Madagascar",
     "langue_officielle": "Français, Malgache",
+    "monnaie_devise": "MGA - Ariary malgache (Ar)",
     "ville": "Tsiombe",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Tsiombe)",
     "code_postal": "",
+    "population": "29 825",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -16296,9 +19554,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Mali",
     "langue_officielle": "Français, Bambara",
+    "monnaie_devise": "XOF - Franc CFA BCEAO (FCFA)",
     "ville": "Zégoua",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Zégoua)",
     "code_postal": "",
+    "population": "31 593",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -16306,9 +19566,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Mali",
     "langue_officielle": "Français, Bambara",
+    "monnaie_devise": "XOF - Franc CFA BCEAO (FCFA)",
     "ville": "Yorosso",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Yorosso)",
     "code_postal": "",
+    "population": "17 447",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -16316,9 +19578,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Mali",
     "langue_officielle": "Français, Bambara",
+    "monnaie_devise": "XOF - Franc CFA BCEAO (FCFA)",
     "ville": "Yanfolila",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Yanfolila)",
     "code_postal": "",
+    "population": "24 399",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -16326,9 +19590,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Mali",
     "langue_officielle": "Français, Bambara",
+    "monnaie_devise": "XOF - Franc CFA BCEAO (FCFA)",
     "ville": "Toubakoura",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Toubakoura)",
     "code_postal": "",
+    "population": "22 059",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -16336,9 +19602,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Mali",
     "langue_officielle": "Français, Bambara",
+    "monnaie_devise": "XOF - Franc CFA BCEAO (FCFA)",
     "ville": "Timbuktu",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Timbuktu)",
     "code_postal": "",
+    "population": "84 208",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -16346,9 +19614,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Mali",
     "langue_officielle": "Français, Bambara",
+    "monnaie_devise": "XOF - Franc CFA BCEAO (FCFA)",
     "ville": "Siribala Coro",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Siribala Coro)",
     "code_postal": "",
+    "population": "24 301",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -16356,9 +19626,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Mali",
     "langue_officielle": "Français, Bambara",
+    "monnaie_devise": "XOF - Franc CFA BCEAO (FCFA)",
     "ville": "Sirakoro Méguétana",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Sirakoro Méguétana)",
     "code_postal": "",
+    "population": "22 499",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -16366,9 +19638,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Mali",
     "langue_officielle": "Français, Bambara",
+    "monnaie_devise": "XOF - Franc CFA BCEAO (FCFA)",
     "ville": "Sikasso",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Sikasso)",
     "code_postal": "",
+    "population": "349 324",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -16376,9 +19650,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Mali",
     "langue_officielle": "Français, Bambara",
+    "monnaie_devise": "XOF - Franc CFA BCEAO (FCFA)",
     "ville": "Sibi",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Sibi)",
     "code_postal": "",
+    "population": "26 633",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -16386,9 +19662,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Mali",
     "langue_officielle": "Français, Bambara",
+    "monnaie_devise": "XOF - Franc CFA BCEAO (FCFA)",
     "ville": "Ségou",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Ségou)",
     "code_postal": "",
+    "population": "205 787",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -16396,9 +19674,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Mauritanie",
     "langue_officielle": "Arabe, FUC, SNK, Français",
+    "monnaie_devise": "MRU - Ouguiya mauritanienne (UM)",
     "ville": "Zouérat",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Zouérat)",
     "code_postal": "",
+    "population": "55 183",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -16406,9 +19686,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Mauritanie",
     "langue_officielle": "Arabe, FUC, SNK, Français",
+    "monnaie_devise": "MRU - Ouguiya mauritanienne (UM)",
     "ville": "Tembedgha",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Tembedgha)",
     "code_postal": "",
+    "population": "17 465",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -16416,9 +19698,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Mauritanie",
     "langue_officielle": "Arabe, FUC, SNK, Français",
+    "monnaie_devise": "MRU - Ouguiya mauritanienne (UM)",
     "ville": "Tékane",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Tékane)",
     "code_postal": "",
+    "population": "22 041",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -16426,9 +19710,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Mauritanie",
     "langue_officielle": "Arabe, FUC, SNK, Français",
+    "monnaie_devise": "MRU - Ouguiya mauritanienne (UM)",
     "ville": "Sélibaby",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Sélibaby)",
     "code_postal": "",
+    "population": "32 653",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -16436,9 +19722,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Mauritanie",
     "langue_officielle": "Arabe, FUC, SNK, Français",
+    "monnaie_devise": "MRU - Ouguiya mauritanienne (UM)",
     "ville": "Rosso",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Rosso)",
     "code_postal": "",
+    "population": "15 870",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -16446,9 +19734,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Mauritanie",
     "langue_officielle": "Arabe, FUC, SNK, Français",
+    "monnaie_devise": "MRU - Ouguiya mauritanienne (UM)",
     "ville": "Elghabra",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Elghabra)",
     "code_postal": "",
+    "population": "15 480",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -16456,9 +19746,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Mauritanie",
     "langue_officielle": "Arabe, FUC, SNK, Français",
+    "monnaie_devise": "MRU - Ouguiya mauritanienne (UM)",
     "ville": "Nouakchott",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Nouakchott)",
     "code_postal": "",
+    "population": "1 184 530",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -16466,9 +19758,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Mauritanie",
     "langue_officielle": "Arabe, FUC, SNK, Français",
+    "monnaie_devise": "MRU - Ouguiya mauritanienne (UM)",
     "ville": "Nouadhibou",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Nouadhibou)",
     "code_postal": "",
+    "population": "146 048",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -16476,9 +19770,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Mauritanie",
     "langue_officielle": "Arabe, FUC, SNK, Français",
+    "monnaie_devise": "MRU - Ouguiya mauritanienne (UM)",
     "ville": "Néma",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Néma)",
     "code_postal": "",
+    "population": "60 000",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -16486,9 +19782,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Mauritanie",
     "langue_officielle": "Arabe, FUC, SNK, Français",
+    "monnaie_devise": "MRU - Ouguiya mauritanienne (UM)",
     "ville": "Magṭa‘ Laḥjar",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Magṭa‘ Laḥjar)",
     "code_postal": "",
+    "population": "15 446",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -16496,9 +19794,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Maurice",
     "langue_officielle": "Anglais, BHO, Français",
+    "monnaie_devise": "MUR - Roupie mauricienne (₨)",
     "ville": "Vacoas",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Vacoas)",
     "code_postal": "",
+    "population": "115 289",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -16506,9 +19806,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Maurice",
     "langue_officielle": "Anglais, BHO, Français",
+    "monnaie_devise": "MUR - Roupie mauricienne (₨)",
     "ville": "Triolet",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Triolet)",
     "code_postal": "",
+    "population": "24 361",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -16516,9 +19818,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Maurice",
     "langue_officielle": "Anglais, BHO, Français",
+    "monnaie_devise": "MUR - Roupie mauricienne (₨)",
     "ville": "Saint Pierre",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Saint Pierre)",
     "code_postal": "",
+    "population": "16 704",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -16526,9 +19830,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Maurice",
     "langue_officielle": "Anglais, BHO, Français",
+    "monnaie_devise": "MUR - Roupie mauricienne (₨)",
     "ville": "Quatre Bornes",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Quatre Bornes)",
     "code_postal": "",
+    "population": "77 308",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -16536,9 +19842,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Maurice",
     "langue_officielle": "Anglais, BHO, Français",
+    "monnaie_devise": "MUR - Roupie mauricienne (₨)",
     "ville": "Port Louis",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Port Louis)",
     "code_postal": "",
+    "population": "155 226",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -16546,9 +19854,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Maurice",
     "langue_officielle": "Anglais, BHO, Français",
+    "monnaie_devise": "MUR - Roupie mauricienne (₨)",
     "ville": "Mahébourg",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Mahébourg)",
     "code_postal": "",
+    "population": "17 042",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -16556,9 +19866,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Maurice",
     "langue_officielle": "Anglais, BHO, Français",
+    "monnaie_devise": "MUR - Roupie mauricienne (₨)",
     "ville": "Goodlands",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Goodlands)",
     "code_postal": "",
+    "population": "21 063",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -16566,9 +19878,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Maurice",
     "langue_officielle": "Anglais, BHO, Français",
+    "monnaie_devise": "MUR - Roupie mauricienne (₨)",
     "ville": "Curepipe",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Curepipe)",
     "code_postal": "",
+    "population": "78 618",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -16576,9 +19890,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Maurice",
     "langue_officielle": "Anglais, BHO, Français",
+    "monnaie_devise": "MUR - Roupie mauricienne (₨)",
     "ville": "Centre de Flacq",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Centre de Flacq)",
     "code_postal": "",
+    "population": "17 710",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -16586,9 +19902,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Maurice",
     "langue_officielle": "Anglais, BHO, Français",
+    "monnaie_devise": "MUR - Roupie mauricienne (₨)",
     "ville": "Bel Air Rivière Sèche",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Bel Air Rivière Sèche)",
     "code_postal": "",
+    "population": "18 036",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -16596,9 +19914,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Mozambique",
     "langue_officielle": "Portugais, VMW",
+    "monnaie_devise": "MZN - Metical mozambicain (MT)",
     "ville": "Xai-Xai",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Xai-Xai)",
     "code_postal": "",
+    "population": "154 356",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -16606,9 +19926,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Mozambique",
     "langue_officielle": "Portugais, VMW",
+    "monnaie_devise": "MZN - Metical mozambicain (MT)",
     "ville": "Gorongosa",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Gorongosa)",
     "code_postal": "",
+    "population": "21 792",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -16616,9 +19938,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Mozambique",
     "langue_officielle": "Portugais, VMW",
+    "monnaie_devise": "MZN - Metical mozambicain (MT)",
     "ville": "Vilankulo",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Vilankulo)",
     "code_postal": "",
+    "population": "43 183",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -16626,9 +19950,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Mozambique",
     "langue_officielle": "Portugais, VMW",
+    "monnaie_devise": "MZN - Metical mozambicain (MT)",
     "ville": "Moatize",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Moatize)",
     "code_postal": "",
+    "population": "45 213",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -16636,9 +19962,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Mozambique",
     "langue_officielle": "Portugais, VMW",
+    "monnaie_devise": "MZN - Metical mozambicain (MT)",
     "ville": "Nhamatanda",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Nhamatanda)",
     "code_postal": "",
+    "population": "30 087",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -16646,9 +19974,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Mozambique",
     "langue_officielle": "Portugais, VMW",
+    "monnaie_devise": "MZN - Metical mozambicain (MT)",
     "ville": "Caia",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Caia)",
     "code_postal": "",
+    "population": "21 179",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -16656,9 +19986,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Mozambique",
     "langue_officielle": "Portugais, VMW",
+    "monnaie_devise": "MZN - Metical mozambicain (MT)",
     "ville": "Mocuba",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Mocuba)",
     "code_postal": "",
+    "population": "196 001",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -16666,9 +19998,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Mozambique",
     "langue_officielle": "Portugais, VMW",
+    "monnaie_devise": "MZN - Metical mozambicain (MT)",
     "ville": "Dondo",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Dondo)",
     "code_postal": "",
+    "population": "64 643",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -16676,9 +20010,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Mozambique",
     "langue_officielle": "Portugais, VMW",
+    "monnaie_devise": "MZN - Metical mozambicain (MT)",
     "ville": "Chinde",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Chinde)",
     "code_postal": "",
+    "population": "17 558",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -16686,9 +20022,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Mozambique",
     "langue_officielle": "Portugais, VMW",
+    "monnaie_devise": "MZN - Metical mozambicain (MT)",
     "ville": "Mocímboa da Praia",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Mocímboa da Praia)",
     "code_postal": "",
+    "population": "45 313",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -16696,9 +20034,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Namibie",
     "langue_officielle": "Anglais, Afrikaans, Allemand, HZ",
+    "monnaie_devise": "NAD - Dollar namibien (N$)",
     "ville": "Ndiyona",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Ndiyona)",
     "code_postal": "",
+    "population": "20 633",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -16706,9 +20046,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Namibie",
     "langue_officielle": "Anglais, Afrikaans, Allemand, HZ",
+    "monnaie_devise": "NAD - Dollar namibien (N$)",
     "ville": "Katima Mulilo",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Katima Mulilo)",
     "code_postal": "",
+    "population": "33 615",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -16716,9 +20058,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Namibie",
     "langue_officielle": "Anglais, Afrikaans, Allemand, HZ",
+    "monnaie_devise": "NAD - Dollar namibien (N$)",
     "ville": "Windhoek",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Windhoek)",
     "code_postal": "",
+    "population": "386 219",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -16726,9 +20070,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Namibie",
     "langue_officielle": "Anglais, Afrikaans, Allemand, HZ",
+    "monnaie_devise": "NAD - Dollar namibien (N$)",
     "ville": "Tsumeb",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Tsumeb)",
     "code_postal": "",
+    "population": "22 845",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -16736,9 +20082,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Namibie",
     "langue_officielle": "Anglais, Afrikaans, Allemand, HZ",
+    "monnaie_devise": "NAD - Dollar namibien (N$)",
     "ville": "Swakopmund",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Swakopmund)",
     "code_postal": "",
+    "population": "53 009",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -16746,9 +20094,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Namibie",
     "langue_officielle": "Anglais, Afrikaans, Allemand, HZ",
+    "monnaie_devise": "NAD - Dollar namibien (N$)",
     "ville": "Rundu",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Rundu)",
     "code_postal": "",
+    "population": "75 180",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -16756,9 +20106,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Namibie",
     "langue_officielle": "Anglais, Afrikaans, Allemand, HZ",
+    "monnaie_devise": "NAD - Dollar namibien (N$)",
     "ville": "Rehoboth",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Rehoboth)",
     "code_postal": "",
+    "population": "34 185",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -16766,9 +20118,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Namibie",
     "langue_officielle": "Anglais, Afrikaans, Allemand, HZ",
+    "monnaie_devise": "NAD - Dollar namibien (N$)",
     "ville": "Otjiwarongo",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Otjiwarongo)",
     "code_postal": "",
+    "population": "33 481",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -16776,9 +20130,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Namibie",
     "langue_officielle": "Anglais, Afrikaans, Allemand, HZ",
+    "monnaie_devise": "NAD - Dollar namibien (N$)",
     "ville": "Oshakati",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Oshakati)",
     "code_postal": "",
+    "population": "43 309",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -16786,9 +20142,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Namibie",
     "langue_officielle": "Anglais, Afrikaans, Allemand, HZ",
+    "monnaie_devise": "NAD - Dollar namibien (N$)",
     "ville": "Ongwediva",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Ongwediva)",
     "code_postal": "",
+    "population": "24 012",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -16796,9 +20154,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Niger",
     "langue_officielle": "Français, Haoussa, KR, DJE",
+    "monnaie_devise": "XOF - Franc CFA BCEAO (FCFA)",
     "ville": "Birnin Gaouré",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Birnin Gaouré)",
     "code_postal": "",
+    "population": "19 529",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -16806,9 +20166,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Niger",
     "langue_officielle": "Français, Haoussa, KR, DJE",
+    "monnaie_devise": "XOF - Franc CFA BCEAO (FCFA)",
     "ville": "Birni N Konni",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Birni N Konni)",
     "code_postal": "",
+    "population": "85 494",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -16816,9 +20178,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Niger",
     "langue_officielle": "Français, Haoussa, KR, DJE",
+    "monnaie_devise": "XOF - Franc CFA BCEAO (FCFA)",
     "ville": "Zinder",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Zinder)",
     "code_postal": "",
+    "population": "318 874",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -16826,9 +20190,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Niger",
     "langue_officielle": "Français, Haoussa, KR, DJE",
+    "monnaie_devise": "XOF - Franc CFA BCEAO (FCFA)",
     "ville": "Youri Kourtéré",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Youri Kourtéré)",
     "code_postal": "",
+    "population": "31 598",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -16836,9 +20202,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Niger",
     "langue_officielle": "Français, Haoussa, KR, DJE",
+    "monnaie_devise": "XOF - Franc CFA BCEAO (FCFA)",
     "ville": "Torodi",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Torodi)",
     "code_postal": "",
+    "population": "15 988",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -16846,9 +20214,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Niger",
     "langue_officielle": "Français, Haoussa, KR, DJE",
+    "monnaie_devise": "XOF - Franc CFA BCEAO (FCFA)",
     "ville": "Tillabéri",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Tillabéri)",
     "code_postal": "",
+    "population": "30 822",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -16856,9 +20226,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Niger",
     "langue_officielle": "Français, Haoussa, KR, DJE",
+    "monnaie_devise": "XOF - Franc CFA BCEAO (FCFA)",
     "ville": "Tibiri",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Tibiri)",
     "code_postal": "",
+    "population": "34 529",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -16866,9 +20238,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Niger",
     "langue_officielle": "Français, Haoussa, KR, DJE",
+    "monnaie_devise": "XOF - Franc CFA BCEAO (FCFA)",
     "ville": "Tessaoua",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Tessaoua)",
     "code_postal": "",
+    "population": "58 750",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -16876,9 +20250,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Niger",
     "langue_officielle": "Français, Haoussa, KR, DJE",
+    "monnaie_devise": "XOF - Franc CFA BCEAO (FCFA)",
     "ville": "Téra",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Téra)",
     "code_postal": "",
+    "population": "39 410",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -16886,9 +20262,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Niger",
     "langue_officielle": "Français, Haoussa, KR, DJE",
+    "monnaie_devise": "XOF - Franc CFA BCEAO (FCFA)",
     "ville": "Tchin Tabaradèn",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Tchin Tabaradèn)",
     "code_postal": "",
+    "population": "20 704",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -16896,9 +20274,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Nigéria",
     "langue_officielle": "Anglais, Haoussa, Yoruba, Igbo",
+    "monnaie_devise": "NGN - Naira nigérian (₦)",
     "ville": "Zuru",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Zuru)",
     "code_postal": "",
+    "population": "24 338",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -16906,9 +20286,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Nigéria",
     "langue_officielle": "Anglais, Haoussa, Yoruba, Igbo",
+    "monnaie_devise": "NGN - Naira nigérian (₦)",
     "ville": "Zungeru",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Zungeru)",
     "code_postal": "",
+    "population": "24 447",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -16916,9 +20298,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Nigéria",
     "langue_officielle": "Anglais, Haoussa, Yoruba, Igbo",
+    "monnaie_devise": "NGN - Naira nigérian (₦)",
     "ville": "Zaria",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Zaria)",
     "code_postal": "",
+    "population": "980 000",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -16926,9 +20310,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Nigéria",
     "langue_officielle": "Anglais, Haoussa, Yoruba, Igbo",
+    "monnaie_devise": "NGN - Naira nigérian (₦)",
     "ville": "Yola",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Yola)",
     "code_postal": "",
+    "population": "460 000",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -16936,9 +20322,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Nigéria",
     "langue_officielle": "Anglais, Haoussa, Yoruba, Igbo",
+    "monnaie_devise": "NGN - Naira nigérian (₦)",
     "ville": "Yenagoa",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Yenagoa)",
     "code_postal": "",
+    "population": "365 000",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -16946,9 +20334,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Nigéria",
     "langue_officielle": "Anglais, Haoussa, Yoruba, Igbo",
+    "monnaie_devise": "NGN - Naira nigérian (₦)",
     "ville": "Wukari",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Wukari)",
     "code_postal": "",
+    "population": "92 933",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -16956,9 +20346,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Nigéria",
     "langue_officielle": "Anglais, Haoussa, Yoruba, Igbo",
+    "monnaie_devise": "NGN - Naira nigérian (₦)",
     "ville": "Wudil",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Wudil)",
     "code_postal": "",
+    "population": "23 066",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -16966,9 +20358,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Nigéria",
     "langue_officielle": "Anglais, Haoussa, Yoruba, Igbo",
+    "monnaie_devise": "NGN - Naira nigérian (₦)",
     "ville": "Warri",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Warri)",
     "code_postal": "",
+    "population": "910 000",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -16976,9 +20370,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Nigéria",
     "langue_officielle": "Anglais, Haoussa, Yoruba, Igbo",
+    "monnaie_devise": "NGN - Naira nigérian (₦)",
     "ville": "Wamba",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Wamba)",
     "code_postal": "",
+    "population": "17 373",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -16986,9 +20382,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Nigéria",
     "langue_officielle": "Anglais, Haoussa, Yoruba, Igbo",
+    "monnaie_devise": "NGN - Naira nigérian (₦)",
     "ville": "Uyo",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Uyo)",
     "code_postal": "",
+    "population": "436 606",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -16996,9 +20394,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Rwanda",
     "langue_officielle": "Kinyarwanda, Anglais, Français, Swahili",
+    "monnaie_devise": "RWF - Franc rwandais (FRw)",
     "ville": "Rwamagana",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Rwamagana)",
     "code_postal": "",
+    "population": "47 203",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -17006,9 +20406,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Rwanda",
     "langue_officielle": "Kinyarwanda, Anglais, Français, Swahili",
+    "monnaie_devise": "RWF - Franc rwandais (FRw)",
     "ville": "Musanze",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Musanze)",
     "code_postal": "",
+    "population": "153 368",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -17016,9 +20418,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Rwanda",
     "langue_officielle": "Kinyarwanda, Anglais, Français, Swahili",
+    "monnaie_devise": "RWF - Franc rwandais (FRw)",
     "ville": "Ruhango",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Ruhango)",
     "code_postal": "",
+    "population": "21 478",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -17026,9 +20430,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Rwanda",
     "langue_officielle": "Kinyarwanda, Anglais, Français, Swahili",
+    "monnaie_devise": "RWF - Franc rwandais (FRw)",
     "ville": "Nyagatare",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Nyagatare)",
     "code_postal": "",
+    "population": "100 000",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -17036,9 +20442,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Rwanda",
     "langue_officielle": "Kinyarwanda, Anglais, Français, Swahili",
+    "monnaie_devise": "RWF - Franc rwandais (FRw)",
     "ville": "Muhanga",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Muhanga)",
     "code_postal": "",
+    "population": "82 797",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -17046,9 +20454,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Rwanda",
     "langue_officielle": "Kinyarwanda, Anglais, Français, Swahili",
+    "monnaie_devise": "RWF - Franc rwandais (FRw)",
     "ville": "Mugina",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Mugina)",
     "code_postal": "",
+    "population": "18 586",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -17056,9 +20466,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Rwanda",
     "langue_officielle": "Kinyarwanda, Anglais, Français, Swahili",
+    "monnaie_devise": "RWF - Franc rwandais (FRw)",
     "ville": "Nzega",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Nzega)",
     "code_postal": "",
+    "population": "33 832",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -17066,9 +20478,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Rwanda",
     "langue_officielle": "Kinyarwanda, Anglais, Français, Swahili",
+    "monnaie_devise": "RWF - Franc rwandais (FRw)",
     "ville": "Kirimbi",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Kirimbi)",
     "code_postal": "",
+    "population": "25 647",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -17076,9 +20490,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Rwanda",
     "langue_officielle": "Kinyarwanda, Anglais, Français, Swahili",
+    "monnaie_devise": "RWF - Franc rwandais (FRw)",
     "ville": "Kigali",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Kigali)",
     "code_postal": "",
+    "population": "1 132 686",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -17086,9 +20502,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Rwanda",
     "langue_officielle": "Kinyarwanda, Anglais, Français, Swahili",
+    "monnaie_devise": "RWF - Franc rwandais (FRw)",
     "ville": "Kibuye",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Kibuye)",
     "code_postal": "",
+    "population": "48 024",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -17096,9 +20514,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Seychelles",
     "langue_officielle": "Anglais, Français",
+    "monnaie_devise": "SCR - Roupie seychelloise (SR)",
     "ville": "Victoria",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Victoria)",
     "code_postal": "",
+    "population": "25 139",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -17106,9 +20526,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Soudan",
     "langue_officielle": "Arabe, Anglais, FIA",
+    "monnaie_devise": "SDG - Livre soudanaise (SDG)",
     "ville": "Dongola",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Dongola)",
     "code_postal": "",
+    "population": "56 167",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -17116,9 +20538,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Soudan",
     "langue_officielle": "Arabe, Anglais, FIA",
+    "monnaie_devise": "SDG - Livre soudanaise (SDG)",
     "ville": "Zalinjay",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Zalinjay)",
     "code_postal": "",
+    "population": "35 061",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -17126,9 +20550,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Soudan",
     "langue_officielle": "Arabe, Anglais, FIA",
+    "monnaie_devise": "SDG - Livre soudanaise (SDG)",
     "ville": "Wad Medani",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Wad Medani)",
     "code_postal": "",
+    "population": "332 714",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -17136,9 +20562,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Soudan",
     "langue_officielle": "Arabe, Anglais, FIA",
+    "monnaie_devise": "SDG - Livre soudanaise (SDG)",
     "ville": "Wadi Halfa",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Wadi Halfa)",
     "code_postal": "",
+    "population": "15 725",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -17146,9 +20574,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Soudan",
     "langue_officielle": "Arabe, Anglais, FIA",
+    "monnaie_devise": "SDG - Livre soudanaise (SDG)",
     "ville": "Umm Shawkah",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Umm Shawkah)",
     "code_postal": "",
+    "population": "20 302",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -17156,9 +20586,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Soudan",
     "langue_officielle": "Arabe, Anglais, FIA",
+    "monnaie_devise": "SDG - Livre soudanaise (SDG)",
     "ville": "Umm Ruwaba",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Umm Ruwaba)",
     "code_postal": "",
+    "population": "56 833",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -17166,9 +20598,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Soudan",
     "langue_officielle": "Arabe, Anglais, FIA",
+    "monnaie_devise": "SDG - Livre soudanaise (SDG)",
     "ville": "Omdurman",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Omdurman)",
     "code_postal": "",
+    "population": "1 849 659",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -17176,9 +20610,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Soudan",
     "langue_officielle": "Arabe, Anglais, FIA",
+    "monnaie_devise": "SDG - Livre soudanaise (SDG)",
     "ville": "Tullus",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Tullus)",
     "code_postal": "",
+    "population": "41 807",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -17186,9 +20622,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Soudan",
     "langue_officielle": "Arabe, Anglais, FIA",
+    "monnaie_devise": "SDG - Livre soudanaise (SDG)",
     "ville": "Tokār",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Tokār)",
     "code_postal": "",
+    "population": "37 051",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -17196,9 +20634,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Soudan",
     "langue_officielle": "Arabe, Anglais, FIA",
+    "monnaie_devise": "SDG - Livre soudanaise (SDG)",
     "ville": "Tandaltī",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Tandaltī)",
     "code_postal": "",
+    "population": "31 329",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -17206,9 +20646,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Soudan du Sud",
     "langue_officielle": "Anglais",
+    "monnaie_devise": "SSP - Livre sud-soudanaise (SSP)",
     "ville": "Yei",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Yei)",
     "code_postal": "",
+    "population": "260 720",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -17216,9 +20658,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Soudan du Sud",
     "langue_officielle": "Anglais",
+    "monnaie_devise": "SSP - Livre sud-soudanaise (SSP)",
     "ville": "Yambio",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Yambio)",
     "code_postal": "",
+    "population": "40 382",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -17226,9 +20670,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Soudan du Sud",
     "langue_officielle": "Anglais",
+    "monnaie_devise": "SSP - Livre sud-soudanaise (SSP)",
     "ville": "Winejok",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Winejok)",
     "code_postal": "",
+    "population": "300 000",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -17236,9 +20682,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Soudan du Sud",
     "langue_officielle": "Anglais",
+    "monnaie_devise": "SSP - Livre sud-soudanaise (SSP)",
     "ville": "Wau",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Wau)",
     "code_postal": "",
+    "population": "127 384",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -17246,9 +20694,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Soudan du Sud",
     "langue_officielle": "Anglais",
+    "monnaie_devise": "SSP - Livre sud-soudanaise (SSP)",
     "ville": "Aweil",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Aweil)",
     "code_postal": "",
+    "population": "38 745",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -17256,9 +20706,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Soudan du Sud",
     "langue_officielle": "Anglais",
+    "monnaie_devise": "SSP - Livre sud-soudanaise (SSP)",
     "ville": "Torit",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Torit)",
     "code_postal": "",
+    "population": "20 048",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -17266,9 +20718,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Soudan du Sud",
     "langue_officielle": "Anglais",
+    "monnaie_devise": "SSP - Livre sud-soudanaise (SSP)",
     "ville": "Tonj",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Tonj)",
     "code_postal": "",
+    "population": "17 338",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -17276,9 +20730,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Soudan du Sud",
     "langue_officielle": "Anglais",
+    "monnaie_devise": "SSP - Livre sud-soudanaise (SSP)",
     "ville": "Rumbek",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Rumbek)",
     "code_postal": "",
+    "population": "32 083",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -17286,9 +20742,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Soudan du Sud",
     "langue_officielle": "Anglais",
+    "monnaie_devise": "SSP - Livre sud-soudanaise (SSP)",
     "ville": "Malakal",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Malakal)",
     "code_postal": "",
+    "population": "160 765",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -17296,9 +20754,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Soudan du Sud",
     "langue_officielle": "Anglais",
+    "monnaie_devise": "SSP - Livre sud-soudanaise (SSP)",
     "ville": "Leer",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Leer)",
     "code_postal": "",
+    "population": "33 886",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -17306,9 +20766,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Sainte-Hélène",
     "langue_officielle": "Anglais",
+    "monnaie_devise": "SHP - Pound",
     "ville": "Jamestown",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Jamestown)",
     "code_postal": "",
+    "population": "637",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -17316,9 +20778,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Sierra Leone",
     "langue_officielle": "Anglais, MEN, TEM",
+    "monnaie_devise": "SLE - Leone",
     "ville": "Waterloo",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Waterloo)",
     "code_postal": "",
+    "population": "29 778",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -17326,9 +20790,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Sierra Leone",
     "langue_officielle": "Anglais, MEN, TEM",
+    "monnaie_devise": "SLE - Leone",
     "ville": "Segbwema",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Segbwema)",
     "code_postal": "",
+    "population": "16 532",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -17336,9 +20802,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Sierra Leone",
     "langue_officielle": "Anglais, MEN, TEM",
+    "monnaie_devise": "SLE - Leone",
     "ville": "Port Loko",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Port Loko)",
     "code_postal": "",
+    "population": "44 900",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -17346,9 +20814,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Sierra Leone",
     "langue_officielle": "Anglais, MEN, TEM",
+    "monnaie_devise": "SLE - Leone",
     "ville": "Njala",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Njala)",
     "code_postal": "",
+    "population": "40 000",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -17356,9 +20826,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Sierra Leone",
     "langue_officielle": "Anglais, MEN, TEM",
+    "monnaie_devise": "SLE - Leone",
     "ville": "Makeni",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Makeni)",
     "code_postal": "",
+    "population": "85 116",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -17366,9 +20838,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Sierra Leone",
     "langue_officielle": "Anglais, MEN, TEM",
+    "monnaie_devise": "SLE - Leone",
     "ville": "Lunsar",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Lunsar)",
     "code_postal": "",
+    "population": "22 461",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -17376,9 +20850,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Sierra Leone",
     "langue_officielle": "Anglais, MEN, TEM",
+    "monnaie_devise": "SLE - Leone",
     "ville": "Koidu",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Koidu)",
     "code_postal": "",
+    "population": "128 030",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -17386,9 +20862,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Sierra Leone",
     "langue_officielle": "Anglais, MEN, TEM",
+    "monnaie_devise": "SLE - Leone",
     "ville": "Kenema",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Kenema)",
     "code_postal": "",
+    "population": "255 110",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -17396,9 +20874,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Sierra Leone",
     "langue_officielle": "Anglais, MEN, TEM",
+    "monnaie_devise": "SLE - Leone",
     "ville": "Kabala",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Kabala)",
     "code_postal": "",
+    "population": "24 241",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -17406,9 +20886,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Sierra Leone",
     "langue_officielle": "Anglais, MEN, TEM",
+    "monnaie_devise": "SLE - Leone",
     "ville": "Freetown",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Freetown)",
     "code_postal": "",
+    "population": "802 639",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -17416,9 +20898,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Sénégal",
     "langue_officielle": "Français, Wolof",
+    "monnaie_devise": "XOF - Franc CFA BCEAO (FCFA)",
     "ville": "Ziguinchor",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Ziguinchor)",
     "code_postal": "",
+    "population": "214 874",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -17426,9 +20910,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Sénégal",
     "langue_officielle": "Français, Wolof",
+    "monnaie_devise": "XOF - Franc CFA BCEAO (FCFA)",
     "ville": "Yoff",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Yoff)",
     "code_postal": "",
+    "population": "89 442",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -17436,9 +20922,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Sénégal",
     "langue_officielle": "Français, Wolof",
+    "monnaie_devise": "XOF - Franc CFA BCEAO (FCFA)",
     "ville": "Vélingara",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Vélingara)",
     "code_postal": "",
+    "population": "45 431",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -17446,9 +20934,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Sénégal",
     "langue_officielle": "Français, Wolof",
+    "monnaie_devise": "XOF - Franc CFA BCEAO (FCFA)",
     "ville": "Touba",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Touba)",
     "code_postal": "",
+    "population": "28 986",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -17456,9 +20946,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Sénégal",
     "langue_officielle": "Français, Wolof",
+    "monnaie_devise": "XOF - Franc CFA BCEAO (FCFA)",
     "ville": "Tivaouane",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Tivaouane)",
     "code_postal": "",
+    "population": "102 658",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -17466,9 +20958,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Sénégal",
     "langue_officielle": "Français, Wolof",
+    "monnaie_devise": "XOF - Franc CFA BCEAO (FCFA)",
     "ville": "Tiébo",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Tiébo)",
     "code_postal": "",
+    "population": "100 289",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -17476,9 +20970,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Sénégal",
     "langue_officielle": "Français, Wolof",
+    "monnaie_devise": "XOF - Franc CFA BCEAO (FCFA)",
     "ville": "Thiadiaye",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Thiadiaye)",
     "code_postal": "",
+    "population": "20 168",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -17486,9 +20982,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Sénégal",
     "langue_officielle": "Français, Wolof",
+    "monnaie_devise": "XOF - Franc CFA BCEAO (FCFA)",
     "ville": "Thilogne",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Thilogne)",
     "code_postal": "",
+    "population": "15 044",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -17496,9 +20994,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Sénégal",
     "langue_officielle": "Français, Wolof",
+    "monnaie_devise": "XOF - Franc CFA BCEAO (FCFA)",
     "ville": "Thiès Nones",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Thiès Nones)",
     "code_postal": "",
+    "population": "252 320",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -17506,9 +21006,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Sénégal",
     "langue_officielle": "Français, Wolof",
+    "monnaie_devise": "XOF - Franc CFA BCEAO (FCFA)",
     "ville": "Thiès",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Thiès)",
     "code_postal": "",
+    "population": "317 763",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -17516,9 +21018,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Somalie",
     "langue_officielle": "Somali, Arabe, Italien, Anglais",
+    "monnaie_devise": "SOS - Shilling somalien (Sh.So.)",
     "ville": "Wanlaweyn",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Wanlaweyn)",
     "code_postal": "",
+    "population": "22 022",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -17526,9 +21030,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Somalie",
     "langue_officielle": "Somali, Arabe, Italien, Anglais",
+    "monnaie_devise": "SOS - Shilling somalien (Sh.So.)",
     "ville": "Tog Wajaale",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Tog Wajaale)",
     "code_postal": "",
+    "population": "22 700",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -17536,9 +21042,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Somalie",
     "langue_officielle": "Somali, Arabe, Italien, Anglais",
+    "monnaie_devise": "SOS - Shilling somalien (Sh.So.)",
     "ville": "Saylac",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Saylac)",
     "code_postal": "",
+    "population": "18 600",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -17546,9 +21054,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Somalie",
     "langue_officielle": "Somali, Arabe, Italien, Anglais",
+    "monnaie_devise": "SOS - Shilling somalien (Sh.So.)",
     "ville": "Ruqi",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Ruqi)",
     "code_postal": "",
+    "population": "148 702",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -17556,9 +21066,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Somalie",
     "langue_officielle": "Somali, Arabe, Italien, Anglais",
+    "monnaie_devise": "SOS - Shilling somalien (Sh.So.)",
     "ville": "Qoryooley",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Qoryooley)",
     "code_postal": "",
+    "population": "51 720",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -17566,9 +21078,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Somalie",
     "langue_officielle": "Somali, Arabe, Italien, Anglais",
+    "monnaie_devise": "SOS - Shilling somalien (Sh.So.)",
     "ville": "Qandala",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Qandala)",
     "code_postal": "",
+    "population": "19 300",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -17576,9 +21090,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Somalie",
     "langue_officielle": "Somali, Arabe, Italien, Anglais",
+    "monnaie_devise": "SOS - Shilling somalien (Sh.So.)",
     "ville": "Mogadishu",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Mogadishu)",
     "code_postal": "",
+    "population": "2 587 183",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -17586,9 +21102,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Somalie",
     "langue_officielle": "Somali, Arabe, Italien, Anglais",
+    "monnaie_devise": "SOS - Shilling somalien (Sh.So.)",
     "ville": "Marka",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Marka)",
     "code_postal": "",
+    "population": "230 100",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -17596,9 +21114,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Somalie",
     "langue_officielle": "Somali, Arabe, Italien, Anglais",
+    "monnaie_devise": "SOS - Shilling somalien (Sh.So.)",
     "ville": "Luuq",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Luuq)",
     "code_postal": "",
+    "population": "33 820",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -17606,9 +21126,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Somalie",
     "langue_officielle": "Somali, Arabe, Italien, Anglais",
+    "monnaie_devise": "SOS - Shilling somalien (Sh.So.)",
     "ville": "Kismayo",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Kismayo)",
     "code_postal": "",
+    "population": "234 852",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -17616,9 +21138,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Sao Tomé-et-Principe",
     "langue_officielle": "Portugais",
+    "monnaie_devise": "STN - Dobra",
     "ville": "São Tomé",
     "quartier_arrondissement": "Centre Urbain / Agglomération (São Tomé)",
     "code_postal": "",
+    "population": "53 300",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -17626,9 +21150,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Eswatini",
     "langue_officielle": "Anglais, Swati",
+    "monnaie_devise": "SZL - Lilangeni swazi (L)",
     "ville": "Mbabane",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Mbabane)",
     "code_postal": "",
+    "population": "76 218",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -17636,9 +21162,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Eswatini",
     "langue_officielle": "Anglais, Swati",
+    "monnaie_devise": "SZL - Lilangeni swazi (L)",
     "ville": "Manzini",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Manzini)",
     "code_postal": "",
+    "population": "110 537",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -17646,9 +21174,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Eswatini",
     "langue_officielle": "Anglais, Swati",
+    "monnaie_devise": "SZL - Lilangeni swazi (L)",
     "ville": "Lobamba",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Lobamba)",
     "code_postal": "",
+    "population": "4 557",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -17656,9 +21186,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Tchad",
     "langue_officielle": "Français, Arabe",
+    "monnaie_devise": "XAF - Franc CFA BEAC (FCFA)",
     "ville": "N'Djaména",
     "quartier_arrondissement": "1er Arrondissement - Farcha",
     "code_postal": "",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -17666,9 +21198,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Tchad",
     "langue_officielle": "Français, Arabe",
+    "monnaie_devise": "XAF - Franc CFA BEAC (FCFA)",
     "ville": "N'Djaména",
     "quartier_arrondissement": "2e Arrondissement - Bololo",
     "code_postal": "",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -17676,9 +21210,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Tchad",
     "langue_officielle": "Français, Arabe",
+    "monnaie_devise": "XAF - Franc CFA BEAC (FCFA)",
     "ville": "N'Djaména",
     "quartier_arrondissement": "3e Arrondissement - Ardep Djoumal",
     "code_postal": "",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -17686,9 +21222,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Tchad",
     "langue_officielle": "Français, Arabe",
+    "monnaie_devise": "XAF - Franc CFA BEAC (FCFA)",
     "ville": "Moundou",
     "quartier_arrondissement": "1er Arrondissement - Dombeo",
     "code_postal": "",
+    "population": "196 124",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -17696,9 +21234,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Tchad",
     "langue_officielle": "Français, Arabe",
+    "monnaie_devise": "XAF - Franc CFA BEAC (FCFA)",
     "ville": "Iriba",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Iriba)",
     "code_postal": "",
+    "population": "47 972",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -17706,9 +21246,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Tchad",
     "langue_officielle": "Français, Arabe",
+    "monnaie_devise": "XAF - Franc CFA BEAC (FCFA)",
     "ville": "Goz Beida",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Goz Beida)",
     "code_postal": "",
+    "population": "58 941",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -17716,9 +21258,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Tchad",
     "langue_officielle": "Français, Arabe",
+    "monnaie_devise": "XAF - Franc CFA BEAC (FCFA)",
     "ville": "Fada",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Fada)",
     "code_postal": "",
+    "population": "17 240",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -17726,9 +21270,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Tchad",
     "langue_officielle": "Français, Arabe",
+    "monnaie_devise": "XAF - Franc CFA BEAC (FCFA)",
     "ville": "Biltine",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Biltine)",
     "code_postal": "",
+    "population": "33 540",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -17736,9 +21282,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Tchad",
     "langue_officielle": "Français, Arabe",
+    "monnaie_devise": "XAF - Franc CFA BEAC (FCFA)",
     "ville": "Am Timan",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Am Timan)",
     "code_postal": "",
+    "population": "74 691",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -17746,9 +21294,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Tchad",
     "langue_officielle": "Français, Arabe",
+    "monnaie_devise": "XAF - Franc CFA BEAC (FCFA)",
     "ville": "Adré",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Adré)",
     "code_postal": "",
+    "population": "21 950",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -17756,9 +21306,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Togo",
     "langue_officielle": "Français, EE, HNA, KBP",
+    "monnaie_devise": "XOF - Franc CFA BCEAO (FCFA)",
     "ville": "Vogan",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Vogan)",
     "code_postal": "",
+    "population": "20 569",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -17766,9 +21318,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Togo",
     "langue_officielle": "Français, EE, HNA, KBP",
+    "monnaie_devise": "XOF - Franc CFA BCEAO (FCFA)",
     "ville": "Tsévié",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Tsévié)",
     "code_postal": "",
+    "population": "55 775",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -17776,9 +21330,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Togo",
     "langue_officielle": "Français, EE, HNA, KBP",
+    "monnaie_devise": "XOF - Franc CFA BCEAO (FCFA)",
     "ville": "Tchamba",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Tchamba)",
     "code_postal": "",
+    "population": "25 668",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -17786,9 +21342,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Togo",
     "langue_officielle": "Français, EE, HNA, KBP",
+    "monnaie_devise": "XOF - Franc CFA BCEAO (FCFA)",
     "ville": "Tabligbo",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Tabligbo)",
     "code_postal": "",
+    "population": "22 304",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -17796,9 +21354,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Togo",
     "langue_officielle": "Français, EE, HNA, KBP",
+    "monnaie_devise": "XOF - Franc CFA BCEAO (FCFA)",
     "ville": "Sotouboua",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Sotouboua)",
     "code_postal": "",
+    "population": "24 332",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -17806,9 +21366,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Togo",
     "langue_officielle": "Français, EE, HNA, KBP",
+    "monnaie_devise": "XOF - Franc CFA BCEAO (FCFA)",
     "ville": "Sokodé",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Sokodé)",
     "code_postal": "",
+    "population": "117 811",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -17816,9 +21378,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Togo",
     "langue_officielle": "Français, EE, HNA, KBP",
+    "monnaie_devise": "XOF - Franc CFA BCEAO (FCFA)",
     "ville": "Notsé",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Notsé)",
     "code_postal": "",
+    "population": "35 039",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -17826,9 +21390,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Togo",
     "langue_officielle": "Français, EE, HNA, KBP",
+    "monnaie_devise": "XOF - Franc CFA BCEAO (FCFA)",
     "ville": "Niamtougou",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Niamtougou)",
     "code_postal": "",
+    "population": "23 261",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -17836,9 +21402,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Togo",
     "langue_officielle": "Français, EE, HNA, KBP",
+    "monnaie_devise": "XOF - Franc CFA BCEAO (FCFA)",
     "ville": "Mango",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Mango)",
     "code_postal": "",
+    "population": "223 805",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -17846,9 +21414,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Togo",
     "langue_officielle": "Français, EE, HNA, KBP",
+    "monnaie_devise": "XOF - Franc CFA BCEAO (FCFA)",
     "ville": "Lomé",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Lomé)",
     "code_postal": "",
+    "population": "2 188 376",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -17856,9 +21426,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Tunisie",
     "langue_officielle": "Arabe, Français",
+    "monnaie_devise": "TND - Dinar tunisien (TND)",
     "ville": "Zaouiet Sousse",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Zaouiet Sousse)",
     "code_postal": "",
+    "population": "20 992",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -17866,9 +21438,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Tunisie",
     "langue_officielle": "Arabe, Français",
+    "monnaie_devise": "TND - Dinar tunisien (TND)",
     "ville": "Zaghouan",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Zaghouan)",
     "code_postal": "",
+    "population": "20 798",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -17876,9 +21450,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Tunisie",
     "langue_officielle": "Arabe, Français",
+    "monnaie_devise": "TND - Dinar tunisien (TND)",
     "ville": "Oued Lill",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Oued Lill)",
     "code_postal": "",
+    "population": "66 100",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -17886,9 +21462,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Tunisie",
     "langue_officielle": "Arabe, Français",
+    "monnaie_devise": "TND - Dinar tunisien (TND)",
     "ville": "Moularès",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Moularès)",
     "code_postal": "",
+    "population": "21 431",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -17896,9 +21474,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Tunisie",
     "langue_officielle": "Arabe, Français",
+    "monnaie_devise": "TND - Dinar tunisien (TND)",
     "ville": "Tunis",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Tunis)",
     "code_postal": "",
+    "population": "19 495",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -17906,9 +21486,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Tunisie",
     "langue_officielle": "Arabe, Français",
+    "monnaie_devise": "TND - Dinar tunisien (TND)",
     "ville": "Tinja",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Tinja)",
     "code_postal": "",
+    "population": "21 167",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -17916,9 +21498,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Tunisie",
     "langue_officielle": "Arabe, Français",
+    "monnaie_devise": "TND - Dinar tunisien (TND)",
     "ville": "Tozeur",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Tozeur)",
     "code_postal": "",
+    "population": "37 370",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -17926,9 +21510,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Tunisie",
     "langue_officielle": "Arabe, Français",
+    "monnaie_devise": "TND - Dinar tunisien (TND)",
     "ville": "Tataouine",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Tataouine)",
     "code_postal": "",
+    "population": "66 924",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -17936,9 +21522,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Tunisie",
     "langue_officielle": "Arabe, Français",
+    "monnaie_devise": "TND - Dinar tunisien (TND)",
     "ville": "Thala",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Thala)",
     "code_postal": "",
+    "population": "18 230",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -17946,9 +21534,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Tunisie",
     "langue_officielle": "Arabe, Français",
+    "monnaie_devise": "TND - Dinar tunisien (TND)",
     "ville": "Takelsa",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Takelsa)",
     "code_postal": "",
+    "population": "24 109",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -17956,9 +21546,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Tanzanie",
     "langue_officielle": "Swahili, Anglais, Arabe",
+    "monnaie_devise": "TZS - Shilling tanzanien (TSh)",
     "ville": "Zanzibar",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Zanzibar)",
     "code_postal": "",
+    "population": "709 809",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -17966,9 +21558,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Tanzanie",
     "langue_officielle": "Swahili, Anglais, Arabe",
+    "monnaie_devise": "TZS - Shilling tanzanien (TSh)",
     "ville": "Wete",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Wete)",
     "code_postal": "",
+    "population": "35 951",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -17976,9 +21570,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Tanzanie",
     "langue_officielle": "Swahili, Anglais, Arabe",
+    "monnaie_devise": "TZS - Shilling tanzanien (TSh)",
     "ville": "Vwawa",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Vwawa)",
     "code_postal": "",
+    "population": "85 000",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -17986,9 +21582,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Tanzanie",
     "langue_officielle": "Swahili, Anglais, Arabe",
+    "monnaie_devise": "TZS - Shilling tanzanien (TSh)",
     "ville": "Vikindu",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Vikindu)",
     "code_postal": "",
+    "population": "70 000",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -17996,9 +21594,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Tanzanie",
     "langue_officielle": "Swahili, Anglais, Arabe",
+    "monnaie_devise": "TZS - Shilling tanzanien (TSh)",
     "ville": "Uyovu",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Uyovu)",
     "code_postal": "",
+    "population": "60 849",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -18006,9 +21606,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Tanzanie",
     "langue_officielle": "Swahili, Anglais, Arabe",
+    "monnaie_devise": "TZS - Shilling tanzanien (TSh)",
     "ville": "Uvinza",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Uvinza)",
     "code_postal": "",
+    "population": "24 650",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -18016,9 +21618,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Ouganda",
     "langue_officielle": "Anglais, LG, Swahili, Arabe",
+    "monnaie_devise": "UGX - Shilling ougandais (USh)",
     "ville": "Yumbe",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Yumbe)",
     "code_postal": "",
+    "population": "47 600",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -18026,9 +21630,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Ouganda",
     "langue_officielle": "Anglais, LG, Swahili, Arabe",
+    "monnaie_devise": "UGX - Shilling ougandais (USh)",
     "ville": "Wobulenzi",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Wobulenzi)",
     "code_postal": "",
+    "population": "31 000",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -18036,9 +21642,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Ouganda",
     "langue_officielle": "Anglais, LG, Swahili, Arabe",
+    "monnaie_devise": "UGX - Shilling ougandais (USh)",
     "ville": "Wakiso",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Wakiso)",
     "code_postal": "",
+    "population": "87 900",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -18046,9 +21654,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Ouganda",
     "langue_officielle": "Anglais, LG, Swahili, Arabe",
+    "monnaie_devise": "UGX - Shilling ougandais (USh)",
     "ville": "Tororo",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Tororo)",
     "code_postal": "",
+    "population": "48 500",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -18056,9 +21666,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Ouganda",
     "langue_officielle": "Anglais, LG, Swahili, Arabe",
+    "monnaie_devise": "UGX - Shilling ougandais (USh)",
     "ville": "Soroti",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Soroti)",
     "code_postal": "",
+    "population": "60 900",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -18066,9 +21678,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Ouganda",
     "langue_officielle": "Anglais, LG, Swahili, Arabe",
+    "monnaie_devise": "UGX - Shilling ougandais (USh)",
     "ville": "Sironko",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Sironko)",
     "code_postal": "",
+    "population": "19 300",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -18076,9 +21690,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Zambie",
     "langue_officielle": "Anglais, BEM, LOZ, LUN",
+    "monnaie_devise": "ZMW - Kwacha zambien (ZK)",
     "ville": "Nchelenge",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Nchelenge)",
     "code_postal": "",
+    "population": "77 746",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -18086,9 +21702,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Zambie",
     "langue_officielle": "Anglais, BEM, LOZ, LUN",
+    "monnaie_devise": "ZMW - Kwacha zambien (ZK)",
     "ville": "Nakonde",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Nakonde)",
     "code_postal": "",
+    "population": "91 107",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -18096,9 +21714,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Zambie",
     "langue_officielle": "Anglais, BEM, LOZ, LUN",
+    "monnaie_devise": "ZMW - Kwacha zambien (ZK)",
     "ville": "Mpulungu",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Mpulungu)",
     "code_postal": "",
+    "population": "55 405",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -18106,9 +21726,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Zambie",
     "langue_officielle": "Anglais, BEM, LOZ, LUN",
+    "monnaie_devise": "ZMW - Kwacha zambien (ZK)",
     "ville": "Mporokoso",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Mporokoso)",
     "code_postal": "",
+    "population": "30 381",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -18116,9 +21738,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Zambie",
     "langue_officielle": "Anglais, BEM, LOZ, LUN",
+    "monnaie_devise": "ZMW - Kwacha zambien (ZK)",
     "ville": "Mbala",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Mbala)",
     "code_postal": "",
+    "population": "42 424",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -18126,9 +21750,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Zambie",
     "langue_officielle": "Anglais, BEM, LOZ, LUN",
+    "monnaie_devise": "ZMW - Kwacha zambien (ZK)",
     "ville": "Kawambwa",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Kawambwa)",
     "code_postal": "",
+    "population": "31 161",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -18136,9 +21762,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Zimbabwe",
     "langue_officielle": "Anglais, Shona, Ndébélé",
+    "monnaie_devise": "ZWG - Zimbabwe Gold",
     "ville": "Zvishavane",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Zvishavane)",
     "code_postal": "",
+    "population": "59 717",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -18146,9 +21774,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Zimbabwe",
     "langue_officielle": "Anglais, Shona, Ndébélé",
+    "monnaie_devise": "ZWG - Zimbabwe Gold",
     "ville": "Victoria Falls",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Victoria Falls)",
     "code_postal": "",
+    "population": "35 215",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -18156,9 +21786,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Zimbabwe",
     "langue_officielle": "Anglais, Shona, Ndébélé",
+    "monnaie_devise": "ZWG - Zimbabwe Gold",
     "ville": "Shurugwi",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Shurugwi)",
     "code_postal": "",
+    "population": "23 304",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -18166,9 +21798,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Zimbabwe",
     "langue_officielle": "Anglais, Shona, Ndébélé",
+    "monnaie_devise": "ZWG - Zimbabwe Gold",
     "ville": "Ruwa",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Ruwa)",
     "code_postal": "",
+    "population": "94 083",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -18176,9 +21810,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Zimbabwe",
     "langue_officielle": "Anglais, Shona, Ndébélé",
+    "monnaie_devise": "ZWG - Zimbabwe Gold",
     "ville": "Rusape",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Rusape)",
     "code_postal": "",
+    "population": "37 906",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -18186,9 +21822,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Afrique",
     "pays": "Zimbabwe",
     "langue_officielle": "Anglais, Shona, Ndébélé",
+    "monnaie_devise": "ZWG - Zimbabwe Gold",
     "ville": "Redcliff",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Redcliff)",
     "code_postal": "",
+    "population": "41 526",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -18196,9 +21834,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Océanie",
     "pays": "Samoa américaines",
     "langue_officielle": "Anglais, Samoan, Tongan",
+    "monnaie_devise": "USD - Dollar américain ($)",
     "ville": "As",
     "quartier_arrondissement": "Pago Pago",
     "code_postal": "96799",
+    "population": "11 500",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -18206,9 +21846,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Océanie",
     "pays": "Australie",
     "langue_officielle": "Anglais",
+    "monnaie_devise": "AUD - Dollar australien ($AU)",
     "ville": "Snowy Monaro",
     "quartier_arrondissement": "Williamsdale",
     "code_postal": "2620",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -18216,9 +21858,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Océanie",
     "pays": "Australie",
     "langue_officielle": "Anglais",
+    "monnaie_devise": "AUD - Dollar australien ($AU)",
     "ville": "Snowy Monaro",
     "quartier_arrondissement": "Tharwa",
     "code_postal": "2620",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -18226,9 +21870,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Océanie",
     "pays": "Australie",
     "langue_officielle": "Anglais",
+    "monnaie_devise": "AUD - Dollar australien ($AU)",
     "ville": "Snowy Monaro",
     "quartier_arrondissement": "Kowen Forest",
     "code_postal": "2620",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -18236,9 +21882,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Océanie",
     "pays": "Australie",
     "langue_officielle": "Anglais",
+    "monnaie_devise": "AUD - Dollar australien ($AU)",
     "ville": "Snowy Monaro",
     "quartier_arrondissement": "Hume",
     "code_postal": "2620",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -18246,9 +21894,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Océanie",
     "pays": "Australie",
     "langue_officielle": "Anglais",
+    "monnaie_devise": "AUD - Dollar australien ($AU)",
     "ville": "Snowy Monaro",
     "quartier_arrondissement": "Top Naas",
     "code_postal": "2620",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -18256,9 +21906,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Océanie",
     "pays": "Australie",
     "langue_officielle": "Anglais",
+    "monnaie_devise": "AUD - Dollar australien ($AU)",
     "ville": "Snowy Monaro",
     "quartier_arrondissement": "Paddys River",
     "code_postal": "2620",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -18266,9 +21918,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Océanie",
     "pays": "Île Christmas",
     "langue_officielle": "Anglais, Chinois (Mandarin), Malais",
+    "monnaie_devise": "AUD - Dollar australien ($AU)",
     "ville": "Territory of Christmas Island",
     "quartier_arrondissement": "Territory of Christmas Island",
     "code_postal": "6798",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -18276,9 +21930,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Océanie",
     "pays": "Micronésie",
     "langue_officielle": "Anglais, CHK, PON, YAP",
+    "monnaie_devise": "USD - Dollar américain ($)",
     "ville": "State of Kosrae",
     "quartier_arrondissement": "Kosrae",
     "code_postal": "96944",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -18286,9 +21942,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Océanie",
     "pays": "Micronésie",
     "langue_officielle": "Anglais, CHK, PON, YAP",
+    "monnaie_devise": "USD - Dollar américain ($)",
     "ville": "State of Pohnpei",
     "quartier_arrondissement": "Pohnpei",
     "code_postal": "96941",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -18296,9 +21954,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Océanie",
     "pays": "Micronésie",
     "langue_officielle": "Anglais, CHK, PON, YAP",
+    "monnaie_devise": "USD - Dollar américain ($)",
     "ville": "State of Chuuk",
     "quartier_arrondissement": "Chuuk",
     "code_postal": "96942",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -18306,9 +21966,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Océanie",
     "pays": "Micronésie",
     "langue_officielle": "Anglais, CHK, PON, YAP",
+    "monnaie_devise": "USD - Dollar américain ($)",
     "ville": "State of Yap",
     "quartier_arrondissement": "Yap",
     "code_postal": "96943",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -18316,9 +21978,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Océanie",
     "pays": "Guam",
     "langue_officielle": "Anglais, CH",
+    "monnaie_devise": "USD - Dollar américain ($)",
     "ville": "Guam",
     "quartier_arrondissement": "Hagatna",
     "code_postal": "96910",
+    "population": "1 051",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -18326,9 +21990,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Océanie",
     "pays": "Guam",
     "langue_officielle": "Anglais, CH",
+    "monnaie_devise": "USD - Dollar américain ($)",
     "ville": "Guam",
     "quartier_arrondissement": "Tamuning",
     "code_postal": "96911",
+    "population": "19 685",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -18336,9 +22002,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Océanie",
     "pays": "Guam",
     "langue_officielle": "Anglais, CH",
+    "monnaie_devise": "USD - Dollar américain ($)",
     "ville": "Guam",
     "quartier_arrondissement": "Dededo",
     "code_postal": "96912",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -18346,9 +22014,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Océanie",
     "pays": "Guam",
     "langue_officielle": "Anglais, CH",
+    "monnaie_devise": "USD - Dollar américain ($)",
     "ville": "Guam",
     "quartier_arrondissement": "Barrigada",
     "code_postal": "96913",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -18356,9 +22026,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Océanie",
     "pays": "Guam",
     "langue_officielle": "Anglais, CH",
+    "monnaie_devise": "USD - Dollar américain ($)",
     "ville": "Guam",
     "quartier_arrondissement": "Yona",
     "code_postal": "96914",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -18366,9 +22038,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Océanie",
     "pays": "Guam",
     "langue_officielle": "Anglais, CH",
+    "monnaie_devise": "USD - Dollar américain ($)",
     "ville": "Guam",
     "quartier_arrondissement": "Santa Rita",
     "code_postal": "96915",
+    "population": "149 910",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -18376,9 +22050,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Océanie",
     "pays": "Îles Marshall",
     "langue_officielle": "MH, Anglais",
+    "monnaie_devise": "USD - Dollar américain ($)",
     "ville": "Ailinginae",
     "quartier_arrondissement": "Majuro",
     "code_postal": "96960",
+    "population": "25 400",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -18386,9 +22062,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Océanie",
     "pays": "Îles Marshall",
     "langue_officielle": "MH, Anglais",
+    "monnaie_devise": "USD - Dollar américain ($)",
     "ville": "Ailinginae",
     "quartier_arrondissement": "Ebeye",
     "code_postal": "96970",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -18396,9 +22074,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Océanie",
     "pays": "Îles Mariannes du Nord",
     "langue_officielle": "Filipino, Tagalog, Chinois (Mandarin), CH",
+    "monnaie_devise": "USD - Dollar américain ($)",
     "ville": "Rota",
     "quartier_arrondissement": "Rota",
     "code_postal": "96951",
+    "population": "28 848",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -18406,9 +22086,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Océanie",
     "pays": "Îles Mariannes du Nord",
     "langue_officielle": "Filipino, Tagalog, Chinois (Mandarin), CH",
+    "monnaie_devise": "USD - Dollar américain ($)",
     "ville": "Saipan",
     "quartier_arrondissement": "Saipan",
     "code_postal": "96950",
+    "population": "48 220",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -18416,9 +22098,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Océanie",
     "pays": "Îles Mariannes du Nord",
     "langue_officielle": "Filipino, Tagalog, Chinois (Mandarin), CH",
+    "monnaie_devise": "USD - Dollar américain ($)",
     "ville": "Tinian",
     "quartier_arrondissement": "Tinian",
     "code_postal": "96952",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -18426,9 +22110,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Océanie",
     "pays": "Nouvelle-Calédonie",
     "langue_officielle": "Français",
+    "monnaie_devise": "XPF - Franc",
     "ville": "Bélep",
     "quartier_arrondissement": "Bélep (Province Nord)",
     "code_postal": "98811",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -18436,9 +22122,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Océanie",
     "pays": "Nouvelle-Calédonie",
     "langue_officielle": "Français",
+    "monnaie_devise": "XPF - Franc",
     "ville": "Canala",
     "quartier_arrondissement": "Canala (Province Nord)",
     "code_postal": "98813",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -18446,9 +22134,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Océanie",
     "pays": "Nouvelle-Calédonie",
     "langue_officielle": "Français",
+    "monnaie_devise": "XPF - Franc",
     "ville": "Hienghéne",
     "quartier_arrondissement": "Hienghéne (Province Nord)",
     "code_postal": "98815",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -18456,9 +22146,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Océanie",
     "pays": "Nouvelle-Calédonie",
     "langue_officielle": "Français",
+    "monnaie_devise": "XPF - Franc",
     "ville": "Houaïlou",
     "quartier_arrondissement": "Houaïlou (Province Nord)",
     "code_postal": "98816",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -18466,9 +22158,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Océanie",
     "pays": "Nouvelle-Calédonie",
     "langue_officielle": "Français",
+    "monnaie_devise": "XPF - Franc",
     "ville": "Houaïlou",
     "quartier_arrondissement": "Poro",
     "code_postal": "98838",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -18476,9 +22170,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Océanie",
     "pays": "Nouvelle-Calédonie",
     "langue_officielle": "Français",
+    "monnaie_devise": "XPF - Franc",
     "ville": "Kaala-Gomén",
     "quartier_arrondissement": "Kaala-Gomén (Province Nord)",
     "code_postal": "98817",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -18486,9 +22182,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Océanie",
     "pays": "Île Norfolk",
     "langue_officielle": "Anglais",
+    "monnaie_devise": "AUD - Dollar australien ($AU)",
     "ville": "Territory of Norfolk Island",
     "quartier_arrondissement": "Territory of Norfolk Island",
     "code_postal": "2899",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -18496,9 +22194,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Océanie",
     "pays": "Nauru",
     "langue_officielle": "NA, Anglais",
+    "monnaie_devise": "AUD - Dollar australien ($AU)",
     "ville": "Nauru",
     "quartier_arrondissement": "Nauru",
     "code_postal": "NRU68",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -18506,9 +22206,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Océanie",
     "pays": "Niue",
     "langue_officielle": "NIU, Anglais",
+    "monnaie_devise": "NZD - Dollar néo-zélandais ($NZ)",
     "ville": "Niue",
     "quartier_arrondissement": "Niue",
     "code_postal": "9974",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -18516,9 +22218,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Océanie",
     "pays": "Nouvelle-Zélande",
     "langue_officielle": "Anglais, Maori",
+    "monnaie_devise": "NZD - Dollar néo-zélandais ($NZ)",
     "ville": "Auckland",
     "quartier_arrondissement": "Blockhouse Bay",
     "code_postal": "0600",
+    "population": "1 547 200",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -18526,9 +22230,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Océanie",
     "pays": "Nouvelle-Zélande",
     "langue_officielle": "Anglais, Maori",
+    "monnaie_devise": "NZD - Dollar néo-zélandais ($NZ)",
     "ville": "Auckland",
     "quartier_arrondissement": "Kelston",
     "code_postal": "0602",
+    "population": "1 547 200",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -18536,9 +22242,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Océanie",
     "pays": "Nouvelle-Zélande",
     "langue_officielle": "Anglais, Maori",
+    "monnaie_devise": "NZD - Dollar néo-zélandais ($NZ)",
     "ville": "Auckland",
     "quartier_arrondissement": "Huia",
     "code_postal": "0604",
+    "population": "1 547 200",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -18546,9 +22254,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Océanie",
     "pays": "Nouvelle-Zélande",
     "langue_officielle": "Anglais, Maori",
+    "monnaie_devise": "NZD - Dollar néo-zélandais ($NZ)",
     "ville": "Auckland",
     "quartier_arrondissement": "Te Atatu South",
     "code_postal": "0610",
+    "population": "17 240",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -18556,9 +22266,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Océanie",
     "pays": "Nouvelle-Zélande",
     "langue_officielle": "Anglais, Maori",
+    "monnaie_devise": "NZD - Dollar néo-zélandais ($NZ)",
     "ville": "Auckland",
     "quartier_arrondissement": "McLaren Park",
     "code_postal": "0612",
+    "population": "1 547 200",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -18566,9 +22278,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Océanie",
     "pays": "Nouvelle-Zélande",
     "langue_officielle": "Anglais, Maori",
+    "monnaie_devise": "NZD - Dollar néo-zélandais ($NZ)",
     "ville": "Auckland",
     "quartier_arrondissement": "Swanson",
     "code_postal": "0614",
+    "population": "1 547 200",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -18576,9 +22290,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Océanie",
     "pays": "Polynésie française",
     "langue_officielle": "Français, TY",
+    "monnaie_devise": "XPF - Franc",
     "ville": "Arue",
     "quartier_arrondissement": "Arue (Îles du Vent)",
     "code_postal": "98701",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -18586,9 +22302,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Océanie",
     "pays": "Polynésie française",
     "langue_officielle": "Français, TY",
+    "monnaie_devise": "XPF - Franc",
     "ville": "Faaa",
     "quartier_arrondissement": "Faaa (Îles du Vent)",
     "code_postal": "98704",
+    "population": "29 851",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -18596,9 +22314,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Océanie",
     "pays": "Polynésie française",
     "langue_officielle": "Français, TY",
+    "monnaie_devise": "XPF - Franc",
     "ville": "Hitiaa O Te Ra",
     "quartier_arrondissement": "Hitiaa",
     "code_postal": "98705",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -18606,9 +22326,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Océanie",
     "pays": "Polynésie française",
     "langue_officielle": "Français, TY",
+    "monnaie_devise": "XPF - Franc",
     "ville": "Hitiaa O Te Ra",
     "quartier_arrondissement": "Mahaena",
     "code_postal": "98706",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -18616,9 +22338,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Océanie",
     "pays": "Polynésie française",
     "langue_officielle": "Français, TY",
+    "monnaie_devise": "XPF - Franc",
     "ville": "Hitiaa O Te Ra",
     "quartier_arrondissement": "Papenoo",
     "code_postal": "98707",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -18626,9 +22350,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Océanie",
     "pays": "Polynésie française",
     "langue_officielle": "Français, TY",
+    "monnaie_devise": "XPF - Franc",
     "ville": "Hitiaa O Te Ra",
     "quartier_arrondissement": "Tiarei",
     "code_postal": "98708",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -18636,9 +22362,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Océanie",
     "pays": "Îles Pitcairn",
     "langue_officielle": "Anglais",
+    "monnaie_devise": "NZD - Dollar néo-zélandais ($NZ)",
     "ville": "Pitcairn, Henderson, Ducie and Oeno Islands",
     "quartier_arrondissement": "Pitcairn, Henderson, Ducie and Oeno Islands",
     "code_postal": "PCRN 1ZZ",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -18646,9 +22374,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Océanie",
     "pays": "Palaos",
     "langue_officielle": "PAU, SOV, Anglais, TOX",
+    "monnaie_devise": "USD - Dollar américain ($)",
     "ville": "Palau",
     "quartier_arrondissement": "Palau",
     "code_postal": "96940",
+    "population": "16 970",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -18656,9 +22386,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Océanie",
     "pays": "Wallis-et-Futuna",
     "langue_officielle": "WLS, FUD, Français",
+    "monnaie_devise": "XPF - Franc",
     "ville": "Circonscription d'Alo",
     "quartier_arrondissement": "Alo",
     "code_postal": "98610",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -18666,9 +22398,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Océanie",
     "pays": "Wallis-et-Futuna",
     "langue_officielle": "WLS, FUD, Français",
+    "monnaie_devise": "XPF - Franc",
     "ville": "Circonscription de Sigave",
     "quartier_arrondissement": "Sigave",
     "code_postal": "98620",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -18676,9 +22410,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Océanie",
     "pays": "Wallis-et-Futuna",
     "langue_officielle": "WLS, FUD, Français",
+    "monnaie_devise": "XPF - Franc",
     "ville": "Circonscription d'Uvéa",
     "quartier_arrondissement": "Uvéa",
     "code_postal": "98600",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -18686,9 +22422,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Océanie",
     "pays": "Samoa",
     "langue_officielle": "Samoan, Anglais",
+    "monnaie_devise": "WST - Tala",
     "ville": "Independent State of Samoa",
     "quartier_arrondissement": "Independent State of Samoa",
     "code_postal": "AS 96799",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -18696,9 +22434,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Océanie",
     "pays": "Îles Cook",
     "langue_officielle": "Anglais, Maori",
+    "monnaie_devise": "NZD - Dollar néo-zélandais ($NZ)",
     "ville": "Avarua",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Avarua)",
     "code_postal": "",
+    "population": "13 373",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -18706,9 +22446,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Océanie",
     "pays": "Fidji",
     "langue_officielle": "Anglais, Fidjien",
+    "monnaie_devise": "FJD - Dollar",
     "ville": "Suva",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Suva)",
     "code_postal": "",
+    "population": "77 366",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -18716,9 +22458,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Océanie",
     "pays": "Fidji",
     "langue_officielle": "Anglais, Fidjien",
+    "monnaie_devise": "FJD - Dollar",
     "ville": "Sigatoka",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Sigatoka)",
     "code_postal": "",
+    "population": "17 622",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -18726,9 +22470,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Océanie",
     "pays": "Fidji",
     "langue_officielle": "Anglais, Fidjien",
+    "monnaie_devise": "FJD - Dollar",
     "ville": "Nadi",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Nadi)",
     "code_postal": "",
+    "population": "42 284",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -18736,9 +22482,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Océanie",
     "pays": "Fidji",
     "langue_officielle": "Anglais, Fidjien",
+    "monnaie_devise": "FJD - Dollar",
     "ville": "Lautoka",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Lautoka)",
     "code_postal": "",
+    "population": "52 500",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -18746,9 +22494,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Océanie",
     "pays": "Fidji",
     "langue_officielle": "Anglais, Fidjien",
+    "monnaie_devise": "FJD - Dollar",
     "ville": "Lami",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Lami)",
     "code_postal": "",
+    "population": "24 639",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -18756,9 +22506,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Océanie",
     "pays": "Fidji",
     "langue_officielle": "Anglais, Fidjien",
+    "monnaie_devise": "FJD - Dollar",
     "ville": "Labasa",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Labasa)",
     "code_postal": "",
+    "population": "27 949",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -18766,9 +22518,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Océanie",
     "pays": "Kiribati",
     "langue_officielle": "Anglais, GIL",
+    "monnaie_devise": "AUD - Dollar australien ($AU)",
     "ville": "Tarawa",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Tarawa)",
     "code_postal": "",
+    "population": "40 311",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -18776,9 +22530,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Océanie",
     "pays": "Papouasie-Nouvelle-Guinée",
     "langue_officielle": "Anglais, HO, MEU, TPI",
+    "monnaie_devise": "PGK - Kina",
     "ville": "Wewak",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Wewak)",
     "code_postal": "",
+    "population": "18 230",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -18786,9 +22542,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Océanie",
     "pays": "Papouasie-Nouvelle-Guinée",
     "langue_officielle": "Anglais, HO, MEU, TPI",
+    "monnaie_devise": "PGK - Kina",
     "ville": "Port Moresby",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Port Moresby)",
     "code_postal": "",
+    "population": "283 733",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -18796,9 +22554,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Océanie",
     "pays": "Papouasie-Nouvelle-Guinée",
     "langue_officielle": "Anglais, HO, MEU, TPI",
+    "monnaie_devise": "PGK - Kina",
     "ville": "Popondetta",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Popondetta)",
     "code_postal": "",
+    "population": "28 198",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -18806,9 +22566,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Océanie",
     "pays": "Papouasie-Nouvelle-Guinée",
     "langue_officielle": "Anglais, HO, MEU, TPI",
+    "monnaie_devise": "PGK - Kina",
     "ville": "Mount Hagen",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Mount Hagen)",
     "code_postal": "",
+    "population": "33 623",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -18816,9 +22578,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Océanie",
     "pays": "Papouasie-Nouvelle-Guinée",
     "langue_officielle": "Anglais, HO, MEU, TPI",
+    "monnaie_devise": "PGK - Kina",
     "ville": "Mendi",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Mendi)",
     "code_postal": "",
+    "population": "29 100",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -18826,9 +22590,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Océanie",
     "pays": "Papouasie-Nouvelle-Guinée",
     "langue_officielle": "Anglais, HO, MEU, TPI",
+    "monnaie_devise": "PGK - Kina",
     "ville": "Madang",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Madang)",
     "code_postal": "",
+    "population": "27 419",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -18836,9 +22602,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Océanie",
     "pays": "Salomon",
     "langue_officielle": "Anglais, TPI",
+    "monnaie_devise": "SBD - Dollar",
     "ville": "Panatina",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Panatina)",
     "code_postal": "",
+    "population": "32 712",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -18846,9 +22614,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Océanie",
     "pays": "Salomon",
     "langue_officielle": "Anglais, TPI",
+    "monnaie_devise": "SBD - Dollar",
     "ville": "Nggosi",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Nggosi)",
     "code_postal": "",
+    "population": "26 009",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -18856,9 +22626,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Océanie",
     "pays": "Salomon",
     "langue_officielle": "Anglais, TPI",
+    "monnaie_devise": "SBD - Dollar",
     "ville": "Honiara",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Honiara)",
     "code_postal": "",
+    "population": "56 298",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -18866,9 +22638,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Océanie",
     "pays": "Salomon",
     "langue_officielle": "Anglais, TPI",
+    "monnaie_devise": "SBD - Dollar",
     "ville": "Kola'a",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Kola'a)",
     "code_postal": "",
+    "population": "20 783",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -18876,9 +22650,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Océanie",
     "pays": "Salomon",
     "langue_officielle": "Anglais, TPI",
+    "monnaie_devise": "SBD - Dollar",
     "ville": "Vura",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Vura)",
     "code_postal": "",
+    "population": "18 753",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -18886,9 +22662,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Océanie",
     "pays": "Salomon",
     "langue_officielle": "Anglais, TPI",
+    "monnaie_devise": "SBD - Dollar",
     "ville": "Malango",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Malango)",
     "code_postal": "",
+    "population": "15 560",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -18896,9 +22674,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Océanie",
     "pays": "Tokelau",
     "langue_officielle": "TKL, Anglais",
+    "monnaie_devise": "NZD - Dollar néo-zélandais ($NZ)",
     "ville": "Capitale / Centre Urbain",
     "quartier_arrondissement": "District Central / Agglomération Principale",
     "code_postal": "",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -18906,9 +22686,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Océanie",
     "pays": "Timor oriental",
     "langue_officielle": "Tétoum, Portugais, Indonésien, Anglais",
+    "monnaie_devise": "USD - Dollar américain ($)",
     "ville": "Suai",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Suai)",
     "code_postal": "",
+    "population": "21 539",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -18916,9 +22698,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Océanie",
     "pays": "Timor oriental",
     "langue_officielle": "Tétoum, Portugais, Indonésien, Anglais",
+    "monnaie_devise": "USD - Dollar américain ($)",
     "ville": "Maubara",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Maubara)",
     "code_postal": "",
+    "population": "16 300",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -18926,9 +22710,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Océanie",
     "pays": "Timor oriental",
     "langue_officielle": "Tétoum, Portugais, Indonésien, Anglais",
+    "monnaie_devise": "USD - Dollar américain ($)",
     "ville": "Maliana",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Maliana)",
     "code_postal": "",
+    "population": "22 000",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -18936,9 +22722,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Océanie",
     "pays": "Timor oriental",
     "langue_officielle": "Tétoum, Portugais, Indonésien, Anglais",
+    "monnaie_devise": "USD - Dollar américain ($)",
     "ville": "Likisá",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Likisá)",
     "code_postal": "",
+    "population": "19 000",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -18946,9 +22734,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Océanie",
     "pays": "Timor oriental",
     "langue_officielle": "Tétoum, Portugais, Indonésien, Anglais",
+    "monnaie_devise": "USD - Dollar américain ($)",
     "ville": "Dili",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Dili)",
     "code_postal": "",
+    "population": "150 000",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -18956,9 +22746,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Océanie",
     "pays": "Timor oriental",
     "langue_officielle": "Tétoum, Portugais, Indonésien, Anglais",
+    "monnaie_devise": "USD - Dollar américain ($)",
     "ville": "Baukau",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Baukau)",
     "code_postal": "",
+    "population": "16 000",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -18966,9 +22758,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Océanie",
     "pays": "Tonga",
     "langue_officielle": "Tongan, Anglais",
+    "monnaie_devise": "TOP - Pa'anga",
     "ville": "Nuku‘alofa",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Nuku‘alofa)",
     "code_postal": "",
+    "population": "22 400",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -18976,9 +22770,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Océanie",
     "pays": "Tuvalu",
     "langue_officielle": "TVL, Anglais, Samoan, GIL",
+    "monnaie_devise": "AUD - Dollar australien ($AU)",
     "ville": "Funafuti",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Funafuti)",
     "code_postal": "",
+    "population": "6 320",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -18986,9 +22782,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Océanie",
     "pays": "Îles mineures éloignées des États-Unis",
     "langue_officielle": "Anglais",
+    "monnaie_devise": "USD - Dollar américain ($)",
     "ville": "Capitale / Centre Urbain",
     "quartier_arrondissement": "District Central / Agglomération Principale",
     "code_postal": "",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -18996,9 +22794,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Océanie",
     "pays": "Vanuatu",
     "langue_officielle": "Bichelamar, Anglais, Français",
+    "monnaie_devise": "VUV - Vatu",
     "ville": "Port-Vila",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Port-Vila)",
     "code_postal": "",
+    "population": "35 901",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -19006,9 +22806,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Antarctique",
     "pays": "Géorgie du Sud-et-les Îles Sandwich du Sud",
     "langue_officielle": "Anglais",
+    "monnaie_devise": "GBP - Livre sterling (£)",
     "ville": "South Georgia and the South Sandwich Islands",
     "quartier_arrondissement": "South Georgia and the South Sandwich Islands",
     "code_postal": "SIQQ 1ZZ",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -19016,9 +22818,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Antarctique",
     "pays": "Îles Heard-et-MacDonald",
     "langue_officielle": "Non spécifié",
+    "monnaie_devise": "AUD - Dollar australien ($AU)",
     "ville": "Territory of Heard Island and McDonald Islands",
     "quartier_arrondissement": "Territory of Heard Island and McDonald Islands",
     "code_postal": "7151",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -19026,9 +22830,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Antarctique",
     "pays": "Antarctique",
     "langue_officielle": "Non spécifié",
+    "monnaie_devise": "Non spécifié",
     "ville": "Capitale / Centre Urbain",
     "quartier_arrondissement": "District Central / Agglomération Principale",
     "code_postal": "",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -19036,9 +22842,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Antarctique",
     "pays": "Île Bouvet",
     "langue_officielle": "Non spécifié",
+    "monnaie_devise": "NOK - Couronne norvégienne (kr)",
     "ville": "Capitale / Centre Urbain",
     "quartier_arrondissement": "District Central / Agglomération Principale",
     "code_postal": "",
+    "population": "",
     "created_at": "2024-01-01T00:00:00Z"
   },
   {
@@ -19046,9 +22854,11 @@ export const INITIAL_GEO_DATA: GeoLocation[] = [
     "continent": "Antarctique",
     "pays": "Terres australes et antarctiques françaises",
     "langue_officielle": "Français",
+    "monnaie_devise": "EUR - Euro (€)",
     "ville": "Port-aux-Français",
     "quartier_arrondissement": "Centre Urbain / Agglomération (Port-aux-Français)",
     "code_postal": "",
+    "population": "45",
     "created_at": "2024-01-01T00:00:00Z"
   }
 ];

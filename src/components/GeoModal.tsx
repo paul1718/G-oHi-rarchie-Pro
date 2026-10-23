@@ -32,9 +32,11 @@ export const GeoModal: React.FC<GeoModalProps> = ({
     continent: '',
     pays: '',
     langue_officielle: '',
+    monnaie_devise: '',
     ville: '',
     quartier_arrondissement: '',
     code_postal: '',
+    population: '',
   });
 
   const [errors, setErrors] = useState<Record<string, string>>({});
@@ -46,18 +48,22 @@ export const GeoModal: React.FC<GeoModalProps> = ({
         continent: initialData.continent,
         pays: initialData.pays,
         langue_officielle: initialData.langue_officielle || '',
+        monnaie_devise: initialData.monnaie_devise || '',
         ville: initialData.ville,
         quartier_arrondissement: initialData.quartier_arrondissement,
         code_postal: initialData.code_postal,
+        population: initialData.population || '',
       });
     } else {
       setFormData({
         continent: '',
         pays: '',
         langue_officielle: '',
+        monnaie_devise: '',
         ville: '',
         quartier_arrondissement: '',
         code_postal: '',
+        population: '',
       });
     }
     setErrors({});
@@ -191,6 +197,20 @@ export const GeoModal: React.FC<GeoModalProps> = ({
             />
           </div>
 
+          {/* Monnaie / Devise */}
+          <div>
+            <label className="block text-xs font-semibold text-slate-700 dark:text-slate-300 mb-1">
+              Monnaie / Devise
+            </label>
+            <input
+              type="text"
+              value={formData.monnaie_devise || ''}
+              onChange={(e) => setFormData({ ...formData, monnaie_devise: e.target.value })}
+              placeholder="Ex: EUR - Euro (€), XAF - Franc CFA BEAC, USD..."
+              className="w-full px-3.5 py-2 text-sm bg-slate-50 dark:bg-slate-800 rounded-lg border border-slate-200 dark:border-slate-700 text-slate-900 dark:text-white placeholder-slate-400 focus:outline-none focus:ring-2 focus:ring-brand-500"
+            />
+          </div>
+
           {/* Ville */}
           <div>
             <label className="block text-xs font-semibold text-slate-700 dark:text-slate-300 mb-1">
@@ -242,25 +262,29 @@ export const GeoModal: React.FC<GeoModalProps> = ({
           {/* Code Postal */}
           <div>
             <label className="block text-xs font-semibold text-slate-700 dark:text-slate-300 mb-1">
-              Code Postal <span className="text-red-500">*</span>
+              Code Postal <span className="text-slate-400 font-normal">(laisser vide si sans code postal)</span>
             </label>
             <input
               type="text"
               value={formData.code_postal}
               onChange={(e) => setFormData({ ...formData, code_postal: e.target.value })}
-              placeholder="Ex: 75008, BP 1024, H2W 1V8, 10012, 10200..."
-              className={`w-full px-3.5 py-2 text-sm bg-slate-50 dark:bg-slate-800 rounded-lg border text-slate-900 dark:text-white placeholder-slate-400 focus:outline-none focus:ring-2 ${
-                errors.code_postal
-                  ? 'border-red-300 focus:ring-red-400'
-                  : 'border-slate-200 dark:border-slate-700 focus:ring-brand-500'
-              }`}
+              placeholder="Ex: 75008, 10012, 10200 ou laisser vide..."
+              className="w-full px-3.5 py-2 text-sm bg-slate-50 dark:bg-slate-800 rounded-lg border border-slate-200 dark:border-slate-700 text-slate-900 dark:text-white placeholder-slate-400 focus:outline-none focus:ring-2 focus:ring-brand-500"
             />
-            {errors.code_postal && (
-              <p className="text-xs text-red-500 flex items-center gap-1 mt-1">
-                <AlertCircle className="w-3 h-3" />
-                <span>{errors.code_postal}</span>
-              </p>
-            )}
+          </div>
+
+          {/* Population */}
+          <div>
+            <label className="block text-xs font-semibold text-slate-700 dark:text-slate-300 mb-1">
+              Population <span className="text-slate-400 font-normal">(nombre ou estimation, vide si inconnu)</span>
+            </label>
+            <input
+              type="text"
+              value={formData.population || ''}
+              onChange={(e) => setFormData({ ...formData, population: e.target.value })}
+              placeholder="Ex: 2 138 551, 85 000..."
+              className="w-full px-3.5 py-2 text-sm bg-slate-50 dark:bg-slate-800 rounded-lg border border-slate-200 dark:border-slate-700 text-slate-900 dark:text-white placeholder-slate-400 focus:outline-none focus:ring-2 focus:ring-brand-500"
+            />
           </div>
 
           {/* Buttons Footer */}

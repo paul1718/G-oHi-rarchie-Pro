@@ -105,6 +105,14 @@ export const GeoTable: React.FC<GeoTableProps> = ({
                 </div>
               </th>
 
+              {/* Monnaie / Devise */}
+              <th className="py-3.5 px-4 cursor-pointer hover:bg-slate-100 dark:hover:bg-slate-800 transition-colors group select-none" onClick={() => onSort('monnaie_devise')}>
+                <div className="flex items-center space-x-1.5">
+                  <span>Monnaie / Devise</span>
+                  {renderSortIcon('monnaie_devise')}
+                </div>
+              </th>
+
               {/* Ville */}
               <th className="py-3.5 px-4 cursor-pointer hover:bg-slate-100 dark:hover:bg-slate-800 transition-colors group select-none" onClick={() => onSort('ville')}>
                 <div className="flex items-center space-x-1.5">
@@ -129,6 +137,14 @@ export const GeoTable: React.FC<GeoTableProps> = ({
                 </div>
               </th>
 
+              {/* Population */}
+              <th className="py-3.5 px-4 cursor-pointer hover:bg-slate-100 dark:hover:bg-slate-800 transition-colors group select-none" onClick={() => onSort('population')}>
+                <div className="flex items-center space-x-1.5">
+                  <span>Population</span>
+                  {renderSortIcon('population')}
+                </div>
+              </th>
+
               {/* Actions */}
               <th className="py-3.5 px-4 text-right">Actions</th>
             </tr>
@@ -136,7 +152,7 @@ export const GeoTable: React.FC<GeoTableProps> = ({
           <tbody className="divide-y divide-slate-100 dark:divide-slate-800 text-sm">
             {paginatedData.length === 0 ? (
               <tr>
-                <td colSpan={7} className="py-12 text-center text-slate-500 dark:text-slate-400">
+                <td colSpan={9} className="py-12 text-center text-slate-500 dark:text-slate-400">
                   <div className="flex flex-col items-center justify-center space-y-2">
                     <FolderOpen className="w-10 h-10 text-slate-300 dark:text-slate-600" />
                     <p className="font-medium text-slate-700 dark:text-slate-300">
@@ -177,6 +193,17 @@ export const GeoTable: React.FC<GeoTableProps> = ({
                     </span>
                   </td>
 
+                  {/* Monnaie / Devise */}
+                  <td className="py-3 px-4 text-xs text-slate-700 dark:text-slate-200 whitespace-nowrap font-medium">
+                    {item.monnaie_devise ? (
+                      <span className="inline-block px-2 py-0.5 rounded bg-emerald-50 dark:bg-emerald-950/40 text-emerald-700 dark:text-emerald-300 border border-emerald-200 dark:border-emerald-800 font-mono text-[11px]">
+                        {item.monnaie_devise}
+                      </span>
+                    ) : (
+                      <span className="text-slate-400 italic text-xs">Non spécifié</span>
+                    )}
+                  </td>
+
                   {/* Ville */}
                   <td className="py-3 px-4 text-slate-800 dark:text-slate-200 font-medium whitespace-nowrap">
                     {item.ville}
@@ -189,9 +216,24 @@ export const GeoTable: React.FC<GeoTableProps> = ({
 
                   {/* Code Postal */}
                   <td className="py-3 px-4 whitespace-nowrap">
-                    <span className="font-mono text-xs px-2.5 py-1 rounded-md bg-slate-100 dark:bg-slate-800 text-slate-900 dark:text-white font-bold border border-slate-200 dark:border-slate-700">
-                      {item.code_postal}
-                    </span>
+                    {item.code_postal ? (
+                      <span className="font-mono text-xs px-2.5 py-1 rounded-md bg-slate-100 dark:bg-slate-800 text-slate-900 dark:text-white font-bold border border-slate-200 dark:border-slate-700">
+                        {item.code_postal}
+                      </span>
+                    ) : (
+                      <span className="text-slate-300 dark:text-slate-600 text-xs">—</span>
+                    )}
+                  </td>
+
+                  {/* Population */}
+                  <td className="py-3 px-4 whitespace-nowrap text-xs">
+                    {item.population ? (
+                      <span className="font-semibold text-slate-900 dark:text-white bg-blue-50 dark:bg-blue-950/40 text-blue-700 dark:text-blue-300 px-2 py-0.5 rounded border border-blue-200 dark:border-blue-800">
+                        {item.population} hab.
+                      </span>
+                    ) : (
+                      <span className="text-slate-300 dark:text-slate-600 text-xs">—</span>
+                    )}
                   </td>
 
                   {/* Actions */}

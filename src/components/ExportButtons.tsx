@@ -17,9 +17,11 @@ export const ExportButtons: React.FC<ExportButtonsProps> = ({ data, onResetDefau
       'Continent',
       'Pays',
       'Liste langue officiel',
+      'Monnaie / Devise',
       'Ville',
       'Quartier / Arrondissement',
       'Code Postal',
+      'Population',
       'ID',
       'Date Création'
     ];
@@ -28,9 +30,11 @@ export const ExportButtons: React.FC<ExportButtonsProps> = ({ data, onResetDefau
       `"${item.continent.replace(/"/g, '""')}"`,
       `"${item.pays.replace(/"/g, '""')}"`,
       `"${(item.langue_officielle || '').replace(/"/g, '""')}"`,
+      `"${(item.monnaie_devise || '').replace(/"/g, '""')}"`,
       `"${item.ville.replace(/"/g, '""')}"`,
       `"${item.quartier_arrondissement.replace(/"/g, '""')}"`,
       `"${item.code_postal.replace(/"/g, '""')}"`,
+      `"${(item.population || '').replace(/"/g, '""')}"`,
       `"${item.id}"`,
       `"${item.created_at || ''}"`,
     ]);
