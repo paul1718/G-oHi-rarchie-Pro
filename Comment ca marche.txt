@@ -1,18 +1,18 @@
-🚀 Comment lancer l'application localement
+GéoHiérarchie Pro - Guide de démarrage rapide
 
-Lancer le serveur de développement :
+1. Lancement en un clic :
+Double-cliquez sur le fichier "lancer-application.bat" dans ce dossier.
 
-bash
+2. Lancement depuis PowerShell :
+Ouvrez PowerShell dans ce dossier et tapez :
 npm run dev
 
+3. Accès à l'application :
 Ouvrez votre navigateur sur : http://localhost:3000
 
-(Optionnel) Pour connecter une base Supabase distante :
-
-Exécutez le script schema.sql dans le SQL Editor de Supabase.
-Créez un fichier .env.local à la racine :
-env
-NEXT_PUBLIC_SUPABASE_URL=https://votre-projet.supabase.co
-NEXT_PUBLIC_SUPABASE_ANON_KEY=votre_cle_anon_publique
-
-Le build de production Next.js a été compilé avec succès et la totalité des fichiers a été versionnée dans le dépôt Git local (main).
+4. Fonctionnalités :
+- Exploration et gestion de la hiérarchie : Continent > Pays > Ville > Quartier > Code Postal
+- Base de données locale autonome avec persistance automatique
+- Téléchargement direct du tableau sous format Excel (.xlsx) et CSV
+- Filtres en cascade et recherche en temps réel
+- Formulaire d'ajout, modification et suppression (CRUD complet)

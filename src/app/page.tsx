@@ -21,7 +21,6 @@ import {
 export default function HomePage() {
   const [locations, setLocations] = useState<GeoLocation[]>([]);
   const [isLoading, setIsLoading] = useState<boolean>(true);
-  const [isCloud, setIsCloud] = useState<boolean>(false);
   const [isDark, setIsDark] = useState<boolean>(false);
 
   // Filters State
@@ -65,7 +64,6 @@ export default function HomePage() {
     try {
       const data = await geoService.getAll();
       setLocations(data);
-      setIsCloud(geoService.isCloudConnected());
     } catch (err) {
       console.error('Erreur de chargement:', err);
     } finally {
@@ -259,7 +257,6 @@ export default function HomePage() {
 
       {/* Header */}
       <Header
-        isCloud={isCloud}
         onOpenCreateModal={handleOpenCreateModal}
         onRefresh={loadData}
         isLoading={isLoading}
@@ -316,7 +313,7 @@ export default function HomePage() {
           Architecture : <strong>Continent &gt; Pays &gt; Ville &gt; Quartier / Arrondissement &gt; Code Postal</strong>
         </p>
         <p className="mt-1 text-slate-400 dark:text-slate-500">
-          Next.js (App Router) • Supabase / PostgreSQL • TailwindCSS • Lucide React
+          Next.js (App Router) • Stockage Local Autonome • TailwindCSS • Lucide React
         </p>
       </footer>
 

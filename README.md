@@ -1,6 +1,6 @@
-# GéoHiérarchie Pro (Next.js + Supabase + TailwindCSS)
+# GéoHiérarchie Pro (Next.js + TailwindCSS)
 
-Application web moderne, réactive et complète permettant d'explorer, filtrer, trier et gérer une hiérarchie géographique structurée :
+Application web moderne, 100% autonome et réactive permettant d'explorer, filtrer, trier et gérer une hiérarchie géographique structurée :
 
 > **Continent &gt; Pays &gt; Ville &gt; Quartier / Arrondissement &gt; Code Postal**
 
@@ -30,97 +30,45 @@ Application web moderne, réactive et complète permettant d'explorer, filtrer, 
 4. **Statistiques en Temps Réel** :
    - 4 indicateurs KPI dynamiques : Total localisations, Continents uniques, Pays représentés, Villes répertoriées
 
-5. **Exportation des Données** :
+5. **Exportation des Données & Téléchargement Excel** :
+   - Téléchargement direct du fichier **Excel (.xlsx)** depuis l'en-tête de l'application
    - Export au format **CSV** (compatible Excel / encodage UTF-8 avec BOM)
    - Export au format **JSON**
    - Bouton de restauration du jeu de données de test
 
-6. **Architecture Hybride Supabase / Local** :
-   - Connectivité Supabase native si configurée (`.env.local`)
-   - Mode local transparent avec persistance (`localStorage` + préchargement d'un jeu de données riche mondial) garantissant un fonctionnement 100% immédiat même hors ligne ou avant configuration de Supabase
+6. **Base de Données Locale Autonome & Persistante** :
+   - Fonctionnement autonome sans dépendance de service cloud externe
+   - Persistance automatique dans le stockage local du navigateur
+   - Jeu de données mondial complet préchargé au premier démarrage
 
 ---
 
-## 🗄️ Initialisation de la Base de Données (Supabase / PostgreSQL)
+## 🗄️ Schéma SQL Universel ([`schema.sql`](file:///schema.sql))
 
-Le fichier [`schema.sql`](file:///schema.sql) à la racine du projet contient :
-- La création de l'extension `uuid-ossp`
-- La table `public.geolocations` avec typages stricts
-- Les index d'optimisation sur `continent`, `pays`, `ville`, `code_postal`
-- Le trigger automatique `handle_updated_at`
-- Les politiques RLS (Row Level Security)
-- Le jeu de données de test mondial (Europe, Afrique, Amérique du Nord, Amérique du Sud, Asie, Océanie)
-
-### Pour déployer sur Supabase :
-1. Rendez-vous sur votre dashboard [Supabase](https://supabase.com).
-2. Ouvrez le **SQL Editor**.
-3. Copiez et collez le contenu du fichier `schema.sql` puis cliquez sur **Run**.
-4. Récupérez vos clés dans **Project Settings > API**.
-
----
-
-## ⚙️ Configuration (.env.local)
-
-Créez un fichier `.env.local` à la racine (ou copiez `.env.example`) :
-
-```bash
-NEXT_PUBLIC_SUPABASE_URL=https://votre-projet.supabase.co
-NEXT_PUBLIC_SUPABASE_ANON_KEY=votre_cle_anon_publique
-```
-
-*(Si ces variables ne sont pas définies, l'application fonctionne automatiquement en mode local avec cache persistant).*
+Pour les utilisateurs souhaitant exporter les données vers un SGBD relationnel (PostgreSQL, MySQL, SQLite), un script SQL propre est fourni avec :
+- Création de la table `geolocations`
+- Index d'optimisation
+- Jeu complet de données de test
 
 ---
 
 ## 🚀 Lancement Local
 
-### 1. Installation des dépendances
-```bash
-npm install
+### 1. En 1 clic (Windows) :
+Double-cliquez sur :
+```text
+lancer-application.bat
 ```
 
-### 2. Démarrage du serveur de développement
+### 2. En ligne de commande :
 ```bash
 npm run dev
 ```
 
 L'application est accessible à l'adresse : [http://localhost:3000](http://localhost:3000)
 
-### 3. Build pour la production
+### 3. Build pour la production :
 ```bash
 npm run build
 npm run start
-```
-
----
-
-## 📁 Structure du Projet
-
-```text
-├── schema.sql                       # Script SQL d'initialisation Supabase / Postgres
-├── package.json                     # Dépendances & scripts npm
-├── tsconfig.json                    # Configuration TypeScript
-├── tailwind.config.js               # Configuration TailwindCSS
-├── postcss.config.js                # Configuration PostCSS
-├── next.config.mjs                  # Configuration Next.js
-├── .env.example                     # Exemple de variables d'environnement
-├── src/
-│   ├── app/
-│   │   ├── globals.css              # Styles globaux & variables Tailwind
-│   │   ├── layout.tsx               # Layout racine Next.js (App Router)
-│   │   └── page.tsx                 # Page principale de l'application
-│   ├── components/
-│   │   ├── Header.tsx               # En-tête avec indicateur de connexion et thème
-│   │   ├── StatsCards.tsx           # Cartes KPI statistiques
-│   │   ├── Filters.tsx              # Recherche & filtres en cascade
-│   │   ├── GeoTable.tsx             # Tableau interactif avec tri et pagination
-│   │   ├── GeoModal.tsx             # Modale de création et édition (CRUD)
-│   │   ├── DeleteConfirmModal.tsx   # Modale de confirmation de suppression
-│   │   └── ExportButtons.tsx        # Boutons d'export CSV / JSON
-│   ├── lib/
-│   │   ├── supabase.ts              # Client Supabase avec détection dynamique
-│   │   ├── seed-data.ts             # Jeu de données d'exemple riche
-│   │   └── geo-storage.ts           # Service unifié Supabase & Stockage Local
-│   └── types/
-│       └── geo.ts                   # Interfaces TypeScript pour la hiérarchie
 ```

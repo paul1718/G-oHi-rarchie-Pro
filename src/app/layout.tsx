@@ -2,7 +2,7 @@ import type { Metadata } from 'next';
 import './globals.css';
 
 export const metadata: Metadata = {
-  title: 'Explorateur Hiérarchie Géographique | Next.js & Supabase',
+  title: 'Explorateur Hiérarchie Géographique | Next.js & TailwindCSS',
   description: 'Application de gestion et exploration géographique : Continent > Pays > Ville > Quartier / Arrondissement > Code Postal',
 };
 

@@ -1,119 +1,80 @@
 -- ==============================================================================
 -- SCHEMA DE BASE DE DONNEES : HIERARCHIE GEOGRAPHIQUE
 -- Table : geolocations (Continent > Pays > Ville > Quartier / Arrondissement > Code Postal)
--- Compatible Supabase / PostgreSQL
+-- Compatible PostgreSQL / MySQL / SQLite
 -- ==============================================================================
 
--- 1. Creation de l'extension uuid-ossp si necessaire
+-- 1. Creation de l'extension uuid-ossp si PostgreSQL
 CREATE EXTENSION IF NOT EXISTS "uuid-ossp";
 
 -- 2. Creation de la table principale
-CREATE TABLE IF NOT EXISTS public.geolocations (
-    id UUID PRIMARY KEY DEFAULT uuid_generate_v4(),
+CREATE TABLE IF NOT EXISTS geolocations (
+    id VARCHAR(64) PRIMARY KEY,
     continent VARCHAR(100) NOT NULL,
     pays VARCHAR(100) NOT NULL,
     ville VARCHAR(100) NOT NULL,
     quartier_arrondissement VARCHAR(150) NOT NULL,
     code_postal VARCHAR(30) NOT NULL,
-    created_at TIMESTAMPTZ NOT NULL DEFAULT timezone('utc'::text, now()),
-    updated_at TIMESTAMPTZ NOT NULL DEFAULT timezone('utc'::text, now())
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
 
 -- 3. Indexation pour accelerer les filtres en cascade et recherches
-CREATE INDEX IF NOT EXISTS idx_geolocations_continent ON public.geolocations(continent);
-CREATE INDEX IF NOT EXISTS idx_geolocations_pays ON public.geolocations(pays);
-CREATE INDEX IF NOT EXISTS idx_geolocations_ville ON public.geolocations(ville);
-CREATE INDEX IF NOT EXISTS idx_geolocations_code_postal ON public.geolocations(code_postal);
+CREATE INDEX IF NOT EXISTS idx_geolocations_continent ON geolocations(continent);
+CREATE INDEX IF NOT EXISTS idx_geolocations_pays ON geolocations(pays);
+CREATE INDEX IF NOT EXISTS idx_geolocations_ville ON geolocations(ville);
+CREATE INDEX IF NOT EXISTS idx_geolocations_code_postal ON geolocations(code_postal);
 
--- 4. Trigger de mise a jour automatique du champ updated_at
-CREATE OR REPLACE FUNCTION public.handle_updated_at()
-RETURNS TRIGGER AS $$
-BEGIN
-    NEW.updated_at = timezone('utc'::text, now());
-    RETURN NEW;
-END;
-$$ LANGUAGE plpgsql;
-
-DROP TRIGGER IF EXISTS trigger_set_timestamp ON public.geolocations;
-CREATE TRIGGER trigger_set_timestamp
-BEFORE UPDATE ON public.geolocations
-FOR EACH ROW
-EXECUTE FUNCTION public.handle_updated_at();
-
--- 5. Configuration de la securite RLS (Row Level Security)
-ALTER TABLE public.geolocations ENABLE ROW LEVEL SECURITY;
-
--- Politiques RLS permettant la lecture et l'ecriture pour le client anon (a ajuster selon vos besoins d'auth)
-DROP POLICY IF EXISTS "Lecture publique des localisations" ON public.geolocations;
-CREATE POLICY "Lecture publique des localisations" 
-    ON public.geolocations FOR SELECT 
-    USING (true);
-
-DROP POLICY IF EXISTS "Insertion publique des localisations" ON public.geolocations;
-CREATE POLICY "Insertion publique des localisations" 
-    ON public.geolocations FOR INSERT 
-    WITH CHECK (true);
-
-DROP POLICY IF EXISTS "Modification publique des localisations" ON public.geolocations;
-CREATE POLICY "Modification publique des localisations" 
-    ON public.geolocations FOR UPDATE 
-    USING (true);
-
-DROP POLICY IF EXISTS "Suppression publique des localisations" ON public.geolocations;
-CREATE POLICY "Suppression publique des localisations" 
-    ON public.geolocations FOR DELETE 
-    USING (true);
-
--- 6. Insertion du jeu de donnees de test varie (Seed Data)
-INSERT INTO public.geolocations (continent, pays, ville, quartier_arrondissement, code_postal) VALUES
+-- 4. Insertion du jeu de donnees de test varie (Seed Data)
+INSERT INTO geolocations (id, continent, pays, ville, quartier_arrondissement, code_postal) VALUES
 -- Europe
-('Europe', 'France', 'Paris', '1er Arrondissement (Louvre)', '75001'),
-('Europe', 'France', 'Paris', '8e Arrondissement (Élysée)', '75008'),
-('Europe', 'France', 'Paris', '18e Arrondissement (Montmartre)', '75018'),
-('Europe', 'France', 'Lyon', '2e Arrondissement (Presqu''île)', '69002'),
-('Europe', 'France', 'Lyon', '5e Arrondissement (Vieux Lyon)', '69005'),
-('Europe', 'France', 'Marseille', '1er Arrondissement (Vieux-Port)', '13001'),
-('Europe', 'France', 'Bordeaux', 'Centre-ville / Quinconces', '33000'),
-('Europe', 'Belgique', 'Bruxelles', 'Pentagone / Centre Historique', '1000'),
-('Europe', 'Belgique', 'Ixelles', 'Flagey - Châtelain', '1050'),
-('Europe', 'Suisse', 'Genève', 'Les Pâquis', '1201'),
-('Europe', 'Espagne', 'Barcelone', 'Eixample', '08007'),
-('Europe', 'Espagne', 'Madrid', 'Malasaña', '28004'),
-('Europe', 'Allemagne', 'Berlin', 'Mitte', '10115'),
-('Europe', 'Royaume-Uni', 'Londres', 'Westminster', 'SW1A 1AA'),
+('e1-fr-par-1', 'Europe', 'France', 'Paris', '1er Arrondissement (Louvre)', '75001'),
+('e2-fr-par-8', 'Europe', 'France', 'Paris', '8e Arrondissement (Élysée)', '75008'),
+('e3-fr-par-18', 'Europe', 'France', 'Paris', '18e Arrondissement (Montmartre)', '75018'),
+('e4-fr-lyo-2', 'Europe', 'France', 'Lyon', '2e Arrondissement (Presqu''île)', '69002'),
+('e5-fr-lyo-5', 'Europe', 'France', 'Lyon', '5e Arrondissement (Vieux Lyon)', '69005'),
+('e6-fr-mar-1', 'Europe', 'France', 'Marseille', '1er Arrondissement (Vieux-Port)', '13001'),
+('e7-fr-bdx', 'Europe', 'France', 'Bordeaux', 'Centre-ville / Quinconces', '33000'),
+('e8-be-bru', 'Europe', 'Belgique', 'Bruxelles', 'Pentagone / Centre Historique', '1000'),
+('e9-be-ixe', 'Europe', 'Belgique', 'Ixelles', 'Flagey - Châtelain', '1050'),
+('e10-ch-gen', 'Europe', 'Suisse', 'Genève', 'Les Pâquis', '1201'),
+('e11-es-bar', 'Europe', 'Espagne', 'Barcelone', 'Eixample', '08007'),
+('e12-es-mad', 'Europe', 'Espagne', 'Madrid', 'Malasaña', '28004'),
+('e13-de-ber', 'Europe', 'Allemagne', 'Berlin', 'Mitte', '10115'),
+('e14-uk-lon', 'Europe', 'Royaume-Uni', 'Londres', 'Westminster', 'SW1A 1AA'),
 
 -- Afrique
-('Afrique', 'Cameroun', 'Douala', 'Akwa', 'BP 1024'),
-('Afrique', 'Cameroun', 'Douala', 'Bonanjo', 'BP 1010'),
-('Afrique', 'Cameroun', 'Douala', 'Bonapriso', 'BP 1015'),
-('Afrique', 'Cameroun', 'Yaoundé', 'Bastos', 'BP 8001'),
-('Afrique', 'Cameroun', 'Yaoundé', 'Omnisports', 'BP 8012'),
-('Afrique', 'Sénégal', 'Dakar', 'Plateau', '10200'),
-('Afrique', 'Sénégal', 'Dakar', 'Almadies', '10500'),
-('Afrique', 'Côte d''Ivoire', 'Abidjan', 'Cocody', '01 BP 1200'),
-('Afrique', 'Côte d''Ivoire', 'Abidjan', 'Plateau', '01 BP 1000'),
-('Afrique', 'Maroc', 'Casablanca', 'Maârif', '20100'),
-('Afrique', 'Maroc', 'Marrakech', 'Guéliz', '40000'),
+('a1-cm-dla-1', 'Afrique', 'Cameroun', 'Douala', 'Akwa', 'BP 1024'),
+('a2-cm-dla-2', 'Afrique', 'Cameroun', 'Douala', 'Bonanjo', 'BP 1010'),
+('a3-cm-dla-3', 'Afrique', 'Cameroun', 'Douala', 'Bonapriso', 'BP 1015'),
+('a4-cm-yao-1', 'Afrique', 'Cameroun', 'Yaoundé', 'Bastos', 'BP 8001'),
+('a5-cm-yao-2', 'Afrique', 'Cameroun', 'Yaoundé', 'Omnisports', 'BP 8012'),
+('a6-sn-dak-1', 'Afrique', 'Sénégal', 'Dakar', 'Plateau', '10200'),
+('a7-sn-dak-2', 'Afrique', 'Sénégal', 'Dakar', 'Almadies', '10500'),
+('a8-ci-abj-1', 'Afrique', 'Côte d''Ivoire', 'Abidjan', 'Cocody', '01 BP 1200'),
+('a9-ci-abj-2', 'Afrique', 'Côte d''Ivoire', 'Abidjan', 'Plateau', '01 BP 1000'),
+('a10-ma-cas', 'Afrique', 'Maroc', 'Casablanca', 'Maârif', '20100'),
+('a11-ma-rak', 'Afrique', 'Maroc', 'Marrakech', 'Guéliz', '40000'),
 
 -- Amérique du Nord
-('Amérique du Nord', 'Canada', 'Montréal', 'Plateau-Mont-Royal', 'H2W 1V8'),
-('Amérique du Nord', 'Canada', 'Montréal', 'Vieux-Montréal', 'H2Y 1G5'),
-('Amérique du Nord', 'Canada', 'Québec', 'Vieux-Québec', 'G1R 4P5'),
-('Amérique du Nord', 'États-Unis', 'New York', 'Manhattan / SoHo', '10012'),
-('Amérique du Nord', 'États-Unis', 'New York', 'Brooklyn / Williamsburg', '11211'),
-('Amérique du Nord', 'États-Unis', 'San Francisco', 'Mission District', '94110'),
+('na1-ca-mtl-1', 'Amérique du Nord', 'Canada', 'Montréal', 'Plateau-Mont-Royal', 'H2W 1V8'),
+('na2-ca-mtl-2', 'Amérique du Nord', 'Canada', 'Montréal', 'Vieux-Montréal', 'H2Y 1G5'),
+('na3-ca-que', 'Amérique du Nord', 'Canada', 'Québec', 'Vieux-Québec', 'G1R 4P5'),
+('na4-us-nyc-1', 'Amérique du Nord', 'États-Unis', 'New York', 'Manhattan / SoHo', '10012'),
+('na5-us-nyc-2', 'Amérique du Nord', 'États-Unis', 'New York', 'Brooklyn / Williamsburg', '11211'),
+('na6-us-sfo', 'Amérique du Nord', 'États-Unis', 'San Francisco', 'Mission District', '94110'),
 
 -- Amérique du Sud
-('Amérique du Sud', 'Brésil', 'São Paulo', 'Jardins', '01410-000'),
-('Amérique du Sud', 'Brésil', 'Rio de Janeiro', 'Copacabana', '22070-001'),
-('Amérique du Sud', 'Argentine', 'Buenos Aires', 'Palermo', 'C1425'),
+('sa1-br-sao', 'Amérique du Sud', 'Brésil', 'São Paulo', 'Jardins', '01410-000'),
+('sa2-br-rio', 'Amérique du Sud', 'Brésil', 'Rio de Janeiro', 'Copacabana', '22070-001'),
+('sa3-ar-bue', 'Amérique du Sud', 'Argentine', 'Buenos Aires', 'Palermo', 'C1425'),
 
 -- Asie
-('Asie', 'Japon', 'Tokyo', 'Shibuya', '150-0002'),
-('Asie', 'Japon', 'Tokyo', 'Shinjuku', '160-0022'),
-('Asie', 'Singapour', 'Singapour', 'Marina Bay', '018956'),
-('Asie', 'Émirats Arabes Unis', 'Dubaï', 'Downtown Dubai', 'PO 11111'),
+('as1-jp-tyo-1', 'Asie', 'Japon', 'Tokyo', 'Shibuya', '150-0002'),
+('as2-jp-tyo-2', 'Asie', 'Japon', 'Tokyo', 'Shinjuku', '160-0022'),
+('as3-sg-sin', 'Asie', 'Singapour', 'Singapour', 'Marina Bay', '018956'),
+('as4-ae-dxb', 'Asie', 'Émirats Arabes Unis', 'Dubaï', 'Downtown Dubai', 'PO 11111'),
 
 -- Océanie
-('Océanie', 'Australie', 'Sydney', 'The Rocks', '2000'),
-('Océanie', 'Australie', 'Melbourne', 'Carlton', '3053');
+('oc1-au-syd', 'Océanie', 'Australie', 'Sydney', 'The Rocks', '2000'),
+('oc2-au-mel', 'Océanie', 'Australie', 'Melbourne', 'Carlton', '3053');
