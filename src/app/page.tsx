@@ -125,9 +125,9 @@ export default function HomePage() {
     const searchNormalized = filters.search.trim().toLowerCase();
 
     const filtered = locations.filter((item) => {
-      // Global search across all fields (including official languages, currency and population)
+      // Global search across all fields (including ISO code, capital, official languages, currency and population)
       if (searchNormalized) {
-        const fullString = `${item.continent} ${item.pays} ${item.langue_officielle || ''} ${item.monnaie_devise || ''} ${item.ville} ${item.quartier_arrondissement} ${item.code_postal} ${item.population || ''}`.toLowerCase();
+        const fullString = `${item.continent} ${item.pays} ${item.code_iso || ''} ${item.capitale || ''} ${item.langue_officielle || ''} ${item.monnaie_devise || ''} ${item.ville} ${item.quartier_arrondissement} ${item.code_postal} ${item.population || ''}`.toLowerCase();
         if (!fullString.includes(searchNormalized)) {
           return false;
         }
@@ -282,11 +282,11 @@ export default function HomePage() {
                 </span>
               </div>
               <h2 className="text-xl font-extrabold tracking-tight text-white">
-                Catalogue Mondial &amp; Fichiers Excel par Continent (avec Devises &amp; Populations)
+                Catalogue Mondial &amp; Fichiers Excel par Continent (avec Code ISO, Capitale, Devises &amp; Populations)
               </h2>
               <p className="text-xs text-slate-300 leading-relaxed">
-                Ce catalogue réunit l'ensemble des données géographiques officielles mondiales structurées en 8 colonnes strictes : 
-                <strong className="text-brand-300"> Continent &gt; Pays &gt; Liste langue officiel &gt; Monnaie / Devise &gt; Ville &gt; Quartier / Arrondissement &gt; Code Postal &gt; Population</strong>.
+                Ce catalogue réunit l'ensemble des données géographiques officielles mondiales structurées en 10 colonnes strictes : 
+                <strong className="text-brand-300"> Continent &gt; Pays &gt; Code ISO &gt; Capitale &gt; Liste langue officiel &gt; Monnaie / Devise &gt; Ville &gt; Quartier / Arrondissement &gt; Code Postal &gt; Population</strong>.
                 Pour les localités sans population répertoriée ou pays sans code postal résidentiel (ex. Cameroun, Côte d'Ivoire, Gabon, RDC, Tchad, Émirats Arabes Unis, Qatar), 
                 les cases respectives sont <strong>strictement vides</strong> sans aucune donnée inventée.
               </p>

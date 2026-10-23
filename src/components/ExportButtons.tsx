@@ -16,6 +16,8 @@ export const ExportButtons: React.FC<ExportButtonsProps> = ({ data, onResetDefau
     const headers = [
       'Continent',
       'Pays',
+      'Code ISO',
+      'Capitale',
       'Liste langue officiel',
       'Monnaie / Devise',
       'Ville',
@@ -29,6 +31,8 @@ export const ExportButtons: React.FC<ExportButtonsProps> = ({ data, onResetDefau
     const rows = data.map((item) => [
       `"${item.continent.replace(/"/g, '""')}"`,
       `"${item.pays.replace(/"/g, '""')}"`,
+      `"${(item.code_iso || '').replace(/"/g, '""')}"`,
+      `"${(item.capitale || '').replace(/"/g, '""')}"`,
       `"${(item.langue_officielle || '').replace(/"/g, '""')}"`,
       `"${(item.monnaie_devise || '').replace(/"/g, '""')}"`,
       `"${item.ville.replace(/"/g, '""')}"`,

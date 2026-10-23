@@ -2,6 +2,8 @@ export interface GeoLocation {
   id: string;
   continent: string;
   pays: string;
+  code_iso?: string;
+  capitale?: string;
   langue_officielle?: string;
   monnaie_devise?: string;
   ville: string;
@@ -24,6 +26,8 @@ export interface GeoFilters {
 export type SortField =
   | 'continent'
   | 'pays'
+  | 'code_iso'
+  | 'capitale'
   | 'langue_officielle'
   | 'monnaie_devise'
   | 'ville'

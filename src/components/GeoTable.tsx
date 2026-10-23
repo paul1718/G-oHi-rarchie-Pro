@@ -97,6 +97,22 @@ export const GeoTable: React.FC<GeoTableProps> = ({
                 </div>
               </th>
 
+              {/* Code ISO */}
+              <th className="py-3.5 px-4 cursor-pointer hover:bg-slate-100 dark:hover:bg-slate-800 transition-colors group select-none" onClick={() => onSort('code_iso')}>
+                <div className="flex items-center space-x-1.5">
+                  <span>Code ISO</span>
+                  {renderSortIcon('code_iso')}
+                </div>
+              </th>
+
+              {/* Capitale */}
+              <th className="py-3.5 px-4 cursor-pointer hover:bg-slate-100 dark:hover:bg-slate-800 transition-colors group select-none" onClick={() => onSort('capitale')}>
+                <div className="flex items-center space-x-1.5">
+                  <span>Capitale</span>
+                  {renderSortIcon('capitale')}
+                </div>
+              </th>
+
               {/* Liste langue officiel */}
               <th className="py-3.5 px-4 cursor-pointer hover:bg-slate-100 dark:hover:bg-slate-800 transition-colors group select-none" onClick={() => onSort('langue_officielle')}>
                 <div className="flex items-center space-x-1.5">
@@ -152,7 +168,7 @@ export const GeoTable: React.FC<GeoTableProps> = ({
           <tbody className="divide-y divide-slate-100 dark:divide-slate-800 text-sm">
             {paginatedData.length === 0 ? (
               <tr>
-                <td colSpan={9} className="py-12 text-center text-slate-500 dark:text-slate-400">
+                <td colSpan={11} className="py-12 text-center text-slate-500 dark:text-slate-400">
                   <div className="flex flex-col items-center justify-center space-y-2">
                     <FolderOpen className="w-10 h-10 text-slate-300 dark:text-slate-600" />
                     <p className="font-medium text-slate-700 dark:text-slate-300">
@@ -184,6 +200,18 @@ export const GeoTable: React.FC<GeoTableProps> = ({
                   {/* Pays */}
                   <td className="py-3 px-4 font-semibold text-slate-900 dark:text-white whitespace-nowrap">
                     {item.pays}
+                  </td>
+
+                  {/* Code ISO */}
+                  <td className="py-3 px-4 whitespace-nowrap text-xs">
+                    <span className="font-mono font-bold px-2 py-0.5 rounded bg-blue-50 dark:bg-blue-950/40 text-blue-700 dark:text-blue-300 border border-blue-200 dark:border-blue-800">
+                      {item.code_iso || '—'}
+                    </span>
+                  </td>
+
+                  {/* Capitale */}
+                  <td className="py-3 px-4 text-xs text-slate-700 dark:text-slate-300 whitespace-nowrap font-medium">
+                    {item.capitale || '—'}
                   </td>
 
                   {/* Liste langue officiel */}

@@ -31,6 +31,8 @@ export const GeoModal: React.FC<GeoModalProps> = ({
   const [formData, setFormData] = useState<GeoLocationInput>({
     continent: '',
     pays: '',
+    code_iso: '',
+    capitale: '',
     langue_officielle: '',
     monnaie_devise: '',
     ville: '',
@@ -47,6 +49,8 @@ export const GeoModal: React.FC<GeoModalProps> = ({
       setFormData({
         continent: initialData.continent,
         pays: initialData.pays,
+        code_iso: initialData.code_iso || '',
+        capitale: initialData.capitale || '',
         langue_officielle: initialData.langue_officielle || '',
         monnaie_devise: initialData.monnaie_devise || '',
         ville: initialData.ville,
@@ -58,6 +62,8 @@ export const GeoModal: React.FC<GeoModalProps> = ({
       setFormData({
         continent: '',
         pays: '',
+        code_iso: '',
+        capitale: '',
         langue_officielle: '',
         monnaie_devise: '',
         ville: '',
@@ -181,6 +187,35 @@ export const GeoModal: React.FC<GeoModalProps> = ({
                 <span>{errors.pays}</span>
               </p>
             )}
+          </div>
+
+          {/* Code ISO */}
+          <div>
+            <label className="block text-xs font-semibold text-slate-700 dark:text-slate-300 mb-1">
+              Code ISO
+            </label>
+            <input
+              type="text"
+              value={formData.code_iso || ''}
+              onChange={(e) => setFormData({ ...formData, code_iso: e.target.value.toUpperCase() })}
+              placeholder="Ex: FR, CM, CI, US, JP..."
+              maxLength={3}
+              className="w-full px-3.5 py-2 text-sm bg-slate-50 dark:bg-slate-800 rounded-lg border border-slate-200 dark:border-slate-700 text-slate-900 dark:text-white placeholder-slate-400 focus:outline-none focus:ring-2 focus:ring-brand-500 font-mono"
+            />
+          </div>
+
+          {/* Capitale */}
+          <div>
+            <label className="block text-xs font-semibold text-slate-700 dark:text-slate-300 mb-1">
+              Capitale
+            </label>
+            <input
+              type="text"
+              value={formData.capitale || ''}
+              onChange={(e) => setFormData({ ...formData, capitale: e.target.value })}
+              placeholder="Ex: Paris, Yaoundé, Yamoussoukro, Washington..."
+              className="w-full px-3.5 py-2 text-sm bg-slate-50 dark:bg-slate-800 rounded-lg border border-slate-200 dark:border-slate-700 text-slate-900 dark:text-white placeholder-slate-400 focus:outline-none focus:ring-2 focus:ring-brand-500"
+            />
           </div>
 
           {/* Liste langue officiel */}
