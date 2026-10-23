@@ -1,7 +1,7 @@
 'use client';
 
 import React from 'react';
-import { Download, FileJson, FileSpreadsheet, RotateCcw } from 'lucide-react';
+import { FileJson, FileSpreadsheet, RotateCcw } from 'lucide-react';
 import { GeoLocation } from '@/types/geo';
 
 interface ExportButtonsProps {
@@ -13,13 +13,26 @@ export const ExportButtons: React.FC<ExportButtonsProps> = ({ data, onResetDefau
   const exportToCSV = () => {
     if (data.length === 0) return;
 
-    const headers = ['Continent', 'Pays', 'Ville', 'Quartier / Arrondissement', 'Code Postal', 'ID', 'Date Creation'];
+    const headers = [
+      'Continent',
+      'Pays',
+      'Ville',
+      'Quartier / Arrondissement',
+      'Modèle Code Postal',
+      'Règle de Format',
+      'Exemples Types',
+      'ID',
+      'Date Création'
+    ];
+
     const rows = data.map((item) => [
       `"${item.continent.replace(/"/g, '""')}"`,
       `"${item.pays.replace(/"/g, '""')}"`,
       `"${item.ville.replace(/"/g, '""')}"`,
       `"${item.quartier_arrondissement.replace(/"/g, '""')}"`,
-      `"${item.code_postal.replace(/"/g, '""')}"`,
+      `"${item.modele_code_postal.replace(/"/g, '""')}"`,
+      `"${item.format_regle.replace(/"/g, '""')}"`,
+      `"${(item.exemples_types || '').replace(/"/g, '""')}"`,
       `"${item.id}"`,
       `"${item.created_at || ''}"`,
     ]);
@@ -29,7 +42,7 @@ export const ExportButtons: React.FC<ExportButtonsProps> = ({ data, onResetDefau
     const url = URL.createObjectURL(blob);
     const link = document.createElement('a');
     link.href = url;
-    link.setAttribute('download', `geolocations_${new Date().toISOString().slice(0, 10)}.csv`);
+    link.setAttribute('download', `modeles_codes_postaux_${new Date().toISOString().slice(0, 10)}.csv`);
     document.body.appendChild(link);
     link.click();
     document.body.removeChild(link);
@@ -44,7 +57,7 @@ export const ExportButtons: React.FC<ExportButtonsProps> = ({ data, onResetDefau
     const url = URL.createObjectURL(blob);
     const link = document.createElement('a');
     link.href = url;
-    link.setAttribute('download', `geolocations_${new Date().toISOString().slice(0, 10)}.json`);
+    link.setAttribute('download', `modeles_codes_postaux_${new Date().toISOString().slice(0, 10)}.json`);
     document.body.appendChild(link);
     link.click();
     document.body.removeChild(link);
@@ -78,10 +91,10 @@ export const ExportButtons: React.FC<ExportButtonsProps> = ({ data, onResetDefau
       <button
         onClick={onResetDefaults}
         className="inline-flex items-center space-x-1.5 px-3 py-2 text-xs font-medium text-slate-500 hover:text-slate-800 dark:text-slate-400 dark:hover:text-slate-200 transition-colors"
-        title="Recharger le jeu complet de données de test"
+        title="Recharger le catalogue des modèles de codes postaux"
       >
         <RotateCcw className="w-3.5 h-3.5" />
-        <span>Restaurer les données de démonstration</span>
+        <span>Restaurer les modèles types de démonstration</span>
       </button>
     </div>
   );

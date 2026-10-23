@@ -1,7 +1,7 @@
 'use client';
 
 import React, { useState, useEffect } from 'react';
-import { X, Save, AlertCircle } from 'lucide-react';
+import { X, Save, AlertCircle, Sparkles, Hash } from 'lucide-react';
 import { GeoLocation, GeoLocationInput } from '@/types/geo';
 
 interface GeoModalProps {
@@ -19,7 +19,6 @@ const COMMON_CONTINENTS = [
   'Amérique du Sud',
   'Asie',
   'Océanie',
-  'Antarctique',
 ];
 
 export const GeoModal: React.FC<GeoModalProps> = ({
@@ -34,7 +33,9 @@ export const GeoModal: React.FC<GeoModalProps> = ({
     pays: '',
     ville: '',
     quartier_arrondissement: '',
-    code_postal: '',
+    modele_code_postal: '',
+    format_regle: '',
+    exemples_types: '',
   });
 
   const [errors, setErrors] = useState<Record<string, string>>({});
@@ -47,7 +48,9 @@ export const GeoModal: React.FC<GeoModalProps> = ({
         pays: initialData.pays,
         ville: initialData.ville,
         quartier_arrondissement: initialData.quartier_arrondissement,
-        code_postal: initialData.code_postal,
+        modele_code_postal: initialData.modele_code_postal,
+        format_regle: initialData.format_regle,
+        exemples_types: initialData.exemples_types,
       });
     } else {
       setFormData({
@@ -55,7 +58,9 @@ export const GeoModal: React.FC<GeoModalProps> = ({
         pays: '',
         ville: '',
         quartier_arrondissement: '',
-        code_postal: '',
+        modele_code_postal: '',
+        format_regle: '',
+        exemples_types: '',
       });
     }
     setErrors({});
@@ -71,7 +76,12 @@ export const GeoModal: React.FC<GeoModalProps> = ({
     if (!formData.quartier_arrondissement.trim()) {
       errs.quartier_arrondissement = 'Le quartier ou arrondissement est requis';
     }
-    if (!formData.code_postal.trim()) errs.code_postal = 'Le code postal est requis';
+    if (!formData.modele_code_postal.trim()) {
+      errs.modele_code_postal = 'Le modèle / type de code postal est requis';
+    }
+    if (!formData.format_regle.trim()) {
+      errs.format_regle = 'La règle de format ou structure est requise';
+    }
 
     setErrors(errs);
     return Object.keys(errs).length === 0;
@@ -103,10 +113,10 @@ export const GeoModal: React.FC<GeoModalProps> = ({
         <div className="flex items-center justify-between px-6 py-4 border-b border-slate-100 dark:border-slate-800">
           <div>
             <h2 className="text-lg font-bold text-slate-900 dark:text-white">
-              {initialData ? 'Modifier la localisation' : 'Ajouter une localisation'}
+              {initialData ? 'Modifier le modèle de localisation' : 'Nouveau modèle de code postal par quartier'}
             </h2>
             <p className="text-xs text-slate-500 dark:text-slate-400 mt-0.5">
-              Renseignez les cinq niveaux de la hiérarchie géographique
+              Définissez la structure, règle et plage de code postal pour cet arrondissement
             </p>
           </div>
           <button
@@ -118,7 +128,7 @@ export const GeoModal: React.FC<GeoModalProps> = ({
         </div>
 
         {/* Modal Body */}
-        <form onSubmit={handleSubmit} className="p-6 space-y-4">
+        <form onSubmit={handleSubmit} className="p-6 space-y-4 max-h-[80vh] overflow-y-auto">
           {/* Continent */}
           <div>
             <label className="block text-xs font-semibold text-slate-700 dark:text-slate-300 mb-1">
@@ -206,7 +216,7 @@ export const GeoModal: React.FC<GeoModalProps> = ({
               type="text"
               value={formData.quartier_arrondissement}
               onChange={(e) => setFormData({ ...formData, quartier_arrondissement: e.target.value })}
-              placeholder="Ex: 8e Arrondissement, Akwa, Plateau-Mont-Royal..."
+              placeholder="Ex: 8e Arrondissement, Akwa / Bonanjo, Plateau-Mont-Royal..."
               className={`w-full px-3.5 py-2 text-sm bg-slate-50 dark:bg-slate-800 rounded-lg border text-slate-900 dark:text-white placeholder-slate-400 focus:outline-none focus:ring-2 ${
                 errors.quartier_arrondissement
                   ? 'border-red-300 focus:ring-red-400'
@@ -221,28 +231,68 @@ export const GeoModal: React.FC<GeoModalProps> = ({
             )}
           </div>
 
-          {/* Code Postal */}
+          {/* Modèle / Type de Code Postal */}
           <div>
-            <label className="block text-xs font-semibold text-slate-700 dark:text-slate-300 mb-1">
-              Code Postal <span className="text-red-500">*</span>
+            <label className="block text-xs font-semibold text-slate-700 dark:text-slate-300 mb-1 flex items-center gap-1">
+              <Hash className="w-3 h-3 text-brand-600" />
+              <span>Modèle / Type de Code Postal <span className="text-red-500">*</span></span>
             </label>
             <input
               type="text"
-              value={formData.code_postal}
-              onChange={(e) => setFormData({ ...formData, code_postal: e.target.value })}
-              placeholder="Ex: 75008, BP 1024, H2W 1V8, 150-0002..."
+              value={formData.modele_code_postal}
+              onChange={(e) => setFormData({ ...formData, modele_code_postal: e.target.value })}
+              placeholder="Ex: Modèle 75001 à 75020 (750XX), Format H2X XXX, BP 1000 - 1500..."
               className={`w-full px-3.5 py-2 text-sm bg-slate-50 dark:bg-slate-800 rounded-lg border text-slate-900 dark:text-white placeholder-slate-400 focus:outline-none focus:ring-2 ${
-                errors.code_postal
+                errors.modele_code_postal
                   ? 'border-red-300 focus:ring-red-400'
                   : 'border-slate-200 dark:border-slate-700 focus:ring-brand-500'
               }`}
             />
-            {errors.code_postal && (
+            {errors.modele_code_postal && (
               <p className="text-xs text-red-500 flex items-center gap-1 mt-1">
                 <AlertCircle className="w-3 h-3" />
-                <span>{errors.code_postal}</span>
+                <span>{errors.modele_code_postal}</span>
               </p>
             )}
+          </div>
+
+          {/* Règle / Structure du format */}
+          <div>
+            <label className="block text-xs font-semibold text-slate-700 dark:text-slate-300 mb-1">
+              Règle / Structure du format <span className="text-red-500">*</span>
+            </label>
+            <input
+              type="text"
+              value={formData.format_regle}
+              onChange={(e) => setFormData({ ...formData, format_regle: e.target.value })}
+              placeholder="Ex: 5 chiffres (750 + N° arr.), Alphanumérique canadien H#X #X#, BP + 4 chiffres..."
+              className={`w-full px-3.5 py-2 text-sm bg-slate-50 dark:bg-slate-800 rounded-lg border text-slate-900 dark:text-white placeholder-slate-400 focus:outline-none focus:ring-2 ${
+                errors.format_regle
+                  ? 'border-red-300 focus:ring-red-400'
+                  : 'border-slate-200 dark:border-slate-700 focus:ring-brand-500'
+              }`}
+            />
+            {errors.format_regle && (
+              <p className="text-xs text-red-500 flex items-center gap-1 mt-1">
+                <AlertCircle className="w-3 h-3" />
+                <span>{errors.format_regle}</span>
+              </p>
+            )}
+          </div>
+
+          {/* Exemples types */}
+          <div>
+            <label className="block text-xs font-semibold text-slate-700 dark:text-slate-300 mb-1 flex items-center gap-1">
+              <Sparkles className="w-3 h-3 text-amber-500" />
+              <span>Exemples types représentatifs</span>
+            </label>
+            <input
+              type="text"
+              value={formData.exemples_types}
+              onChange={(e) => setFormData({ ...formData, exemples_types: e.target.value })}
+              placeholder="Ex: 75001, 75008, 75018 (ou H2W 1V8, H2Y 1G5)"
+              className="w-full px-3.5 py-2 text-sm bg-slate-50 dark:bg-slate-800 rounded-lg border border-slate-200 dark:border-slate-700 text-slate-900 dark:text-white placeholder-slate-400 focus:outline-none focus:ring-2 focus:ring-brand-500"
+            />
           </div>
 
           {/* Buttons Footer */}
@@ -261,7 +311,7 @@ export const GeoModal: React.FC<GeoModalProps> = ({
               className="inline-flex items-center space-x-2 px-5 py-2 text-sm font-semibold text-white bg-brand-600 hover:bg-brand-700 active:bg-brand-800 rounded-lg shadow-sm transition-all disabled:opacity-50"
             >
               <Save className="w-4 h-4" />
-              <span>{isSubmitting ? 'Enregistrement...' : 'Enregistrer'}</span>
+              <span>{isSubmitting ? 'Enregistrement...' : 'Enregistrer le modèle'}</span>
             </button>
           </div>
         </form>

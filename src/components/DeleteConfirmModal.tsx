@@ -1,7 +1,7 @@
 'use client';
 
 import React from 'react';
-import { AlertTriangle, Trash2, X } from 'lucide-react';
+import { AlertTriangle, Trash2 } from 'lucide-react';
 import { GeoLocation } from '@/types/geo';
 
 interface DeleteConfirmModalProps {
@@ -31,10 +31,10 @@ export const DeleteConfirmModal: React.FC<DeleteConfirmModalProps> = ({
             </div>
             <div className="flex-1">
               <h3 className="text-base font-bold text-slate-900 dark:text-white">
-                Supprimer la localisation ?
+                Supprimer ce modèle de localisation ?
               </h3>
               <p className="text-xs text-slate-500 dark:text-slate-400 mt-1">
-                Êtes-vous sûr de vouloir supprimer définitivement cette entrée ?
+                Êtes-vous sûr de vouloir supprimer la définition de ce modèle de quartier ?
               </p>
 
               {/* Summary box */}
@@ -50,8 +50,12 @@ export const DeleteConfirmModal: React.FC<DeleteConfirmModalProps> = ({
                   {item.quartier_arrondissement}
                 </p>
                 <p>
-                  <strong className="text-slate-700 dark:text-slate-300">Code postal :</strong>{' '}
-                  {item.code_postal}
+                  <strong className="text-slate-700 dark:text-slate-300">Modèle CP :</strong>{' '}
+                  {item.modele_code_postal}
+                </p>
+                <p>
+                  <strong className="text-slate-700 dark:text-slate-300">Règle :</strong>{' '}
+                  {item.format_regle}
                 </p>
               </div>
             </div>
