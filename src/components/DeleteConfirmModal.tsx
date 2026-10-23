@@ -31,31 +31,27 @@ export const DeleteConfirmModal: React.FC<DeleteConfirmModalProps> = ({
             </div>
             <div className="flex-1">
               <h3 className="text-base font-bold text-slate-900 dark:text-white">
-                Supprimer ce modèle de localisation ?
+                Supprimer cette localisation ?
               </h3>
               <p className="text-xs text-slate-500 dark:text-slate-400 mt-1">
-                Êtes-vous sûr de vouloir supprimer la définition de ce modèle de quartier ?
+                Êtes-vous sûr de vouloir supprimer définitivement cette entrée ?
               </p>
 
               {/* Summary box */}
               <div className="mt-3 p-3 bg-slate-50 dark:bg-slate-800/60 rounded-lg border border-slate-200 dark:border-slate-700 text-xs space-y-1">
                 <p>
-                  <strong className="text-slate-700 dark:text-slate-300">Emplacement :</strong>{' '}
+                  <strong className="text-slate-700 dark:text-slate-300">Ville & Pays :</strong>{' '}
                   <span className="text-slate-900 dark:text-white font-medium">
                     {item.ville} ({item.pays})
                   </span>
                 </p>
                 <p>
-                  <strong className="text-slate-700 dark:text-slate-300">Quartier :</strong>{' '}
+                  <strong className="text-slate-700 dark:text-slate-300">Quartier / Arrondissement :</strong>{' '}
                   {item.quartier_arrondissement}
                 </p>
                 <p>
-                  <strong className="text-slate-700 dark:text-slate-300">Modèle CP :</strong>{' '}
-                  {item.modele_code_postal}
-                </p>
-                <p>
-                  <strong className="text-slate-700 dark:text-slate-300">Règle :</strong>{' '}
-                  {item.format_regle}
+                  <strong className="text-slate-700 dark:text-slate-300">Code postal :</strong>{' '}
+                  <span className="font-mono font-bold text-slate-900 dark:text-white">{item.code_postal}</span>
                 </p>
               </div>
             </div>

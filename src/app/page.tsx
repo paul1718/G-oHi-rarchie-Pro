@@ -39,7 +39,7 @@ export default function HomePage() {
 
   // Pagination State
   const [currentPage, setCurrentPage] = useState<number>(1);
-  const [pageSize, setPageSize] = useState<number>(10);
+  const [pageSize, setPageSize] = useState<number>(25);
 
   // Modals State
   const [isModalOpen, setIsModalOpen] = useState<boolean>(false);
@@ -125,9 +125,9 @@ export default function HomePage() {
     const searchNormalized = filters.search.trim().toLowerCase();
 
     const filtered = locations.filter((item) => {
-      // Global text search across all fields including models and rules
+      // Global search across all 5 fields
       if (searchNormalized) {
-        const fullString = `${item.continent} ${item.pays} ${item.ville} ${item.quartier_arrondissement} ${item.modele_code_postal} ${item.format_regle} ${item.exemples_types || ''}`.toLowerCase();
+        const fullString = `${item.continent} ${item.pays} ${item.ville} ${item.quartier_arrondissement} ${item.code_postal}`.toLowerCase();
         if (!fullString.includes(searchNormalized)) {
           return false;
         }
@@ -215,10 +215,10 @@ export default function HomePage() {
   const handleSubmitModal = async (input: GeoLocationInput) => {
     if (editingItem) {
       await geoService.update(editingItem.id, input);
-      showToast(`Modèle "${input.quartier_arrondissement} (${input.ville})" mis à jour avec succès.`);
+      showToast(`Localisation "${input.quartier_arrondissement} (${input.ville})" mise à jour.`);
     } else {
       await geoService.create(input);
-      showToast(`Nouveau modèle "${input.quartier_arrondissement} (${input.ville})" créé avec succès.`);
+      showToast(`Localisation "${input.quartier_arrondissement} (${input.ville})" ajoutée.`);
     }
     await loadData();
   };
@@ -228,7 +228,7 @@ export default function HomePage() {
     try {
       setIsDeleting(true);
       await geoService.delete(deletingItem.id);
-      showToast(`Modèle "${deletingItem.quartier_arrondissement}" supprimé.`);
+      showToast(`Localisation "${deletingItem.quartier_arrondissement}" supprimée.`);
       setIsDeleteModalOpen(false);
       setDeletingItem(null);
       await loadData();
@@ -243,7 +243,7 @@ export default function HomePage() {
     const def = geoService.resetDefaults();
     setLocations(def);
     handleResetFilters();
-    showToast('Modèles types de codes postaux réinitialisés.');
+    showToast('Base de données mondiales réinitialisée.');
   };
 
   return (
@@ -310,10 +310,10 @@ export default function HomePage() {
       {/* Footer */}
       <footer className="border-t border-slate-200 dark:border-slate-800 py-6 text-center text-xs text-slate-500 dark:text-slate-400 bg-white/50 dark:bg-slate-900/50">
         <p>
-          Architecture : <strong>Continent &gt; Pays &gt; Ville &gt; Quartier / Arrondissement &gt; Modèle / Type de Code Postal</strong>
+          Architecture : <strong>Continent &gt; Pays &gt; Ville &gt; Quartier / Arrondissement &gt; Code Postal</strong>
         </p>
         <p className="mt-1 text-slate-400 dark:text-slate-500">
-          Next.js (App Router) • Modèles & Structures Postales par Quartier • TailwindCSS • Lucide React
+          Next.js (App Router) • Base de Données Mondiale Atomique • TailwindCSS • Lucide React
         </p>
       </footer>
 

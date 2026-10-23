@@ -18,9 +18,7 @@ export const ExportButtons: React.FC<ExportButtonsProps> = ({ data, onResetDefau
       'Pays',
       'Ville',
       'Quartier / Arrondissement',
-      'Modèle Code Postal',
-      'Règle de Format',
-      'Exemples Types',
+      'Code Postal',
       'ID',
       'Date Création'
     ];
@@ -30,9 +28,7 @@ export const ExportButtons: React.FC<ExportButtonsProps> = ({ data, onResetDefau
       `"${item.pays.replace(/"/g, '""')}"`,
       `"${item.ville.replace(/"/g, '""')}"`,
       `"${item.quartier_arrondissement.replace(/"/g, '""')}"`,
-      `"${item.modele_code_postal.replace(/"/g, '""')}"`,
-      `"${item.format_regle.replace(/"/g, '""')}"`,
-      `"${(item.exemples_types || '').replace(/"/g, '""')}"`,
+      `"${item.code_postal.replace(/"/g, '""')}"`,
       `"${item.id}"`,
       `"${item.created_at || ''}"`,
     ]);
@@ -42,7 +38,7 @@ export const ExportButtons: React.FC<ExportButtonsProps> = ({ data, onResetDefau
     const url = URL.createObjectURL(blob);
     const link = document.createElement('a');
     link.href = url;
-    link.setAttribute('download', `modeles_codes_postaux_${new Date().toISOString().slice(0, 10)}.csv`);
+    link.setAttribute('download', `geohierarchie_mondiale_${new Date().toISOString().slice(0, 10)}.csv`);
     document.body.appendChild(link);
     link.click();
     document.body.removeChild(link);
@@ -57,7 +53,7 @@ export const ExportButtons: React.FC<ExportButtonsProps> = ({ data, onResetDefau
     const url = URL.createObjectURL(blob);
     const link = document.createElement('a');
     link.href = url;
-    link.setAttribute('download', `modeles_codes_postaux_${new Date().toISOString().slice(0, 10)}.json`);
+    link.setAttribute('download', `geohierarchie_mondiale_${new Date().toISOString().slice(0, 10)}.json`);
     document.body.appendChild(link);
     link.click();
     document.body.removeChild(link);
@@ -91,10 +87,10 @@ export const ExportButtons: React.FC<ExportButtonsProps> = ({ data, onResetDefau
       <button
         onClick={onResetDefaults}
         className="inline-flex items-center space-x-1.5 px-3 py-2 text-xs font-medium text-slate-500 hover:text-slate-800 dark:text-slate-400 dark:hover:text-slate-200 transition-colors"
-        title="Recharger le catalogue des modèles de codes postaux"
+        title="Recharger le catalogue complet des localisations mondiales"
       >
         <RotateCcw className="w-3.5 h-3.5" />
-        <span>Restaurer les modèles types de démonstration</span>
+        <span>Restaurer les données mondiales</span>
       </button>
     </div>
   );

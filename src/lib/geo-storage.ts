@@ -1,7 +1,7 @@
 import { GeoLocation, GeoLocationInput } from '@/types/geo';
 import { INITIAL_GEO_DATA } from './seed-data';
 
-const STORAGE_KEY = 'geo_hierarchy_data_v2'; // bumped version for model/type structure
+const STORAGE_KEY = 'geo_hierarchy_data_v3';
 
 const getLocalLocations = (): GeoLocation[] => {
   if (typeof window === 'undefined') return INITIAL_GEO_DATA;
@@ -12,8 +12,7 @@ const getLocalLocations = (): GeoLocation[] => {
       return INITIAL_GEO_DATA;
     }
     const parsed = JSON.parse(raw);
-    // Ensure data conforms to new format
-    if (!Array.isArray(parsed) || parsed.length === 0 || !parsed[0].modele_code_postal) {
+    if (!Array.isArray(parsed) || parsed.length === 0 || !parsed[0].code_postal) {
       localStorage.setItem(STORAGE_KEY, JSON.stringify(INITIAL_GEO_DATA));
       return INITIAL_GEO_DATA;
     }
@@ -44,14 +43,12 @@ export const geoService = {
 
   async create(input: GeoLocationInput): Promise<GeoLocation> {
     const newEntry: GeoLocation = {
-      id: typeof crypto !== 'undefined' && crypto.randomUUID ? crypto.randomUUID() : `mod-${Date.now()}-${Math.random().toString(36).substring(2, 7)}`,
+      id: typeof crypto !== 'undefined' && crypto.randomUUID ? crypto.randomUUID() : `geo-${Date.now()}-${Math.random().toString(36).substring(2, 7)}`,
       continent: input.continent.trim(),
       pays: input.pays.trim(),
       ville: input.ville.trim(),
       quartier_arrondissement: input.quartier_arrondissement.trim(),
-      modele_code_postal: input.modele_code_postal.trim(),
-      format_regle: input.format_regle.trim(),
-      exemples_types: input.exemples_types.trim(),
+      code_postal: input.code_postal.trim(),
       created_at: new Date().toISOString(),
       updated_at: new Date().toISOString(),
     };
@@ -71,9 +68,7 @@ export const geoService = {
       pays: input.pays.trim(),
       ville: input.ville.trim(),
       quartier_arrondissement: input.quartier_arrondissement.trim(),
-      modele_code_postal: input.modele_code_postal.trim(),
-      format_regle: input.format_regle.trim(),
-      exemples_types: input.exemples_types.trim(),
+      code_postal: input.code_postal.trim(),
       created_at: target?.created_at || new Date().toISOString(),
       updated_at: new Date().toISOString(),
     };

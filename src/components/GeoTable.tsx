@@ -10,8 +10,6 @@ import {
   ChevronLeft,
   ChevronRight,
   FolderOpen,
-  Hash,
-  Sparkles,
 } from 'lucide-react';
 import { GeoLocation, SortConfig, SortField } from '@/types/geo';
 
@@ -115,12 +113,11 @@ export const GeoTable: React.FC<GeoTableProps> = ({
                 </div>
               </th>
 
-              {/* Modèle / Type de Code Postal */}
-              <th className="py-3.5 px-4 cursor-pointer hover:bg-slate-100 dark:hover:bg-slate-800 transition-colors group select-none" onClick={() => onSort('modele_code_postal')}>
+              {/* Code Postal */}
+              <th className="py-3.5 px-4 cursor-pointer hover:bg-slate-100 dark:hover:bg-slate-800 transition-colors group select-none" onClick={() => onSort('code_postal')}>
                 <div className="flex items-center space-x-1.5">
-                  <Hash className="w-3.5 h-3.5 text-brand-600" />
-                  <span>Modèle / Type de Code Postal</span>
-                  {renderSortIcon('modele_code_postal')}
+                  <span>Code Postal</span>
+                  {renderSortIcon('code_postal')}
                 </div>
               </th>
 
@@ -135,10 +132,10 @@ export const GeoTable: React.FC<GeoTableProps> = ({
                   <div className="flex flex-col items-center justify-center space-y-2">
                     <FolderOpen className="w-10 h-10 text-slate-300 dark:text-slate-600" />
                     <p className="font-medium text-slate-700 dark:text-slate-300">
-                      Aucun modèle de localisation trouvé
+                      Aucune localisation trouvée
                     </p>
                     <p className="text-xs text-slate-400 max-w-sm">
-                      Essayez d'ajuster vos critères ou ajoutez un nouveau modèle de code postal pour ce quartier.
+                      Essayez de modifier votre recherche ou ajoutez un quartier et son code postal.
                     </p>
                   </div>
                 </td>
@@ -150,7 +147,7 @@ export const GeoTable: React.FC<GeoTableProps> = ({
                   className="hover:bg-slate-50/70 dark:hover:bg-slate-800/40 transition-colors"
                 >
                   {/* Continent Badge */}
-                  <td className="py-3 px-4 align-top">
+                  <td className="py-3 px-4 whitespace-nowrap">
                     <span
                       className={`inline-block px-2.5 py-1 text-xs font-medium rounded-full border ${getContinentBadgeClass(
                         item.continent
@@ -161,60 +158,41 @@ export const GeoTable: React.FC<GeoTableProps> = ({
                   </td>
 
                   {/* Pays */}
-                  <td className="py-3 px-4 font-semibold text-slate-900 dark:text-white align-top">
+                  <td className="py-3 px-4 font-semibold text-slate-900 dark:text-white whitespace-nowrap">
                     {item.pays}
                   </td>
 
                   {/* Ville */}
-                  <td className="py-3 px-4 text-slate-800 dark:text-slate-200 font-medium align-top">
+                  <td className="py-3 px-4 text-slate-800 dark:text-slate-200 font-medium whitespace-nowrap">
                     {item.ville}
                   </td>
 
                   {/* Quartier / Arrondissement */}
-                  <td className="py-3 px-4 text-slate-700 dark:text-slate-300 align-top">
-                    <div className="font-medium">{item.quartier_arrondissement}</div>
+                  <td className="py-3 px-4 text-slate-700 dark:text-slate-300 font-medium">
+                    {item.quartier_arrondissement}
                   </td>
 
-                  {/* Modèle / Type de Code Postal */}
-                  <td className="py-3 px-4 align-top">
-                    <div className="space-y-1.5 max-w-md">
-                      {/* Badge Modèle */}
-                      <div className="inline-flex items-center space-x-1.5 px-2.5 py-1 rounded-md bg-brand-50 dark:bg-brand-950/50 text-brand-700 dark:text-brand-300 border border-brand-200 dark:border-brand-800 font-mono text-xs font-semibold">
-                        <Hash className="w-3 h-3 text-brand-600" />
-                        <span>{item.modele_code_postal}</span>
-                      </div>
-
-                      {/* Règle / Structure */}
-                      <p className="text-xs text-slate-600 dark:text-slate-400 leading-relaxed">
-                        <strong className="text-slate-700 dark:text-slate-300">Règle :</strong> {item.format_regle}
-                      </p>
-
-                      {/* Exemples Types */}
-                      {item.exemples_types && (
-                        <div className="flex items-center space-x-1 text-[11px] text-slate-500 dark:text-slate-400">
-                          <Sparkles className="w-3 h-3 text-amber-500 flex-shrink-0" />
-                          <span>
-                            <strong className="text-slate-600 dark:text-slate-300">Exemples types :</strong> {item.exemples_types}
-                          </span>
-                        </div>
-                      )}
-                    </div>
+                  {/* Code Postal */}
+                  <td className="py-3 px-4 whitespace-nowrap">
+                    <span className="font-mono text-xs px-2.5 py-1 rounded-md bg-slate-100 dark:bg-slate-800 text-slate-900 dark:text-white font-bold border border-slate-200 dark:border-slate-700">
+                      {item.code_postal}
+                    </span>
                   </td>
 
                   {/* Actions */}
-                  <td className="py-3 px-4 text-right whitespace-nowrap align-top">
+                  <td className="py-3 px-4 text-right whitespace-nowrap">
                     <div className="inline-flex items-center space-x-1.5">
                       <button
                         onClick={() => onEdit(item)}
                         className="p-1.5 text-slate-500 hover:text-brand-600 dark:hover:text-brand-400 hover:bg-brand-50 dark:hover:bg-brand-950/40 rounded-md transition-colors"
-                        title="Modifier ce modèle de quartier"
+                        title="Modifier cette ligne"
                       >
                         <Edit2 className="w-4 h-4" />
                       </button>
                       <button
                         onClick={() => onDelete(item)}
                         className="p-1.5 text-slate-500 hover:text-red-600 dark:hover:text-red-400 hover:bg-red-50 dark:hover:bg-red-950/40 rounded-md transition-colors"
-                        title="Supprimer ce modèle"
+                        title="Supprimer cette ligne"
                       >
                         <Trash2 className="w-4 h-4" />
                       </button>
@@ -237,7 +215,7 @@ export const GeoTable: React.FC<GeoTableProps> = ({
             className="px-2 py-1 bg-white dark:bg-slate-800 text-slate-900 dark:text-white rounded border border-slate-200 dark:border-slate-700 focus:outline-none"
           >
             <option value={10}>10</option>
-            <option value={20}>20</option>
+            <option value={25}>25</option>
             <option value={50}>50</option>
             <option value={100}>100</option>
           </select>
