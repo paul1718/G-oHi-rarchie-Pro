@@ -1,0 +1,581 @@
+import os
+import json
+import openpyxl
+from openpyxl.styles import Font, PatternFill, Alignment, Border, Side
+from openpyxl.utils import get_column_letter
+
+os.makedirs("public", exist_ok=True)
+os.makedirs("scripts", exist_ok=True)
+
+# ==============================================================================
+# BASE DE DONNEES EXHAUSTIVE DE TOUS LES PAYS DU MONDE SANS EXCEPTION (195+ PAYS)
+# Continent > Pays > Ville > Quartier / Arrondissement > Code Postal
+# ==============================================================================
+
+ALL_COUNTRIES_DATA = [
+    # =========================================================================
+    # 1. AFRIQUE (54 Pays reconnus par l'ONU)
+    # =========================================================================
+    ("Afrique", "Afrique du Sud", "Johannesburg", "Central Business District", "2001"),
+    ("Afrique", "Afrique du Sud", "Johannesburg", "Sandton", "2196"),
+    ("Afrique", "Afrique du Sud", "Le Cap", "City Bowl - Centre", "8001"),
+    ("Afrique", "Afrique du Sud", "Le Cap", "Camps Bay", "8005"),
+    ("Afrique", "Afrique du Sud", "Pretoria", "Central Pretoria", "0002"),
+    ("Afrique", "Algérie", "Alger", "Alger-Centre - Didouche Mourad", "16000"),
+    ("Afrique", "Algérie", "Alger", "Sidi M'Hamed", "16014"),
+    ("Afrique", "Algérie", "Alger", "Bab El Oued", "16008"),
+    ("Afrique", "Algérie", "Alger", "Hydra", "16035"),
+    ("Afrique", "Algérie", "Oran", "El Menzeh (Canastel)", "31000"),
+    ("Afrique", "Algérie", "Constantine", "Centre Ancien - Coudiat", "25000"),
+    ("Afrique", "Angola", "Luanda", "Ingombota - Baixa", "1000"),
+    ("Afrique", "Angola", "Luanda", "Maianga", "1050"),
+    ("Afrique", "Bénin", "Cotonou", "1er Arrondissement - Dandji", "01 BP 100"),
+    ("Afrique", "Bénin", "Cotonou", "5e Arrondissement - Guinkomey", "01 BP 500"),
+    ("Afrique", "Bénin", "Porto-Novo", "Ouando", "02 BP 200"),
+    ("Afrique", "Botswana", "Gaborone", "Main Mall - Central", "0000"),
+    ("Afrique", "Burkina Faso", "Ouagadougou", "Koulouba - Centre", "01 BP 100"),
+    ("Afrique", "Burkina Faso", "Ouagadougou", "Ouaga 2000", "01 BP 2000"),
+    ("Afrique", "Burundi", "Gitega", "Centre Urbain", "BP 100"),
+    ("Afrique", "Burundi", "Bujumbura", "Rohero", "BP 500"),
+    ("Afrique", "Cameroun", "Douala", "Douala 1er - Akwa", "BP 1024"),
+    ("Afrique", "Cameroun", "Douala", "Douala 1er - Bonanjo", "BP 1010"),
+    ("Afrique", "Cameroun", "Douala", "Douala 1er - Bonapriso", "BP 1015"),
+    ("Afrique", "Cameroun", "Douala", "Douala 2e - New Bell", "BP 2001"),
+    ("Afrique", "Cameroun", "Douala", "Douala 3e - Logbaba / Bassa", "BP 3012"),
+    ("Afrique", "Cameroun", "Douala", "Douala 4e - Bonabéri", "BP 4005"),
+    ("Afrique", "Cameroun", "Douala", "Douala 5e - Bepanda / Makepe", "BP 5018"),
+    ("Afrique", "Cameroun", "Yaoundé", "Yaoundé 1er - Bastos", "BP 8001"),
+    ("Afrique", "Cameroun", "Yaoundé", "Yaoundé 1er - Omnisports", "BP 8012"),
+    ("Afrique", "Cameroun", "Yaoundé", "Yaoundé 2e - Tsinga", "BP 8020"),
+    ("Afrique", "Cameroun", "Yaoundé", "Yaoundé 2e - Mokolo", "BP 8025"),
+    ("Afrique", "Cameroun", "Yaoundé", "Yaoundé 3e - Efoulan", "BP 8030"),
+    ("Afrique", "Cameroun", "Yaoundé", "Yaoundé 4e - Kondengui", "BP 8040"),
+    ("Afrique", "Cameroun", "Yaoundé", "Yaoundé 5e - Essos", "BP 8050"),
+    ("Afrique", "Cameroun", "Bafoussam", "Djemoun", "BP 9001"),
+    ("Afrique", "Cameroun", "Garoua", "Garoua Centre", "BP 7001"),
+    ("Afrique", "Cap-Vert", "Praia", "Plateau", "7600"),
+    ("Afrique", "République Centrafricaine", "Bangui", "1er Arrondissement - Centre", "BP 100"),
+    ("Afrique", "Comores", "Moroni", "Mtsangani", "BP 100"),
+    ("Afrique", "République du Congo", "Brazzaville", "Bacongo", "BP 100"),
+    ("Afrique", "République du Congo", "Brazzaville", "Poto-Poto", "BP 200"),
+    ("Afrique", "République Démocratique du Congo", "Kinshasa", "Gombe", "BP 3001"),
+    ("Afrique", "République Démocratique du Congo", "Kinshasa", "Kalamu", "BP 3010"),
+    ("Afrique", "République Démocratique du Congo", "Lubumbashi", "Lubumbashi Centre", "BP 5001"),
+    ("Afrique", "Côte d'Ivoire", "Abidjan", "Le Plateau", "01 BP 1000"),
+    ("Afrique", "Côte d'Ivoire", "Abidjan", "Cocody - Centre", "01 BP 1200"),
+    ("Afrique", "Côte d'Ivoire", "Abidjan", "Cocody - Deux-Plateaux", "08 BP 2200"),
+    ("Afrique", "Côte d'Ivoire", "Abidjan", "Marcory - Zone 4", "18 BP 1400"),
+    ("Afrique", "Côte d'Ivoire", "Abidjan", "Treichville", "05 BP 500"),
+    ("Afrique", "Côte d'Ivoire", "Abidjan", "Yopougon - Selmer", "16 BP 1100"),
+    ("Afrique", "Côte d'Ivoire", "Yamoussoukro", "Habitat", "BP 100"),
+    ("Afrique", "Djibouti", "Djibouti", "District 1 - Centre Historique", "BP 100"),
+    ("Afrique", "Égypte", "Le Caire", "Zamalek", "11211"),
+    ("Afrique", "Égypte", "Le Caire", "Maadi", "11728"),
+    ("Afrique", "Égypte", "Alexandrie", "Al Attarin", "21511"),
+    ("Afrique", "Érythrée", "Asmara", "Central District", "0000"),
+    ("Afrique", "Eswatini", "Mbabane", "Central Mbabane", "H100"),
+    ("Afrique", "Éthiopie", "Addis-Abeba", "Bole", "1000"),
+    ("Afrique", "Éthiopie", "Addis-Abeba", "Kirkos", "1010"),
+    ("Afrique", "Gabon", "Libreville", "1er Arrondissement - Batterie 4", "BP 100"),
+    ("Afrique", "Gabon", "Libreville", "2e Arrondissement - Mont-Bouët", "BP 200"),
+    ("Afrique", "Gambie", "Banjul", "Albert Market - Centre", "0000"),
+    ("Afrique", "Ghana", "Accra", "Osu - Oxford Street", "GA-001"),
+    ("Afrique", "Ghana", "Accra", "Airport Residential Area", "GA-015"),
+    ("Afrique", "Guinée", "Conakry", "Kaloum - Boulbinet", "BP 100"),
+    ("Afrique", "Guinée", "Conakry", "Dixinn", "BP 200"),
+    ("Afrique", "Guinée-Bissau", "Bissau", "Bissau Velho", "1000"),
+    ("Afrique", "Guinée équatoriale", "Malabo", "Malabo Centro", "BP 100"),
+    ("Afrique", "Kenya", "Nairobi", "Central Business District", "00100"),
+    ("Afrique", "Kenya", "Nairobi", "Westlands", "00800"),
+    ("Afrique", "Kenya", "Mombasa", "Mombasa Island", "80100"),
+    ("Afrique", "Lesotho", "Maseru", "Maseru Central", "100"),
+    ("Afrique", "Libéria", "Monrovia", "Mamba Point", "1000"),
+    ("Afrique", "Libye", "Tripoli", "Tripoli Centre", "1000"),
+    ("Afrique", "Madagascar", "Antananarivo", "1er Arrondissement - Analakely", "101"),
+    ("Afrique", "Madagascar", "Antananarivo", "3e Arrondissement - Ankorondrano", "102"),
+    ("Afrique", "Malawi", "Lilongwe", "City Centre - Area 10", "LL3"),
+    ("Afrique", "Mali", "Bamako", "Commune III - Centre Commercial", "BP 100"),
+    ("Afrique", "Mali", "Bamako", "Commune IV - Hamdallaye ACI 2000", "BP 200"),
+    ("Afrique", "Maroc", "Casablanca", "Maârif", "20100"),
+    ("Afrique", "Maroc", "Casablanca", "Sidi Belyout", "20000"),
+    ("Afrique", "Maroc", "Casablanca", "Anfa", "20050"),
+    ("Afrique", "Maroc", "Rabat", "Hassan", "10000"),
+    ("Afrique", "Maroc", "Rabat", "Agdal", "10090"),
+    ("Afrique", "Maroc", "Marrakech", "Guéliz", "40000"),
+    ("Afrique", "Maroc", "Tanger", "Tanger Médina", "90000"),
+    ("Afrique", "Maurice", "Port-Louis", "Central Business District", "11328"),
+    ("Afrique", "Mauritanie", "Nouakchott", "Tevragh Zeina", "BP 100"),
+    ("Afrique", "Mozambique", "Maputo", "Central C", "1100"),
+    ("Afrique", "Namibie", "Windhoek", "Central Business District", "9000"),
+    ("Afrique", "Niger", "Niamey", "Niamey 1 - Plateau", "BP 100"),
+    ("Afrique", "Nigéria", "Lagos", "Lagos Island", "101223"),
+    ("Afrique", "Nigéria", "Lagos", "Victoria Island", "101241"),
+    ("Afrique", "Nigéria", "Lagos", "Ikeja", "100271"),
+    ("Afrique", "Nigéria", "Abuja", "Garki", "900101"),
+    ("Afrique", "Nigéria", "Abuja", "Wuse", "900281"),
+    ("Afrique", "Ouganda", "Kampala", "Central Division - Nakasero", "10101"),
+    ("Afrique", "Rwanda", "Kigali", "Nyarugenge - Kiyovu", "0000"),
+    ("Afrique", "Rwanda", "Kigali", "Gasabo - Kimihurura", "0001"),
+    ("Afrique", "Sao Tomé-et-Principe", "São Tomé", "Água Grande", "CP 100"),
+    ("Afrique", "Sénégal", "Dakar", "Dakar-Plateau", "10200"),
+    ("Afrique", "Sénégal", "Dakar", "Médina", "10400"),
+    ("Afrique", "Sénégal", "Dakar", "Almadies", "10500"),
+    ("Afrique", "Sénégal", "Dakar", "Ngor", "10600"),
+    ("Afrique", "Sénégal", "Dakar", "Yoff", "10800"),
+    ("Afrique", "Sénégal", "Dakar", "Grand Dakar", "11000"),
+    ("Afrique", "Sénégal", "Saint-Louis", "Île de Saint-Louis", "32000"),
+    ("Afrique", "Seychelles", "Victoria", "Mont Fleuri", "BP 100"),
+    ("Afrique", "Sierra Leone", "Freetown", "Central Business District", "0000"),
+    ("Afrique", "Somalie", "Mogadiscio", "Hamar Weyne", "0000"),
+    ("Afrique", "Soudan", "Khartoum", "Khartoum 2", "11111"),
+    ("Afrique", "Soudan du Sud", "Djouba", "Hai Malakal", "0000"),
+    ("Afrique", "Tanzanie", "Dar es Salaam", "Ilala - Kivukoni", "11101"),
+    ("Afrique", "Tanzanie", "Dodoma", "Dodoma Urban", "41101"),
+    ("Afrique", "Tchad", "N'Djaména", "1er Arrondissement - Bololo", "BP 100"),
+    ("Afrique", "Togo", "Lomé", "1er Arrondissement - Décon", "01 BP 100"),
+    ("Afrique", "Togo", "Lomé", "2e Arrondissement - Tokoin", "01 BP 200"),
+    ("Afrique", "Tunisie", "Tunis", "Tunis Médina", "1000"),
+    ("Afrique", "Tunisie", "Tunis", "La Marsa", "2078"),
+    ("Afrique", "Tunisie", "Sousse", "Sousse Ville", "4000"),
+    ("Afrique", "Zambie", "Lusaka", "Central Lusaka", "10101"),
+    ("Afrique", "Zimbabwe", "Harare", "Harare Central", "0000"),
+
+    # =========================================================================
+    # 2. AMÉRIQUE DU NORD & CENTRALE & CARAÏBES (23 Pays + Territoires)
+    # =========================================================================
+    ("Amérique du Nord", "Antigua-et-Barbuda", "Saint John's", "Central Saint John's", "0000"),
+    ("Amérique du Nord", "Bahamas", "Nassau", "Downtown Nassau", "N-3937"),
+    ("Amérique du Nord", "Barbade", "Bridgetown", "Saint Michael", "BB11000"),
+    ("Amérique du Nord", "Belize", "Belize City", "Albert", "0000"),
+    ("Amérique du Nord", "Canada", "Montréal", "Le Plateau-Mont-Royal", "H2W 1V8"),
+    ("Amérique du Nord", "Canada", "Montréal", "Mile-End", "H2T 2M5"),
+    ("Amérique du Nord", "Canada", "Montréal", "Vieux-Montréal", "H2Y 1G5"),
+    ("Amérique du Nord", "Canada", "Montréal", "Centre-ville (Ville-Marie)", "H3B 4G7"),
+    ("Amérique du Nord", "Canada", "Montréal", "Rosemont - La Petite-Patrie", "H2S 2K3"),
+    ("Amérique du Nord", "Canada", "Québec", "Vieux-Québec", "G1R 4P5"),
+    ("Amérique du Nord", "Canada", "Québec", "Saint-Roch", "G1K 3A6"),
+    ("Amérique du Nord", "Canada", "Toronto", "Bay Street Financial District", "M5H 2N2"),
+    ("Amérique du Nord", "Canada", "Toronto", "Yorkville", "M4W 1A1"),
+    ("Amérique du Nord", "Canada", "Vancouver", "Downtown Vancouver", "V6B 1A1"),
+    ("Amérique du Nord", "Canada", "Ottawa", "ByWard Market", "K1N 7A1"),
+    ("Amérique du Nord", "Costa Rica", "San José", "Carmen", "10101"),
+    ("Amérique du Nord", "Cuba", "La Havane", "La Habana Vieja", "10100"),
+    ("Amérique du Nord", "Cuba", "La Havane", "Vedado", "10400"),
+    ("Amérique du Nord", "Dominique", "Roseau", "Central Roseau", "0000"),
+    ("Amérique du Nord", "République Dominicaine", "Saint-Domingue", "Zona Colonial", "10210"),
+    ("Amérique du Nord", "États-Unis", "New York", "Manhattan - Financial District", "10004"),
+    ("Amérique du Nord", "États-Unis", "New York", "Manhattan - SoHo", "10012"),
+    ("Amérique du Nord", "États-Unis", "New York", "Manhattan - Greenwich Village", "10014"),
+    ("Amérique du Nord", "États-Unis", "New York", "Manhattan - Midtown", "10018"),
+    ("Amérique du Nord", "États-Unis", "New York", "Manhattan - Upper East Side", "10021"),
+    ("Amérique du Nord", "États-Unis", "New York", "Manhattan - Harlem", "10027"),
+    ("Amérique du Nord", "États-Unis", "New York", "Brooklyn - Williamsburg", "11211"),
+    ("Amérique du Nord", "États-Unis", "New York", "Brooklyn - DUMBO", "11201"),
+    ("Amérique du Nord", "États-Unis", "Los Angeles", "Downtown LA", "90012"),
+    ("Amérique du Nord", "États-Unis", "Los Angeles", "Hollywood", "90028"),
+    ("Amérique du Nord", "États-Unis", "San Francisco", "Financial District", "94104"),
+    ("Amérique du Nord", "États-Unis", "San Francisco", "Mission District", "94110"),
+    ("Amérique du Nord", "États-Unis", "Chicago", "The Loop", "60601"),
+    ("Amérique du Nord", "États-Unis", "Miami", "Downtown Miami", "33131"),
+    ("Amérique du Nord", "États-Unis", "Washington D.C.", "Capitol Hill", "20003"),
+    ("Amérique du Nord", "Grenade", "Saint-Georges", "Town Center", "0000"),
+    ("Amérique du Nord", "Guatemala", "Guatemala City", "Zona 1 - Centro Histórico", "01001"),
+    ("Amérique du Nord", "Guatemala", "Guatemala City", "Zona 10 - Zona Viva", "01010"),
+    ("Amérique du Nord", "Haïti", "Port-au-Prince", "Centre-Ville", "HT6110"),
+    ("Amérique du Nord", "Haïti", "Port-au-Prince", "Pétion-Ville", "HT6140"),
+    ("Amérique du Nord", "Honduras", "Tegucigalpa", "Centro Histórico", "11101"),
+    ("Amérique du Nord", "Jamaïque", "Kingston", "Downtown Kingston", "JMAKN01"),
+    ("Amérique du Nord", "Mexique", "Mexico", "Cuauhtémoc - Centro Histórico", "06000"),
+    ("Amérique du Nord", "Mexique", "Mexico", "Roma Norte", "06700"),
+    ("Amérique du Nord", "Mexique", "Mexico", "Condesa", "06140"),
+    ("Amérique du Nord", "Mexique", "Guadalajara", "Centro", "44100"),
+    ("Amérique du Nord", "Nicaragua", "Managua", "Distrito 1", "11001"),
+    ("Amérique du Nord", "Panama", "Panama City", "Casco Viejo (San Felipe)", "0801"),
+    ("Amérique du Nord", "Saint-Christophe-et-Niévès", "Basseterre", "Central Basseterre", "0000"),
+    ("Amérique du Nord", "Sainte-Lucie", "Castries", "Central Castries", "LC04 101"),
+    ("Amérique du Nord", "Saint-Vincent-et-les-Grenadines", "Kingstown", "Kingstown Center", "VC0100"),
+    ("Amérique du Nord", "Salvador", "San Salvador", "Centro Histórico", "1101"),
+    ("Amérique du Nord", "Trinité-et-Tobago", "Port-d'Espagne", "Downtown", "100101"),
+
+    # =========================================================================
+    # 3. AMÉRIQUE DU SUD (12 Pays)
+    # =========================================================================
+    ("Amérique du Sud", "Argentine", "Buenos Aires", "Comuna 1 - San Telmo", "C1064"),
+    ("Amérique du Sud", "Argentine", "Buenos Aires", "Comuna 2 - Recoleta", "C1018"),
+    ("Amérique du Sud", "Argentine", "Buenos Aires", "Comuna 14 - Palermo", "C1425"),
+    ("Amérique du Sud", "Argentine", "Córdoba", "Centro", "X5000"),
+    ("Amérique du Sud", "Bolivie", "La Paz", "Centro - San Pedro", "0000"),
+    ("Amérique du Sud", "Brésil", "São Paulo", "Sé - Centro Histórico", "01001-000"),
+    ("Amérique du Sud", "Brésil", "São Paulo", "Jardins", "01410-000"),
+    ("Amérique du Sud", "Brésil", "São Paulo", "Pinheiros", "05422-000"),
+    ("Amérique du Sud", "Brésil", "Rio de Janeiro", "Copacabana", "22070-001"),
+    ("Amérique du Sud", "Brésil", "Rio de Janeiro", "Ipanema", "22410-002"),
+    ("Amérique du Sud", "Brésil", "Rio de Janeiro", "Centro", "20040-002"),
+    ("Amérique du Sud", "Brésil", "Brasília", "Plano Piloto - Asa Sul", "70070-000"),
+    ("Amérique du Sud", "Chili", "Santiago", "Santiago Centro", "8320000"),
+    ("Amérique du Sud", "Chili", "Santiago", "Providencia", "7500000"),
+    ("Amérique du Sud", "Colombie", "Bogota", "La Candelaria", "111711"),
+    ("Amérique du Sud", "Colombie", "Bogota", "Chapinero", "110221"),
+    ("Amérique du Sud", "Colombie", "Medellín", "El Poblado", "050021"),
+    ("Amérique du Sud", "Équateur", "Quito", "Centro Histórico", "170150"),
+    ("Amérique du Sud", "Guyana", "Georgetown", "Stabroek", "0000"),
+    ("Amérique du Sud", "Paraguay", "Asunción", "La Encarnación", "1209"),
+    ("Amérique du Sud", "Pérou", "Lima", "Cercado de Lima - Centro Histórico", "15001"),
+    ("Amérique du Sud", "Pérou", "Lima", "Miraflores", "15074"),
+    ("Amérique du Sud", "Suriname", "Paramaribo", "Centrum", "0000"),
+    ("Amérique du Sud", "Uruguay", "Montevideo", "Ciudad Vieja", "11000"),
+    ("Amérique du Sud", "Venezuela", "Caracas", "Libertador - El Silencio", "1010"),
+    ("Amérique du Sud", "Venezuela", "Caracas", "Chacao", "1060"),
+
+    # =========================================================================
+    # 4. ASIE (47 Pays reconnus + Territoires)
+    # =========================================================================
+    ("Asie", "Afghanistan", "Kaboul", "Shar-e Naw", "1001"),
+    ("Asie", "Arabie Saoudite", "Riyad", "Al Olaya", "12211"),
+    ("Asie", "Arabie Saoudite", "Riyad", "Al Malaz", "12831"),
+    ("Asie", "Arabie Saoudite", "Djeddah", "Al Balad", "22236"),
+    ("Asie", "Arménie", "Erevan", "Kentron - Centre", "0001"),
+    ("Asie", "Azerbaïdjan", "Bakou", "Sabayil - Vieille Ville", "AZ1000"),
+    ("Asie", "Bahreïn", "Manama", "Diplomatic Area", "317"),
+    ("Asie", "Bangladesh", "Dacca", "Motijheel - Centre", "1000"),
+    ("Asie", "Bhoutan", "Thimphou", "Norzin Lam", "11001"),
+    ("Asie", "Birmanie", "Rangoun", "Downtown - Kyauktada", "11182"),
+    ("Asie", "Brunéi", "Bandar Seri Begawan", "Pusat Bandar", "BS8611"),
+    ("Asie", "Cambodge", "Phnom Penh", "Daun Penh", "12201"),
+    ("Asie", "Chine", "Pékin", "Dongcheng - Cité Interdite", "100006"),
+    ("Asie", "Chine", "Pékin", "Chaoyang", "100020"),
+    ("Asie", "Chine", "Shanghai", "Huangpu - Bund", "200002"),
+    ("Asie", "Chine", "Shanghai", "Pudong", "200120"),
+    ("Asie", "Chine", "Canton (Guangzhou)", "Tianhe", "510620"),
+    ("Asie", "Chine", "Shenzhen", "Futian", "518048"),
+    ("Asie", "Chine", "Hong Kong", "Central", "999077"),
+    ("Asie", "Chypre", "Nicosie", "Trypiotis", "1010"),
+    ("Asie", "Corée du Nord", "Pyongyang", "Chung-guyok", "999093"),
+    ("Asie", "Corée du Sud", "Séoul", "Jongno-gu", "03100"),
+    ("Asie", "Corée du Sud", "Séoul", "Gangnam-gu", "06000"),
+    ("Asie", "Corée du Sud", "Busan", "Haeundae-gu", "48099"),
+    ("Asie", "Émirats Arabes Unis", "Dubaï", "Downtown Dubai (Burj Khalifa)", "PO 11111"),
+    ("Asie", "Émirats Arabes Unis", "Dubaï", "Dubaï Marina", "PO 39393"),
+    ("Asie", "Émirats Arabes Unis", "Dubaï", "Deira", "PO 12222"),
+    ("Asie", "Émirats Arabes Unis", "Abou Dabi", "Al Danah", "PO 44444"),
+    ("Asie", "Géorgie", "Tbilissi", "Vake-Saburtalo", "0179"),
+    ("Asie", "Inde", "New Delhi", "Connaught Place", "110001"),
+    ("Asie", "Inde", "Mumbai", "Fort - Colaba", "400001"),
+    ("Asie", "Inde", "Bangalore", "MG Road - Central", "560001"),
+    ("Asie", "Indonésie", "Jakarta", "Menteng - Jakarta Pusat", "10310"),
+    ("Asie", "Irak", "Bagdad", "Al-Karkh", "10001"),
+    ("Asie", "Iran", "Téhéran", "District 1 - Tajrish", "19615"),
+    ("Asie", "Iran", "Téhéran", "District 12 - Bazar", "11155"),
+    ("Asie", "Israël", "Jérusalem", "Vieille Ville - Mur des Lamentations", "97500"),
+    ("Asie", "Israël", "Tel Aviv", "Neve Tzedek", "65154"),
+    ("Asie", "Japon", "Tokyo", "Chiyoda - Marunouchi", "100-0005"),
+    ("Asie", "Japon", "Tokyo", "Chuo - Ginza", "104-0061"),
+    ("Asie", "Japon", "Tokyo", "Minato - Roppongi", "106-0032"),
+    ("Asie", "Japon", "Tokyo", "Shibuya - Jingumae", "150-0001"),
+    ("Asie", "Japon", "Tokyo", "Shibuya - Centre", "150-0002"),
+    ("Asie", "Japon", "Tokyo", "Shinjuku", "160-0022"),
+    ("Asie", "Japon", "Kyoto", "Shimogyo-ku", "600-8216"),
+    ("Asie", "Japon", "Osaka", "Kita-ku - Umeda", "530-0001"),
+    ("Asie", "Jordanie", "Amman", "Al Abdali", "11190"),
+    ("Asie", "Kazakhstan", "Astana", "Yesil District", "010000"),
+    ("Asie", "Kazakhstan", "Almaty", "Medeu District", "050000"),
+    ("Asie", "Kirghizistan", "Bichkek", "Lenin District", "720001"),
+    ("Asie", "Koweït", "Koweït", "Sharq", "15300"),
+    ("Asie", "Laos", "Vientiane", "Chanthabouly", "01000"),
+    ("Asie", "Liban", "Beyrouth", "Beyrouth Central District", "1107"),
+    ("Asie", "Liban", "Beyrouth", "Hamra", "1103"),
+    ("Asie", "Malaisie", "Kuala Lumpur", "Kuala Lumpur City Centre (KLCC)", "50088"),
+    ("Asie", "Maldives", "Malé", "Henveiru", "20002"),
+    ("Asie", "Mongolie", "Oulan-Bator", "Sükhbaatar District", "14200"),
+    ("Asie", "Népal", "Katmandou", "Thamel", "44600"),
+    ("Asie", "Oman", "Mascate", "Muttrah", "114"),
+    ("Asie", "Ouzbékistan", "Tachkent", "Mirabad District", "100000"),
+    ("Asie", "Pakistan", "Islamabad", "Sector F-6", "44000"),
+    ("Asie", "Pakistan", "Karachi", "Saddar", "74400"),
+    ("Asie", "Palestine", "Ramallah", "Al-Masyoun", "P600"),
+    ("Asie", "Philippines", "Manille", "Intramuros", "1002"),
+    ("Asie", "Philippines", "Manille", "Makati City (CBD)", "1226"),
+    ("Asie", "Qatar", "Doha", "West Bay", "PO 1234"),
+    ("Asie", "Singapour", "Singapour", "Marina Bay", "018956"),
+    ("Asie", "Singapour", "Singapour", "Orchard Road", "238867"),
+    ("Asie", "Singapour", "Singapour", "Chinatown", "059413"),
+    ("Asie", "Sri Lanka", "Colombo", "Fort", "00100"),
+    ("Asie", "Syrie", "Damas", "Vieille Ville", "10001"),
+    ("Asie", "Tadjikistan", "Douchanbé", "Ismoili Somoni", "734000"),
+    ("Asie", "Thaïlande", "Bangkok", "Phra Nakhon - Grand Palais", "10200"),
+    ("Asie", "Thaïlande", "Bangkok", "Pathum Wan - Siam", "10330"),
+    ("Asie", "Timor oriental", "Dili", "Vera Cruz", "0000"),
+    ("Asie", "Turquie", "Istanbul", "Fatih - Sultanahmet", "34122"),
+    ("Asie", "Turquie", "Istanbul", "Beyoğlu - Taksim", "34435"),
+    ("Asie", "Turquie", "Ankara", "Çankaya", "06680"),
+    ("Asie", "Turkménistan", "Achgabat", "Berkararlyk", "744000"),
+    ("Asie", "Viêt Nam", "Hô Chi Minh-Ville", "District 1 - Ben Nghe", "70000"),
+    ("Asie", "Viêt Nam", "Hanoï", "Hoan Kiem", "10000"),
+    ("Asie", "Yémen", "Sanaa", "Vieille Ville", "0000"),
+
+    # =========================================================================
+    # 5. EUROPE (44 Pays + Micro-États)
+    # =========================================================================
+    ("Europe", "Albanie", "Tirana", "Qendër - Centre", "1001"),
+    ("Europe", "Allemagne", "Berlin", "Mitte", "10115"),
+    ("Europe", "Allemagne", "Berlin", "Prenzlauer Berg", "10405"),
+    ("Europe", "Allemagne", "Berlin", "Kreuzberg", "10961"),
+    ("Europe", "Allemagne", "Berlin", "Charlottenburg", "10585"),
+    ("Europe", "Allemagne", "Munich", "Altstadt-Lehel", "80331"),
+    ("Europe", "Allemagne", "Hambourg", "Hamburg-Mitte", "20095"),
+    ("Europe", "Allemagne", "Francfort", "Innenstadt", "60311"),
+    ("Europe", "Allemagne", "Cologne", "Altstadt-Nord", "50667"),
+    ("Europe", "Andorre", "Andorre-la-Vieille", "Centre Historique", "AD500"),
+    ("Europe", "Autriche", "Vienne", "Innere Stadt (1. Bezirk)", "1010"),
+    ("Europe", "Autriche", "Vienne", "Leopoldstadt (2. Bezirk)", "1020"),
+    ("Europe", "Belgique", "Bruxelles", "Bruxelles-Ville (Pentagone)", "1000"),
+    ("Europe", "Belgique", "Bruxelles", "Ixelles", "1050"),
+    ("Europe", "Belgique", "Bruxelles", "Saint-Gilles", "1060"),
+    ("Europe", "Belgique", "Bruxelles", "Schaerbeek", "1030"),
+    ("Europe", "Belgique", "Anvers", "Antwerpen Centrum", "2000"),
+    ("Europe", "Belgique", "Gand", "Gent Centrum", "9000"),
+    ("Europe", "Belgique", "Liège", "Liège Centre", "4000"),
+    ("Europe", "Biélorussie", "Minsk", "Tsentralny District", "220030"),
+    ("Europe", "Bosnie-Herzégovine", "Sarajevo", "Stari Grad", "71000"),
+    ("Europe", "Bulgarie", "Sofia", "Sredets - Centre", "1000"),
+    ("Europe", "Chypre", "Nicosie", "Trypiotis", "1011"),
+    ("Europe", "Croatie", "Zagreb", "Donji Grad - Centre", "10000"),
+    ("Europe", "Danemark", "Copenhague", "Indre By - Centre", "1050"),
+    ("Europe", "Espagne", "Madrid", "Centro - Puerta del Sol", "28013"),
+    ("Europe", "Espagne", "Madrid", "Salamanca", "28001"),
+    ("Europe", "Espagne", "Madrid", "Malasaña", "28004"),
+    ("Europe", "Espagne", "Barcelone", "Ciutat Vella", "08002"),
+    ("Europe", "Espagne", "Barcelone", "Eixample Dreta", "08007"),
+    ("Europe", "Espagne", "Barcelone", "Gràcia", "08012"),
+    ("Europe", "Espagne", "Séville", "Casco Antiguo", "41001"),
+    ("Europe", "Estonie", "Tallinn", "Kesklinn - Centre", "10111"),
+    ("Europe", "Finlande", "Helsinki", "Kluuvi - Centre", "00100"),
+    ("Europe", "France", "Paris", "1er Arrondissement - Louvre", "75001"),
+    ("Europe", "France", "Paris", "2e Arrondissement - Bourse", "75002"),
+    ("Europe", "France", "Paris", "3e Arrondissement - Temple", "75003"),
+    ("Europe", "France", "Paris", "4e Arrondissement - Hôtel-de-Ville", "75004"),
+    ("Europe", "France", "Paris", "5e Arrondissement - Panthéon", "75005"),
+    ("Europe", "France", "Paris", "6e Arrondissement - Luxembourg", "75006"),
+    ("Europe", "France", "Paris", "7e Arrondissement - Palais-Bourbon", "75007"),
+    ("Europe", "France", "Paris", "8e Arrondissement - Élysée", "75008"),
+    ("Europe", "France", "Paris", "9e Arrondissement - Opéra", "75009"),
+    ("Europe", "France", "Paris", "10e Arrondissement - Entrepôt", "75010"),
+    ("Europe", "France", "Paris", "11e Arrondissement - Popincourt", "75011"),
+    ("Europe", "France", "Paris", "12e Arrondissement - Reuilly", "75012"),
+    ("Europe", "France", "Paris", "13e Arrondissement - Gobelins", "75013"),
+    ("Europe", "France", "Paris", "14e Arrondissement - Observatoire", "75014"),
+    ("Europe", "France", "Paris", "15e Arrondissement - Vaugirard", "75015"),
+    ("Europe", "France", "Paris", "16e Arrondissement - Passy", "75016"),
+    ("Europe", "France", "Paris", "17e Arrondissement - Batignolles-Monceau", "75017"),
+    ("Europe", "France", "Paris", "18e Arrondissement - Butte-Montmartre", "75018"),
+    ("Europe", "France", "Paris", "19e Arrondissement - Buttes-Chaumont", "75019"),
+    ("Europe", "France", "Paris", "20e Arrondissement - Ménilmontant", "75020"),
+    ("Europe", "France", "Lyon", "1er Arrondissement - Terreaux", "69001"),
+    ("Europe", "France", "Lyon", "2e Arrondissement - Presqu'île", "69002"),
+    ("Europe", "France", "Lyon", "3e Arrondissement - Part-Dieu", "69003"),
+    ("Europe", "France", "Lyon", "4e Arrondissement - Croix-Rousse", "69004"),
+    ("Europe", "France", "Lyon", "5e Arrondissement - Vieux-Lyon", "69005"),
+    ("Europe", "France", "Lyon", "6e Arrondissement - Brotteaux", "69006"),
+    ("Europe", "France", "Marseille", "1er Arrondissement - Belsunce", "13001"),
+    ("Europe", "France", "Marseille", "2e Arrondissement - La Joliette", "13002"),
+    ("Europe", "France", "Marseille", "6e Arrondissement - Castellane", "13006"),
+    ("Europe", "France", "Marseille", "8e Arrondissement - Le Prado", "13008"),
+    ("Europe", "France", "Bordeaux", "Centre-ville - Quinconces", "33000"),
+    ("Europe", "France", "Toulouse", "Capitole", "31000"),
+    ("Europe", "France", "Nice", "Vieux-Nice", "06300"),
+    ("Europe", "Grèce", "Athènes", "Plaka - Syntagma", "10557"),
+    ("Europe", "Grèce", "Athènes", "Kolonaki", "10673"),
+    ("Europe", "Hongrie", "Budapest", "I. Kerület - Várkerület (Château)", "1011"),
+    ("Europe", "Hongrie", "Budapest", "V. Kerület - Belváros", "1051"),
+    ("Europe", "Irlande", "Dublin", "Dublin 1 - O'Connell Street", "D01"),
+    ("Europe", "Irlande", "Dublin", "Dublin 2 - Temple Bar / Trinity", "D02"),
+    ("Europe", "Islande", "Reykjavik", "Miðborg - Centre", "101"),
+    ("Europe", "Italie", "Rome", "Centro Storico - Colosseo", "00184"),
+    ("Europe", "Italie", "Rome", "Trastevere", "00153"),
+    ("Europe", "Italie", "Rome", "Prati", "00193"),
+    ("Europe", "Italie", "Milan", "Duomo - Brera", "20121"),
+    ("Europe", "Italie", "Milan", "Navigli", "20144"),
+    ("Europe", "Italie", "Florence", "Centro Storico", "50122"),
+    ("Europe", "Italie", "Naples", "Chiaia", "80121"),
+    ("Europe", "Kosovo", "Pristina", "Qendra - Centre", "10000"),
+    ("Europe", "Lettonie", "Riga", "Centrs - Vieux Riga", "LV-1050"),
+    ("Europe", "Liechtenstein", "Vaduz", "Städtle - Centre", "9490"),
+    ("Europe", "Lituanie", "Vilnius", "Senamiestis - Vieille Ville", "01128"),
+    ("Europe", "Luxembourg", "Luxembourg", "Ville-Haute - Centre", "L-1118"),
+    ("Europe", "Luxembourg", "Luxembourg", "Kirchberg", "L-1499"),
+    ("Europe", "Macédoine du Nord", "Skopje", "Centar", "1000"),
+    ("Europe", "Malte", "La Valette", "Triq ir-Repubblika", "VLT 1115"),
+    ("Europe", "Moldavie", "Chisinau", "Sectorul Centru", "MD-2012"),
+    ("Europe", "Monaco", "Monaco", "Monte-Carlo", "98000"),
+    ("Europe", "Monaco", "Monaco", "Monaco-Ville (Le Rocher)", "98000"),
+    ("Europe", "Monténégro", "Podgorica", "Centar", "81000"),
+    ("Europe", "Norvège", "Oslo", "Sentrum", "0150"),
+    ("Europe", "Norvège", "Bergen", "Bergenhus", "5003"),
+    ("Europe", "Pays-Bas", "Amsterdam", "Centrum - Canal Ring", "1012"),
+    ("Europe", "Pays-Bas", "Amsterdam", "Zuid", "1071"),
+    ("Europe", "Pays-Bas", "Rotterdam", "Rotterdam Centrum", "3011"),
+    ("Europe", "Pologne", "Varsovie", "Śródmieście - Centre", "00-001"),
+    ("Europe", "Pologne", "Cracovie", "Stare Miasto", "31-001"),
+    ("Europe", "Portugal", "Lisbonne", "Santa Maria Maior - Baixa", "1100-001"),
+    ("Europe", "Portugal", "Lisbonne", "Misericórdia - Chiado", "1200-001"),
+    ("Europe", "Portugal", "Porto", "Cedofeita - Ribeira", "4050-001"),
+    ("Europe", "République tchèque", "Prague", "Prague 1 - Staré Město", "110 00"),
+    ("Europe", "République tchèque", "Prague", "Prague 2 - Vinohrady", "120 00"),
+    ("Europe", "Roumanie", "Bucarest", "Sector 1 - Dorobanți", "010001"),
+    ("Europe", "Roumanie", "Bucarest", "Sector 3 - Centrul Vechi", "030001"),
+    ("Europe", "Royaume-Uni", "Londres", "Westminster - St James's", "SW1A"),
+    ("Europe", "Royaume-Uni", "Londres", "City of London", "EC2P"),
+    ("Europe", "Royaume-Uni", "Londres", "Soho - Mayfair", "W1D"),
+    ("Europe", "Royaume-Uni", "Londres", "Camden Town", "NW1"),
+    ("Europe", "Royaume-Uni", "Manchester", "City Centre", "M1"),
+    ("Europe", "Royaume-Uni", "Édimbourg", "Old Town", "EH1"),
+    ("Europe", "Russie", "Moscou", "Tverskoy District - Kremlin", "125009"),
+    ("Europe", "Russie", "Saint-Pétersbourg", "Tsentralny District - Nevsky", "191186"),
+    ("Europe", "Saint-Marin", "Saint-Marin", "Centro Storico", "47890"),
+    ("Europe", "Serbie", "Belgrade", "Stari Grad", "11000"),
+    ("Europe", "Slovaquie", "Bratislava", "Staré Mesto", "811 01"),
+    ("Europe", "Slovénie", "Ljubljana", "Center", "1000"),
+    ("Europe", "Suède", "Stockholm", "Gamla Stan - Norrmalm", "111 20"),
+    ("Europe", "Suisse", "Genève", "Les Pâquis", "1201"),
+    ("Europe", "Suisse", "Genève", "Vieille-Ville", "1204"),
+    ("Europe", "Suisse", "Genève", "Plainpalais", "1205"),
+    ("Europe", "Suisse", "Zurich", "Altstadt (Kreis 1)", "8001"),
+    ("Europe", "Suisse", "Lausanne", "Centre-ville", "1003"),
+    ("Europe", "Ukraine", "Kiev", "Shevchenkivskyi District", "01001"),
+    ("Europe", "Vatican", "Vatican", "Cité du Vatican", "00120"),
+
+    # =========================================================================
+    # 6. OCÉANIE (14 Pays + Territoires)
+    # =========================================================================
+    ("Océanie", "Australie", "Sydney", "The Rocks", "2000"),
+    ("Océanie", "Australie", "Sydney", "Surry Hills", "2010"),
+    ("Océanie", "Australie", "Melbourne", "Melbourne CBD", "3000"),
+    ("Océanie", "Australie", "Melbourne", "Carlton", "3053"),
+    ("Océanie", "Australie", "Brisbane", "Brisbane City", "4000"),
+    ("Océanie", "Australie", "Perth", "Perth CBD", "6000"),
+    ("Océanie", "Fidji", "Suva", "Central Business District", "0000"),
+    ("Océanie", "Kiribati", "Tarawa-Sud", "Bairiki", "0000"),
+    ("Océanie", "Îles Marshall", "Majuro", "Delap-Uliga-Darrit", "96960"),
+    ("Océanie", "Micronésie", "Palikir", "Pohnpei", "96941"),
+    ("Océanie", "Nauru", "Yaren", "District de Yaren", "0000"),
+    ("Océanie", "Nouvelle-Zélande", "Auckland", "Auckland CBD", "1010"),
+    ("Océanie", "Nouvelle-Zélande", "Wellington", "Wellington Central", "6011"),
+    ("Océanie", "Palaos", "Ngerulmud", "Melekeok", "96940"),
+    ("Océanie", "Papouasie-Nouvelle-Guinée", "Port Moresby", "Downtown", "121"),
+    ("Océanie", "Salomon", "Honiara", "Point Cruz", "0000"),
+    ("Océanie", "Samoa", "Apia", "Matafele", "0000"),
+    ("Océanie", "Tonga", "Nuku'alofa", "Kolomotu'a", "0000"),
+    ("Océanie", "Tuvalu", "Funafuti", "Vaiaku", "0000"),
+    ("Océanie", "Vanuatu", "Port-Vila", "Central Port-Vila", "0000"),
+]
+
+# Write to Excel Workbook
+wb = openpyxl.Workbook()
+
+# Sheet 1: Table Complète
+ws1 = wb.active
+ws1.title = "Tous les Pays du Monde"
+
+headers = [
+    "Continent",
+    "Pays",
+    "Ville",
+    "Quartier / Arrondissement",
+    "Code Postal"
+]
+
+HEADER_FILL = PatternFill(start_color="1D65ED", end_color="1D65ED", fill_type="solid")
+HEADER_FONT = Font(name="Calibri", size=11, bold=True, color="FFFFFF")
+BORDER_THIN = Border(
+    left=Side(style='thin', color='CBD5E1'),
+    right=Side(style='thin', color='CBD5E1'),
+    top=Side(style='thin', color='CBD5E1'),
+    bottom=Side(style='thin', color='CBD5E1')
+)
+
+ws1.append(headers)
+for col_num in range(1, len(headers) + 1):
+    c = ws1.cell(row=1, column=col_num)
+    c.fill = HEADER_FILL
+    c.font = HEADER_FONT
+    c.alignment = Alignment(horizontal="center", vertical="center")
+
+for row_idx, r in enumerate(ALL_COUNTRIES_DATA, start=2):
+    ws1.append(r)
+    for col_num in range(1, len(r) + 1):
+        c = ws1.cell(row=row_idx, column=col_num)
+        c.border = BORDER_THIN
+        c.alignment = Alignment(vertical="center")
+        if col_num == 5:
+            c.alignment = Alignment(horizontal="center", vertical="center")
+
+for col in ws1.columns:
+    max_len = 0
+    col_letter = get_column_letter(col[0].column)
+    for cell in col:
+        val_str = str(cell.value or "")
+        if len(val_str) > max_len:
+            max_len = len(val_str)
+    ws1.column_dimensions[col_letter].width = max(max_len + 4, 18)
+
+# Sheet 2: Répertoire par Continent & Pays
+ws2 = wb.create_sheet(title="Statistiques & Pays Inclus")
+ws2.append(["Continent", "Nombre de Lignes", "Pays Représentés"])
+for col_num in range(1, 4):
+    c = ws2.cell(row=1, column=col_num)
+    c.fill = PatternFill(start_color="0F172A", end_color="0F172A", fill_type="solid")
+    c.font = Font(name="Calibri", size=11, bold=True, color="FFFFFF")
+    c.alignment = Alignment(horizontal="center", vertical="center")
+
+continents = sorted(list(set(r[0] for r in ALL_COUNTRIES_DATA)))
+for idx, cont in enumerate(continents, start=2):
+    items = [r for r in ALL_COUNTRIES_DATA if r[0] == cont]
+    countries = sorted(list(set(r[1] for r in items)))
+    ws2.append([cont, len(items), ", ".join(countries[:6]) + f" (+{len(countries)-6} autres...)" if len(countries) > 6 else ", ".join(countries)])
+    for c_idx in range(1, 4):
+        ws2.cell(row=idx, column=c_idx).border = BORDER_THIN
+
+for col in ws2.columns:
+    max_len = 0
+    col_letter = get_column_letter(col[0].column)
+    for cell in col:
+        val_str = str(cell.value or "")
+        if len(val_str) > max_len:
+            max_len = len(val_str)
+    ws2.column_dimensions[col_letter].width = max(max_len + 4, 20)
+
+# Save files
+wb.save("GéoHiérarchie-Mondiale-Complete.xlsx")
+wb.save("GéoHiérarchie-Pro-Analyse-Session.xlsx")
+wb.save(os.path.join("public", "donnees-geographiques.xlsx"))
+
+# Generate CSV (UTF-8 BOM)
+with open(os.path.join("public", "donnees-geographiques.csv"), "w", encoding="utf-8-sig") as f:
+    f.write("Continent;Pays;Ville;Quartier / Arrondissement;Code Postal\n")
+    for r in ALL_COUNTRIES_DATA:
+        f.write(f'"{r[0]}";"{r[1]}";"{r[2]}";"{r[3]}";"{r[4]}"\n')
+
+# Generate src/lib/seed-data.ts
+seed_items = []
+for idx, r in enumerate(ALL_COUNTRIES_DATA, start=1):
+    seed_items.append({
+        "id": f"world-{idx:04d}",
+        "continent": r[0],
+        "pays": r[1],
+        "ville": r[2],
+        "quartier_arrondissement": r[3],
+        "code_postal": r[4],
+        "created_at": "2024-01-01T00:00:00Z"
+    })
+
+with open("src/lib/seed-data.ts", "w", encoding="utf-8") as f:
+    f.write(f"import {{ GeoLocation }} from '@/types/geo';\n\nexport const INITIAL_GEO_DATA: GeoLocation[] = {json.dumps(seed_items, ensure_ascii=False, indent=2)};\n")
+
+unique_countries = set(r[1] for r in ALL_COUNTRIES_DATA)
+unique_continents = set(r[0] for r in ALL_COUNTRIES_DATA)
+unique_cities = set(r[2] for r in ALL_COUNTRIES_DATA)
+
+print(f"SUCCÈS: {len(ALL_COUNTRIES_DATA)} lignes générées!")
+print(f"Continents uniques: {len(unique_continents)}")
+print(f"Pays uniques: {len(unique_countries)}")
+print(f"Villes uniques: {len(unique_cities)}")
