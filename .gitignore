@@ -23,6 +23,7 @@ public/*.sqlite
 *.zip
 !*.csv.zip
 !public/*.csv.zip
+public/*.xlsx
 
 # Microsoft Office temporary lock files
 ~$*

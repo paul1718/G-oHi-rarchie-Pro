@@ -125,9 +125,9 @@ export default function HomePage() {
     const searchNormalized = filters.search.trim().toLowerCase();
 
     const filtered = locations.filter((item) => {
-      // Global search across all 5 fields
+      // Global search across all fields (including official languages)
       if (searchNormalized) {
-        const fullString = `${item.continent} ${item.pays} ${item.ville} ${item.quartier_arrondissement} ${item.code_postal}`.toLowerCase();
+        const fullString = `${item.continent} ${item.pays} ${item.langue_officielle || ''} ${item.ville} ${item.quartier_arrondissement} ${item.code_postal}`.toLowerCase();
         if (!fullString.includes(searchNormalized)) {
           return false;
         }
@@ -270,7 +270,7 @@ export default function HomePage() {
         <StatsCards stats={stats} />
 
         {/* Global Dataset Download & Audit Banner */}
-        <div className="bg-gradient-to-r from-slate-900 to-indigo-950 text-white rounded-2xl p-6 shadow-xl border border-slate-800">
+        <div className="bg-gradient-to-r from-slate-900 to-indigo-950 text-white rounded-2xl p-6 shadow-xl border border-slate-800 space-y-6">
           <div className="flex flex-col lg:flex-row lg:items-center justify-between gap-6">
             <div className="space-y-2 max-w-3xl">
               <div className="flex items-center space-x-2">
@@ -282,13 +282,13 @@ export default function HomePage() {
                 </span>
               </div>
               <h2 className="text-xl font-extrabold tracking-tight text-white">
-                Catalogue Mondial Exhaustif des Continents, Pays, Villes, Quartiers &amp; Codes Postaux
+                Catalogue Mondial &amp; Fichiers Excel par Continent (avec Liste des Langues Officielles)
               </h2>
               <p className="text-xs text-slate-300 leading-relaxed">
-                Ce catalogue réunit l'ensemble des données géographiques officielles mondiales structurées en 5 colonnes strictes : 
-                <strong className="text-brand-300"> Continent &gt; Pays &gt; Ville &gt; Quartier / Arrondissement &gt; Code Postal</strong>.
+                Ce catalogue réunit l'ensemble des données géographiques officielles mondiales structurées en 6 colonnes strictes : 
+                <strong className="text-brand-300"> Continent &gt; Pays &gt; Liste langue officiel &gt; Ville &gt; Quartier / Arrondissement &gt; Code Postal</strong>.
                 Pour les pays sans code postal résidentiel officiel (ex. Cameroun, Côte d'Ivoire, Gabon, RDC, Tchad, Émirats Arabes Unis, Qatar), 
-                la case du code postal est <strong>strictement vide</strong>, avec l'ensemble des villes et quartiers répertoriés.
+                la case du code postal est <strong>strictement vide</strong>.
               </p>
             </div>
 
@@ -298,7 +298,7 @@ export default function HomePage() {
                 download="GéoHiérarchie-Mondiale-Exhaustive.xlsx"
                 className="inline-flex items-center justify-center space-x-2 px-5 py-3 rounded-xl font-bold text-sm bg-emerald-500 hover:bg-emerald-400 text-slate-950 transition-all shadow-lg shadow-emerald-500/25 active:scale-95"
               >
-                <span>Télécharger Excel (.xlsx)</span>
+                <span>Excel Mondial Complet (.xlsx)</span>
               </a>
 
               <a
@@ -306,7 +306,64 @@ export default function HomePage() {
                 download="GéoHiérarchie-Mondiale-Exhaustive.csv.zip"
                 className="inline-flex items-center justify-center space-x-2 px-5 py-3 rounded-xl font-bold text-sm bg-indigo-600 hover:bg-indigo-500 text-white transition-all shadow-lg shadow-indigo-600/25 border border-indigo-400/30 active:scale-95"
               >
-                <span>Télécharger CSV Complet (ZIP)</span>
+                <span>CSV Mondial Complet (ZIP)</span>
+              </a>
+            </div>
+          </div>
+
+          {/* Fichiers Excel individuels par Continent */}
+          <div className="pt-4 border-t border-slate-800">
+            <p className="text-xs font-semibold text-slate-400 uppercase tracking-wider mb-3">
+              Téléchargement des Fichiers Excel Dédiés par Continent :
+            </p>
+            <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-6 gap-2.5">
+              <a
+                href="/GeoHierarchie-Europe.xlsx"
+                download="GéoHiérarchie-Europe.xlsx"
+                className="px-3 py-2 rounded-lg text-xs font-semibold text-center bg-slate-800/80 hover:bg-slate-700 text-blue-300 border border-slate-700 transition-colors"
+                title="692 499 lignes"
+              >
+                🇪🇺 Europe (.xlsx)
+              </a>
+              <a
+                href="/GeoHierarchie-Asie.xlsx"
+                download="GéoHiérarchie-Asie.xlsx"
+                className="px-3 py-2 rounded-lg text-xs font-semibold text-center bg-slate-800/80 hover:bg-slate-700 text-emerald-300 border border-slate-700 transition-colors"
+                title="771 828 lignes"
+              >
+                🇨🇳 Asie (.xlsx)
+              </a>
+              <a
+                href="/GeoHierarchie-Amerique-du-Nord.xlsx"
+                download="GéoHiérarchie-Amérique-du-Nord.xlsx"
+                className="px-3 py-2 rounded-lg text-xs font-semibold text-center bg-slate-800/80 hover:bg-slate-700 text-amber-300 border border-slate-700 transition-colors"
+                title="191 185 lignes"
+              >
+                🇺🇸 Amér. du Nord (.xlsx)
+              </a>
+              <a
+                href="/GeoHierarchie-Amerique-du-Sud.xlsx"
+                download="GéoHiérarchie-Amérique-du-Sud.xlsx"
+                className="px-3 py-2 rounded-lg text-xs font-semibold text-center bg-slate-800/80 hover:bg-slate-700 text-orange-300 border border-slate-700 transition-colors"
+                title="130 318 lignes"
+              >
+                🇧🇷 Amér. du Sud (.xlsx)
+              </a>
+              <a
+                href="/GeoHierarchie-Afrique.xlsx"
+                download="GéoHiérarchie-Afrique.xlsx"
+                className="px-3 py-2 rounded-lg text-xs font-semibold text-center bg-slate-800/80 hover:bg-slate-700 text-purple-300 border border-slate-700 transition-colors"
+                title="25 900 lignes"
+              >
+                🌍 Afrique (.xlsx)
+              </a>
+              <a
+                href="/GeoHierarchie-Oceanie.xlsx"
+                download="GéoHiérarchie-Océanie.xlsx"
+                className="px-3 py-2 rounded-lg text-xs font-semibold text-center bg-slate-800/80 hover:bg-slate-700 text-teal-300 border border-slate-700 transition-colors"
+                title="20 601 lignes"
+              >
+                🇦🇺 Océanie (.xlsx)
               </a>
             </div>
           </div>

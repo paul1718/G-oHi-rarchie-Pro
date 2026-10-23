@@ -2,6 +2,7 @@ export interface GeoLocation {
   id: string;
   continent: string;
   pays: string;
+  langue_officielle?: string;
   ville: string;
   quartier_arrondissement: string;
   code_postal: string;
@@ -21,6 +22,7 @@ export interface GeoFilters {
 export type SortField =
   | 'continent'
   | 'pays'
+  | 'langue_officielle'
   | 'ville'
   | 'quartier_arrondissement'
   | 'code_postal'
