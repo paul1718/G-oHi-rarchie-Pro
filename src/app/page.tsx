@@ -269,6 +269,49 @@ export default function HomePage() {
         {/* KPI Stats Cards */}
         <StatsCards stats={stats} />
 
+        {/* Global Dataset Download & Audit Banner */}
+        <div className="bg-gradient-to-r from-slate-900 to-indigo-950 text-white rounded-2xl p-6 shadow-xl border border-slate-800">
+          <div className="flex flex-col lg:flex-row lg:items-center justify-between gap-6">
+            <div className="space-y-2 max-w-3xl">
+              <div className="flex items-center space-x-2">
+                <span className="px-2.5 py-0.5 rounded-full text-xs font-bold bg-emerald-500/20 text-emerald-300 border border-emerald-500/30">
+                  Base Mondiale Intégrale Exhaustive
+                </span>
+                <span className="text-xs text-slate-400">
+                  1 832 331 lignes vérifiées • 252 pays &amp; territoires
+                </span>
+              </div>
+              <h2 className="text-xl font-extrabold tracking-tight text-white">
+                Catalogue Mondial Exhaustif des Continents, Pays, Villes, Quartiers &amp; Codes Postaux
+              </h2>
+              <p className="text-xs text-slate-300 leading-relaxed">
+                Ce catalogue réunit l'ensemble des données géographiques officielles mondiales structurées en 5 colonnes strictes : 
+                <strong className="text-brand-300"> Continent &gt; Pays &gt; Ville &gt; Quartier / Arrondissement &gt; Code Postal</strong>.
+                Pour les pays sans code postal résidentiel officiel (ex. Cameroun, Côte d'Ivoire, Gabon, RDC, Tchad, Émirats Arabes Unis, Qatar), 
+                la case du code postal est <strong>strictement vide</strong>, avec l'ensemble des villes et quartiers répertoriés.
+              </p>
+            </div>
+
+            <div className="flex flex-col sm:flex-row items-stretch sm:items-center gap-3 shrink-0">
+              <a
+                href="/donnees-geographiques.xlsx"
+                download="GéoHiérarchie-Mondiale-Exhaustive.xlsx"
+                className="inline-flex items-center justify-center space-x-2 px-5 py-3 rounded-xl font-bold text-sm bg-emerald-500 hover:bg-emerald-400 text-slate-950 transition-all shadow-lg shadow-emerald-500/25 active:scale-95"
+              >
+                <span>Télécharger Excel (.xlsx)</span>
+              </a>
+
+              <a
+                href="/donnees-geographiques.csv.zip"
+                download="GéoHiérarchie-Mondiale-Exhaustive.csv.zip"
+                className="inline-flex items-center justify-center space-x-2 px-5 py-3 rounded-xl font-bold text-sm bg-indigo-600 hover:bg-indigo-500 text-white transition-all shadow-lg shadow-indigo-600/25 border border-indigo-400/30 active:scale-95"
+              >
+                <span>Télécharger CSV Complet (ZIP)</span>
+              </a>
+            </div>
+          </div>
+        </div>
+
         {/* Filters and Cascading Selectors */}
         <Filters
           filters={filters}

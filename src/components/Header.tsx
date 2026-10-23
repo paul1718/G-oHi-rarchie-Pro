@@ -47,12 +47,23 @@ export const Header: React.FC<HeaderProps> = ({
             {/* Direct Excel Download Link */}
             <a
               href="/donnees-geographiques.xlsx"
-              download="GéoHiérarchie-Pro-Donnees.xlsx"
-              className="inline-flex items-center space-x-1.5 px-3 py-1.5 rounded-lg text-xs font-semibold bg-emerald-50 text-emerald-700 border border-emerald-200 hover:bg-emerald-100 dark:bg-emerald-950/40 dark:text-emerald-300 dark:border-emerald-800 transition-colors"
-              title="Télécharger l'audit et la table complète sous format Excel (.xlsx)"
+              download="GéoHiérarchie-Mondiale-Exhaustive.xlsx"
+              className="inline-flex items-center space-x-1.5 px-3 py-1.5 rounded-lg text-xs font-semibold bg-emerald-50 text-emerald-700 border border-emerald-200 hover:bg-emerald-100 dark:bg-emerald-950/40 dark:text-emerald-300 dark:border-emerald-800 transition-colors shadow-sm"
+              title="Télécharger le classeur Excel exhaustif complet (Toutes les feuilles par continent, 1.83M+ localisations)"
             >
               <Download className="w-3.5 h-3.5 text-emerald-600 dark:text-emerald-400" />
-              <span>Tableau Excel</span>
+              <span>Excel Mondial (.xlsx)</span>
+            </a>
+
+            {/* Direct CSV ZIP Download Link */}
+            <a
+              href="/donnees-geographiques.csv.zip"
+              download="GéoHiérarchie-Mondiale-Exhaustive.csv.zip"
+              className="inline-flex items-center space-x-1.5 px-3 py-1.5 rounded-lg text-xs font-semibold bg-purple-50 text-purple-700 border border-purple-200 hover:bg-purple-100 dark:bg-purple-950/40 dark:text-purple-300 dark:border-purple-800 transition-colors shadow-sm"
+              title="Télécharger l'intégralité du catalogue mondial (CSV brut zippé, 1.83M+ enregistrements)"
+            >
+              <Download className="w-3.5 h-3.5 text-purple-600 dark:text-purple-400" />
+              <span>CSV Mondial (Zip)</span>
             </a>
 
             {/* Storage Status Badge */}

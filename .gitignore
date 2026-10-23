@@ -5,10 +5,24 @@ out/
 build/
 dist/
 
-# Python cache
+# Python cache & temp downloads
 __pycache__/
 *.pyc
 *.pyo
+allCountries.zip
+cities15000.zip
+countryInfo.txt
+allCountries.txt
+cities15000.txt
+
+# Databases and large dumps > 100MB (GitHub limit is 100MB)
+*.sqlite
+*.sqlite3
+public/*.sqlite
+*.csv
+*.zip
+!*.csv.zip
+!public/*.csv.zip
 
 # Microsoft Office temporary lock files
 ~$*
